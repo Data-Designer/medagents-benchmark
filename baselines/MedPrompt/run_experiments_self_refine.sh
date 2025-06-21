@@ -10,7 +10,7 @@
 LOGS_DIR=logs
 DATA_DIR=../../data
 
-for RUN_NUMBER in 1 2; do
+for RUN_NUMBER in 0 1 2; do
     for model in gpt-4o-mini gpt-4o; do
     {
         for dataset in medqa pubmedqa medmcqa medbullets mmlu mmlu-pro medexqa medxpertqa-r medxpertqa-u; do

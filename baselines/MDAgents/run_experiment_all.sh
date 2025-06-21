@@ -10,7 +10,7 @@
 LOGS_DIR=logs
 DATA_DIR=../../data
 
-for RUN_NUMBER in 1 2; do
+for RUN_NUMBER in 0 1 2; do
     for dataset in medqa pubmedqa medmcqa medexqa medbullets mmlu mmlu-pro medxpertqa-r medxpertqa-u; do
         mkdir -p $LOGS_DIR/run-${RUN_NUMBER}/$dataset
         for model in gpt-4o-mini gpt-4o; do
