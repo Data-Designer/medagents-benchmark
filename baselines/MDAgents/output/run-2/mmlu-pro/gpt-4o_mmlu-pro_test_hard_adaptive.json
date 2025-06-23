@@ -280,6 +280,30 @@
         "time_elapsed": 11.720481157302856
     },
     {
+        "idx": 6045,
+        "realidx": 6045,
+        "question": "A 57-year-old man comes to the emergency department because of cramping in his hands and feet and numbness and tingling around his lips and in his fingers; these symptoms occurred intermittently for 6 months but have been progressively severe during the past 2 weeks. He also has had a 13-kg (30-lb) weight loss and bulky, foul-smelling stools that do not flush easily. He has a 10-year history of drinking 8 to 10 beers daily. He has been hospitalized twice for severe abdominal pain 4 and 6 years ago. His pulse is 80/min, and blood pressure is 105/65 mm Hg. He appears cachectic and chronically ill. The abdomen is nontender. Deep tendon reflexes are 4+ bilaterally. Chvostek and Trousseau signs are present. His serum calcium concentration is 6.5 mg/dL. Which of the following is the most likely diagnosis? Options: (H) Pernicious Anemia (B) Hypokalemia (E) Vitamin D deficiency (D) Chronic Pancreatitis (A) Hypercalcemia (C) Osteomalacia (F) Hyperparathyroidism (G) Alcohol Withdrawal Syndrome",
+        "answer_idx": "E",
+        "answer": "Vitamin D deficiency",
+        "options": {
+            "A": "Hypercalcemia",
+            "B": "Hypokalemia",
+            "C": "Osteomalacia",
+            "D": "Chronic Pancreatitis",
+            "E": "Vitamin D deficiency",
+            "F": "Hyperparathyroidism",
+            "G": "Alcohol Withdrawal Syndrome",
+            "H": "Pernicious Anemia"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5858,
+            "completion_tokens": 790
+        },
+        "time_elapsed": 11.78161334991455
+    },
+    {
         "idx": 6049,
         "realidx": 6049,
         "question": "What proportion of vegans is likely to be deficient in vitamin B12?\n Options: (F) 75% (G) 15% (H) 20% (E) 10% (B) 50% (D) 85% (A) 66% (I) 5% (J) 32% (C) 3%",
@@ -780,6 +804,58 @@
             "completion_tokens": 881
         },
         "time_elapsed": 11.39143419265747
+    },
+    {
+        "idx": 6104,
+        "realidx": 6104,
+        "question": "A 67-year-old man with Parkinson disease is admitted to the hospital for treatment of pneumonia. The patient's daughter, who is visiting the patient, says he has had increased lethargy for the past day and decreased ambulation during the past 6 months. She also says that there are times during the day when his tremors increase in severity, although he continues to care for himself at home. Medical history is also remarkable for hypertension. Medications include hydrochlorothiazide, atenolol, levodopa, and carbidopa. He is 168 cm (5 ft 6 in) tall and weighs 78 kg (172 lb); BMI is 28 kg/m2 . Vital signs are temperature 38.9\u00b0C (102.0\u00b0F), pulse 60/min supine and 68/min standing, respirations 22/min, and blood pressure 100/60 mm Hg supine and 80/50 mm Hg standing. The patient appears ill and older than his stated age. He is fully oriented but lethargic. Auscultation of the chest discloses rhonchi in the right mid lung field. Abdominal examination discloses no abnormalities. Neurologic examination discloses masked facies, bradykinesia, and cogwheel rigidity; gait was not assessed on admission. Chest x-ray shows a right lower lobe infiltrate. ECG shows no abnormalities. Appropriate intravenous antibiotic therapy is initiated. Prior to discharge, which of the following is the most appropriate step? Options: (A) Begin corticosteroid treatment (G) Initiate physical therapy (C) Administer influenza vaccine (F) Arrange for home oxygen therapy (B) Place a percutaneous endoscopic gastrostomy (PEG) tube (I) Obtain a swallowing evaluation (D) Prescribe fludrocortisone (E) Discontinue levodopa and carbidopa (H) Obtain CT scan of the chest (J) Start patient on anticoagulant therapy",
+        "answer_idx": "I",
+        "answer": "Obtain a swallowing evaluation",
+        "options": {
+            "A": "Begin corticosteroid treatment",
+            "B": "Place a percutaneous endoscopic gastrostomy (PEG) tube",
+            "C": "Administer influenza vaccine",
+            "D": "Prescribe fludrocortisone",
+            "E": "Discontinue levodopa and carbidopa",
+            "F": "Arrange for home oxygen therapy",
+            "G": "Initiate physical therapy",
+            "H": "Obtain CT scan of the chest",
+            "I": "Obtain a swallowing evaluation",
+            "J": "Start patient on anticoagulant therapy"
+        },
+        "predicted_answer": "I",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 379047,
+            "completion_tokens": 7240
+        },
+        "time_elapsed": 126.01631879806519
+    },
+    {
+        "idx": 6105,
+        "realidx": 6105,
+        "question": "A 67-year-old man with Parkinson disease is admitted to the hospital for treatment of pneumonia. The patient's daughter, who is visiting the patient, says he has had increased lethargy for the past day and decreased ambulation during the past 6 months. She also says that there are times during the day when his tremors increase in severity, although he continues to care for himself at home. Medical history is also remarkable for hypertension. Medications include hydrochlorothiazide, atenolol, levodopa, and carbidopa. He is 168 cm (5 ft 6 in) tall and weighs 78 kg (172 lb); BMI is 28 kg/m2 . Vital signs are temperature 38.9\u00b0C (102.0\u00b0F), pulse 60/min supine and 68/min standing, respirations 22/min, and blood pressure 100/60 mm Hg supine and 80/50 mm Hg standing. The patient appears ill and older than his stated age. He is fully oriented but lethargic. Auscultation of the chest discloses rhonchi in the right mid lung field. Abdominal examination discloses no abnormalities. Neurologic examination discloses masked facies, bradykinesia, and cogwheel rigidity; gait was not assessed on admission. Chest x-ray shows a right lower lobe infiltrate. ECG shows no abnormalities. Appropriate intravenous antibiotic therapy is initiated. Prior to discharge, which of the following is the most appropriate step? Options: (J) Start patient on anticoagulant therapy (E) Discontinue levodopa and carbidopa (D) Prescribe fludrocortisone (F) Arrange for home oxygen therapy (I) Obtain a swallowing evaluation (H) Obtain CT scan of the chest (B) Place a percutaneous endoscopic gastrostomy (PEG) tube (G) Initiate physical therapy (C) Administer influenza vaccine (A) Begin corticosteroid treatment",
+        "answer_idx": "I",
+        "answer": "Obtain a swallowing evaluation",
+        "options": {
+            "A": "Begin corticosteroid treatment",
+            "B": "Place a percutaneous endoscopic gastrostomy (PEG) tube",
+            "C": "Administer influenza vaccine",
+            "D": "Prescribe fludrocortisone",
+            "E": "Discontinue levodopa and carbidopa",
+            "F": "Arrange for home oxygen therapy",
+            "G": "Initiate physical therapy",
+            "H": "Obtain CT scan of the chest",
+            "I": "Obtain a swallowing evaluation",
+            "J": "Start patient on anticoagulant therapy"
+        },
+        "predicted_answer": "G",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 71762,
+            "completion_tokens": 2513
+        },
+        "time_elapsed": 55.93100023269653
     },
     {
         "idx": 6108,

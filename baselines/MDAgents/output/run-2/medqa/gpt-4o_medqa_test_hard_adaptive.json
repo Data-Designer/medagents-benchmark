@@ -160,6 +160,26 @@
         "time_elapsed": 15.372889757156372
     },
     {
+        "idx": 81,
+        "realidx": 81,
+        "question": "A 54-year-old male makes an appointment with his primary care physician due to chronic fatigue that has left him unable to hike or do other physically demanding activities with his friends. He has well-controlled hypertension and diabetes but has otherwise been healthy. He does not smoke but drinks socially with his friends. Physical exam reveals enlarged nodules that are not tender to palpation. A biopsy is obtained showing a characteristic change in chromosome 18. The regulation of which of the following proteins will be most abnormal in this patient? Options: (C) Cyclin-dependent kinase 4 (A) Caspase-9 (D) Ras pathway transcription factors (B) CD15",
+        "answer_idx": "A",
+        "answer": "Caspase-9",
+        "options": {
+            "A": "Caspase-9",
+            "B": "CD15",
+            "C": "Cyclin-dependent kinase 4",
+            "D": "Ras pathway transcription factors"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 120017,
+            "completion_tokens": 3838
+        },
+        "time_elapsed": 68.36207985877991
+    },
+    {
         "idx": 112,
         "realidx": 112,
         "question": "A 43-year-old woman presents with complaints of retrosternal burning associated with eating. It has persisted for the past several years but has been getting worse. Her past medical history is unknown and this is her first time seeing a doctor. She states she is otherwise healthy and review of systems is notable for episodic hand pain that is worse in the winter as well as a chronic and severe cough with dyspnea which she attributes to her smoking. Her temperature is 97.7\u00b0F (36.5\u00b0C), blood pressure is 174/104 mmHg, pulse is 80/min, respirations are 22/min, and oxygen saturation is 92% on room air. Physical exam is notable for a young appearing woman with coarse breath sounds. Laboratory studies and urinalysis are ordered and currently pending. Which of the following is the pathophysiology of this patient's chief complaint? Options: (B) Esophageal fibrosis (D) Spastic cricopharyngeal muscle (C) Increased lower esophageal tone (A) Decreased lower esophageal tone",
@@ -760,6 +780,46 @@
         "time_elapsed": 15.60275411605835
     },
     {
+        "idx": 307,
+        "realidx": 307,
+        "question": "A 67-year-old man is brought to the emergency department with sudden onset of slurred speech. The patient\u2019s eldest daughter says that he couldn\u2019t move his arm during the episode. Past medical history is significant for hypertension and a hemorrhagic stroke 6 years ago, which was treated surgically. After admission, the patient gets increasingly worse and loses consciousness. A noncontrast CT of the head shows a subarachnoid hemorrhage (SAH). The patient is taken to the operating room, where the SAH evacuated, and the vessel is repaired. Postoperatively, the patient is unresponsive. Several days later, a repeat CT of the head shows an enlarging aneurysm in a different vessel in the brain. The patient\u2019s daughter is asked to consent to a non-emergent, life-saving operation since the patient is in a comatose state. She does not consent to the operation even though the physician stresses it would be life-saving. Upon further discussion, the physician finds out that the patient was abusive and neglectful to his children, and the daughter wants \u201cto live in peace.\u201d The patient has no written advanced directive. Which of the following is the most appropriate course of action? Options: (B) Refer this case to the court (D) Report the daughter to the police (A) Follow the daughter\u2019s wishes to withhold the operation (C) Contact another family member for consent",
+        "answer_idx": "C",
+        "answer": "Contact another family member for consent",
+        "options": {
+            "A": "Follow the daughter\u2019s wishes to withhold the operation",
+            "B": "Refer this case to the court",
+            "C": "Contact another family member for consent",
+            "D": "Report the daughter to the police"
+        },
+        "predicted_answer": "B",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 13871,
+            "completion_tokens": 1268
+        },
+        "time_elapsed": 98.80500888824463
+    },
+    {
+        "idx": 321,
+        "realidx": 321,
+        "question": "A 55-year-old man recovering from knee replacement surgery complains of breathlessness in the postoperative ward. He has been confined to bed for the past 5 days and is under observation. He felt a sudden difficulty in breathing and called for the ward nurse. He says that he is unable to take deep breaths and has a sharp pain on the right side of his chest with each inspiration. His temperature is 37.5\u00b0C (99.8\u00b0F), the pulse is 111/min, the respirations are 31/min, and the blood pressure is 85/55 mm Hg. He experiences pain in his right calf on dorsiflexion. There are no other prominent findings on physical examination. His chest X-ray does not show anything significant. The ECG reveals sinus tachycardia. Which of the following is the best course of management at this time? Options: (A) Subcutaneous fondaparinux (D) Lower extremity doppler (B) Inferior vena cava filter (C) Ventilation-perfusion scan",
+        "answer_idx": "A",
+        "answer": "Subcutaneous fondaparinux",
+        "options": {
+            "A": "Subcutaneous fondaparinux",
+            "B": "Inferior vena cava filter",
+            "C": "Ventilation-perfusion scan",
+            "D": "Lower extremity doppler"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 150717,
+            "completion_tokens": 4214
+        },
+        "time_elapsed": 89.82870960235596
+    },
+    {
         "idx": 329,
         "realidx": 329,
         "question": "A 57-year-old woman is brought to the emergency department by ambulance for dysarthria and left-sided facial droop. She is accompanied by her son, who states that the patient had just returned home an hour ago from walking the dog when suddenly the patient stated she felt \u201cstrange.\u201d When her son asked her what was wrong, her speech was slurred and her \"face looked funny.\u201d The son quickly called an ambulance. The paramedic upon arrival noted that the patient had left-sided facial droop. Her medical history includes asthma and sickle cell disease. She takes hydroxyurea, uses oxycodone as needed for pain, and an albuterol inhaler as needed for shortness of breath. The patient\u2019s temperature is 97\u00b0F (36.1\u00b0C), blood pressure is 145/72 mmHg, pulse is 93/min, and respirations are 14/min with an oxygen saturation of 96% on room air. On physical examination, a left-sided facial droop is appreciated. She has trouble articulating her words, and her speech is garbled. She is put on 2 L of oxygen by nasal cannula. Labs are obtained and pending. Which of the following therapies is most likely indicated? Options: (A) Alteplase (D) Warfarin (C) Hydralazine (B) Exchange transfusion",
@@ -1120,6 +1180,26 @@
         "time_elapsed": 58.19660711288452
     },
     {
+        "idx": 560,
+        "realidx": 560,
+        "question": "A 55-year-old man presents to his primary care physician for a general checkup. The patient has a past medical history of diabetes, hypertension, and atrial fibrillation and is currently taking warfarin, insulin, lisinopril, and metoprolol. The patient\u2019s brother recently died from a heart attack and he has switched to an all vegetarian diet in order to improve his health. His temperature is 98.6\u00b0F (37.0\u00b0C), blood pressure is 167/108 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air. The patient\u2019s physical exam is unremarkable. His laboratory values are ordered as seen below.\n\nHemoglobin: 12 g/dL\nHematocrit: 36%\nLeukocyte count: 7,550/mm^3 with normal differential\nPlatelet count: 197,000/mm^3\nINR: 1.0\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 4.3 mEq/L\nHCO3-: 25 mEq/L\nBUN: 20 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.1 mg/dL\nCa2+: 10.2 mg/dL\n\nWhich of the following is the best explanation for this patient\u2019s laboratory values? Options: (A) Dietary changes (C) Increased renal clearance (D) Medication noncompliance (B) Increased hepatic metabolism",
+        "answer_idx": "A",
+        "answer": "Dietary changes",
+        "options": {
+            "A": "Dietary changes",
+            "B": "Increased hepatic metabolism",
+            "C": "Increased renal clearance",
+            "D": "Medication noncompliance"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 123759,
+            "completion_tokens": 3281
+        },
+        "time_elapsed": 73.66093111038208
+    },
+    {
         "idx": 564,
         "realidx": 564,
         "question": "A 35-year-old man visits your office for his annual health checkup. He was diagnosed with generalized anxiety disorder 6 months ago, which is being treated with citalopram. He comments that his symptoms have improved since initiating the prescribed therapy; however, in the past 2 months, he has been unable to have sexual intercourse due to weak tumescence and low libido. His blood pressure is 122/74 mm Hg, heart rate is 75/min, and respiratory rate is 16/min. Physical examination reveals regular heart and lung sounds. What is the appropriate step in the management of this patient? Options: (B) Addition of bupropion (C) Switch to fluoxetine (A) Lowering citalopram dose (D) Switch to selegiline",
@@ -1418,6 +1498,26 @@
             "completion_tokens": 2041
         },
         "time_elapsed": 44.99212694168091
+    },
+    {
+        "idx": 677,
+        "realidx": 677,
+        "question": "A 2-month-old infant is brought to the emergency department by her mother due to a fall. Tearfully, the patient\u2019s mother describes witnessing her child fall from the changing table. The patient was born prematurely at 36 weeks estimated gestational age via vacuum-assisted vaginal delivery. The patient is afebrile. Her vital signs include: blood pressure of 94/60 mm Hg, pulse 200/min, and respiratory rate 70/min. Physical examination reveals a subconjunctival hemorrhage in the left eye and multiple bruises on the chest and back. Which of the following is the best initial step in management of this patient\u2019s condition? Options: (C) Family counseling (A) CT scan of the head (D) Rule out medical conditions (B) Involvement of social services",
+        "answer_idx": "A",
+        "answer": "CT scan of the head",
+        "options": {
+            "A": "CT scan of the head",
+            "B": "Involvement of social services",
+            "C": "Family counseling",
+            "D": "Rule out medical conditions"
+        },
+        "predicted_answer": "B",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 13978,
+            "completion_tokens": 1582
+        },
+        "time_elapsed": 116.31963109970093
     },
     {
         "idx": 689,

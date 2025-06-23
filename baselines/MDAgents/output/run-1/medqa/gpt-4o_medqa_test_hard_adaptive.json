@@ -420,6 +420,26 @@
         "time_elapsed": 43.16608238220215
     },
     {
+        "idx": 203,
+        "realidx": 203,
+        "question": "A 39-year-old man presents to his primary care physician because he has been having severe headaches and fever for the last 2 days. He also says his right eyelid has been painlessly swelling and is starting to block his vision from that eye. He recently returned from a tour of the world where he visited Thailand, Ethiopia, and Brazil. Otherwise his past medical history is unremarkable. On presentation, his temperature is 102\u00b0F (38.8\u00b0C), blood pressure is 126/81 mmHg, pulse is 125/min, and respirations are 13/min. Physical exam reveals a nontender swelling of the right eyelid, lymphadenopathy, and an indurated red patch with surrounding erythema and local swelling on his left leg. Which of the following drugs should be used to treat this patient's condition? Options: (D) Sodium stibogluconate (B) Ivermectin (C) Mebendazol (A) Benznidazole",
+        "answer_idx": "A",
+        "answer": "Benznidazole",
+        "options": {
+            "A": "Benznidazole",
+            "B": "Ivermectin",
+            "C": "Mebendazol",
+            "D": "Sodium stibogluconate"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 69271,
+            "completion_tokens": 2618
+        },
+        "time_elapsed": 54.02633047103882
+    },
+    {
         "idx": 211,
         "realidx": 211,
         "question": "A 65-year-old man presents with painless swelling of the neck over the past week. He also says he has been having intermittent fevers and severe night sweats which require a change of bed sheets the next day. His past medical history is significant for human immunodeficiency virus (HIV) diagnosed 10 years ago with which he admits to not always being compliant with his antiretroviral medication. The patient reports a 20-pack-year smoking history but no alcohol or recreational drug use. A review of systems is significant for a 6 kg (13.2 lb) unintentional weight loss over the past 2 months. The vital signs include: temperature 37.8\u2103 (100.0\u2109) and blood pressure 120/75 mm Hg. On physical examination, there are multiple non-tender swollen lymph nodes averaging 2 cm in diameter that is palpable in the anterior and posterior triangles of the neck bilaterally. Axillary and inguinal lymphadenopathy is present on the right side. A cardiopulmonary exam is unremarkable. The spleen size is 16 cm on percussion. Laboratory studies show the following:\nHemoglobin 9 g/dL\nMean corpuscular volume 88 \u03bcm3\nLeukocyte count 18,000/mm3\nPlatelet count 130,000/mm3\n    Serum creatinine 1.1 mg/dL\nSerum lactate dehydrogenase 1,000 U/L\nAn excisional biopsy of a superficial axillary lymph node on the right is performed and a histopathologic analysis confirms the most likely diagnosis. Which of the following is the next best diagnostic step in the workup of this patient? Options: (D) Tartrate-resistant acid phosphatase (TRAP) test (A) Antinuclear antibody (B) Hepatitis C virus antibodies (C) JAK-2 mutation",
@@ -918,6 +938,26 @@
             "completion_tokens": 2476
         },
         "time_elapsed": 48.28723978996277
+    },
+    {
+        "idx": 340,
+        "realidx": 340,
+        "question": "A 67-year-old man is brought to the physician because of increasing forgetfulness, unsteadiness, and falls over the past year. He reports that these symptoms seem to worsen with each fall. Initially, he could not remember directions to his home but now cannot remember recent conversations or appointments he has made. He often repeats questions that he asked shortly before. He has long-standing hypertension, coronary artery disease, and hypercholesterolemia. Current medications include aspirin, carvedilol, enalapril, and atorvastatin. Examination shows a bruise over the left temple and an unsteady gait. On mental status examination, he is oriented to place and person only. Short-term memory is impaired; he can recall 0 out of 5 objects after 10 minutes. Long-term memory is intact. He has no delusions or hallucinations. Muscle strength is decreased in the left lower extremity. The Babinski sign is present on the left. A CT scan of the head is shown. Which of the following is the most appropriate next step in management? Options: (B) Vitamin E therapy (C) Tetrabenazine therapy (D) Cognitive training (A) Warfarin therapy",
+        "answer_idx": "D",
+        "answer": "Cognitive training",
+        "options": {
+            "A": "Warfarin therapy",
+            "B": "Vitamin E therapy",
+            "C": "Tetrabenazine therapy",
+            "D": "Cognitive training"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 426580,
+            "completion_tokens": 6582
+        },
+        "time_elapsed": 138.00126767158508
     },
     {
         "idx": 367,

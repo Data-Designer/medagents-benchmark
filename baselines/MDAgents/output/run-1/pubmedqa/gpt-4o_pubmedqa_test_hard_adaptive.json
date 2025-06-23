@@ -209,6 +209,25 @@
         "time_elapsed": 213.18151259422302
     },
     {
+        "idx": "16392897",
+        "realidx": "16392897",
+        "question": "Quantitative real-time PCR has become the predominant molecular technique to monitor BCRABL levels in response to treatment in Ph(+) leukemia patients. However, without some form of standardized methodology between laboratories, the correlation of results is difficult.\nUsing TaqMan-based assays, parallel quantitative real-time PCR analysis was performed on 70 clinical specimens at Vanderbilt University Medical Center and Virginia Commonwealth University. While the same positive control cell line (K562) and quality control gene (BCR) were used, the RNA isolation technique, cDNA synthesis, BCR control cell line, and PCR primer and probe sequences were different.\nThe detection of BCRABL-positive results spanned a dynamic range from 10(0) to 10(5)/100,000 cells. Forty-three samples were negative at both facilities. A Spearman rank correlation analysis was performed for the 22 BCRABL-positive paired results. The correlation coefficient, r(s), was 0.9435 (p<0.00001), suggesting a strong correlation of the results. One discordant result was obtained for consecutive samples from one patient with a low BCRABL copy number as a result of a minimal RNA yield at one laboratory.\nBCRABL transcript detection by quantitative real-time PCR : are correlated results possible from homebrew assays? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 440581,
+            "completion_tokens": 7372
+        },
+        "time_elapsed": 140.89516520500183
+    },
+    {
         "idx": "16538201",
         "realidx": "16538201",
         "question": "To determine whether the use of hydrophilic guidewires has increased the technical success rate of peripheral percutaneous transluminal angioplasty (PTA).MATERIAL/\nWe performed 125 procedures and analyzed the technical success rates of PTA using the conventional guidewire first and then if needed, the hydrophilic guidewire for iliac and SFA stenoses or occlusions. Angioplasty was performed on 25 stenosed, 25 occluded iliac arteries and 25 stenosed, 50 occluded femoral arteries. The result was defined as technical success when the lesion was crossed by a guidewire and balloon, then it was dilated with restoration of vessel lumen and less than 30% residual stenosis and the rise in ABI values was at least 0.15 after 24 hours.\nThe technical success rate after PTA of stenosed iliac arteries was achieved in 96% (24/25) using conventional wires and 100% using hydrophilic guidewire; in iliac occlusions, the rates were 60% (15/25) and 96%, respectively; in femoral stenosis - 84% (21/25) and 100%; in occlusions in the first group: lesions<10 cm -64% (16/25) and 96%, in the second group: lesions>10 cm -48% (12/25) and 88%. In the iliac group, there was no significant difference in the success of iliac stenosis PTA. However, there were significant changes in the success rates of PTA performed for SFA stenosis and iliac and SFA occlusions.\nDoes use of hydrophilic guidewires significantly improve technical success rates of peripheral PTA? Options: (C) maybe (A) yes (B) no",
@@ -416,6 +435,44 @@
             "completion_tokens": 1820
         },
         "time_elapsed": 44.57671523094177
+    },
+    {
+        "idx": "18235194",
+        "realidx": "18235194",
+        "question": "In a prospective study 218 preschool children were enrolled (stratified in 2 training programs, one specialized for phonologic awareness in order to prevent dyslexia, the other consisting in training of general perception) during the last year of kindergarten. After finishing the first grade 131 children were compared in their reading and writing abilities.\nIn the whole group only a slight difference was found between both training modalities concerning their writing abilities. However, children with a history of hearing loss, actual hearing loss or pathologic middle ear findings profited most from the specialized training program compared to the control in their reading abilities.\nIs a specialised training of phonological awareness indicated in every preschool child? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 41566,
+            "completion_tokens": 1809
+        },
+        "time_elapsed": 48.972407817840576
+    },
+    {
+        "idx": "18243752",
+        "realidx": "18243752",
+        "question": "This study aims to evaluate local failure patterns in node negative breast cancer patients treated with post-mastectomy radiotherapy including internal mammary chain only.\nRetrospective analysis of 92 internal or central-breast node-negative tumours with mastectomy and external irradiation of the internal mammary chain at the dose of 50 Gy, from 1994 to 1998.\nLocal recurrence rate was 5 % (five cases). Recurrence sites were the operative scare and chest wall. Factors associated with increased risk of local failure were age<or = 40 years and tumour size greater than 20mm, without statistical significance.\nShould chest wall irradiation be included after mastectomy and negative node breast cancer? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 16052,
+            "completion_tokens": 1956
+        },
+        "time_elapsed": 137.1755428314209
     },
     {
         "idx": "18284441",
@@ -1311,6 +1368,25 @@
         "time_elapsed": 12.16025710105896
     },
     {
+        "idx": "26037986",
+        "realidx": "26037986",
+        "question": "Emergency surgery is associated with poorer outcomes and higher mortality with recent studies suggesting the 30-day mortality to be 14-15%. The aim of this study was to analyse the 30-day mortality, age-related 30-day mortality and 1-year mortality following emergency laparotomy. We hope this will encourage prospective data collection, improvement of care and initiate strategies to establish best practice in this area.\nThis was a retrospective study of patients who underwent emergency laparotomy from June 2010 to May 2012. The primary end point of the study was 30-day mortality, age-related 30-day mortality and 1-year all-cause mortality.\n477 laparotomies were performed in 446 patients. 57% were aged<70 and 43% aged>70 years. 30-day mortality was 12, 4% in those aged<70 years and 22% in those>70 years (p<0.001). 1-year mortality was 25, 15% in those aged under 70 years and 38% in those aged>70 years (p<0.001).\n30-Day and 1-year mortality in emergency general surgery laparotomies: an area of concern and need for improvement? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10352,
+            "completion_tokens": 761
+        },
+        "time_elapsed": 13.936943292617798
+    },
+    {
         "idx": "26606599",
         "realidx": "26606599",
         "question": "To determine the relationship between injury severity surrogates and other patient factors with the development and severity of heterotopic ossification (HO) following open reduction internal fixation of acetabular fractures treated with a posterior approach.\nRetrospective review.\nAcademic level 1 trauma center.\nTwo hundred forty-one patients who were treated through a posterior approach with a minimum of 6-month radiographic follow-up were identified from an acetabular fracture database.\nNone.\nThe occurrence and severity (Brooker Grade III/IV) of HO 6 months postsurgery.\nLength of stay (LOS) in the intensive care unit (ICU), non-ICU LOS>10 days, and HO prophylaxis with external radiation beam therapy (XRT) were significantly associated with the development of HO in a multivariate model [\n1-2 days, odds ratio (OR) = 4.33, 95% confidence interval (CI): 1.03-18.25; 3-6 days, OR = 4.1, 95% CI, 1.27-13.27;>6 days, OR = 11.7, 95% CI, 3.24-42.22; non-ICU LOS>10 days (vs. 0-6 days): OR = 7.6, 95% CI, 2.6-22.25; XRT HO prophylaxis: OR = 0.29, 95% CI, 0.10-0.85]. Other variables evaluated in multivariate modeling not significantly associated with development and severity of HO included age, gender, mechanism of injury, injury severity score, presence of neurologic injury, Letournel fracture type, occurrence of hip dislocation, interval from injury to surgery, operative time, and estimated blood loss.\nDo Surrogates of Injury Severity Influence the Occurrence of Heterotopic Ossification in Fractures of the Acetabulum? Options: (B) no (C) maybe (A) yes",
@@ -1632,6 +1708,25 @@
             "completion_tokens": 1850
         },
         "time_elapsed": 157.66069293022156
+    },
+    {
+        "idx": "9483814",
+        "realidx": "9483814",
+        "question": "Uterus-specific synthetic Prostaglandin analogues (gemeprost, sulproston etc.) have been widely employed for termination of pregnancy in the second trimester. Since paracervical anaesthesia may be useful during this procedure, we investigated in this prospective randomised study its impact on the clinical course of abortion and pain especially in the late first and second stage of labour.\n20 women scheduled for elective abortion (fetal reasons) between the 16th and 23rd week of gestation were to be given 1 mg gemeprost vaginally every 6 hours. They were allocated at random: 10 women received only Pethidin intravenously and Butylscopolamine rectally, another 10 women were additionally treated by paracervical anaesthesia (2 x 10 ml 0.5% Bupivacain solution) at a cervical dilatation of 2-3 cm.\nA median of 3 gemeprost applications were administered in both groups. In the group without paracervical anaesthesia the median induction to abortion interval was 20 hours (range: 8-44 hours), 13 hours (range: 8-36 hours, NS) resulting for the paracervical anaesthesia group. The intervals from the last application of prostaglandin until abortion and from 3 cm cervical dilatation to abortion were slightly, but not significantly shorter in the paracervical anaesthesia group. The requirement of Butylscopolamine was higher in the latter group (p<0.05). The requirement of Pethidin and the intensity of pain (measured by pain scale according to Huskisson) especially in the late first stage of labour were not statistically different between both groups. Side effects of paracervical anaesthesia did not occur.\nDoes para-cervical block offer additional advantages in abortion induction with gemeprost in the 2nd trimester? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 46803,
+            "completion_tokens": 2041
+        },
+        "time_elapsed": 48.02502155303955
     },
     {
         "idx": "9582182",

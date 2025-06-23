@@ -1092,6 +1092,27 @@
         "time_elapsed": 49.78112530708313
     },
     {
+        "idx": 194,
+        "realidx": 194,
+        "question": "A 37-year-old woman presents to her physician for mood changes and recent falls over the course of 3 months. She feels more irritable with her husband and children and does not find pleasure in creating art anymore. Over the last 2 weeks, she has been sleeping approximately 5 hours a night and had a fall while walking in her home with the lights off. She denies any head trauma or loss of consciousness associated with the fall. She has a medical history of generalized anxiety disorder and hypothyroidism for which she takes escitalopram and levothyroxine. She had a Roux-en-Y gastric bypass 5 years ago. She has been in a monogamous relationship with her husband for the last 15 years and uses a copper intrauterine device. Physical examination is notable for a depressed affect. Pupils are equal, round, and reactive to light and accommodation. She has 4/5 strength in the bilateral lower extremities and brisk patellar reflexes. Which of the following is most likely the cause of this patient's symptoms? Options: (E) Subtherapeutic levothyroxine dose (C) Reduced central nervous system dopamine and serotonin (B) Prior Treponema pallidum exposure (D) Reduced functional parietal cell count (A) Poor iron absorption",
+        "answer_idx": "D",
+        "answer": "Reduced functional parietal cell count",
+        "options": {
+            "A": "Poor iron absorption",
+            "B": "Prior Treponema pallidum exposure",
+            "C": "Reduced central nervous system dopamine and serotonin",
+            "D": "Reduced functional parietal cell count",
+            "E": "Subtherapeutic levothyroxine dose"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 207999,
+            "completion_tokens": 5238
+        },
+        "time_elapsed": 96.00331616401672
+    },
+    {
         "idx": 197,
         "realidx": 197,
         "question": "A 55-year-old man presents to the emergency department with chest pressure and diaphoresis. His symptoms started at work when he was lifting boxes. He states that he currently feels crushing pressure over his chest. He is given aspirin and an ECG is performed in triage, as seen in Figure A. His past medical history is notable for diabetes and obesity. He has smoked 1 pack of cigarettes per day for the past 30 years. His temperature is 97.9\u00b0F (36.6\u00b0C), blood pressure is 155/99 mmHg, pulse is 110/min, respirations are 22/min, and oxygen saturation is 98% on room air. Physical exam reveals an uncomfortable, diaphoretic man. His heart and breath sounds are unremarkable. A repeat ECG in the emergency department is performed, also seen in Figure A. The patient\u2019s chest pain is worse when the ECG in the emergency department is taken, compared to the one taken in triage. He is given nitroglycerin, with minimal improvement in his symptoms. A troponin level is drawn. Which of the following is the most appropriate next step in management? Options: (D) Heparin (A) Cardiac catheterization (B) Chest radiograph (C) CK-MB level (E) Repeat ECG in 10 minutes",
@@ -1300,6 +1321,27 @@
             "completion_tokens": 1743
         },
         "time_elapsed": 110.7266697883606
+    },
+    {
+        "idx": 229,
+        "realidx": 229,
+        "question": "A 55-year-old man presents to the emergency department with chest pain and shortness of breath. He has a medical history of hypertension, diabetes, and obesity. His temperature is 98.6\u00b0F (37.0\u00b0C), blood pressure is 177/118 mmHg, pulse is 127/min, respirations are 11/min, and oxygen saturation is 98% on room air. An ECG is performed and notable for ST elevation in leads II, III, and aVF. The patient is treated appropriately and transferred to the medical floor. On the 2nd day of his hospitalization, the patient has abdominal pain. His serum lipase is 272 U/L and his creatinine is 1.6 mg/dL. A physical exam is notable for the finding in Figure A. He is requesting pain medication for his abdominal pain. Which of the following is the most likely underlying diagnosis? Options: (A) Cholesterol embolism (C) Medication side effect (B) Heart failure and reinfarction (E) Renal failure (D) Pancreatitis",
+        "answer_idx": "A",
+        "answer": "Cholesterol embolism",
+        "options": {
+            "A": "Cholesterol embolism",
+            "B": "Heart failure and reinfarction",
+            "C": "Medication side effect",
+            "D": "Pancreatitis",
+            "E": "Renal failure"
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 127114,
+            "completion_tokens": 3720
+        },
+        "time_elapsed": 75.250079870224
     },
     {
         "idx": 231,

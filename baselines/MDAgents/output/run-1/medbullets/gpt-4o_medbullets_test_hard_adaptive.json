@@ -525,6 +525,27 @@
         "time_elapsed": 14.391793251037598
     },
     {
+        "idx": 92,
+        "realidx": 92,
+        "question": "A 55-year-old man presents to the emergency department after fainting while moving furniture. He states that he has been working in a hot, humid attic all day and forgot his water bottle. He felt dizzy when standing up and then fainted and was unconscious for roughly 1 minute. He awoke at his neurologic baseline afterwards. The patient has a history of hypertension being managed by his primary care doctor. His temperature is 98.7\u00b0F (37.1\u00b0C), blood pressure is 149/82 mmHg, pulse is 86/min, respirations are 15/min, and oxygen saturation is 99% on room air. Physical exam reveals a diaphoretic man. He demonstrates an unremarkable cardiopulmonary exam. The patient walks with a steady gait and his neurologic exam is non-focal. An ECG is performed as seen in Figure A. The patient is given 2 liters of oral fluids and feels back to his baseline. Which of the following conditions is most likely to occur in this patient based on his current history and ECG? Options: (E) Torsades des pointes (C) Myocardial infarction (D) Stroke (A) Atrial fibrillation (B) Complete heart block",
+        "answer_idx": "B",
+        "answer": "Complete heart block",
+        "options": {
+            "A": "Atrial fibrillation",
+            "B": "Complete heart block",
+            "C": "Myocardial infarction",
+            "D": "Stroke",
+            "E": "Torsades des pointes"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8224,
+            "completion_tokens": 1084
+        },
+        "time_elapsed": 15.665395498275757
+    },
+    {
         "idx": 94,
         "realidx": 94,
         "question": "A 54-year-old man is brought to the emergency department following a skiing accident. The patient lost control of his skis and collided with a tree. He lost consciousness for about 30 seconds. When he woke up, he was mildly confused but able to ski down the rest of the mountain. The patient initially denied medical treatment but his wife convinced him to be taken by ambulance to the emergency department for evaluation. The paramedics report that at the scene the patient had a Glasgow Coma Score (GCS) of 15. During the ride, he became gradually more somnolent. His medical history is significant for hypertension, hyperlipidemia, coronary artery disease, and a prior transient ischemic attack. His medications include atorvastatin and lisinopril. In the emergency department, his temperature is 97.8\u00b0F (36.6\u00b0C), blood pressure is 141/84 mmHg, pulse is 71/min, and respirations are 16/min. He is difficult to arouse with a GCS of 7. A head CT is performed and can be seen in Figure A. Which of the following is the most likely cause of this patient\u2019s presentation? Options: (B) Damage to the sphenoid bone (A) Damage to the cerebral bridging veins (C) Occlusion of cerebral small penetrating arteries (D) Ruptured cerebral aneurysm (E) Secondary hemorrhage into prior area of infarction",
@@ -1321,6 +1342,27 @@
             "completion_tokens": 981
         },
         "time_elapsed": 13.534098386764526
+    },
+    {
+        "idx": 253,
+        "realidx": 253,
+        "question": "A 27-year-old woman presents to her primary care physician for an abnormal vaginal discharge. The patient has engaged in unprotected intercourse with 12 different partners. She has a medical history of asthma, IV drug abuse, and depression. She has 1 to 2 alcoholic drinks per day. She feels ashamed of her behavior and is requesting treatment for her condition and advice for safe sex. The patient is given antibiotics and is advised on safe sex practices. The patient presents to the emergency department 3 days later with a complaint of a rash. She states that every time she has sex a rash has emerged on her skin. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 127/68 mmHg, pulse is 91/min, respirations are 14/min, and oxygen saturation is 98% on room air. A physical exam is notable for the finding in Figure A. Which of the following is the most likely cause of this patient's symptoms? Options: (E) Photosensitivity (C) Infection (B) Drug reaction (D) IV drug use (A) Antigen exposure",
+        "answer_idx": "A",
+        "answer": "Antigen exposure",
+        "options": {
+            "A": "Antigen exposure",
+            "B": "Drug reaction",
+            "C": "Infection",
+            "D": "IV drug use",
+            "E": "Photosensitivity"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 124122,
+            "completion_tokens": 3004
+        },
+        "time_elapsed": 72.21692299842834
     },
     {
         "idx": 257,

@@ -2002,6 +2002,32 @@
         "time_elapsed": 59.819499254226685
     },
     {
+        "idx": "Text-68",
+        "realidx": "Text-68",
+        "question": "A 56-year-old female presents to the clinic for left-sided, dull, non-radiating pain in her chest for the past month. This pain lasts a few minutes intermittently throughout the day. She denies recent life changes or increased stress. The patient has a past medical history of hyperlipidemia and hypertension. Current medications include simvastatin and lisinopril. Vital signs are relatively unchanged from her previous visit and reveal:\n\n\n\n\n| Temperature | 37.3\u00b0C (99.1\u00b0F) |\n| --- | --- |\n| Blood pressure | 128/76 mm Hg |\n| Heart rate | 68/min |\n| Respiratory rate | 14/min |\n\n\nThe patient is alert and oriented, though has moderate discomfort with deep breaths. Auscultation of the heart reveals regular rate and rhythm with no murmurs. Auscultation of the lungs reveals clear breath sounds bilaterally. There is sharp tenderness to palpation along the left sternocostal joints. The rib cage moves symmetrically with exhalation; however, ribs 2\u20138 on the left are not as dynamic on inhalation.\u00a0A 12-lead electrocardiogram is unremarkable and unchanged from 3 months ago. Plain radiograph of the chest is negative for fractures, cardiomegaly, and effusion. This patient\u2019s diagnosis is primarily caused by a restriction of motion about which axis?\nAnswer Choices: (A) Transverse axis (B) Oblique axis (C) Anteroposterior axis (D) Superior-inferior axis (E) Rotational axis (F) Longitudinal axis (G) Coronal axis (H) Sagittal axis (I) Mediolateral axis (J) Vertical axis Options: (G) Coronal axis (F) Longitudinal axis (E) Rotational axis (J) Vertical axis (H) Sagittal axis (B) Oblique axis (I) Mediolateral axis (A) Transverse axis (C) Anteroposterior axis (D) Superior-inferior axis",
+        "answer_idx": "A",
+        "answer": "Transverse axis",
+        "options": {
+            "A": "Transverse axis",
+            "B": "Oblique axis",
+            "C": "Anteroposterior axis",
+            "D": "Superior-inferior axis",
+            "E": "Rotational axis",
+            "F": "Longitudinal axis",
+            "G": "Coronal axis",
+            "H": "Sagittal axis",
+            "I": "Mediolateral axis",
+            "J": "Vertical axis"
+        },
+        "predicted_answer": "D",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 16195,
+            "completion_tokens": 1046
+        },
+        "time_elapsed": 233.0854094028473
+    },
+    {
         "idx": "Text-69",
         "realidx": "Text-69",
         "question": "A 45-year-old male visits the clinic for a routine follow-up and reports no current health concerns. His medical history includes type II diabetes mellitus and hypertension, and he is taking metformin and lisinopril. His father had a myocardial infarction, and the patient smokes one pack of cigarettes daily but denies alcohol or drug use. Vital signs are as follows: temperature 37.0\u00b0C (98.6\u00b0F), pulse 90/min, respirations 17/min, and blood pressure 125/82 mmHg. Physical examination reveals no abnormalities. Laboratory results are provided below. What is the most appropriate next step in this patient\u2019s management?  \n\n| **Laboratory Value** | **Results** |\n| --- | --- |\n| Low-density lipoproteins (LDL) | 190 mg/dL |\n| High-density lipoprotein (HDL) | 35 mg/dL |\n| Triglyceride (TG) | 100 mg/dL |\n| Hemoglobin A1c | 6.4% |\n| Serum creatinine | 1.2 mg/dL |\nAnswer Choices: (A) Counsel the patient on smoking cessation without initiating pharmacotherapy (B) Reduce lisinopril dose to minimize cardiovascular risk factors (C) Refer the patient for coronary artery calcium scoring (D) Schedule patient for a follow-up visit in 12-months (E) Initiate fenofibrate therapy (F) Add ezetimibe to the patient\u2019s regimen (G) Prescribe vitamin E supplements (H) Perform liver function testing (I) Initiate atorvastatin therapy (J) Replace metformin with glimepiride Options: (I) Initiate atorvastatin therapy (C) Refer the patient for coronary artery calcium scoring (J) Replace metformin with glimepiride (H) Perform liver function testing (D) Schedule patient for a follow-up visit in 12-months (E) Initiate fenofibrate therapy (A) Counsel the patient on smoking cessation without initiating pharmacotherapy (B) Reduce lisinopril dose to minimize cardiovascular risk factors (G) Prescribe vitamin E supplements (F) Add ezetimibe to the patient\u2019s regimen",
