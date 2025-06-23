@@ -160,6 +160,26 @@
         "time_elapsed": 9.856175184249878
     },
     {
+        "idx": "133b6b41-ac32-4d94-b0c8-9004aa2214f4",
+        "realidx": "133b6b41-ac32-4d94-b0c8-9004aa2214f4",
+        "question": "Name the structure marked with arrow Options: (D) Rough Endoplasmic reticulum (A) Mitochondria (B) Golgi bodies (C) Secretory vesicles",
+        "answer_idx": "C",
+        "answer": "Secretory vesicles",
+        "options": {
+            "A": "Mitochondria",
+            "B": "Golgi bodies",
+            "C": "Secretory vesicles",
+            "D": "Rough Endoplasmic reticulum"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3782,
+            "completion_tokens": 710
+        },
+        "time_elapsed": 17.70707941055298
+    },
+    {
         "idx": "14e05154-05a2-4472-a63e-261d765893ae",
         "realidx": "14e05154-05a2-4472-a63e-261d765893ae",
         "question": "Pulsatile varicose veins in lower limbs is seen in \u2013 Options: (B) TR (A) Klippel trenaunay syndrome (C) RV failure (D) Carcinoid stenosis of tricuspid",

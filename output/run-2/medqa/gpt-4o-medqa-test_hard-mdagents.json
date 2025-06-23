@@ -720,6 +720,26 @@
         "time_elapsed": 39.223774433135986
     },
     {
+        "idx": 284,
+        "realidx": 284,
+        "question": "An elderly man presents to his physician with complaints of difficulty breathing, easy fatigability, and bilateral leg swelling which began 2 months ago. His breathlessness worsens while walking, climbing the stairs, and lying flat on his back. He also finds it difficult to sleep well at night, as he often wakes up to catch his breath. His pulse is 98/min and blood pressure is 114/90 mm Hg. On examination, he has mild respiratory distress, distended neck veins, and bilateral pitting edema is evident on the lower third of his legs. His respiratory rate is 33/min, SpO2 is 93% in room air, and coarse crepitations are heard over the lung bases. On auscultation, the P2 component of his second heart sound is heard loudest at the second left intercostal space, and an S3 gallop rhythm is heard at the apex. Medication is prescribed for his symptoms which changes his cardiac physiology as depicted with the dashed line recorded post-medication. What is the mechanism of action of the prescribed medication? Options: (C) Inhibition of aldosterone-mediated sodium reabsorption (A) Decrease in transmembrane sodium gradient (B) Preferential dilatation of capacitance vessels (D) Reduction in myocardial contractility",
+        "answer_idx": "A",
+        "answer": "Decrease in transmembrane sodium gradient",
+        "options": {
+            "A": "Decrease in transmembrane sodium gradient",
+            "B": "Preferential dilatation of capacitance vessels",
+            "C": "Inhibition of aldosterone-mediated sodium reabsorption",
+            "D": "Reduction in myocardial contractility"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 37755,
+            "completion_tokens": 2277
+        },
+        "time_elapsed": 56.254721879959106
+    },
+    {
         "idx": 303,
         "realidx": 303,
         "question": "A 16-year-old female presents to her primary care physician due to lack of menstruation. She has never had a period and is anxious that she is not \u201ckeeping up\u201d with her friends. She states that her breasts began developing when she was 13, and she had a growth spurt around the same time. Review of systems reveals that she has also been getting headaches every few months over the last year with some photosensitivity and nausea each time. Ibuprofen relieves her symptoms. The patient is a competitive ice skater and has never been sexually active. Her mother has a history of migraine headaches, and her older sister has a history of bipolar disorder. Both underwent menarche at age 15. At this visit, the patient\u2019s temperature is 98.6\u00b0F (37.0\u00b0C), pulse is 70/min, blood pressure is 118/65 mmHg, and respirations are 13/min. Her body mass index is 23.8 kg/m^2. Cardiopulmonary and abdominal exams are unremarkable. Both breasts are Tanner IV with no expressable discharge. Pelvic and axillary hair growth is also Tanner IV. The patient is unable to tolerate a full pelvic exam, but the part of the vaginal canal that is examined is unremarkable. Laboratory studies are ordered and are below:\n\nSerum:\nNa+: 139 mEq/L\nK+: 4.1 mEq/L\nCl-: 100 mEq/L\nHCO3-: 24 mEq/L\nUrea nitrogen: 12 mg/dL\nGlucose: 73 mg/dL\nCreatinine: 0.9 mg/dL\nCa2+: 9.7 mg/dL\nMg2+: 1.7 mEq/L\nAST: 11 U/L\nALT: 11 U/L\nFollicle Stimulating Hormone (FSH): 16.2 mIU/mL (4.7-21.5 mIU/ml)\nEstrogen: 240 pg/mL (64-357 pg/mL)\n\nAbdominal ultrasound is performed and shows a normal uterus and ovaries. Which of the following is the most likely diagnosis? Options: (D) Normal development (A) Hyperprolactinemia (C) Vaginal septum (B) Imperforate hymen",
@@ -838,6 +858,26 @@
             "completion_tokens": 1252
         },
         "time_elapsed": 21.444038152694702
+    },
+    {
+        "idx": 448,
+        "realidx": 448,
+        "question": "A 69-year-old male with a longstanding history of hypertension and high cholesterol presents with abdominal pain and \u2018bruising on his feet\u2019. The patient states that his symptoms started about a week ago and have steadily worsened. He describes the abdominal pain as mild to moderate, dull, and deeply localized to the umbilical region. Past medical history is significant for 2 transient ischemic attacks 6 months prior, characterized by a sudden right-sided weakness and trouble speaking but recovered fully within 30 minutes. Current medications are sildenafil 100 mg orally as needed. Patient reports a 30-pack-year smoking history and heavy alcohol use on the weekends. Review of systems is significant for decreased appetite and feeling easily full. Vitals are temperature 37\u00b0C (98.6\u00b0F), blood pressure 155/89 mm Hg, pulse 89/min, respirations 16/min, and oxygen saturation 98% on room air. On physical examination, the patient is alert and cooperative. The cardiac exam is normal. Lungs are clear to auscultation. Carotid bruit present on the right. The abdomen is soft and nontender. Bowel sounds present. A pulsatile abdominal mass is felt in the lower umbilical region. Patient\u2019s feet have the following appearance seen in the picture. Abdominal ultrasound reveals the presence of an abdominal aortic aneurysm (AAA). Contrast CT reveals a small, unruptured AAA (diameter 4.1 cm). High flow supplemental oxygen and fluid resuscitation are initiated. Morphine sulfate and metoprolol are administered. Which of the following is the best course of treatment for this patient?\n  Options: (C) Elective open surgical repair (A) Discharge with clinical surveillance and ultrasound every 6 months (D) Emergency open surgical repair (B) Elective endovascular repair",
+        "answer_idx": "D",
+        "answer": "Emergency open surgical repair",
+        "options": {
+            "A": "Discharge with clinical surveillance and ultrasound every 6 months",
+            "B": "Elective endovascular repair",
+            "C": "Elective open surgical repair",
+            "D": "Emergency open surgical repair"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 39813,
+            "completion_tokens": 2063
+        },
+        "time_elapsed": 52.54255151748657
     },
     {
         "idx": 452,
@@ -1118,6 +1158,26 @@
             "completion_tokens": 1851
         },
         "time_elapsed": 46.420459508895874
+    },
+    {
+        "idx": 583,
+        "realidx": 583,
+        "question": "A 46-year-old woman presents to her primary care physician with one week of intermittent nausea and vomiting. She does not have any sick contacts, and her medical history is significant only for diabetes well-controlled on metformin. She also complains of some weakness and back/leg pain. She says that she recently returned from traveling abroad and had been administered an antibiotic during her travels for an unknown infection. On presentation, her temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 119/78 mmHg, pulse is 62/min, and respirations are 25/min. An EKG is obtained showing flattening of the T wave. After further testing, the physician prescribes a thiazide for this patient. Which of the following diseases is also associated with this patient's most likely diagnosis? Options: (B) Sjogren syndrome (D) Wilson disease (A) Rheumatoid arthritis (C) Systemic lupus erythematosus",
+        "answer_idx": "D",
+        "answer": "Wilson disease",
+        "options": {
+            "A": "Rheumatoid arthritis",
+            "B": "Sjogren syndrome",
+            "C": "Systemic lupus erythematosus",
+            "D": "Wilson disease"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7655,
+            "completion_tokens": 925
+        },
+        "time_elapsed": 19.633465051651
     },
     {
         "idx": 587,

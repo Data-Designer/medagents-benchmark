@@ -208,6 +208,32 @@
         "time_elapsed": 43.3113226890564
     },
     {
+        "idx": "Text-11",
+        "realidx": "Text-11",
+        "question": "A newborn male, delivered at 34 weeks gestation, is being assessed in the NICU for breathing difficulties. The mother's pregnancy was notable for polyhydramnios, and the infant had Apgar scores of 6 and 8 at 1 and 5 minutes. The mother is 33 years old, healthy, and this was her first pregnancy with appropriate prenatal care. NICU staff observed excessive oral secretions and periodic oxygen desaturation. Current vital signs show temperature 100.8\u00b0F (38.2\u00b0C), blood pressure 100/55 mmHg, heart rate 130/min, and respiratory rate 28/min. Clinical examination reveals respiratory distress with intercostal retractions and bilateral rales on lung auscultation. The abdomen appears moderately distended. A chest X-ray shows coiling of the nasogastric tube within the esophagus. Which of the following conditions should be investigated in this patient?\nAnswer Choices: (A) Pyloric stenosis (B) Esophageal atresia with tracheoesophageal fistula (C) Congenital diaphragmatic hernia (D) Laryngeal web (E) Ventricular septal defect (F) Bronchogenic cyst (G) Hirschsprung disease (H) Choanal atresia (I) Meconium ileus (J) Duodenal atresia Options: (H) Choanal atresia (G) Hirschsprung disease (J) Duodenal atresia (D) Laryngeal web (C) Congenital diaphragmatic hernia (F) Bronchogenic cyst (I) Meconium ileus (A) Pyloric stenosis (B) Esophageal atresia with tracheoesophageal fistula (E) Ventricular septal defect",
+        "answer_idx": "E",
+        "answer": "Ventricular septal defect",
+        "options": {
+            "A": "Pyloric stenosis",
+            "B": "Esophageal atresia with tracheoesophageal fistula",
+            "C": "Congenital diaphragmatic hernia",
+            "D": "Laryngeal web",
+            "E": "Ventricular septal defect",
+            "F": "Bronchogenic cyst",
+            "G": "Hirschsprung disease",
+            "H": "Choanal atresia",
+            "I": "Meconium ileus",
+            "J": "Duodenal atresia"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 15754,
+            "completion_tokens": 1241
+        },
+        "time_elapsed": 20.3658664226532
+    },
+    {
         "idx": "Text-111",
         "realidx": "Text-111",
         "question": "A 50-year-old male presents with a 2-week history of progressively worsening right-sided chest pain that began after a bicycle fall. The pain intensifies with deep breaths. His past medical history is unremarkable. On physical examination, the following findings are noted:  \n\n- Normal heart and lung examination  \n- Free cephalad rib movement during inspiration, but restricted caudad movement of ribs 4\u20136 during exhalation on the right  \n- Tenderness and tissue texture changes at the costochondral junction of ribs 4\u20136 on the right  \n\nWhich rib type and motion should be the focus of osteopathic manipulative treatment for this patient's somatic dysfunction?\nAnswer Choices: (A) a false rib that primarily moves in a bucket handle motion (B) a floating rib with restricted inhalation motion (C) a floating rib with restricted exhalation motion (D) a false rib with restricted exhalation motion (E) a false rib that primarily moves in a pump handle motion (F) a true rib that primarily moves in a pump handle motion (G) a true rib with restricted caliper motion (H) a true rib that primarily moves in a bucket handle motion (I) a false rib with restricted inhalation motion (J) a true rib with restricted torsional motion Options: (A) a false rib that primarily moves in a bucket handle motion (E) a false rib that primarily moves in a pump handle motion (B) a floating rib with restricted inhalation motion (J) a true rib with restricted torsional motion (H) a true rib that primarily moves in a bucket handle motion (F) a true rib that primarily moves in a pump handle motion (D) a false rib with restricted exhalation motion (C) a floating rib with restricted exhalation motion (G) a true rib with restricted caliper motion (I) a false rib with restricted inhalation motion",
@@ -258,6 +284,32 @@
             "completion_tokens": 903
         },
         "time_elapsed": 17.52025866508484
+    },
+    {
+        "idx": "Text-117",
+        "realidx": "Text-117",
+        "question": "A 24-year-old G1P0000 woman attends her first prenatal visit at approximately 8 weeks of gestation. She reports no significant symptoms other than increased fatigue and occasional nausea. The patient recently immigrated from Africa and works as a babysitter for neighborhood children, one of whom recently had the flu and another with chickenpox. She has no immunization records and does not recall receiving any vaccines. She is sexually active only with her husband, has no history of sexually transmitted infections or intravenous drug use, and her husband has no medical issues. Her temperature is 98.7\u00b0F (37.1\u00b0C), blood pressure is 122/76 mmHg, pulse is 66/min, and respirations are 12/min. Physical examination is unremarkable. Which of the following vaccines should be administered to this patient at this time?\nAnswer Choices: (A) Tetanus/Diphtheria/Pertussis vaccine (B) Rabies vaccine (C) Measles/Mumps/Rubella (MMR) vaccine (D) Live-attenuated influenza vaccine (E) Varicella vaccine (F) Human papillomavirus (HPV) vaccine (G) Intramuscular flu vaccine (H) Pneumococcal conjugate vaccine (I) Hepatitis A vaccine (J) Hepatitis B vaccine Options: (H) Pneumococcal conjugate vaccine (E) Varicella vaccine (C) Measles/Mumps/Rubella (MMR) vaccine (B) Rabies vaccine (A) Tetanus/Diphtheria/Pertussis vaccine (G) Intramuscular flu vaccine (F) Human papillomavirus (HPV) vaccine (I) Hepatitis A vaccine (J) Hepatitis B vaccine (D) Live-attenuated influenza vaccine",
+        "answer_idx": "G",
+        "answer": "Intramuscular flu vaccine",
+        "options": {
+            "A": "Tetanus/Diphtheria/Pertussis vaccine",
+            "B": "Rabies vaccine",
+            "C": "Measles/Mumps/Rubella (MMR) vaccine",
+            "D": "Live-attenuated influenza vaccine",
+            "E": "Varicella vaccine",
+            "F": "Human papillomavirus (HPV) vaccine",
+            "G": "Intramuscular flu vaccine",
+            "H": "Pneumococcal conjugate vaccine",
+            "I": "Hepatitis A vaccine",
+            "J": "Hepatitis B vaccine"
+        },
+        "predicted_answer": "G",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 15296,
+            "completion_tokens": 900
+        },
+        "time_elapsed": 19.746312618255615
     },
     {
         "idx": "Text-119",
@@ -466,6 +518,32 @@
             "completion_tokens": 1373
         },
         "time_elapsed": 137.3566539287567
+    },
+    {
+        "idx": "Text-129",
+        "realidx": "Text-129",
+        "question": "A 38-year-old man arrives at the emergency department with a 3-day history of fever and headache. He recently returned from a hiking trip in Tennessee and noticed red spots on his arms and legs upon returning home, which he initially attributed to poison ivy. On examination, he has a macular petechial rash on his trunk and extremities. His medical history includes atrial fibrillation managed with warfarin and a penicillin allergy. He is started on the first-line antibiotic for his condition. What advice should be provided to the patient regarding the medication he is most likely receiving?\nAnswer Choices: (A) There is about 10% chance that you will also be allergic to this medication (B) You may experience temporary changes in taste sensation (C) Avoid drinking milk or taking antacids while you are on this medication (D) Avoid direct sunlight while taking this medication (E) Your blood thinner levels may need to be adjusted while on this medication (F) Take this medication with food to prevent stomach upset (G) Avoid alcohol consumption while on this medication (H) Complete the full course even if symptoms improve (I) Take this medication at bedtime to minimize side effects (J) This medication may cause discoloration of your teeth Options: (A) There is about 10% chance that you will also be allergic to this medication (F) Take this medication with food to prevent stomach upset (B) You may experience temporary changes in taste sensation (C) Avoid drinking milk or taking antacids while you are on this medication (I) Take this medication at bedtime to minimize side effects (H) Complete the full course even if symptoms improve (D) Avoid direct sunlight while taking this medication (J) This medication may cause discoloration of your teeth (G) Avoid alcohol consumption while on this medication (E) Your blood thinner levels may need to be adjusted while on this medication",
+        "answer_idx": "C",
+        "answer": "Avoid drinking milk or taking antacids while you are on this medication",
+        "options": {
+            "A": "There is about 10% chance that you will also be allergic to this medication",
+            "B": "You may experience temporary changes in taste sensation",
+            "C": "Avoid drinking milk or taking antacids while you are on this medication",
+            "D": "Avoid direct sunlight while taking this medication",
+            "E": "Your blood thinner levels may need to be adjusted while on this medication",
+            "F": "Take this medication with food to prevent stomach upset",
+            "G": "Avoid alcohol consumption while on this medication",
+            "H": "Complete the full course even if symptoms improve",
+            "I": "Take this medication at bedtime to minimize side effects",
+            "J": "This medication may cause discoloration of your teeth"
+        },
+        "predicted_answer": "E",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 113431,
+            "completion_tokens": 2235
+        },
+        "time_elapsed": 54.06478524208069
     },
     {
         "idx": "Text-130",
@@ -804,6 +882,32 @@
             "completion_tokens": 2318
         },
         "time_elapsed": 54.482680320739746
+    },
+    {
+        "idx": "Text-20",
+        "realidx": "Text-20",
+        "question": "A 57-year-old male presents to the emergency department with a one-week history of weakness and subjective fever. His medical history includes IV drug use, hepatitis C, atrial fibrillation, cirrhosis, alcohol dependence, obesity, and depression. On examination, his temperature is 102\u00b0F (38.9\u00b0C), blood pressure is 157/98 mmHg, pulse is 110/min, respirations are 17/min, and oxygen saturation is 98% on room air. The patient appears fatigued with diffuse jaundice. Cardiopulmonary examination reveals bibasilar crackles, and abdominal examination shows distension, dullness to percussion, a fluid wave, and generalized tenderness. The patient is admitted to the hospital and started on piperacillin-tazobactam. By day 4, he is afebrile, with a pulse of 92/min, reduced abdominal tenderness, and persistent jaundice. Nurses report bleeding from two peripheral IV sites requiring pressure to control, along with new bruises on the patient's arms and legs. What is the most likely explanation for this patient's condition?\nAnswer Choices: (A) Fibrinolysis activation due to liver failure (B) Vitamin K deficiency due to liver dysfunction (C) Diffuse activation of the coagulation cascade (D) Disseminated intravascular coagulation (DIC) (E) Platelet dysfunction secondary to sepsis (F) Decreased production of coagulation factors (G) Immune-mediated platelet destruction (H) Hypersplenism causing thrombocytopenia (I) Decreased metabolism of an anticoagulant (J) Bacterial destruction Options: (C) Diffuse activation of the coagulation cascade (A) Fibrinolysis activation due to liver failure (B) Vitamin K deficiency due to liver dysfunction (G) Immune-mediated platelet destruction (D) Disseminated intravascular coagulation (DIC) (F) Decreased production of coagulation factors (E) Platelet dysfunction secondary to sepsis (J) Bacterial destruction (I) Decreased metabolism of an anticoagulant (H) Hypersplenism causing thrombocytopenia",
+        "answer_idx": "J",
+        "answer": "Bacterial destruction",
+        "options": {
+            "A": "Fibrinolysis activation due to liver failure",
+            "B": "Vitamin K deficiency due to liver dysfunction",
+            "C": "Diffuse activation of the coagulation cascade",
+            "D": "Disseminated intravascular coagulation (DIC)",
+            "E": "Platelet dysfunction secondary to sepsis",
+            "F": "Decreased production of coagulation factors",
+            "G": "Immune-mediated platelet destruction",
+            "H": "Hypersplenism causing thrombocytopenia",
+            "I": "Decreased metabolism of an anticoagulant",
+            "J": "Bacterial destruction"
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 62631,
+            "completion_tokens": 1924
+        },
+        "time_elapsed": 46.657583236694336
     },
     {
         "idx": "Text-22",

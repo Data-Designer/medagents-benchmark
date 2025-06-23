@@ -806,6 +806,32 @@
         "time_elapsed": 15.587212562561035
     },
     {
+        "idx": 6104,
+        "realidx": 6104,
+        "question": "A 67-year-old man with Parkinson disease is admitted to the hospital for treatment of pneumonia. The patient's daughter, who is visiting the patient, says he has had increased lethargy for the past day and decreased ambulation during the past 6 months. She also says that there are times during the day when his tremors increase in severity, although he continues to care for himself at home. Medical history is also remarkable for hypertension. Medications include hydrochlorothiazide, atenolol, levodopa, and carbidopa. He is 168 cm (5 ft 6 in) tall and weighs 78 kg (172 lb); BMI is 28 kg/m2 . Vital signs are temperature 38.9\u00b0C (102.0\u00b0F), pulse 60/min supine and 68/min standing, respirations 22/min, and blood pressure 100/60 mm Hg supine and 80/50 mm Hg standing. The patient appears ill and older than his stated age. He is fully oriented but lethargic. Auscultation of the chest discloses rhonchi in the right mid lung field. Abdominal examination discloses no abnormalities. Neurologic examination discloses masked facies, bradykinesia, and cogwheel rigidity; gait was not assessed on admission. Chest x-ray shows a right lower lobe infiltrate. ECG shows no abnormalities. Appropriate intravenous antibiotic therapy is initiated. Prior to discharge, which of the following is the most appropriate step? Options: (I) Obtain a swallowing evaluation (E) Discontinue levodopa and carbidopa (C) Administer influenza vaccine (F) Arrange for home oxygen therapy (H) Obtain CT scan of the chest (B) Place a percutaneous endoscopic gastrostomy (PEG) tube (J) Start patient on anticoagulant therapy (A) Begin corticosteroid treatment (G) Initiate physical therapy (D) Prescribe fludrocortisone",
+        "answer_idx": "I",
+        "answer": "Obtain a swallowing evaluation",
+        "options": {
+            "A": "Begin corticosteroid treatment",
+            "B": "Place a percutaneous endoscopic gastrostomy (PEG) tube",
+            "C": "Administer influenza vaccine",
+            "D": "Prescribe fludrocortisone",
+            "E": "Discontinue levodopa and carbidopa",
+            "F": "Arrange for home oxygen therapy",
+            "G": "Initiate physical therapy",
+            "H": "Obtain CT scan of the chest",
+            "I": "Obtain a swallowing evaluation",
+            "J": "Start patient on anticoagulant therapy"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6614,
+            "completion_tokens": 1101
+        },
+        "time_elapsed": 21.38298988342285
+    },
+    {
         "idx": 6105,
         "realidx": 6105,
         "question": "A 67-year-old man with Parkinson disease is admitted to the hospital for treatment of pneumonia. The patient's daughter, who is visiting the patient, says he has had increased lethargy for the past day and decreased ambulation during the past 6 months. She also says that there are times during the day when his tremors increase in severity, although he continues to care for himself at home. Medical history is also remarkable for hypertension. Medications include hydrochlorothiazide, atenolol, levodopa, and carbidopa. He is 168 cm (5 ft 6 in) tall and weighs 78 kg (172 lb); BMI is 28 kg/m2 . Vital signs are temperature 38.9\u00b0C (102.0\u00b0F), pulse 60/min supine and 68/min standing, respirations 22/min, and blood pressure 100/60 mm Hg supine and 80/50 mm Hg standing. The patient appears ill and older than his stated age. He is fully oriented but lethargic. Auscultation of the chest discloses rhonchi in the right mid lung field. Abdominal examination discloses no abnormalities. Neurologic examination discloses masked facies, bradykinesia, and cogwheel rigidity; gait was not assessed on admission. Chest x-ray shows a right lower lobe infiltrate. ECG shows no abnormalities. Appropriate intravenous antibiotic therapy is initiated. Prior to discharge, which of the following is the most appropriate step? Options: (E) Discontinue levodopa and carbidopa (C) Administer influenza vaccine (I) Obtain a swallowing evaluation (J) Start patient on anticoagulant therapy (A) Begin corticosteroid treatment (H) Obtain CT scan of the chest (F) Arrange for home oxygen therapy (D) Prescribe fludrocortisone (B) Place a percutaneous endoscopic gastrostomy (PEG) tube (G) Initiate physical therapy",

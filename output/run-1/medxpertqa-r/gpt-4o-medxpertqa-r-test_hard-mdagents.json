@@ -832,6 +832,58 @@
         "time_elapsed": 18.371612787246704
     },
     {
+        "idx": "Text-36",
+        "realidx": "Text-36",
+        "question": "A full-term male infant is born to a 32-year-old woman after a precipitous vaginal delivery that occurred just as the mother arrived in the emergency department. The mother had complete prenatal care without complications, but at the time of delivery, her hepatitis B virus status was unknown. Hepatitis B serology results are pending.\n\n\nWhich one of the following actions should be done in the immediate postnatal period to protect this infant from hepatitis B virus infection?\nAnswer Choices: (A) Give first dose of hepatitis B vaccine at discharge (B) Administer both hepatitis B vaccine and hepatitis B immune globulin within 12 hours of birth (C) Wait for maternal serology results before initiating any prophylaxis (D) Administer hepatitis B vaccine only within 12 hours of birth (E) Administer hepatitis B vaccine within 24 hours and HBIG if mother tests positive (F) Delay vaccination until 2 months of age when other routine vaccines begin (G) Test infant for HBV infection before initiating prophylaxis (H) Administer hepatitis B immune globulin only within 12 hours of birth (I) Start antiviral therapy and monitor liver function tests (J) Administer HBIG only and wait for maternal serology results Options: (H) Administer hepatitis B immune globulin only within 12 hours of birth (C) Wait for maternal serology results before initiating any prophylaxis (B) Administer both hepatitis B vaccine and hepatitis B immune globulin within 12 hours of birth (F) Delay vaccination until 2 months of age when other routine vaccines begin (A) Give first dose of hepatitis B vaccine at discharge (E) Administer hepatitis B vaccine within 24 hours and HBIG if mother tests positive (G) Test infant for HBV infection before initiating prophylaxis (D) Administer hepatitis B vaccine only within 12 hours of birth (I) Start antiviral therapy and monitor liver function tests (J) Administer HBIG only and wait for maternal serology results",
+        "answer_idx": "D",
+        "answer": "Administer hepatitis B vaccine only within 12 hours of birth",
+        "options": {
+            "A": "Give first dose of hepatitis B vaccine at discharge",
+            "B": "Administer both hepatitis B vaccine and hepatitis B immune globulin within 12 hours of birth",
+            "C": "Wait for maternal serology results before initiating any prophylaxis",
+            "D": "Administer hepatitis B vaccine only within 12 hours of birth",
+            "E": "Administer hepatitis B vaccine within 24 hours and HBIG if mother tests positive",
+            "F": "Delay vaccination until 2 months of age when other routine vaccines begin",
+            "G": "Test infant for HBV infection before initiating prophylaxis",
+            "H": "Administer hepatitis B immune globulin only within 12 hours of birth",
+            "I": "Start antiviral therapy and monitor liver function tests",
+            "J": "Administer HBIG only and wait for maternal serology results"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 15593,
+            "completion_tokens": 924
+        },
+        "time_elapsed": 19.142829179763794
+    },
+    {
+        "idx": "Text-37",
+        "realidx": "Text-37",
+        "question": "A 75-year-old man with a medical history of hypertension, type 2 diabetes, and coronary artery disease presents with progressively worsening shortness of breath over the past two months. He has a 45-pack-year smoking history and has only lived outside the U.S. briefly during military service in Germany.  \n\nOn physical examination, he is afebrile with a respiratory rate of 22 breaths per minute, heart rate of 110 beats per minute, blood pressure of 108/73 mm Hg, and oxygen saturation of 88% on room air. He appears uncomfortable and tachypneic. Auscultation reveals diminished breath sounds, dullness to percussion, and decreased tactile fremitus in the lower third of the left lung field. The right lung is clear to auscultation.  \n\nChest CT with intravenous contrast shows a large left pleural effusion with no pulmonary parenchymal abnormalities, pleural thickening, or evidence of pulmonary embolism. A diagnostic thoracentesis yields 1400 mL of bloody fluid with the following analysis:  \n\n|  | Patient value |  \n| --- | --- |  \n| Leukocyte count (per mm\u00b3) | 328 |  \n| Lymphocytes (%) | 53 |  \n| Polymorphonuclear cells (%) | 26 |  \n| Monocytes/macrophages (%) | 10 |  \n| Mesothelial cells (%) | 10 |  \n| Erythrocyte count (per mm\u00b3) | 52,476 |  \n| Hematocrit (%) | <5 |  \n| pH | 7.36 |  \n| Lactate dehydrogenase (U/L) | 374 |  \n| Total protein (g/dL) | 2.5 |  \n| Total glucose (mg/dL) | 127 |  \n\nPleural fluid Gram stain and cultures are negative. Cytopathology is negative for malignancy, and the adenosine deaminase level is 2 U/L.  \n\nBlood test results are as follows:  \n\n|  | Patient value | Reference range |  \n| --- | --- | --- |  \n| Leukocyte count (per mm\u00b3) | 6700 | 4500\u201311,000 |  \n| Hemoglobin (g/dL) | 9.0 | 13.5\u201317.5 |  \n| Hematocrit (%) | 27.8 | 41.0\u201353.0 |  \n| Lactate dehydrogenase (U/L) | 375 | 100\u2013190 |  \n| Total protein (g/dL) | 5.4 | 5.5\u20138.0 |  \n\nWhat is the most appropriate next step to determine the cause of this patient\u2019s pleural effusion?\nAnswer Choices: (A) Pleural fluid amylase measurement (B) Positron emission tomography (PET) scan (C) Closed pleural biopsy (D) Serum protein electrophoresis (E) Bronchoscopy (F) Interferon-gamma release assay of blood (G) Repeat thoracentesis with cytopathologic study (H) Pleural fluid flow cytometry (I) Video-assisted thoracoscopic surgery (VATS) (J) Echocardiography Options: (E) Bronchoscopy (H) Pleural fluid flow cytometry (I) Video-assisted thoracoscopic surgery (VATS) (A) Pleural fluid amylase measurement (F) Interferon-gamma release assay of blood (G) Repeat thoracentesis with cytopathologic study (J) Echocardiography (B) Positron emission tomography (PET) scan (D) Serum protein electrophoresis (C) Closed pleural biopsy",
+        "answer_idx": "G",
+        "answer": "Repeat thoracentesis with cytopathologic study",
+        "options": {
+            "A": "Pleural fluid amylase measurement",
+            "B": "Positron emission tomography (PET) scan",
+            "C": "Closed pleural biopsy",
+            "D": "Serum protein electrophoresis",
+            "E": "Bronchoscopy",
+            "F": "Interferon-gamma release assay of blood",
+            "G": "Repeat thoracentesis with cytopathologic study",
+            "H": "Pleural fluid flow cytometry",
+            "I": "Video-assisted thoracoscopic surgery (VATS)",
+            "J": "Echocardiography"
+        },
+        "predicted_answer": "I",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 73950,
+            "completion_tokens": 2187
+        },
+        "time_elapsed": 58.50245499610901
+    },
+    {
         "idx": "Text-39",
         "realidx": "Text-39",
         "question": "A 51-year-old woman undergoes respiratory function testing to investigate her shortness of breath. She recently started a walking program with friends to lose weight but noticed she could not match their pace. Her medical history includes a 60-pack-year smoking history and well-controlled hypertension on medication. The following respiratory parameters are recorded:  \n- Vital capacity (VC): 5,000 mL  \n- Inspiratory reserve volume (IRV): 2,500 mL  \n- Functional reserve capacity (FRC): 2,700 mL  \n- Residual volume (RV): 1,000 mL  \n- Upper airway volume: 100 mL  \n- Conducting airway volume: 125 mL  \n- Inspired CO2 pressure (PiCO2): 1 mmHg  \n- Arterial CO2 pressure (PaCO2): 50 mmHg  \n- Expired CO2 pressure (PeCO2): 20 mmHg  \n\nWhat is the total volume of gas in this patient\u2019s airways and lungs that does not participate in gas exchange?\nAnswer Choices: (A) 375 mL (B) 600 mL (C) 525 mL (D) 450 mL (E) 1200 mL (F) 900 mL (G) 225 mL (H) 480 mL (I) 700 mL (J) 320 mL Options: (A) 375 mL (B) 600 mL (D) 450 mL (H) 480 mL (C) 525 mL (I) 700 mL (F) 900 mL (G) 225 mL (J) 320 mL (E) 1200 mL",

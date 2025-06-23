@@ -1748,6 +1748,25 @@
         "time_elapsed": 135.472585439682
     },
     {
+        "idx": "28359277",
+        "realidx": "28359277",
+        "question": "Governments are urged to determine methods to control the use of medical resources and curb the rise of healthcare costs. The question is, do health behaviors have an impact on the use of medical resources? This study aims to identify and understand the difference in the number of outpatient visits and health examinations based on various health behaviors and to determine whether patients seek medical care for illness from the same physicians.\nThis study used the dataset derived from the Department of Budget, Accounting and Statistics of Kaohsiung, Taiwan in 2005. Persons older than 15\u00a0years were surveyed using an on-site questionnaire. A total of 2911 persons were enrolled in this study. Independent t-tests, chi-square tests, one-way ANOVA, multiple linear regression and binominal logistic regression were used in the data analysis.\nThe regression model for the frequency of doctor visits, health examinations, and whether the same physician is sought for medical care has demonstrated significant correlations with gender, age and education-level variables. Four health behaviors (i.e., exercise habits, dietary habits, regular blood pressure measurement, drinking habits) exhibited a significant correlation with healthcare utilization (P<0.05).\nDo healthier lifestyles lead to less utilization of healthcare resources? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 952805,
+            "completion_tokens": 16261
+        },
+        "time_elapsed": 410.9183030128479
+    },
+    {
         "idx": "7497757",
         "realidx": "7497757",
         "question": "To determine if temperature during cardiopulmonary bypass (CPB) has an effect on perioperative and postoperative thyroid function.\nProspective study comparing thyroid function during and after hypothermic and normothermic CPB.\nCardiac surgical unit at a university-affiliated hospital.\nTwelve patients scheduled to undergo cardiac operations with normothermic (n = 6) or hypothermic (n = 6) CPB.\nBlood was analyzed for serum concentration of total thyroxine (TT4), total triiodothyronine (TT3), free T3 (fT3), reverse T3 (rT3), and thyroid stimulating hormone (TSH) preoperatively, 60 min after CPB was initiated, 30 min after discontinuing CPB, and on postoperative days (POD) 1, 3, and 5.\nPatients who underwent either cold (26 degrees +/- 5 degrees C) or warm (35 degrees +/- 1 degree C) CPB were comparable with regard to age, body weight, duration of CPB, cross-clamp time, use of inotropes, total heparin dose, and length of hospital stay. Incidence of postoperative myocardial infarction, congestive heart failure, and death were similar. In both groups, TT4 and TT3 were reduced below baseline values beginning with CPB and persisting for up to 5 days after CPB (p<0.05), free T3 was reduced for up to 3 days after CPB (p<0.05), mean serum rT3 was elevated on POD 1 and POD 3 (p<0.05), and TSH remained unchanged.\nCardiopulmonary bypass temperature does not affect postoperative euthyroid sick syndrome? Options: (B) no (A) yes (C) maybe",

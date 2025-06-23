@@ -646,6 +646,25 @@
         "time_elapsed": 119.2599868774414
     },
     {
+        "idx": "19578820",
+        "realidx": "19578820",
+        "question": "Opioid-dependent patients often have co-occurring chronic illnesses requiring medications that interact with methadone. Methadone maintenance treatment (MMT) is typically provided separately from medical care. Hence, coordination of medical care and substance use treatment is important to preserve patient safety.\nTo identify potential safety risks among MMT patients engaged in medical care by evaluating the frequency that opioid dependence and MMT documentation are missing in medical records and characterizing potential medication-methadone interactions.\nAmong patients from a methadone clinic who received primary care from an affiliated, but separate, medical center, we reviewed electronic medical records for documentation of methadone, opioid dependence, and potential drug-methadone interactions. The proportions of medical records without opioid dependence and methadone documentation were estimated and potential medication-methadone interactions were identified.\nAmong the study subjects (n = 84), opioid dependence documentation was missing from the medical record in 30% (95% CI, 20%-41%) and MMT documentation was missing from either the last primary care note or the last hospital discharge summary in 11% (95% CI, 5%-19%). Sixty-nine percent of the study subjects had at least 1 medication that potentially interacted with methadone; 19% had 3 or more potentially interacting medications.\nAre opioid dependence and methadone maintenance treatment (MMT) documented in the medical record? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 11210,
+            "completion_tokens": 786
+        },
+        "time_elapsed": 13.009254932403564
+    },
+    {
         "idx": "20197761",
         "realidx": "20197761",
         "question": "Guidelines emphasize that irritable bowel syndrome (IBS) is not a diagnosis of exclusion and encourage clinicians to make a positive diagnosis using the Rome criteria alone. Yet many clinicians are concerned about overlooking alternative diagnoses. We measured beliefs about whether IBS is a diagnosis of exclusion, and measured testing proclivity between IBS experts and community providers.\nWe developed a survey to measure decision-making in two standardized patients with Rome III-positive IBS, including IBS with diarrhea (D-IBS) and IBS with constipation (C-IBS). The survey elicited provider knowledge and beliefs about IBS, including testing proclivity and beliefs regarding IBS as a diagnosis of exclusion. We surveyed nurse practitioners, primary care physicians, community gastroenterologists, and IBS experts.\nExperts were less likely than nonexperts to endorse IBS as a diagnosis of exclusion (8 vs. 72%; P<0.0001). In the D-IBS vignette, experts were more likely to make a positive diagnosis of IBS (67 vs. 38%; P<0.001), to perform fewer tests (2.0 vs. 4.1; P<0.01), and to expend less money on testing (US$297 vs. $658; P<0.01). Providers who believed IBS is a diagnosis of exclusion ordered 1.6 more tests and consumed $364 more than others (P<0.0001). Experts only rated celiac sprue screening and complete blood count as appropriate in D-IBS; nonexperts rated most tests as appropriate. Parallel results were found in the C-IBS vignette.\nIs irritable bowel syndrome a diagnosis of exclusion? Options: (A) yes (C) maybe (B) no",
@@ -777,6 +796,25 @@
             "completion_tokens": 2037
         },
         "time_elapsed": 54.319255113601685
+    },
+    {
+        "idx": "21789019",
+        "realidx": "21789019",
+        "question": "The increasingly older population confronts oncologists with an imposing challenge: older cancer patients have specific healthcare needs both independent of and associated with the diagnosis of cancer. The aim of the present study is to examine whether elderly versus younger cancer patients have different needs with respect to attendance, treatment and information.\nThis is an observational and cross-sectional study. Cancer patients aged 35 to 82 years were consecutively interviewed. The group was divided into two subgroups aged \u226465 and \u226566 years old. The Needs Evaluation Questionnaire (NEQ) was used to assess patients' needs and demographic variables were collected. Data analysis was carried out by means of cross-tabulation analyses and the chi-square test.\nThe requests most frequently expressed by the older group concerned financial-insurance information (73.9%), the need to talk to people with the same illness (71.7%), the need to receive more comprehensible information from doctors and nurses (71.7%), and the need for a better dialogue with clinicians (69.6%). Few significant differences between the two age subgroups were found, with the exception of issues such as the need for intimacy and support.\nDo elderly cancer patients have different care needs compared with younger ones? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 11045,
+            "completion_tokens": 1054
+        },
+        "time_elapsed": 13.106321096420288
     },
     {
         "idx": "21889895",
