@@ -312,6 +312,32 @@
         "time_elapsed": 13.568334579467773
     },
     {
+        "idx": "Text-160",
+        "realidx": "Text-160",
+        "question": "A 65-year-old woman presents for her yearly physical examination, reporting progressive blurring of vision over the past year. Her medical history includes a 20-year history of diabetes and osteoarthritis. Her current medications are metformin, glimepiride, and as-needed ibuprofen for pain. Fundoscopic examination reveals retinal artery narrowing and microaneurysms. The patient's clinical manifestations are most likely attributable to tissue-specific variations in the expression of which enzyme?\nAnswer Choices: (A) Hexokinase (B) Pyruvate kinase (C) Galactocerebrosidase (D) Glucokinase (E) Fructokinase (F) Aldose reductase (G) Glyceraldehyde-3-phosphate dehydrogenase (H) Lactate dehydrogenase (I) Sorbitol dehydrogenase (J) Galactose-1-phosphate uridyltransferase Options: (J) Galactose-1-phosphate uridyltransferase (I) Sorbitol dehydrogenase (B) Pyruvate kinase (G) Glyceraldehyde-3-phosphate dehydrogenase (D) Glucokinase (F) Aldose reductase (C) Galactocerebrosidase (A) Hexokinase (H) Lactate dehydrogenase (E) Fructokinase",
+        "answer_idx": "I",
+        "answer": "Sorbitol dehydrogenase",
+        "options": {
+            "A": "Hexokinase",
+            "B": "Pyruvate kinase",
+            "C": "Galactocerebrosidase",
+            "D": "Glucokinase",
+            "E": "Fructokinase",
+            "F": "Aldose reductase",
+            "G": "Glyceraldehyde-3-phosphate dehydrogenase",
+            "H": "Lactate dehydrogenase",
+            "I": "Sorbitol dehydrogenase",
+            "J": "Galactose-1-phosphate uridyltransferase"
+        },
+        "predicted_answer": "F",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 15029,
+            "completion_tokens": 816
+        },
+        "time_elapsed": 14.515482664108276
+    },
+    {
         "idx": "Text-17",
         "realidx": "Text-17",
         "question": "Researchers are studying the potential of an Amazonian plant extract as a new treatment for certain tumor types. When applied to tumor cells in vitro, the extract induces extensive endoplasmic reticulum stress, leading to cell death. Additional experiments reveal that the extract targets a key protein within a complex responsible for transmitting proliferation signals. When this specific protein is exposed to the extract, its function cannot be restored even with the addition of chaperones. Which type of bond is the extract most likely disrupting?\nAnswer Choices: (A) Ionic bonds between positively and negatively charged residues (B) Covalent bonds between carboxyl and amino groups (C) Non-covalent interactions between protein subunits (D) Disulfide bonds formed during protein folding (E) Van der Waals interactions between hydrophobic regions (F) Covalent bond between two sulfide groups (G) Peptide bonds within the primary structure of the protein (H) Phosphodiester bonds in nucleic acids (I) Hydrogen bonds (J) Ester bonds between lipid and protein complexes Options: (J) Ester bonds between lipid and protein complexes (H) Phosphodiester bonds in nucleic acids (E) Van der Waals interactions between hydrophobic regions (I) Hydrogen bonds (G) Peptide bonds within the primary structure of the protein (C) Non-covalent interactions between protein subunits (B) Covalent bonds between carboxyl and amino groups (D) Disulfide bonds formed during protein folding (F) Covalent bond between two sulfide groups (A) Ionic bonds between positively and negatively charged residues",
@@ -858,6 +884,32 @@
         "time_elapsed": 11.078640460968018
     },
     {
+        "idx": "Text-278",
+        "realidx": "Text-278",
+        "question": "What percentage of patients undergoing adult spinal deformity surgery experience major complications?\nAnswer Choices: (A) 15-25% (B) 2-4% (C) 3-6% (D) 8-12% (E) 4-7% (F) 20-30% (G) 5-8% (H) 12-18% (I) 6-10% (J) 10-20% Options: (E) 4-7% (C) 3-6% (I) 6-10% (A) 15-25% (J) 10-20% (D) 8-12% (H) 12-18% (F) 20-30% (B) 2-4% (G) 5-8%",
+        "answer_idx": "J",
+        "answer": "10-20%",
+        "options": {
+            "A": "15-25%",
+            "B": "2-4%",
+            "C": "3-6%",
+            "D": "8-12%",
+            "E": "4-7%",
+            "F": "20-30%",
+            "G": "5-8%",
+            "H": "12-18%",
+            "I": "6-10%",
+            "J": "10-20%"
+        },
+        "predicted_answer": "F",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 16027,
+            "completion_tokens": 701
+        },
+        "time_elapsed": 20.102630138397217
+    },
+    {
         "idx": "Text-298",
         "realidx": "Text-298",
         "question": "A 21-year-old woman seeks medical attention for mild thoracic pain that has persisted for several days. She describes the pain as constant and bothersome, noting its onset after spending an entire weekend working on a college assignment at her desk. Physical examination reveals that her T5 vertebral segment shows restriction in extension. Furthermore, the same segment demonstrates limited mobility in both rotation and sidebending. Which biomechanical principle best explains these findings?\nAnswer Choices: (A) Viscerosomatic reflex principles (B) Biomechanical compensatory patterns (C) Fryette\u2019s third law (D) Fryette\u2019s first law (E) Thoracic kyphosis mechanics (F) Muscle energy principle (G) Primary respiratory motion (H) Segmental facilitation theory (I) Fryette\u2019s second law (J) Somatosomatic reflex principles Options: (A) Viscerosomatic reflex principles (B) Biomechanical compensatory patterns (G) Primary respiratory motion (H) Segmental facilitation theory (E) Thoracic kyphosis mechanics (J) Somatosomatic reflex principles (D) Fryette\u2019s first law (I) Fryette\u2019s second law (C) Fryette\u2019s third law (F) Muscle energy principle",
@@ -934,6 +986,32 @@
             "completion_tokens": 839
         },
         "time_elapsed": 12.327930927276611
+    },
+    {
+        "idx": "Text-317",
+        "realidx": "Text-317",
+        "question": "A 36-year-old female presents with a 2-week history of right breast inflammation and purulent nipple discharge. She reports three similar but less severe episodes in the previous year that partially improved with antibiotic treatment, though those episodes did not include nipple discharge. She stopped breastfeeding two years ago and denies recent breast trauma, nipple piercings, or systemic symptoms. There is no breast cancer in her family history. Her vital signs show temperature 37.3\u00b0C (99.1\u00b0F), heart rate 80/min, blood pressure 125/78 mm Hg, and respiratory rate 17/min. Physical examination reveals erythema and induration in the right breast's upper outer quadrant with a tender mass, but no fluctuance. A draining sinus tract with purulent discharge is visible in the affected area. No axillary lymphadenopathy is present. What is the most likely diagnosis?\nAnswer Choices: (A) Inflammatory breast carcinoma (B) Galactocele (C) Granulomatous mastitis (D) Subareolar breast abscess (E) Mammary ductal ectasia (F) Plasma cell mastitis (G) Acute non-puerperal mastitis (H) Fat necrosis of the breast (I) Periductal mastitis (J) Tuberculous mastitis Options: (C) Granulomatous mastitis (H) Fat necrosis of the breast (J) Tuberculous mastitis (I) Periductal mastitis (F) Plasma cell mastitis (D) Subareolar breast abscess (E) Mammary ductal ectasia (A) Inflammatory breast carcinoma (B) Galactocele (G) Acute non-puerperal mastitis",
+        "answer_idx": "C",
+        "answer": "Granulomatous mastitis",
+        "options": {
+            "A": "Inflammatory breast carcinoma",
+            "B": "Galactocele",
+            "C": "Granulomatous mastitis",
+            "D": "Subareolar breast abscess",
+            "E": "Mammary ductal ectasia",
+            "F": "Plasma cell mastitis",
+            "G": "Acute non-puerperal mastitis",
+            "H": "Fat necrosis of the breast",
+            "I": "Periductal mastitis",
+            "J": "Tuberculous mastitis"
+        },
+        "predicted_answer": "I",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 63451,
+            "completion_tokens": 2012
+        },
+        "time_elapsed": 48.52015781402588
     },
     {
         "idx": "Text-320",
@@ -1220,6 +1298,32 @@
             "completion_tokens": 765
         },
         "time_elapsed": 11.63750147819519
+    },
+    {
+        "idx": "Text-387",
+        "realidx": "Text-387",
+        "question": "A 37-year-old woman visits her primary care physician due to worsening fatigue and joint pain over the past 2-3 weeks. She notes that her eyes have appeared \"discolored.\" Her medical history includes chronic alcohol use, but she denies illicit drug use. She reports unprotected sexual intercourse several months ago and has never received blood transfusions. Vital signs are normal. On physical examination, scleral icterus and hepatomegaly are observed. Blood tests reveal titers positive for a DNA hepadnavirus, and a liver biopsy is performed. Which of the following best characterizes the most likely histologic findings in this patient\u2019s liver biopsy?\nAnswer Choices: (A) Periportal fibrosis with ductular reaction (B) Bridging fibrosis and bile duct proliferation (C) Ballooning degeneration of hepatocytes with Mallory bodies (D) Hepatocyte swelling and monocyte infiltration (E) Regenerating nodules of hepatocytes and deposition of fibrosis (F) Spotty necrosis and portal expansion with inflammatory infiltrates (G) Lymphoid aggregates with focal areas of macrovesicular steatosis (H) Interface hepatitis with plasma cell infiltration (I) Ground-glass hepatocytes with cytoplasmic inclusions (J) Granular eosinophilic cells Options: (A) Periportal fibrosis with ductular reaction (H) Interface hepatitis with plasma cell infiltration (I) Ground-glass hepatocytes with cytoplasmic inclusions (G) Lymphoid aggregates with focal areas of macrovesicular steatosis (B) Bridging fibrosis and bile duct proliferation (F) Spotty necrosis and portal expansion with inflammatory infiltrates (E) Regenerating nodules of hepatocytes and deposition of fibrosis (D) Hepatocyte swelling and monocyte infiltration (C) Ballooning degeneration of hepatocytes with Mallory bodies (J) Granular eosinophilic cells",
+        "answer_idx": "J",
+        "answer": "Granular eosinophilic cells",
+        "options": {
+            "A": "Periportal fibrosis with ductular reaction",
+            "B": "Bridging fibrosis and bile duct proliferation",
+            "C": "Ballooning degeneration of hepatocytes with Mallory bodies",
+            "D": "Hepatocyte swelling and monocyte infiltration",
+            "E": "Regenerating nodules of hepatocytes and deposition of fibrosis",
+            "F": "Spotty necrosis and portal expansion with inflammatory infiltrates",
+            "G": "Lymphoid aggregates with focal areas of macrovesicular steatosis",
+            "H": "Interface hepatitis with plasma cell infiltration",
+            "I": "Ground-glass hepatocytes with cytoplasmic inclusions",
+            "J": "Granular eosinophilic cells"
+        },
+        "predicted_answer": "I",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 63353,
+            "completion_tokens": 1762
+        },
+        "time_elapsed": 43.9887011051178
     },
     {
         "idx": "Text-393",
@@ -2026,5 +2130,31 @@
             "completion_tokens": 4317
         },
         "time_elapsed": 109.40117740631104
+    },
+    {
+        "idx": "Text-94",
+        "realidx": "Text-94",
+        "question": "A 13-year-old athlete is evaluated for sports participation. The patient has played soccer without any symptoms and has no prior significant past medical history. Their brother, who has a \u201cthickened heart\u201d diagnosed at the age of 15, was advised by their cardiologist to avoid competitive sports. Physical exams, including an electrocardiogram, are unremarkable. Which of the following is the most appropriate screening recommendation for this patient?\nAnswer Choices: (A) One-time echocardiogram (B) Screening echocardiogram only if symptoms develop (C) Genetic testing for hypertrophic cardiomyopathy mutations (D) Annual electrocardiogram without echocardiogram (E) Annual echocardiogram (F) Cardiac (magnetic resonance imaging) MRI (G) Holter monitor evaluation annually (H) Referral for electrophysiology study (I) Cardiac MRI every 5 years (J) Exercise stress testing every 2 years Options: (D) Annual electrocardiogram without echocardiogram (J) Exercise stress testing every 2 years (I) Cardiac MRI every 5 years (A) One-time echocardiogram (E) Annual echocardiogram (C) Genetic testing for hypertrophic cardiomyopathy mutations (H) Referral for electrophysiology study (F) Cardiac (magnetic resonance imaging) MRI (B) Screening echocardiogram only if symptoms develop (G) Holter monitor evaluation annually",
+        "answer_idx": "E",
+        "answer": "Annual echocardiogram",
+        "options": {
+            "A": "One-time echocardiogram",
+            "B": "Screening echocardiogram only if symptoms develop",
+            "C": "Genetic testing for hypertrophic cardiomyopathy mutations",
+            "D": "Annual electrocardiogram without echocardiogram",
+            "E": "Annual echocardiogram",
+            "F": "Cardiac (magnetic resonance imaging) MRI",
+            "G": "Holter monitor evaluation annually",
+            "H": "Referral for electrophysiology study",
+            "I": "Cardiac MRI every 5 years",
+            "J": "Exercise stress testing every 2 years"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 16219,
+            "completion_tokens": 945
+        },
+        "time_elapsed": 21.058152675628662
     }
 ]

@@ -46,6 +46,32 @@
         "time_elapsed": 10.872222661972046
     },
     {
+        "idx": 6012,
+        "realidx": 6012,
+        "question": "Which is the most reliable way to assess for clubbing? Options: (E) Schamroth's sign (I) Measuring the length of the nail (F) Measuring the width of the nail (C) Inspect the nail-bed angle from above (D) Assessing the nail's texture (A) Inspect the nail-bed angle from the side (J) Assessing the fluctuancy of the nail-bed (H) Checking the color of the nail-bed (B) Inspect the nail-bed curvature from below (G) Checking for pain in the nail-bed",
+        "answer_idx": "A",
+        "answer": "Inspect the nail-bed angle from the side",
+        "options": {
+            "A": "Inspect the nail-bed angle from the side",
+            "B": "Inspect the nail-bed curvature from below",
+            "C": "Inspect the nail-bed angle from above",
+            "D": "Assessing the nail's texture",
+            "E": "Schamroth's sign",
+            "F": "Measuring the width of the nail",
+            "G": "Checking for pain in the nail-bed",
+            "H": "Checking the color of the nail-bed",
+            "I": "Measuring the length of the nail",
+            "J": "Assessing the fluctuancy of the nail-bed"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5583,
+            "completion_tokens": 773
+        },
+        "time_elapsed": 12.24431324005127
+    },
+    {
         "idx": 6013,
         "realidx": 6013,
         "question": "Bronchial breathing is characterized by Options: (F) Both inspiratory and expiratory components are equal with no gap between them (D) Both inspiratory and expiratory components are equal in length and volume (A) Inspiratory component louder and longer with a gap between inspiration and expiration (H) Expiratory component louder and longer with a gap between expiration and inspiration (J) Expiratory component shorter and quieter with a gap between inspiration and expiration (C) Expiratory component louder and longer, but no gap between expiration and inspiration (I) Inspiratory component shorter and quieter with a gap between expiration and inspiration (B) Inspiratory component louder and longer, but no gap between expiration and inspiration (E) Inspiratory component louder and longer with a gap between expiration and inspiration (G) Expiratory component louder and longer with a gap between inspiration and expiration",
@@ -1139,6 +1165,32 @@
             "completion_tokens": 833
         },
         "time_elapsed": 12.803833246231079
+    },
+    {
+        "idx": 6169,
+        "realidx": 6169,
+        "question": "When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the Options: (E) anterior fragment to be displaced medially by the action of the medial pterygoid muscle. (G) posterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle. (C) anterior fragment to be displaced backwards by action of the temporalis muscle. (D) posterior fragment to be displaced laterally by the action of the medial pterygoid muscle. (H) anterior fragment to be displaced upwards by the action of the masseter muscle. (I) anterior fragment to be displaced downwards by the action of the digastric muscle. (B) posterior fragment to be displaced downwards by the action of the digastric muscle. (J) posterior fragment to be displaced medially by action of the medial pterygoid muscle. (A) anterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle. (F) posterior fragment to be displaced upwards by the action of the masseter muscle.",
+        "answer_idx": "I",
+        "answer": "anterior fragment to be displaced downwards by the action of the digastric muscle.",
+        "options": {
+            "A": "anterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle.",
+            "B": "posterior fragment to be displaced downwards by the action of the digastric muscle.",
+            "C": "anterior fragment to be displaced backwards by action of the temporalis muscle.",
+            "D": "posterior fragment to be displaced laterally by the action of the medial pterygoid muscle.",
+            "E": "anterior fragment to be displaced medially by the action of the medial pterygoid muscle.",
+            "F": "posterior fragment to be displaced upwards by the action of the masseter muscle.",
+            "G": "posterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle.",
+            "H": "anterior fragment to be displaced upwards by the action of the masseter muscle.",
+            "I": "anterior fragment to be displaced downwards by the action of the digastric muscle.",
+            "J": "posterior fragment to be displaced medially by action of the medial pterygoid muscle."
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6129,
+            "completion_tokens": 802
+        },
+        "time_elapsed": 11.233439922332764
     },
     {
         "idx": 6171,

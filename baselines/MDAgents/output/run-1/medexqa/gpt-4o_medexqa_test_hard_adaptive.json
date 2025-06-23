@@ -240,6 +240,26 @@
         "time_elapsed": 10.803508281707764
     },
     {
+        "idx": "136_occupational_therapist",
+        "realidx": "136_occupational_therapist",
+        "question": "What is the numerator when calculating the proportional mortality ratio using the total number of deaths as the denominator? Options: (C) Number of deaths at age 40 and above (B) Number of deaths at age 60 and above (A) Number of deaths at age 80 and above (D) Number of deaths at age 50 and above",
+        "answer_idx": "D",
+        "answer": "Number of deaths at age 50 and above",
+        "options": {
+            "A": "Number of deaths at age 80 and above",
+            "B": "Number of deaths at age 60 and above",
+            "C": "Number of deaths at age 40 and above",
+            "D": "Number of deaths at age 50 and above"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3989,
+            "completion_tokens": 732
+        },
+        "time_elapsed": 9.296880006790161
+    },
+    {
         "idx": "137_biomedical_engineer",
         "realidx": "137_biomedical_engineer",
         "question": "Which of the following are methods of solute removal used only in hemodialysis? Options: (D) Diffusion, Convection (C) Diffusion, Convection, Ultrafiltration (A) Convection, Ultrafiltration (B) Diffusion, Ultrafiltration",

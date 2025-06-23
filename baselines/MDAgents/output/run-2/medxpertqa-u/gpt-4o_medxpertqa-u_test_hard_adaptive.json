@@ -442,6 +442,32 @@
         "time_elapsed": 15.481736183166504
     },
     {
+        "idx": "Text-212",
+        "realidx": "Text-212",
+        "question": "Which type of movement is most associated with the development of the overuse syndrome known as athletic pubalgia?\nAnswer Choices: (A) Hip abduction and external rotation (B) Hip extension and abduction (C) Hip flexion and abduction (D) Hip flexion and external rotation (E) Hip adduction and internal rotation (F) Hip flexion and adduction (G) Hip extension and external rotation (H) Hip extension and internal rotation (I) Hip flexion and internal rotation (J) Hip extension and adduction Options: (H) Hip extension and internal rotation (A) Hip abduction and external rotation (J) Hip extension and adduction (G) Hip extension and external rotation (D) Hip flexion and external rotation (E) Hip adduction and internal rotation (C) Hip flexion and abduction (B) Hip extension and abduction (F) Hip flexion and adduction (I) Hip flexion and internal rotation",
+        "answer_idx": "B",
+        "answer": "Hip extension and abduction",
+        "options": {
+            "A": "Hip abduction and external rotation",
+            "B": "Hip extension and abduction",
+            "C": "Hip flexion and abduction",
+            "D": "Hip flexion and external rotation",
+            "E": "Hip adduction and internal rotation",
+            "F": "Hip flexion and adduction",
+            "G": "Hip extension and external rotation",
+            "H": "Hip extension and internal rotation",
+            "I": "Hip flexion and internal rotation",
+            "J": "Hip extension and adduction"
+        },
+        "predicted_answer": "F",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 16252,
+            "completion_tokens": 964
+        },
+        "time_elapsed": 16.170595169067383
+    },
+    {
         "idx": "Text-215",
         "realidx": "Text-215",
         "question": "A 41-year-old farmer seeks medical attention due to muscle weakness and excessive salivation that has gradually worsened over a 2-month period following his switch to new fertilizers and insecticides for his corn fields. Physical examination reveals bilateral upper and lower extremity muscle strength of 3/5, excessive tearing, and constricted pupils that are unresponsive to light. The patient exhibits frequent swallowing and has cheilosis (inflammation at the corners of the mouth). Which unbalanced activity is primarily responsible for the cheilosis observed in this patient?\nAnswer Choices: (A) CN III (B) Sympathetic chain ganglia (C) CN VI (D) CN V (E) CN VII (F) CN X (G) CN IX (H) CN XII (I) Thoracic splanchnic nerves (J) Pelvic splanchnic (S2-S4) Options: (J) Pelvic splanchnic (S2-S4) (E) CN VII (G) CN IX (C) CN VI (A) CN III (D) CN V (F) CN X (H) CN XII (I) Thoracic splanchnic nerves (B) Sympathetic chain ganglia",
@@ -986,6 +1012,32 @@
             "completion_tokens": 782
         },
         "time_elapsed": 15.249125242233276
+    },
+    {
+        "idx": "Text-331",
+        "realidx": "Text-331",
+        "question": "A 35-year-old woman arrives at the emergency department with complaints of severe nausea and diarrhea. She reports dining at a new seafood restaurant specializing in exotic fish one day prior. Since then, she has experienced nausea, diarrhea, weakness, and tingling in her extremities. In the emergency department, her temperature is 100.3\u00b0F (37.9\u00b0C), blood pressure is 95/60 mmHg, pulse is 105/min, and respirations are 20/min. On examination, she appears fatigued and exhibits 1+ reflexes in the Achilles and patellar tendons. Which of the following best describes the mechanism of action of the substance most likely causing her symptoms?\nAnswer Choices: (A) Promotes depolarization of Na+ channels (B) Inhibits acetylcholinesterase activity (C) Activates ligand-gated chloride channels (D) Causes sustained activation of muscarinic acetylcholine receptors (E) Blocks voltage-gated potassium channels (F) Permanent Gs activation (G) Blocks nicotinic acetylcholine receptors (H) Enhances GABAergic neurotransmission (I) Inhibits sodium-potassium ATPase pump (J) Prevents depolarization of Na+ channels Options: (C) Activates ligand-gated chloride channels (B) Inhibits acetylcholinesterase activity (D) Causes sustained activation of muscarinic acetylcholine receptors (A) Promotes depolarization of Na+ channels (E) Blocks voltage-gated potassium channels (J) Prevents depolarization of Na+ channels (G) Blocks nicotinic acetylcholine receptors (H) Enhances GABAergic neurotransmission (I) Inhibits sodium-potassium ATPase pump (F) Permanent Gs activation",
+        "answer_idx": "J",
+        "answer": "Prevents depolarization of Na+ channels",
+        "options": {
+            "A": "Promotes depolarization of Na+ channels",
+            "B": "Inhibits acetylcholinesterase activity",
+            "C": "Activates ligand-gated chloride channels",
+            "D": "Causes sustained activation of muscarinic acetylcholine receptors",
+            "E": "Blocks voltage-gated potassium channels",
+            "F": "Permanent Gs activation",
+            "G": "Blocks nicotinic acetylcholine receptors",
+            "H": "Enhances GABAergic neurotransmission",
+            "I": "Inhibits sodium-potassium ATPase pump",
+            "J": "Prevents depolarization of Na+ channels"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 17147,
+            "completion_tokens": 901
+        },
+        "time_elapsed": 15.783879518508911
     },
     {
         "idx": "Text-335",
@@ -2026,5 +2078,31 @@
             "completion_tokens": 2519
         },
         "time_elapsed": 61.49347281455994
+    },
+    {
+        "idx": "Text-90",
+        "realidx": "Text-90",
+        "question": "A 62-year-old female presents to her primary care physician with complaints of anal bleeding. She describes a 4-month history of intermittent bleeding, which has worsened over the past 2 weeks. Additionally, she has noticed occasional mucoid discharge from the anus. She denies pain during defecation but reports increasing episodes of constipation over the past month. Her medical history includes hypertension and breast cancer treated with mastectomy and radiation therapy. She takes enalapril, has a 15-pack-year smoking history, and consumes 3-4 glasses of wine weekly. On examination, her temperature is 98.4\u00b0F (36.9\u00b0C), blood pressure is 135/85 mmHg, pulse is 85/min, and respirations are 18/min. She appears pale but is otherwise conversational and pleasant. Digital rectal examination reveals a small mass within the anal canal, and anoscopy shows an erythematous, irregular mass arising from the mucosa above the dentate line. Which histologic finding is most likely associated with this lesion?\nAnswer Choices: (A) Mucinous adenocarcinoma (B) Cloacogenic carcinoma (C) Small cell carcinoma (D) Adenocarcinoma (E) Basal cell carcinoma (F) Transitional cell carcinoma (G) Basaloid carcinoma (H) Neuroendocrine carcinoma (I) Large cell carcinoma (J) Squamous cell carcinoma Options: (G) Basaloid carcinoma (E) Basal cell carcinoma (C) Small cell carcinoma (H) Neuroendocrine carcinoma (B) Cloacogenic carcinoma (D) Adenocarcinoma (I) Large cell carcinoma (J) Squamous cell carcinoma (A) Mucinous adenocarcinoma (F) Transitional cell carcinoma",
+        "answer_idx": "G",
+        "answer": "Basaloid carcinoma",
+        "options": {
+            "A": "Mucinous adenocarcinoma",
+            "B": "Cloacogenic carcinoma",
+            "C": "Small cell carcinoma",
+            "D": "Adenocarcinoma",
+            "E": "Basal cell carcinoma",
+            "F": "Transitional cell carcinoma",
+            "G": "Basaloid carcinoma",
+            "H": "Neuroendocrine carcinoma",
+            "I": "Large cell carcinoma",
+            "J": "Squamous cell carcinoma"
+        },
+        "predicted_answer": "J",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 18984,
+            "completion_tokens": 1199
+        },
+        "time_elapsed": 145.2638807296753
     }
 ]
