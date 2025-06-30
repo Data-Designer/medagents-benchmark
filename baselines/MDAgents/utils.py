@@ -38,7 +38,19 @@ class Agent:
                 for exampler in examplers:
                     self.messages.append({"role": "user", "content": exampler['question']})
                     self.messages.append({"role": "assistant", "content": exampler['answer'] + "\n\n" + exampler['reason']})
-
+        elif self.model_info in ['o1-mini', 'o3-mini']:
+            self.client = AzureOpenAI(
+                azure_endpoint = os.getenv("AZURE_ENDPOINT_2"),
+                api_key = os.getenv("AZURE_API_KEY_2"),
+                api_version = os.getenv("AZURE_API_VERSION_2"),
+            )
+            self.messages = [
+                {"role": "user", "content": instruction},
+            ]
+            if examplers is not None:
+                for exampler in examplers:
+                    self.messages.append({"role": "user", "content": exampler['question']})
+                    self.messages.append({"role": "assistant", "content": exampler['answer'] + "\n\n" + exampler['reason']})
         elif self.model_info == 'deepseek-V3':
             self.client = OpenAI(
                 base_url="https://api.together.xyz/v1",
@@ -76,6 +88,15 @@ class Agent:
             self.messages.append({"role": "assistant", "content": response.choices[0].message.content})
             return response.choices[0].message.content, {'prompt_tokens': response.usage.prompt_tokens, 'completion_tokens': response.usage.completion_tokens}
         
+        elif self.model_info in ['o1-mini', 'o3-mini']:
+            self.messages.append({"role": "user", "content": message})
+            response = self.client.chat.completions.create(
+                model=self.model_info,
+                messages=self.messages
+            )
+            self.messages.append({"role": "assistant", "content": response.choices[0].message.content})
+            return response.choices[0].message.content, {'prompt_tokens': response.usage.prompt_tokens, 'completion_tokens': response.usage.completion_tokens}
+        
         elif self.model_info == 'deepseek-V3':
             response = self.client.chat.completions.create(
                 model='deepseek-ai/DeepSeek-V3',
@@ -103,6 +124,13 @@ class Agent:
                 
             return responses, {'prompt_tokens': response.usage.prompt_tokens, 'completion_tokens': response.usage.completion_tokens}
         
+        elif self.model_info in ['o1-mini', 'o3-mini']:
+            self.messages.append({"role": "user", "content": message})
+            response = self.client.chat.completions.create(
+                model=self.model_info,
+                messages=self.messages,
+            )
+            return {'0': response.choices[0].message.content}, {'prompt_tokens': response.usage.prompt_tokens, 'completion_tokens': response.usage.completion_tokens}
         elif self.model_info == 'deepseek-V3':
             self.messages.append({"role": "user", "content": message})
             
@@ -256,6 +284,13 @@ def setup_model(model_name):
                 api_version = os.getenv("AZURE_API_VERSION"),
             )
         return None, client
+    elif 'o1' in model_name or 'o3' in model_name:
+        client = AzureOpenAI(
+                azure_endpoint = os.getenv("AZURE_ENDPOINT_2"),
+                api_key = os.getenv("AZURE_API_KEY_2"),
+                api_version = os.getenv("AZURE_API_VERSION_2"),
+            )
+        return None, client
     elif 'deepseek' in model_name:
         client = OpenAI(
             base_url="https://api.together.xyz/v1",
@@ -337,7 +372,7 @@ def process_basic_query(question, examplers, model, args):
 
     decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info='gpt-4o-mini')
     decision_agent.chat('You are an answer parser.')
-    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output the letter from the following {final_decision}.', img_path=None)
+    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output the single letter from the following {final_decision}.', img_path=None)
 
     total_usage['prompt_tokens'] += decision_answer_usage['prompt_tokens']
     total_usage['completion_tokens'] += decision_answer_usage['completion_tokens']
@@ -544,7 +579,7 @@ def process_intermediate_query(question, examplers, model, args):
     # Parse the final decision
     decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info='gpt-4o-mini')
     decision_agent.chat('You are an answer parser.')
-    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output the letter from the following {final_decision}.', img_path=None)
+    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output the single letter from the following {final_decision}.', img_path=None)
     total_usage['prompt_tokens'] += decision_answer_usage['prompt_tokens']
     total_usage['completion_tokens'] += decision_answer_usage['completion_tokens']
     
@@ -636,7 +671,7 @@ def process_advanced_query(question, model, args):
     # Parse the final decision
     decision_agent = Agent(instruction='You are an answer parser.', role='Answer Parser', model_info='gpt-4o-mini')
     decision_agent.chat('You are an answer parser.')
-    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output the letter from the following {final_decision}.', img_path=None)
+    decision_answer, decision_answer_usage = decision_agent.chat(f'The following are multiple choice questions (with answers) about medical knowledge.\n\nHere is the question: {question}\n\nOnly output the single letter from the following {final_decision}.', img_path=None)
     total_usage['prompt_tokens'] += decision_answer_usage['prompt_tokens']
     total_usage['completion_tokens'] += decision_answer_usage['completion_tokens']
     

@@ -940,6 +940,26 @@
         "time_elapsed": 9.746880292892456
     },
     {
+        "idx": "30_clinical_psychologist",
+        "realidx": "30_clinical_psychologist",
+        "question": "What is the correct thing for a counselor to be aware of during the initial stages of counseling for a sexual abuse survivor? Options: (A) If the survivor denies the sexual abuse during the first interview, the counselor should continuously encourage them to be open and honest. (B) The counselor should actively intervene to quickly explore and heal the psychological trauma caused by the sexual abuse. (C) The counselor should obtain detailed information about the survivor's family situation and any complications from the sexual abuse as early as possible. (D) Even if the client expresses discomfort, it is important for the counselor to lead the interview to collect detailed information about the abuse situation.",
+        "answer_idx": "C",
+        "answer": "The counselor should obtain detailed information about the survivor's family situation and any complications from the sexual abuse as early as possible.",
+        "options": {
+            "A": "If the survivor denies the sexual abuse during the first interview, the counselor should continuously encourage them to be open and honest.",
+            "B": "The counselor should actively intervene to quickly explore and heal the psychological trauma caused by the sexual abuse.",
+            "C": "The counselor should obtain detailed information about the survivor's family situation and any complications from the sexual abuse as early as possible.",
+            "D": "Even if the client expresses discomfort, it is important for the counselor to lead the interview to collect detailed information about the abuse situation."
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 291986,
+            "completion_tokens": 6721
+        },
+        "time_elapsed": 131.80732464790344
+    },
+    {
         "idx": "30_speech_pathologist",
         "realidx": "30_speech_pathologist",
         "question": "Which swallowing technique involves maintaining the thyroid cartilage elevated for about 2 to 5 seconds immediately after the hyo-laryngeal elevation occurs? Options: (C) Masako maneuver (B) effortful swallow (D) supraglottic swallow (A) Mendelsohn maneuver",

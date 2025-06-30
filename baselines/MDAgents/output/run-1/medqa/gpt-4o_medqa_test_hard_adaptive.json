@@ -1280,6 +1280,26 @@
         "time_elapsed": 18.78202748298645
     },
     {
+        "idx": 524,
+        "realidx": 524,
+        "question": "A 6-month-old boy is brought to the physician by his parents for difficulty breathing and bluish discoloration of the lips for the past hour. During the past 3 months, the patient has had several upper respiratory tract infections and poor weight gain. Physical examination shows crackles over both lung fields and enlargement of the tonsils and cervical lymph nodes. His serum IgA, IgE, and IgG titers are decreased. An x-ray of the chest shows bilateral interstitial infiltrates. Methenamine silver staining of bronchial lavage fluid shows disc-shaped cysts. A defect in which of the following is the most likely underlying cause of this patient's condition? Options: (D) B-cell maturation (A) Actin filament assembly (C) Microtubule polymerization (B) T-cell receptor signaling",
+        "answer_idx": "B",
+        "answer": "T-cell receptor signaling",
+        "options": {
+            "A": "Actin filament assembly",
+            "B": "T-cell receptor signaling",
+            "C": "Microtubule polymerization",
+            "D": "B-cell maturation"
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 282695,
+            "completion_tokens": 5743
+        },
+        "time_elapsed": 103.938880443573
+    },
+    {
         "idx": 531,
         "realidx": 531,
         "question": "A 24-year-old woman is brought to the emergency room (ER) by her co-workers after they found her unconscious in her cubicle when they returned from lunch. They tell you that she has diabetes but do not know anything more about her condition. The woman\u2019s vital signs include: pulse 110/min, respiratory rate 24/min, temperature 36.7\u00b0C (98.0\u00b0F), and blood pressure 90/60 mm Hg. On physical examination, the patient is breathing heavily and gives irrelevant responses to questions. The skin and mucous membranes appear dry. Examination of the abdomen reveals mild diffuse tenderness to palpation. Deep tendon reflexes in the extremities are 1+ bilaterally. Laboratory studies show:\nFinger stick glucose 630 mg/dL\nArterial blood gas analysis:\npH 7.1\nPO2 90 mm Hg\nPCO2 33 mm Hg\nHCO3 8 mEq/L\nSerum:\nSodium 135 mEq/L\nPotassium 3.1 mEq/L\nChloride 136 mEq/L\nBlood urea nitrogen 20 mg/dL\nSerum creatinine 1.2 mg/dL\nUrine examination shows:\nGlucose Positive\nKetones Positive\nLeukocytes Negative\nNitrite Negative\nRBCs Negative\nCasts Negative\nThe patient is immediately started on a bolus of intravenous (IV) 0.9% sodium chloride (NaCl). Which of the following is the next best step in the management of this patient? Options: (A) Infuse NaHCO3 slowly (C) Start IV insulin infusion (D) Replace potassium intravenously (B) Switch fluids to 0.45% NaCl",
@@ -1598,6 +1618,26 @@
             "completion_tokens": 872
         },
         "time_elapsed": 16.61734890937805
+    },
+    {
+        "idx": 676,
+        "realidx": 676,
+        "question": "A 75-year-old man is admitted to the hospital because of a 3-day history of a productive cough and shortness of breath. His temperature is 38\u00b0C (100.4\u00b0F) and respirations are 32/min. Crackles are heard over the right upper and the entire left lung fields. Sputum culture confirms infection with Streptococcus pneumoniae. Despite appropriate therapy, the patient dies. A photomicrograph of a section of the lung obtained during the autopsy is shown. Which of the following mediators is most likely responsible for the presence of the cell-type indicated by the arrow? Options: (B) Interferon-gamma (A) Platelet activating factor (C) Interleukin-10 (D) Leukotriene D4",
+        "answer_idx": "A",
+        "answer": "Platelet activating factor",
+        "options": {
+            "A": "Platelet activating factor",
+            "B": "Interferon-gamma",
+            "C": "Interleukin-10",
+            "D": "Leukotriene D4"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 36661,
+            "completion_tokens": 2164
+        },
+        "time_elapsed": 46.12640190124512
     },
     {
         "idx": 677,

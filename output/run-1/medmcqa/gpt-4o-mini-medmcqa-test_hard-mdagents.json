@@ -1560,6 +1560,26 @@
         "time_elapsed": 9.191835880279541
     },
     {
+        "idx": "cc0d09f8-564d-4fe5-8b22-4b7d3e4ed586",
+        "realidx": "cc0d09f8-564d-4fe5-8b22-4b7d3e4ed586",
+        "question": "Most common tumor of lacrimal gland: Options: (A) Trans-scaphoid perilunate fracture (C) Distal radius fracture (D) Hamate fracture (B) Scaphoid fracture",
+        "answer_idx": "D",
+        "answer": "Hamate fracture",
+        "options": {
+            "A": "Trans-scaphoid perilunate fracture",
+            "B": "Scaphoid fracture",
+            "C": "Distal radius fracture",
+            "D": "Hamate fracture"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3730,
+            "completion_tokens": 647
+        },
+        "time_elapsed": 16.751161336898804
+    },
+    {
         "idx": "d321d320-c06f-4d18-9aa2-dae718851dfd",
         "realidx": "d321d320-c06f-4d18-9aa2-dae718851dfd",
         "question": "For how long should NiTi files be submerged in NaOCl at 122-degree F to prevent damage to file corrosion Options: (D) 2 hours (B) 45 mins (C) 60 mins (A) 20 mins",

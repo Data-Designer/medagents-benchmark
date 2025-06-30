@@ -1,0 +1,1922 @@
+[
+    {
+        "idx": "0_speech_pathologist",
+        "realidx": "0_speech_pathologist",
+        "question": "Which of the following statements is correct regarding the myoelastic-aerodynamic theory of phonation? Options: (A) The vocal cords adduct due to the contraction of the extrinsic laryngeal muscles. (C) The vocal folds open when the supraglottal pressure is equal to the subglottal pressure. (B) If the airflow velocity between the vocal folds decreases, the air pressure decreases. (D) The vocal folds are brought together by the reduced air pressure between them and the elasticity of the vocal folds.",
+        "answer_idx": "B",
+        "answer": "If the airflow velocity between the vocal folds decreases, the air pressure decreases.",
+        "options": {
+            "A": "The vocal cords adduct due to the contraction of the extrinsic laryngeal muscles.",
+            "B": "If the airflow velocity between the vocal folds decreases, the air pressure decreases.",
+            "C": "The vocal folds open when the supraglottal pressure is equal to the subglottal pressure.",
+            "D": "The vocal folds are brought together by the reduced air pressure between them and the elasticity of the vocal folds."
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5001,
+            "completion_tokens": 4144
+        },
+        "time_elapsed": 31.466302156448364
+    },
+    {
+        "idx": "101_biomedical_engineer",
+        "realidx": "101_biomedical_engineer",
+        "question": "Which biological tissue has the highest viscosity? Options: (C) Soft tissue (B) Bone (A) Blood (D) Water",
+        "answer_idx": "B",
+        "answer": "Bone",
+        "options": {
+            "A": "Blood",
+            "B": "Bone",
+            "C": "Soft tissue",
+            "D": "Water"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3694,
+            "completion_tokens": 4081
+        },
+        "time_elapsed": 28.080103158950806
+    },
+    {
+        "idx": "103_biomedical_engineer",
+        "realidx": "103_biomedical_engineer",
+        "question": "Which of the following is not an item used for blood pressure or pulse measurement? Options: (A) Mercury sphygmomanometer (D) Pulse meter (B) Blood pressure monitor (C) Fundus sphygmomanometer",
+        "answer_idx": "A",
+        "answer": "Mercury sphygmomanometer",
+        "options": {
+            "A": "Mercury sphygmomanometer",
+            "B": "Blood pressure monitor",
+            "C": "Fundus sphygmomanometer",
+            "D": "Pulse meter"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3975,
+            "completion_tokens": 3409
+        },
+        "time_elapsed": 26.393935680389404
+    },
+    {
+        "idx": "108_biomedical_engineer",
+        "realidx": "108_biomedical_engineer",
+        "question": "What is the classification of medical device parts that can be attached to the body, where the patient leakage current is 0.01mA under normal conditions and less than 0.05mA under a single fault condition? Options: (D) Type CF part (A) Type C part (B) Type B part (C) Type BF part",
+        "answer_idx": "D",
+        "answer": "Type CF part",
+        "options": {
+            "A": "Type C part",
+            "B": "Type B part",
+            "C": "Type BF part",
+            "D": "Type CF part"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4134,
+            "completion_tokens": 4510
+        },
+        "time_elapsed": 32.74314284324646
+    },
+    {
+        "idx": "115_biomedical_engineer",
+        "realidx": "115_biomedical_engineer",
+        "question": "Which of the following is NOT a common characteristic of biomedical metal materials? Options: (C) They have a low specific gravity and a metallic luster. (A) They have high strength and are easily deformable. (D) They are solid at room temperature. (B) They are good conductors of heat and electricity.",
+        "answer_idx": "C",
+        "answer": "They have a low specific gravity and a metallic luster.",
+        "options": {
+            "A": "They have high strength and are easily deformable.",
+            "B": "They are good conductors of heat and electricity.",
+            "C": "They have a low specific gravity and a metallic luster.",
+            "D": "They are solid at room temperature."
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4182,
+            "completion_tokens": 3833
+        },
+        "time_elapsed": 28.614876747131348
+    },
+    {
+        "idx": "11_occupational_therapist",
+        "realidx": "11_occupational_therapist",
+        "question": "Where should the posterior cross point of the right figure of eight harness be located for good mechanical efficiency? Options: (C) A point to the right of the spine center (B) A point to the left of the spine center (D) Directly in the center of the spine (A) A comfortable position for the patient",
+        "answer_idx": "B",
+        "answer": "A point to the left of the spine center",
+        "options": {
+            "A": "A comfortable position for the patient",
+            "B": "A point to the left of the spine center",
+            "C": "A point to the right of the spine center",
+            "D": "Directly in the center of the spine"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4309,
+            "completion_tokens": 3411
+        },
+        "time_elapsed": 24.91323208808899
+    },
+    {
+        "idx": "11_speech_pathologist",
+        "realidx": "11_speech_pathologist",
+        "question": "Which of the following statements about the Stuttering Severity Instrument (SSI) is correct? Options: (C) Secondary behaviors are measured on a 4-point scale. (D) Duration is measured by the longest block of time. (A) It places emphasis on abnormal nonfluency. (B) Preschool children are given a picture description task.",
+        "answer_idx": "C",
+        "answer": "Secondary behaviors are measured on a 4-point scale.",
+        "options": {
+            "A": "It places emphasis on abnormal nonfluency.",
+            "B": "Preschool children are given a picture description task.",
+            "C": "Secondary behaviors are measured on a 4-point scale.",
+            "D": "Duration is measured by the longest block of time."
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4308,
+            "completion_tokens": 3235
+        },
+        "time_elapsed": 23.16987133026123
+    },
+    {
+        "idx": "126_occupational_therapist",
+        "realidx": "126_occupational_therapist",
+        "question": "What is the axis location for ulnar deviation? Options: (C) Base of the third metacarpal (D) Ulnar styloid process (B) Third metacarpophalangeal joint (A) Radial styloid process",
+        "answer_idx": "C",
+        "answer": "Base of the third metacarpal",
+        "options": {
+            "A": "Radial styloid process",
+            "B": "Third metacarpophalangeal joint",
+            "C": "Base of the third metacarpal",
+            "D": "Ulnar styloid process"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4482,
+            "completion_tokens": 4051
+        },
+        "time_elapsed": 26.903069019317627
+    },
+    {
+        "idx": "12_speech_pathologist",
+        "realidx": "12_speech_pathologist",
+        "question": "Which of the following is an activity related to the accent method? Options: (D) Singing while performing a lip trill. (B) Humming using nasal resonance. (A) Speaking loudly as if shouting. (C) Producing voiceless fricatives at a slow tempo in 3/4 time.",
+        "answer_idx": "B",
+        "answer": "Humming using nasal resonance.",
+        "options": {
+            "A": "Speaking loudly as if shouting.",
+            "B": "Humming using nasal resonance.",
+            "C": "Producing voiceless fricatives at a slow tempo in 3/4 time.",
+            "D": "Singing while performing a lip trill."
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4005,
+            "completion_tokens": 5179
+        },
+        "time_elapsed": 33.502357006073
+    },
+    {
+        "idx": "130_biomedical_engineer",
+        "realidx": "130_biomedical_engineer",
+        "question": "What are the conditions that must be met for biomaterials to satisfy biocompatibility? Options: (A) The biomaterial should not cause inflammation or allergies in the surrounding tissues (D) The biomaterial should not inhibit biological functions (C) The biomaterial should have sufficient mechanical strength to perform its function (B) The biomaterial should not exhibit toxicity within the body",
+        "answer_idx": "C",
+        "answer": "The biomaterial should have sufficient mechanical strength to perform its function",
+        "options": {
+            "A": "The biomaterial should not cause inflammation or allergies in the surrounding tissues",
+            "B": "The biomaterial should not exhibit toxicity within the body",
+            "C": "The biomaterial should have sufficient mechanical strength to perform its function",
+            "D": "The biomaterial should not inhibit biological functions"
+        },
+        "predicted_answer": "0",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4299,
+            "completion_tokens": 4585
+        },
+        "time_elapsed": 32.046201944351196
+    },
+    {
+        "idx": "134_biomedical_engineer",
+        "realidx": "134_biomedical_engineer",
+        "question": "Which of the following is a correct description of the types of synovial joints? Options: (B) Saddle joint: The articulating surfaces are shaped like a saddle, allowing movement in two perpendicular directions. (C) Plane joint: The articulating surfaces are flat, and the joint is surrounded by a tight joint capsule and strong ligaments, limiting movement. (D) Ellipsoidal joint: The head of the joint is oval-shaped, allowing movement along the long and short axes, but rotation is not possible. (A) Ball-and-socket joint: The head of the joint is ball-shaped and the socket is deep and concave, allowing for the greatest range of motion in various planes.",
+        "answer_idx": "C",
+        "answer": "Plane joint: The articulating surfaces are flat, and the joint is surrounded by a tight joint capsule and strong ligaments, limiting movement.",
+        "options": {
+            "A": "Ball-and-socket joint: The head of the joint is ball-shaped and the socket is deep and concave, allowing for the greatest range of motion in various planes.",
+            "B": "Saddle joint: The articulating surfaces are shaped like a saddle, allowing movement in two perpendicular directions.",
+            "C": "Plane joint: The articulating surfaces are flat, and the joint is surrounded by a tight joint capsule and strong ligaments, limiting movement.",
+            "D": "Ellipsoidal joint: The head of the joint is oval-shaped, allowing movement along the long and short axes, but rotation is not possible."
+        },
+        "predicted_answer": "0",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4335,
+            "completion_tokens": 3917
+        },
+        "time_elapsed": 26.388566493988037
+    },
+    {
+        "idx": "136_occupational_therapist",
+        "realidx": "136_occupational_therapist",
+        "question": "What is the numerator when calculating the proportional mortality ratio using the total number of deaths as the denominator? Options: (C) Number of deaths at age 40 and above (B) Number of deaths at age 60 and above (D) Number of deaths at age 50 and above (A) Number of deaths at age 80 and above",
+        "answer_idx": "D",
+        "answer": "Number of deaths at age 50 and above",
+        "options": {
+            "A": "Number of deaths at age 80 and above",
+            "B": "Number of deaths at age 60 and above",
+            "C": "Number of deaths at age 40 and above",
+            "D": "Number of deaths at age 50 and above"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4457,
+            "completion_tokens": 5671
+        },
+        "time_elapsed": 35.89181733131409
+    },
+    {
+        "idx": "137_biomedical_engineer",
+        "realidx": "137_biomedical_engineer",
+        "question": "Which of the following are methods of solute removal used only in hemodialysis? Options: (C) Diffusion, Convection, Ultrafiltration (A) Convection, Ultrafiltration (B) Diffusion, Ultrafiltration (D) Diffusion, Convection",
+        "answer_idx": "D",
+        "answer": "Diffusion, Convection",
+        "options": {
+            "A": "Convection, Ultrafiltration",
+            "B": "Diffusion, Ultrafiltration",
+            "C": "Diffusion, Convection, Ultrafiltration",
+            "D": "Diffusion, Convection"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4260,
+            "completion_tokens": 4006
+        },
+        "time_elapsed": 28.78861427307129
+    },
+    {
+        "idx": "13_speech_pathologist",
+        "realidx": "13_speech_pathologist",
+        "question": "Which symptom can accompany a patient with aphasia exhibiting agrammatism? Options: (D) Motor neglect (A) Prosodic impairment (C) Rapid speech rate (B) Echolalia",
+        "answer_idx": "C",
+        "answer": "Rapid speech rate",
+        "options": {
+            "A": "Prosodic impairment",
+            "B": "Echolalia",
+            "C": "Rapid speech rate",
+            "D": "Motor neglect"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4146,
+            "completion_tokens": 4360
+        },
+        "time_elapsed": 28.66587519645691
+    },
+    {
+        "idx": "162_occupational_therapist",
+        "realidx": "162_occupational_therapist",
+        "question": "What is the appropriate height for the handle of a standard cane? Options: (A) At the height of the styloid process of the ulna when the elbow is bent at 90 degrees (B) 15 cm below the armpit (D) At the height of the greater trochanter (C) At the height of the fingertips when the elbow is fully extended",
+        "answer_idx": "D",
+        "answer": "At the height of the greater trochanter",
+        "options": {
+            "A": "At the height of the styloid process of the ulna when the elbow is bent at 90 degrees",
+            "B": "15 cm below the armpit",
+            "C": "At the height of the fingertips when the elbow is fully extended",
+            "D": "At the height of the greater trochanter"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4224,
+            "completion_tokens": 3708
+        },
+        "time_elapsed": 26.198858499526978
+    },
+    {
+        "idx": "166_occupational_therapist",
+        "realidx": "166_occupational_therapist",
+        "question": "Which digestive organ receives pancreatic juice containing amylase, trypsinogen, and lipase? Options: (A) Jejunum (B) Duodenum (D) Pancreas (C) Ileum",
+        "answer_idx": "D",
+        "answer": "Pancreas",
+        "options": {
+            "A": "Jejunum",
+            "B": "Duodenum",
+            "C": "Ileum",
+            "D": "Pancreas"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4213,
+            "completion_tokens": 4051
+        },
+        "time_elapsed": 26.91213321685791
+    },
+    {
+        "idx": "169_occupational_therapist",
+        "realidx": "169_occupational_therapist",
+        "question": "What should a hemiplegic patient do first when using a cane to climb stairs? Options: (A) Lift the cane and the paralyzed leg at the same time. (C) Lift the paralyzed leg. (B) Lift the cane. (D) Lift the non-paralyzed leg.",
+        "answer_idx": "D",
+        "answer": "Lift the non-paralyzed leg.",
+        "options": {
+            "A": "Lift the cane and the paralyzed leg at the same time.",
+            "B": "Lift the cane.",
+            "C": "Lift the paralyzed leg.",
+            "D": "Lift the non-paralyzed leg."
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4277,
+            "completion_tokens": 4818
+        },
+        "time_elapsed": 31.69598388671875
+    },
+    {
+        "idx": "172_occupational_therapist",
+        "realidx": "172_occupational_therapist",
+        "question": "What is the manual muscle test grade when only a portion of the range of motion is possible in a gravity-minimized position? Options: (A) P- (C) T (D) F (B) P",
+        "answer_idx": "A",
+        "answer": "P-",
+        "options": {
+            "A": "P-",
+            "B": "P",
+            "C": "T",
+            "D": "F"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4402,
+            "completion_tokens": 4266
+        },
+        "time_elapsed": 29.01777458190918
+    },
+    {
+        "idx": "177_occupational_therapist",
+        "realidx": "177_occupational_therapist",
+        "question": "What is the remedial approach? Options: (A) Modifying the size of food bolus (C) Changing the texture of food (D) Electrical stimulation therapy (B) Lowering the jaw",
+        "answer_idx": "D",
+        "answer": "Electrical stimulation therapy",
+        "options": {
+            "A": "Modifying the size of food bolus",
+            "B": "Lowering the jaw",
+            "C": "Changing the texture of food",
+            "D": "Electrical stimulation therapy"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 319697,
+            "completion_tokens": 93628
+        },
+        "time_elapsed": 514.9012367725372
+    },
+    {
+        "idx": "17_biomedical_engineer",
+        "realidx": "17_biomedical_engineer",
+        "question": "What is the correct sequence of inflammatory response around the damaged wound tissue caused by the insertion of biomaterials? Options: (A) Capillary dilation \u2192 Cell infiltration \u2192 Extraction \u2192 Disintegration \u2192 Epithelialization (D) Capillary dilation \u2192 Cell infiltration \u2192 Disintegration \u2192 Extraction \u2192 Epithelialization (B) Capillary dilation \u2192 Cell infiltration \u2192 Regeneration \u2192 Epithelialization \u2192 Disintegration (C) Capillary dilation \u2192 Cell infiltration \u2192 Epithelialization \u2192 Regeneration \u2192 Disintegration",
+        "answer_idx": "B",
+        "answer": "Capillary dilation \u2192 Cell infiltration \u2192 Regeneration \u2192 Epithelialization \u2192 Disintegration",
+        "options": {
+            "A": "Capillary dilation \u2192 Cell infiltration \u2192 Extraction \u2192 Disintegration \u2192 Epithelialization",
+            "B": "Capillary dilation \u2192 Cell infiltration \u2192 Regeneration \u2192 Epithelialization \u2192 Disintegration",
+            "C": "Capillary dilation \u2192 Cell infiltration \u2192 Epithelialization \u2192 Regeneration \u2192 Disintegration",
+            "D": "Capillary dilation \u2192 Cell infiltration \u2192 Disintegration \u2192 Extraction \u2192 Epithelialization"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4883,
+            "completion_tokens": 5002
+        },
+        "time_elapsed": 34.380882263183594
+    },
+    {
+        "idx": "180_occupational_therapist",
+        "realidx": "180_occupational_therapist",
+        "question": "Which theory argues that population control is necessary to ensure real income, not because of food, but to maintain living standards due to overpopulation? Options: (C) Neo-Malthusianism (A) Optimum Population Theory (D) Malthusianism (B) Population Transition Theory",
+        "answer_idx": "A",
+        "answer": "Optimum Population Theory",
+        "options": {
+            "A": "Optimum Population Theory",
+            "B": "Population Transition Theory",
+            "C": "Neo-Malthusianism",
+            "D": "Malthusianism"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4441,
+            "completion_tokens": 5065
+        },
+        "time_elapsed": 36.16018772125244
+    },
+    {
+        "idx": "18_speech_pathologist",
+        "realidx": "18_speech_pathologist",
+        "question": "What type of hearing loss occurs due to problems in the outer or middle ear? Options: (D) Conductive hearing loss (B) Central auditory processing disorder (A) Sensorineural hearing loss (C) Psychogenic hearing loss",
+        "answer_idx": "B",
+        "answer": "Central auditory processing disorder",
+        "options": {
+            "A": "Sensorineural hearing loss",
+            "B": "Central auditory processing disorder",
+            "C": "Psychogenic hearing loss",
+            "D": "Conductive hearing loss"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3870,
+            "completion_tokens": 3512
+        },
+        "time_elapsed": 26.27074408531189
+    },
+    {
+        "idx": "195_clinical_laboratory_scientist",
+        "realidx": "195_clinical_laboratory_scientist",
+        "question": "Which method of evaluating the endocrine status of the female reproductive system represents the ratio of basal cells : intermediate cells : superficial cells as a percentage (%)? Options: (C) KI (D) MI (A) EI (B) CCI",
+        "answer_idx": "D",
+        "answer": "MI",
+        "options": {
+            "A": "EI",
+            "B": "CCI",
+            "C": "KI",
+            "D": "MI"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4394,
+            "completion_tokens": 4720
+        },
+        "time_elapsed": 29.717143297195435
+    },
+    {
+        "idx": "196_clinical_laboratory_scientist",
+        "realidx": "196_clinical_laboratory_scientist",
+        "question": "Which endometrial cells are observed around the 6th to 10th day of the menstrual cycle and have a characteristic appearance? Options: (A) superficial cell (C) parabasal cell (B) intermediate cell (D) exodus cell",
+        "answer_idx": "D",
+        "answer": "exodus cell",
+        "options": {
+            "A": "superficial cell",
+            "B": "intermediate cell",
+            "C": "parabasal cell",
+            "D": "exodus cell"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4080,
+            "completion_tokens": 4960
+        },
+        "time_elapsed": 32.748530864715576
+    },
+    {
+        "idx": "1_occupational_therapist",
+        "realidx": "1_occupational_therapist",
+        "question": "What is the type of population pyramid in urban areas where a large population of working-age is moving in, and the working-age population makes up more than 50% of the total population? Options: (B) Pyramid-shaped (C) Other-shaped (A) Pot-shaped (D) Star-shaped",
+        "answer_idx": "D",
+        "answer": "Star-shaped",
+        "options": {
+            "A": "Pot-shaped",
+            "B": "Pyramid-shaped",
+            "C": "Other-shaped",
+            "D": "Star-shaped"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4153,
+            "completion_tokens": 4280
+        },
+        "time_elapsed": 30.64802122116089
+    },
+    {
+        "idx": "1_speech_pathologist",
+        "realidx": "1_speech_pathologist",
+        "question": "What is the appropriate voice hygiene for a patient with vocal nodules accompanied by laryngopharyngeal reflux disease? Options: (B) Use a high pillow when sleeping. (C) Drink carbonated beverages before bed to stay hydrated. (A) Speak in a whispering voice. (D) Take antihistamine medication.",
+        "answer_idx": "D",
+        "answer": "Take antihistamine medication.",
+        "options": {
+            "A": "Speak in a whispering voice.",
+            "B": "Use a high pillow when sleeping.",
+            "C": "Drink carbonated beverages before bed to stay hydrated.",
+            "D": "Take antihistamine medication."
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4197,
+            "completion_tokens": 4901
+        },
+        "time_elapsed": 31.099026679992676
+    },
+    {
+        "idx": "20_clinical_laboratory_scientist",
+        "realidx": "20_clinical_laboratory_scientist",
+        "question": "How many electrodes are used in the 3-channel method of a 24-hour (Holter) electrocardiogram? Options: (C) 3 (D) 11 (B) 7 (A) 5",
+        "answer_idx": "B",
+        "answer": "7",
+        "options": {
+            "A": "5",
+            "B": "7",
+            "C": "3",
+            "D": "11"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4119,
+            "completion_tokens": 4896
+        },
+        "time_elapsed": 31.795555353164673
+    },
+    {
+        "idx": "20_speech_pathologist",
+        "realidx": "20_speech_pathologist",
+        "question": "Which cerebral area is important for planning and programming speech movements? Options: (D) Primary auditory area (A) Frontal association area (B) Temporal association area (C) Occipital association area",
+        "answer_idx": "B",
+        "answer": "Temporal association area",
+        "options": {
+            "A": "Frontal association area",
+            "B": "Temporal association area",
+            "C": "Occipital association area",
+            "D": "Primary auditory area"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4372,
+            "completion_tokens": 4970
+        },
+        "time_elapsed": 33.09732270240784
+    },
+    {
+        "idx": "211_clinical_laboratory_scientist",
+        "realidx": "211_clinical_laboratory_scientist",
+        "question": "Which of the following is a correct physical or chemical change that occurs in a urine specimen left at room temperature for more than 2 hours after opening? Options: (B) Increase in bilirubin (A) Increase in cells and casts (D) Decrease in ketone bodies (C) Decrease in odor",
+        "answer_idx": "D",
+        "answer": "Decrease in ketone bodies",
+        "options": {
+            "A": "Increase in cells and casts",
+            "B": "Increase in bilirubin",
+            "C": "Decrease in odor",
+            "D": "Decrease in ketone bodies"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4324,
+            "completion_tokens": 4362
+        },
+        "time_elapsed": 30.145631790161133
+    },
+    {
+        "idx": "21_speech_pathologist",
+        "realidx": "21_speech_pathologist",
+        "question": "What is a distinguishing communication characteristic of patients with traumatic brain injury as opposed to aphasia? Options: (B) Deficits in auditory comprehension (C) Deficits in turn-taking and maintaining the topic (D) Good comprehension of sentences with implied meanings (A) Deficits in using grammatical morphemes",
+        "answer_idx": "A",
+        "answer": "Deficits in using grammatical morphemes",
+        "options": {
+            "A": "Deficits in using grammatical morphemes",
+            "B": "Deficits in auditory comprehension",
+            "C": "Deficits in turn-taking and maintaining the topic",
+            "D": "Good comprehension of sentences with implied meanings"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 20164,
+            "completion_tokens": 11495
+        },
+        "time_elapsed": 82.25563192367554
+    },
+    {
+        "idx": "22_speech_pathologist",
+        "realidx": "22_speech_pathologist",
+        "question": "Which of the following is correct regarding voice hygiene education? Options: (A) Whispering during conversations (B) Maintaining appropriate humidity (D) Speaking loudly (C) Wearing tight clothes",
+        "answer_idx": "C",
+        "answer": "Wearing tight clothes",
+        "options": {
+            "A": "Whispering during conversations",
+            "B": "Maintaining appropriate humidity",
+            "C": "Wearing tight clothes",
+            "D": "Speaking loudly"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4053,
+            "completion_tokens": 4121
+        },
+        "time_elapsed": 29.91381573677063
+    },
+    {
+        "idx": "238_clinical_laboratory_scientist",
+        "realidx": "238_clinical_laboratory_scientist",
+        "question": "What is the last stage of cell that undergoes cell division during the maturation process of red blood cells? Options: (D) pronormoblast (C) polychromatic normoblast (A) reticulocyte (B) orthochromatic normoblast",
+        "answer_idx": "C",
+        "answer": "polychromatic normoblast",
+        "options": {
+            "A": "reticulocyte",
+            "B": "orthochromatic normoblast",
+            "C": "polychromatic normoblast",
+            "D": "pronormoblast"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4351,
+            "completion_tokens": 4995
+        },
+        "time_elapsed": 31.716248989105225
+    },
+    {
+        "idx": "23_speech_pathologist",
+        "realidx": "23_speech_pathologist",
+        "question": "Which of the following is correct regarding the use of scripts for language intervention in children with language disorders? Options: (C) In the early stages of intervention, use a new script for each session. (A) The lower the cognitive ability, the fewer the number of sub-behaviors performed. (D) Use less situational language within script activities. (B) Include activities that violate the script in the first session.",
+        "answer_idx": "B",
+        "answer": "Include activities that violate the script in the first session.",
+        "options": {
+            "A": "The lower the cognitive ability, the fewer the number of sub-behaviors performed.",
+            "B": "Include activities that violate the script in the first session.",
+            "C": "In the early stages of intervention, use a new script for each session.",
+            "D": "Use less situational language within script activities."
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4368,
+            "completion_tokens": 3967
+        },
+        "time_elapsed": 29.0214741230011
+    },
+    {
+        "idx": "24_occupational_therapist",
+        "realidx": "24_occupational_therapist",
+        "question": "For a patient with a complete C6 spinal cord injury, a wrist-driven wrist-hand orthosis was applied to improve daily living activities. What type of grasp is possible? Options: (A) hook grasp (B) disc grasp (C) ulnar grasp (D) three-jaw chuck pinch",
+        "answer_idx": "D",
+        "answer": "three-jaw chuck pinch",
+        "options": {
+            "A": "hook grasp",
+            "B": "disc grasp",
+            "C": "ulnar grasp",
+            "D": "three-jaw chuck pinch"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4526,
+            "completion_tokens": 4192
+        },
+        "time_elapsed": 29.946995496749878
+    },
+    {
+        "idx": "24_speech_pathologist",
+        "realidx": "24_speech_pathologist",
+        "question": "Which case can be diagnosed as neurogenic stuttering? Options: (B) Stuttering accompanied by intellectual disability (C) Blockages occurring after the sudden death of a friend (A) Stuttering after being forced by parents to speak English at home (D) Repetition and prolongation observed after cerebral damage",
+        "answer_idx": "A",
+        "answer": "Stuttering after being forced by parents to speak English at home",
+        "options": {
+            "A": "Stuttering after being forced by parents to speak English at home",
+            "B": "Stuttering accompanied by intellectual disability",
+            "C": "Blockages occurring after the sudden death of a friend",
+            "D": "Repetition and prolongation observed after cerebral damage"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4194,
+            "completion_tokens": 3613
+        },
+        "time_elapsed": 27.4359073638916
+    },
+    {
+        "idx": "252_clinical_laboratory_scientist",
+        "realidx": "252_clinical_laboratory_scientist",
+        "question": "In hematology, when is a 'shift to the left' observed? Options: (D) During the recovery phase of anemia (B) During chronic lymphocytic leukemia (C) In response to severe hemorrhage (A) During an acute bacterial infection",
+        "answer_idx": "C",
+        "answer": "In response to severe hemorrhage",
+        "options": {
+            "A": "During an acute bacterial infection",
+            "B": "During chronic lymphocytic leukemia",
+            "C": "In response to severe hemorrhage",
+            "D": "During the recovery phase of anemia"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4213,
+            "completion_tokens": 4021
+        },
+        "time_elapsed": 28.239622116088867
+    },
+    {
+        "idx": "25_speech_pathologist",
+        "realidx": "25_speech_pathologist",
+        "question": "What is the collaborative teaching model where one expert has primary responsibility for the overall instructional planning and another expert provides individual support by rotating through the classroom? Options: (C) Team Teaching (A) Lead-Teach, Support-Teach (D) Parallel Teaching (B) Station Teaching",
+        "answer_idx": "D",
+        "answer": "Parallel Teaching",
+        "options": {
+            "A": "Lead-Teach, Support-Teach",
+            "B": "Station Teaching",
+            "C": "Team Teaching",
+            "D": "Parallel Teaching"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4315,
+            "completion_tokens": 5306
+        },
+        "time_elapsed": 35.392152309417725
+    },
+    {
+        "idx": "266_clinical_laboratory_scientist",
+        "realidx": "266_clinical_laboratory_scientist",
+        "question": "What is the minimum agglutinin titer of the anti-D reagent used in Rh blood typing? Options: (D) 32-fold (C) 256-fold (B) 16-fold (A) 64-fold",
+        "answer_idx": "D",
+        "answer": "32-fold",
+        "options": {
+            "A": "64-fold",
+            "B": "16-fold",
+            "C": "256-fold",
+            "D": "32-fold"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4162,
+            "completion_tokens": 4420
+        },
+        "time_elapsed": 31.697448015213013
+    },
+    {
+        "idx": "269_clinical_laboratory_scientist",
+        "realidx": "269_clinical_laboratory_scientist",
+        "question": "What is the most appropriate temperature for body temperature regulation, which is divided into subjective, productive, and physiological temperature? Options: (D) Perceived temperature (A) Operative temperature (C) Effective temperature (B) Sensory temperature",
+        "answer_idx": "A",
+        "answer": "Operative temperature",
+        "options": {
+            "A": "Operative temperature",
+            "B": "Sensory temperature",
+            "C": "Effective temperature",
+            "D": "Perceived temperature"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4165,
+            "completion_tokens": 3629
+        },
+        "time_elapsed": 26.140007972717285
+    },
+    {
+        "idx": "275_clinical_laboratory_scientist",
+        "realidx": "275_clinical_laboratory_scientist",
+        "question": "If the last menstrual period (LMP) was on December 24th and the specimen collection date for endocrine evaluation is January 6th, which phase does it correspond to? Options: (A) Proliferative phase (D) Secretory phase (B) Ovulatory phase (C) Pregnancy phase",
+        "answer_idx": "B",
+        "answer": "Ovulatory phase",
+        "options": {
+            "A": "Proliferative phase",
+            "B": "Ovulatory phase",
+            "C": "Pregnancy phase",
+            "D": "Secretory phase"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4876,
+            "completion_tokens": 3885
+        },
+        "time_elapsed": 27.99024510383606
+    },
+    {
+        "idx": "29_biomedical_engineer",
+        "realidx": "29_biomedical_engineer",
+        "question": "Which of the following is not related to the Anatomical Therapeutic Chemical (ATC) classification system? Options: (D) It is an international standard of the WHO for drug utilization studies. (A) It has a hierarchical structure, allowing for logical grouping. (C) It uses mnemonic codes. (B) Combination products cannot be included.",
+        "answer_idx": "C",
+        "answer": "It uses mnemonic codes.",
+        "options": {
+            "A": "It has a hierarchical structure, allowing for logical grouping.",
+            "B": "Combination products cannot be included.",
+            "C": "It uses mnemonic codes.",
+            "D": "It is an international standard of the WHO for drug utilization studies."
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4356,
+            "completion_tokens": 3904
+        },
+        "time_elapsed": 28.23808717727661
+    },
+    {
+        "idx": "29_speech_pathologist",
+        "realidx": "29_speech_pathologist",
+        "question": "Which of the following is true about psychogenic stuttering? Options: (C) It uses grammatically correct sentences without errors. (D) It remains non-fluent even under conditions that enhance fluency. (A) It occurs more frequently in men than in women. (B) It is caused by acquired neurological damage.",
+        "answer_idx": "A",
+        "answer": "It occurs more frequently in men than in women.",
+        "options": {
+            "A": "It occurs more frequently in men than in women.",
+            "B": "It is caused by acquired neurological damage.",
+            "C": "It uses grammatically correct sentences without errors.",
+            "D": "It remains non-fluent even under conditions that enhance fluency."
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3964,
+            "completion_tokens": 4050
+        },
+        "time_elapsed": 29.29985523223877
+    },
+    {
+        "idx": "2_speech_pathologist",
+        "realidx": "2_speech_pathologist",
+        "question": "Which of the following is the correct recommendation a therapist would give to a patient with laryngopharyngeal reflux disease? Options: (C) Cough deliberately whenever there is a sensation of something stuck in the throat. (D) Reduce caffeine intake. (B) Engage in high-intensity exercise immediately after eating. (A) Consume a lot of dairy products.",
+        "answer_idx": "B",
+        "answer": "Engage in high-intensity exercise immediately after eating.",
+        "options": {
+            "A": "Consume a lot of dairy products.",
+            "B": "Engage in high-intensity exercise immediately after eating.",
+            "C": "Cough deliberately whenever there is a sensation of something stuck in the throat.",
+            "D": "Reduce caffeine intake."
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4294,
+            "completion_tokens": 4251
+        },
+        "time_elapsed": 30.252649068832397
+    },
+    {
+        "idx": "30_clinical_psychologist",
+        "realidx": "30_clinical_psychologist",
+        "question": "What is the correct thing for a counselor to be aware of during the initial stages of counseling for a sexual abuse survivor? Options: (C) The counselor should obtain detailed information about the survivor's family situation and any complications from the sexual abuse as early as possible. (B) The counselor should actively intervene to quickly explore and heal the psychological trauma caused by the sexual abuse. (D) Even if the client expresses discomfort, it is important for the counselor to lead the interview to collect detailed information about the abuse situation. (A) If the survivor denies the sexual abuse during the first interview, the counselor should continuously encourage them to be open and honest.",
+        "answer_idx": "C",
+        "answer": "The counselor should obtain detailed information about the survivor's family situation and any complications from the sexual abuse as early as possible.",
+        "options": {
+            "A": "If the survivor denies the sexual abuse during the first interview, the counselor should continuously encourage them to be open and honest.",
+            "B": "The counselor should actively intervene to quickly explore and heal the psychological trauma caused by the sexual abuse.",
+            "C": "The counselor should obtain detailed information about the survivor's family situation and any complications from the sexual abuse as early as possible.",
+            "D": "Even if the client expresses discomfort, it is important for the counselor to lead the interview to collect detailed information about the abuse situation."
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4308,
+            "completion_tokens": 5466
+        },
+        "time_elapsed": 34.690855503082275
+    },
+    {
+        "idx": "30_speech_pathologist",
+        "realidx": "30_speech_pathologist",
+        "question": "Which swallowing technique involves maintaining the thyroid cartilage elevated for about 2 to 5 seconds immediately after the hyo-laryngeal elevation occurs? Options: (C) Masako maneuver (D) supraglottic swallow (A) Mendelsohn maneuver (B) effortful swallow",
+        "answer_idx": "D",
+        "answer": "supraglottic swallow",
+        "options": {
+            "A": "Mendelsohn maneuver",
+            "B": "effortful swallow",
+            "C": "Masako maneuver",
+            "D": "supraglottic swallow"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4054,
+            "completion_tokens": 4507
+        },
+        "time_elapsed": 29.604455709457397
+    },
+    {
+        "idx": "31_clinical_psychologist",
+        "realidx": "31_clinical_psychologist",
+        "question": "What is a possible interpretation when the shape of the three validity scales (L, F, K) of the MMPI shows a negative (-) slope? Options: (C) Psychologically closed stance (D) Impaired defensive ability (B) Naive but open attitude (A) Sophisticated defense",
+        "answer_idx": "B",
+        "answer": "Naive but open attitude",
+        "options": {
+            "A": "Sophisticated defense",
+            "B": "Naive but open attitude",
+            "C": "Psychologically closed stance",
+            "D": "Impaired defensive ability"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4185,
+            "completion_tokens": 4303
+        },
+        "time_elapsed": 29.990459203720093
+    },
+    {
+        "idx": "322_clinical_laboratory_scientist",
+        "realidx": "322_clinical_laboratory_scientist",
+        "question": "In which case would a false positive result occur in an indirect antiglobulin test? Options: (B) Reaction with the control serum (C) Excessive centrifugation (A) No addition of antiglobulin reagent (D) Insufficient washing of cells",
+        "answer_idx": "C",
+        "answer": "Excessive centrifugation",
+        "options": {
+            "A": "No addition of antiglobulin reagent",
+            "B": "Reaction with the control serum",
+            "C": "Excessive centrifugation",
+            "D": "Insufficient washing of cells"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4156,
+            "completion_tokens": 4365
+        },
+        "time_elapsed": 32.89676260948181
+    },
+    {
+        "idx": "32_clinical_laboratory_scientist",
+        "realidx": "32_clinical_laboratory_scientist",
+        "question": "What does the term 'CV' stand for in a clinical laboratory context? Options: (B) Coefficient of Variation (D) Clinical Validity (C) Constant Variable (A) Coefficient of Viscosity",
+        "answer_idx": "C",
+        "answer": "Constant Variable",
+        "options": {
+            "A": "Coefficient of Viscosity",
+            "B": "Coefficient of Variation",
+            "C": "Constant Variable",
+            "D": "Clinical Validity"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4045,
+            "completion_tokens": 4443
+        },
+        "time_elapsed": 28.789603233337402
+    },
+    {
+        "idx": "32_speech_pathologist",
+        "realidx": "32_speech_pathologist",
+        "question": "Which of the following is a correct description of the visual analysis of speech sounds? Options: (B) The pitch is measured by the darkness on the spectrogram. (C) Formants are analyzed through waveforms. (D) Waveforms represent changes in amplitude over time. (A) In a spectrogram, speech sounds are represented two-dimensionally.",
+        "answer_idx": "A",
+        "answer": "In a spectrogram, speech sounds are represented two-dimensionally.",
+        "options": {
+            "A": "In a spectrogram, speech sounds are represented two-dimensionally.",
+            "B": "The pitch is measured by the darkness on the spectrogram.",
+            "C": "Formants are analyzed through waveforms.",
+            "D": "Waveforms represent changes in amplitude over time."
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4409,
+            "completion_tokens": 5191
+        },
+        "time_elapsed": 36.59523606300354
+    },
+    {
+        "idx": "338_clinical_laboratory_scientist",
+        "realidx": "338_clinical_laboratory_scientist",
+        "question": "Which of the following is a chemical preservation method for food? Options: (C) Radiation \u2013 Salting (D) Pickling \u2013 Sugaring (A) Salting \u2013 Sugaring (B) Drying \u2013 Salting",
+        "answer_idx": "A",
+        "answer": "Salting \u2013 Sugaring",
+        "options": {
+            "A": "Salting \u2013 Sugaring",
+            "B": "Drying \u2013 Salting",
+            "C": "Radiation \u2013 Salting",
+            "D": "Pickling \u2013 Sugaring"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4007,
+            "completion_tokens": 5080
+        },
+        "time_elapsed": 31.69300627708435
+    },
+    {
+        "idx": "33_speech_pathologist",
+        "realidx": "33_speech_pathologist",
+        "question": "Which description is appropriate for the environment of a disability welfare center? Options: (D) It corresponds to a convenience facility for local residents. (A) It promotes projects centered on the needs of the users. (C) It aims to enhance the welfare and quality of life of local residents. (B) It aims for the economic independence of local people with disabilities.",
+        "answer_idx": "D",
+        "answer": "It corresponds to a convenience facility for local residents.",
+        "options": {
+            "A": "It promotes projects centered on the needs of the users.",
+            "B": "It aims for the economic independence of local people with disabilities.",
+            "C": "It aims to enhance the welfare and quality of life of local residents.",
+            "D": "It corresponds to a convenience facility for local residents."
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4322,
+            "completion_tokens": 3917
+        },
+        "time_elapsed": 28.483590126037598
+    },
+    {
+        "idx": "340_clinical_laboratory_scientist",
+        "realidx": "340_clinical_laboratory_scientist",
+        "question": "What is labeled in the labeled streptavidin-biotin complex? Options: (C) Antigen (B) Primary antibody (D) Secondary antibody (A) DAB (diaminobenzidine)",
+        "answer_idx": "D",
+        "answer": "Secondary antibody",
+        "options": {
+            "A": "DAB (diaminobenzidine)",
+            "B": "Primary antibody",
+            "C": "Antigen",
+            "D": "Secondary antibody"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4259,
+            "completion_tokens": 4956
+        },
+        "time_elapsed": 36.58803606033325
+    },
+    {
+        "idx": "341_clinical_laboratory_scientist",
+        "realidx": "341_clinical_laboratory_scientist",
+        "question": "In Masson's trichrome (MT) staining, what is stained by the aniline blue dye? Options: (B) Reticular fibers (C) Muscle fibers (A) Collagen fibers (D) Elastic fibers",
+        "answer_idx": "B",
+        "answer": "Reticular fibers",
+        "options": {
+            "A": "Collagen fibers",
+            "B": "Reticular fibers",
+            "C": "Muscle fibers",
+            "D": "Elastic fibers"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3979,
+            "completion_tokens": 3262
+        },
+        "time_elapsed": 26.47864079475403
+    },
+    {
+        "idx": "35_clinical_laboratory_scientist",
+        "realidx": "35_clinical_laboratory_scientist",
+        "question": "What is the assay method that involves labeling antibodies with radioactive isotopes? Options: (B) RIA (C) CPBA (A) FIA (D) IRMA",
+        "answer_idx": "D",
+        "answer": "IRMA",
+        "options": {
+            "A": "FIA",
+            "B": "RIA",
+            "C": "CPBA",
+            "D": "IRMA"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3933,
+            "completion_tokens": 3899
+        },
+        "time_elapsed": 28.305835247039795
+    },
+    {
+        "idx": "35_speech_pathologist",
+        "realidx": "35_speech_pathologist",
+        "question": "What communicative function can be targeted by providing yogurt without a spoon to eat? Options: (B) Personal function (C) Interactive function (A) Imaginative function (D) Instrumental function",
+        "answer_idx": "A",
+        "answer": "Imaginative function",
+        "options": {
+            "A": "Imaginative function",
+            "B": "Personal function",
+            "C": "Interactive function",
+            "D": "Instrumental function"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4045,
+            "completion_tokens": 3892
+        },
+        "time_elapsed": 29.262303113937378
+    },
+    {
+        "idx": "36_speech_pathologist",
+        "realidx": "36_speech_pathologist",
+        "question": "Which treatment method is used to strengthen the velopharyngeal function in a patient with mild velopharyngeal insufficiency? Options: (A) Posterior positioning of the tongue (B) Continuous positive airway pressure training (C) Relaxation (D) Abuse removal",
+        "answer_idx": "D",
+        "answer": "Abuse removal",
+        "options": {
+            "A": "Posterior positioning of the tongue",
+            "B": "Continuous positive airway pressure training",
+            "C": "Relaxation",
+            "D": "Abuse removal"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3839,
+            "completion_tokens": 3226
+        },
+        "time_elapsed": 23.870280504226685
+    },
+    {
+        "idx": "37_speech_pathologist",
+        "realidx": "37_speech_pathologist",
+        "question": "Which cranial nerve is associated with chewing? Options: (C) CN 10 (A) CN 5 (D) CN 11 (B) CN 9",
+        "answer_idx": "B",
+        "answer": "CN 9",
+        "options": {
+            "A": "CN 5",
+            "B": "CN 9",
+            "C": "CN 10",
+            "D": "CN 11"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4010,
+            "completion_tokens": 4627
+        },
+        "time_elapsed": 31.716615438461304
+    },
+    {
+        "idx": "38_speech_pathologist",
+        "realidx": "38_speech_pathologist",
+        "question": "What is the comprehensive approach consisted of four stages: preparatory exercises, vocal fold stretching exercises, vocal fold adduction exercises, and strengthening exercises to treat hyperfunctional voice disorders? Options: (C) Vocal Function Exercises (D) Resonant Voice Therapy (B) Lessac-Madsen Resonant Voice Therapy (A) Accent Method",
+        "answer_idx": "A",
+        "answer": "Accent Method",
+        "options": {
+            "A": "Accent Method",
+            "B": "Lessac-Madsen Resonant Voice Therapy",
+            "C": "Vocal Function Exercises",
+            "D": "Resonant Voice Therapy"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4210,
+            "completion_tokens": 4570
+        },
+        "time_elapsed": 30.317790985107422
+    },
+    {
+        "idx": "39_speech_pathologist",
+        "realidx": "39_speech_pathologist",
+        "question": "Which of the following is correctly paired with the purpose of aphasia testing? Options: (B) In-depth examination \u2013 Understanding the characteristics of aphasia in different language domains (C) Screening test \u2013 Establishing a treatment plan for different types of aphasia (A) In-depth examination \u2013 Rapid determination of the presence or absence of aphasia (D) Screening test \u2013 Understanding the prognosis according to the type of aphasia",
+        "answer_idx": "C",
+        "answer": "Screening test \u2013 Establishing a treatment plan for different types of aphasia",
+        "options": {
+            "A": "In-depth examination \u2013 Rapid determination of the presence or absence of aphasia",
+            "B": "In-depth examination \u2013 Understanding the characteristics of aphasia in different language domains",
+            "C": "Screening test \u2013 Establishing a treatment plan for different types of aphasia",
+            "D": "Screening test \u2013 Understanding the prognosis according to the type of aphasia"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4014,
+            "completion_tokens": 4217
+        },
+        "time_elapsed": 29.440096139907837
+    },
+    {
+        "idx": "3_speech_pathologist",
+        "realidx": "3_speech_pathologist",
+        "question": "Which subtest assesses receptive language in the Language Scale for School-Aged Children (LSSC)? Options: (D) Correcting grammatical errors (B) Expressing superordinate terms (A) Judging grammatical errors (C) Sentence repetition",
+        "answer_idx": "D",
+        "answer": "Correcting grammatical errors",
+        "options": {
+            "A": "Judging grammatical errors",
+            "B": "Expressing superordinate terms",
+            "C": "Sentence repetition",
+            "D": "Correcting grammatical errors"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4386,
+            "completion_tokens": 4181
+        },
+        "time_elapsed": 30.17413640022278
+    },
+    {
+        "idx": "40_speech_pathologist",
+        "realidx": "40_speech_pathologist",
+        "question": "Which of the following is a correct method for treating spasmodic dysphonia? Options: (A) Increase vocal intensity by implementing occlusion. (D) Induce relaxation with yawn-sigh. (B) Induce vocal fold adduction with strong vocal fold contact. (C) Induce laryngeal elevation with mouth opening.",
+        "answer_idx": "B",
+        "answer": "Induce vocal fold adduction with strong vocal fold contact.",
+        "options": {
+            "A": "Increase vocal intensity by implementing occlusion.",
+            "B": "Induce vocal fold adduction with strong vocal fold contact.",
+            "C": "Induce laryngeal elevation with mouth opening.",
+            "D": "Induce relaxation with yawn-sigh."
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 20902,
+            "completion_tokens": 13119
+        },
+        "time_elapsed": 97.94146037101746
+    },
+    {
+        "idx": "41_speech_pathologist",
+        "realidx": "41_speech_pathologist",
+        "question": "What is the condition called when food goes below the vocal cords but does not cause coughing symptoms? Options: (B) silent aspiration (C) dry swallow (D) symptomatic penetration (A) symptomatic aspiration",
+        "answer_idx": "D",
+        "answer": "symptomatic penetration",
+        "options": {
+            "A": "symptomatic aspiration",
+            "B": "silent aspiration",
+            "C": "dry swallow",
+            "D": "symptomatic penetration"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3987,
+            "completion_tokens": 3035
+        },
+        "time_elapsed": 26.225337028503418
+    },
+    {
+        "idx": "42_speech_pathologist",
+        "realidx": "42_speech_pathologist",
+        "question": "Which of the following is the correct voice disorder and its treatment approach? Options: (A) Muscle tension dysphonia \u2013 Pushing approach (C) Vocal nodules \u2013 Occlusion (B) Conversion aphonia \u2013 Confidential voice (D) Traumatic laryngitis \u2013 Elimination of abuse",
+        "answer_idx": "B",
+        "answer": "Conversion aphonia \u2013 Confidential voice",
+        "options": {
+            "A": "Muscle tension dysphonia \u2013 Pushing approach",
+            "B": "Conversion aphonia \u2013 Confidential voice",
+            "C": "Vocal nodules \u2013 Occlusion",
+            "D": "Traumatic laryngitis \u2013 Elimination of abuse"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4523,
+            "completion_tokens": 4334
+        },
+        "time_elapsed": 31.524632215499878
+    },
+    {
+        "idx": "43_clinical_laboratory_scientist",
+        "realidx": "43_clinical_laboratory_scientist",
+        "question": "Where is the excitation conduction velocity the fastest in the cardiac conduction system? Options: (D) His bundle (C) Bundle branches (B) Cardiac conduction muscle fibers (A) Sinoatrial node",
+        "answer_idx": "B",
+        "answer": "Cardiac conduction muscle fibers",
+        "options": {
+            "A": "Sinoatrial node",
+            "B": "Cardiac conduction muscle fibers",
+            "C": "Bundle branches",
+            "D": "His bundle"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4108,
+            "completion_tokens": 4221
+        },
+        "time_elapsed": 29.17565155029297
+    },
+    {
+        "idx": "47_biomedical_engineer",
+        "realidx": "47_biomedical_engineer",
+        "question": "Which of the following is NOT a goal of medical informatics as proposed by the American Medical Informatics Association (AMIA)? Options: (A) Increasing the efficiency of medical records (C) Computer-assisted learning (B) Learning computer operation methods (D) Information retrieval and management",
+        "answer_idx": "A",
+        "answer": "Increasing the efficiency of medical records",
+        "options": {
+            "A": "Increasing the efficiency of medical records",
+            "B": "Learning computer operation methods",
+            "C": "Computer-assisted learning",
+            "D": "Information retrieval and management"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4586,
+            "completion_tokens": 5542
+        },
+        "time_elapsed": 34.94908547401428
+    },
+    {
+        "idx": "47_clinical_laboratory_scientist",
+        "realidx": "47_clinical_laboratory_scientist",
+        "question": "Which cells are involved in tissue damage or wound healing? Options: (C) Mast cells (D) Fibroblasts (B) Adipocytes (A) Macrophages",
+        "answer_idx": "D",
+        "answer": "Fibroblasts",
+        "options": {
+            "A": "Macrophages",
+            "B": "Adipocytes",
+            "C": "Mast cells",
+            "D": "Fibroblasts"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3890,
+            "completion_tokens": 5706
+        },
+        "time_elapsed": 37.49442172050476
+    },
+    {
+        "idx": "49_speech_pathologist",
+        "realidx": "49_speech_pathologist",
+        "question": "What is the correct order of difficulty levels in auditory training for children with hearing impairments, from easier listening situations to more difficult ones? Options: (C) Background noise present \u2192 No background noise (D) Soft sounds \u2192 Loud sounds (B) Far from hearing aid \u2192 Close to hearing aid (A) Tasks with visual cues \u2192 Tasks without visual cues",
+        "answer_idx": "D",
+        "answer": "Soft sounds \u2192 Loud sounds",
+        "options": {
+            "A": "Tasks with visual cues \u2192 Tasks without visual cues",
+            "B": "Far from hearing aid \u2192 Close to hearing aid",
+            "C": "Background noise present \u2192 No background noise",
+            "D": "Soft sounds \u2192 Loud sounds"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4672,
+            "completion_tokens": 6531
+        },
+        "time_elapsed": 39.21929907798767
+    },
+    {
+        "idx": "4_speech_pathologist",
+        "realidx": "4_speech_pathologist",
+        "question": "Which of the following is a correct description of the perceptual evaluation method for voice? Options: (B) CAPE-V can assess voice tremor. (A) CAPE-V uses a 0-100 mm equal interval scale. (C) The GRBAS scale is a 3-point Likert scale. (D) The higher the CAPE-V score, the closer to a normal voice.",
+        "answer_idx": "D",
+        "answer": "The higher the CAPE-V score, the closer to a normal voice.",
+        "options": {
+            "A": "CAPE-V uses a 0-100 mm equal interval scale.",
+            "B": "CAPE-V can assess voice tremor.",
+            "C": "The GRBAS scale is a 3-point Likert scale.",
+            "D": "The higher the CAPE-V score, the closer to a normal voice."
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4396,
+            "completion_tokens": 3937
+        },
+        "time_elapsed": 27.628165006637573
+    },
+    {
+        "idx": "50_speech_pathologist",
+        "realidx": "50_speech_pathologist",
+        "question": "Which vocal assessment method can measure glottal closure rate? Options: (A) Voice Handicap Index (C) Quality of Life Related to Voice (D) Electroglottography (B) Voice Range Profile",
+        "answer_idx": "A",
+        "answer": "Voice Handicap Index",
+        "options": {
+            "A": "Voice Handicap Index",
+            "B": "Voice Range Profile",
+            "C": "Quality of Life Related to Voice",
+            "D": "Electroglottography"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3866,
+            "completion_tokens": 3869
+        },
+        "time_elapsed": 26.972487926483154
+    },
+    {
+        "idx": "51_speech_pathologist",
+        "realidx": "51_speech_pathologist",
+        "question": "In a screening test for aphasia, a symptom was observed where the patient could not name objects after seeing pictures of them. What task is necessary for this patient to differentiate between anomic aphasia and associative agnosia? Options: (C) Finding the real object after seeing the picture (D) Copying the picture after seeing it (A) Categorizing pictures semantically (B) Line cancellation",
+        "answer_idx": "D",
+        "answer": "Copying the picture after seeing it",
+        "options": {
+            "A": "Categorizing pictures semantically",
+            "B": "Line cancellation",
+            "C": "Finding the real object after seeing the picture",
+            "D": "Copying the picture after seeing it"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4534,
+            "completion_tokens": 4782
+        },
+        "time_elapsed": 32.56450867652893
+    },
+    {
+        "idx": "52_speech_pathologist",
+        "realidx": "52_speech_pathologist",
+        "question": "Which form of play corresponds to the level of simple symbolic behavior? Options: (B) Pretending to feed a doll with a cup. (D) Pretending to eat with a fork. (A) Putting a hat on one's head. (C) Feeding a baby doll milk and then putting it in a stroller.",
+        "answer_idx": "A",
+        "answer": "Putting a hat on one's head.",
+        "options": {
+            "A": "Putting a hat on one's head.",
+            "B": "Pretending to feed a doll with a cup.",
+            "C": "Feeding a baby doll milk and then putting it in a stroller.",
+            "D": "Pretending to eat with a fork."
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4452,
+            "completion_tokens": 4977
+        },
+        "time_elapsed": 32.80169224739075
+    },
+    {
+        "idx": "53_occupational_therapist",
+        "realidx": "53_occupational_therapist",
+        "question": "What is the percentage of TBSA referred to in the 'Rule of Nines' for estimating burn areas? Options: (A) 18 (D) 27 (B) 9 (C) 45",
+        "answer_idx": "D",
+        "answer": "27",
+        "options": {
+            "A": "18",
+            "B": "9",
+            "C": "45",
+            "D": "27"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4196,
+            "completion_tokens": 5069
+        },
+        "time_elapsed": 35.56981587409973
+    },
+    {
+        "idx": "55_biomedical_engineer",
+        "realidx": "55_biomedical_engineer",
+        "question": "What is the most important part of the HIS that digitizes the series of processes centered around patient visits? Options: (A) EMR (B) LIS (C) CDS (D) OCS",
+        "answer_idx": "D",
+        "answer": "OCS",
+        "options": {
+            "A": "EMR",
+            "B": "LIS",
+            "C": "CDS",
+            "D": "OCS"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4127,
+            "completion_tokens": 4927
+        },
+        "time_elapsed": 34.27748513221741
+    },
+    {
+        "idx": "55_speech_pathologist",
+        "realidx": "55_speech_pathologist",
+        "question": "Which device can be used to improve signal-to-noise ratio (SNR) in hearing assistance? Options: (C) Artificial middle ear (A) FM system (B) Glasses-type hearing aid (D) Air-conduction hearing aid",
+        "answer_idx": "B",
+        "answer": "Glasses-type hearing aid",
+        "options": {
+            "A": "FM system",
+            "B": "Glasses-type hearing aid",
+            "C": "Artificial middle ear",
+            "D": "Air-conduction hearing aid"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4189,
+            "completion_tokens": 4651
+        },
+        "time_elapsed": 33.57064247131348
+    },
+    {
+        "idx": "56_speech_pathologist",
+        "realidx": "56_speech_pathologist",
+        "question": "What is the assistive device for improving the speech intelligibility of patients with hypokinetic dysarthria? Options: (C) Pacing board (B) Artificial larynx (A) Oral pressure gauge (D) Voice amplifier",
+        "answer_idx": "A",
+        "answer": "Oral pressure gauge",
+        "options": {
+            "A": "Oral pressure gauge",
+            "B": "Artificial larynx",
+            "C": "Pacing board",
+            "D": "Voice amplifier"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3991,
+            "completion_tokens": 3888
+        },
+        "time_elapsed": 28.745657444000244
+    },
+    {
+        "idx": "57_speech_pathologist",
+        "realidx": "57_speech_pathologist",
+        "question": "What can be used as visual feedback for singers to expand their vocal range? Options: (B) Voice Range Profile (A) Cepstrum (C) Laryngoscopy (D) Nasometer",
+        "answer_idx": "A",
+        "answer": "Cepstrum",
+        "options": {
+            "A": "Cepstrum",
+            "B": "Voice Range Profile",
+            "C": "Laryngoscopy",
+            "D": "Nasometer"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4298,
+            "completion_tokens": 4309
+        },
+        "time_elapsed": 28.883798837661743
+    },
+    {
+        "idx": "58_biomedical_engineer",
+        "realidx": "58_biomedical_engineer",
+        "question": "What type of hypersensitivity, a pathological antigen-antibody reaction, is caused by specific memory to implants or biomaterials? Options: (C) Rejection response (B) Defense response (D) Autoimmunity response (A) Allergy",
+        "answer_idx": "A",
+        "answer": "Allergy",
+        "options": {
+            "A": "Allergy",
+            "B": "Defense response",
+            "C": "Rejection response",
+            "D": "Autoimmunity response"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4007,
+            "completion_tokens": 3573
+        },
+        "time_elapsed": 30.301897048950195
+    },
+    {
+        "idx": "58_speech_pathologist",
+        "realidx": "58_speech_pathologist",
+        "question": "Which of the following is a compensatory articulation error often seen in children with cleft palate? Options: (C) Pharyngeal fricative (B) Nasal leakage (D) Reduced oral pressure (A) Fronting of velar sounds",
+        "answer_idx": "B",
+        "answer": "Nasal leakage",
+        "options": {
+            "A": "Fronting of velar sounds",
+            "B": "Nasal leakage",
+            "C": "Pharyngeal fricative",
+            "D": "Reduced oral pressure"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4475,
+            "completion_tokens": 4457
+        },
+        "time_elapsed": 27.65641736984253
+    },
+    {
+        "idx": "59_speech_pathologist",
+        "realidx": "59_speech_pathologist",
+        "question": "Which type of dementia typically appears between the ages of 40 and 60, progresses rapidly, and shows personality changes and behavioral problems from the onset? Options: (D) Alzheimer's disease (B) Frontotemporal dementia (A) Parkinson's disease (C) Lewy body dementia",
+        "answer_idx": "C",
+        "answer": "Lewy body dementia",
+        "options": {
+            "A": "Parkinson's disease",
+            "B": "Frontotemporal dementia",
+            "C": "Lewy body dementia",
+            "D": "Alzheimer's disease"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4332,
+            "completion_tokens": 3258
+        },
+        "time_elapsed": 27.699029445648193
+    },
+    {
+        "idx": "60_speech_pathologist",
+        "realidx": "60_speech_pathologist",
+        "question": "Which of the following is the correct interpretation of the results of an electroglottographic waveform test? Options: (D) In adductor spasmodic dysphonia, the glottal closure index is larger than the glottal opening index. (A) In vocal fold paralysis, the glottal closure index is smaller than the glottal opening index. (B) In Fry phonation, the glottal closure index is larger than the glottal opening index. (C) In falsetto, the glottal closure index is smaller than the glottal opening index.",
+        "answer_idx": "B",
+        "answer": "In Fry phonation, the glottal closure index is larger than the glottal opening index.",
+        "options": {
+            "A": "In vocal fold paralysis, the glottal closure index is smaller than the glottal opening index.",
+            "B": "In Fry phonation, the glottal closure index is larger than the glottal opening index.",
+            "C": "In falsetto, the glottal closure index is smaller than the glottal opening index.",
+            "D": "In adductor spasmodic dysphonia, the glottal closure index is larger than the glottal opening index."
+        },
+        "predicted_answer": "0",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4562,
+            "completion_tokens": 6660
+        },
+        "time_elapsed": 39.034146785736084
+    },
+    {
+        "idx": "61_biomedical_engineer",
+        "realidx": "61_biomedical_engineer",
+        "question": "What is the phenomenon where substances move in only one direction due to the selective permeability of the cell membrane? Options: (A) Osmosis (B) Active transport (D) Solvent drag (C) Diffusion",
+        "answer_idx": "A",
+        "answer": "Osmosis",
+        "options": {
+            "A": "Osmosis",
+            "B": "Active transport",
+            "C": "Diffusion",
+            "D": "Solvent drag"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4093,
+            "completion_tokens": 4960
+        },
+        "time_elapsed": 30.703962564468384
+    },
+    {
+        "idx": "62_clinical_laboratory_scientist",
+        "realidx": "62_clinical_laboratory_scientist",
+        "question": "Which anticoagulant is suitable for chromosome testing using peripheral blood? Options: (C) EDTA (D) sodium citrate (B) double oxalate (A) heparin",
+        "answer_idx": "A",
+        "answer": "heparin",
+        "options": {
+            "A": "heparin",
+            "B": "double oxalate",
+            "C": "EDTA",
+            "D": "sodium citrate"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3845,
+            "completion_tokens": 3614
+        },
+        "time_elapsed": 26.36437487602234
+    },
+    {
+        "idx": "62_speech_pathologist",
+        "realidx": "62_speech_pathologist",
+        "question": "Which muscle is suspected to be paralyzed when high-pitched voice production is difficult after thyroidectomy? Options: (A) Cricothyroid muscle (C) Interarytenoid muscle (D) Thyroarytenoid muscle (B) Lateral cricoarytenoid muscle",
+        "answer_idx": "D",
+        "answer": "Thyroarytenoid muscle",
+        "options": {
+            "A": "Cricothyroid muscle",
+            "B": "Lateral cricoarytenoid muscle",
+            "C": "Interarytenoid muscle",
+            "D": "Thyroarytenoid muscle"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4470,
+            "completion_tokens": 3741
+        },
+        "time_elapsed": 27.827383041381836
+    },
+    {
+        "idx": "63_biomedical_engineer",
+        "realidx": "63_biomedical_engineer",
+        "question": "What is the device that helps to restore function, directly or indirectly heal, or prevent deterioration in areas where the human body has structural defects or lost/reduced function through artificial apparatus or devices? Options: (B) Stent (C) Prosthesis (D) Orthosis (A) Artificial joint",
+        "answer_idx": "D",
+        "answer": "Orthosis",
+        "options": {
+            "A": "Artificial joint",
+            "B": "Stent",
+            "C": "Prosthesis",
+            "D": "Orthosis"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4041,
+            "completion_tokens": 4153
+        },
+        "time_elapsed": 30.43429708480835
+    },
+    {
+        "idx": "63_speech_pathologist",
+        "realidx": "63_speech_pathologist",
+        "question": "Which brain area can cause hyperkinetic dysarthria when damaged? Options: (B) Ventricles (D) Reticular formation (C) Basal ganglia (A) Cerebellum",
+        "answer_idx": "A",
+        "answer": "Cerebellum",
+        "options": {
+            "A": "Cerebellum",
+            "B": "Ventricles",
+            "C": "Basal ganglia",
+            "D": "Reticular formation"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4029,
+            "completion_tokens": 3519
+        },
+        "time_elapsed": 25.834272623062134
+    },
+    {
+        "idx": "64_occupational_therapist",
+        "realidx": "64_occupational_therapist",
+        "question": "When educating about daily living activities related to METs and activity levels, which activity has the lowest metabolic equivalent? Options: (C) Moving furniture (D) Sweeping indoor floors (A) Making the bed (B) Shoveling snow",
+        "answer_idx": "D",
+        "answer": "Sweeping indoor floors",
+        "options": {
+            "A": "Making the bed",
+            "B": "Shoveling snow",
+            "C": "Moving furniture",
+            "D": "Sweeping indoor floors"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4250,
+            "completion_tokens": 5779
+        },
+        "time_elapsed": 37.03112483024597
+    },
+    {
+        "idx": "64_speech_pathologist",
+        "realidx": "64_speech_pathologist",
+        "question": "Which major cerebral vessel can cause Wernicke's aphasia when damaged? Options: (D) PICA (A) MCA (C) ASA (B) ECA",
+        "answer_idx": "C",
+        "answer": "ASA",
+        "options": {
+            "A": "MCA",
+            "B": "ECA",
+            "C": "ASA",
+            "D": "PICA"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4341,
+            "completion_tokens": 3263
+        },
+        "time_elapsed": 29.85035252571106
+    },
+    {
+        "idx": "66_speech_pathologist",
+        "realidx": "66_speech_pathologist",
+        "question": "What is the role of a speech-language pathologist when applying the response to intervention (RTI) model? Options: (B) Support small group and individualized programs. (C) Separate the subjects from the regular curriculum for speech therapy. (A) Select and intervene with subjects based on the ability-achievement discrepancy model. (D) Screen children with language disorders early and refer them to specialized institutions.",
+        "answer_idx": "A",
+        "answer": "Select and intervene with subjects based on the ability-achievement discrepancy model.",
+        "options": {
+            "A": "Select and intervene with subjects based on the ability-achievement discrepancy model.",
+            "B": "Support small group and individualized programs.",
+            "C": "Separate the subjects from the regular curriculum for speech therapy.",
+            "D": "Screen children with language disorders early and refer them to specialized institutions."
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4361,
+            "completion_tokens": 4043
+        },
+        "time_elapsed": 28.73764705657959
+    },
+    {
+        "idx": "6_speech_pathologist",
+        "realidx": "6_speech_pathologist",
+        "question": "Among the following, which acoustic parameter is considered to indicate a better voice condition with a higher measurement value? Options: (C) cepstral peak prominence (CPP) (A) soft phonation index (SPI) (D) average fundamental frequency (F0) (B) degree of voice breaks (DVB)",
+        "answer_idx": "B",
+        "answer": "degree of voice breaks (DVB)",
+        "options": {
+            "A": "soft phonation index (SPI)",
+            "B": "degree of voice breaks (DVB)",
+            "C": "cepstral peak prominence (CPP)",
+            "D": "average fundamental frequency (F0)"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4532,
+            "completion_tokens": 4681
+        },
+        "time_elapsed": 31.088571548461914
+    },
+    {
+        "idx": "70_occupational_therapist",
+        "realidx": "70_occupational_therapist",
+        "question": "What is the starting position when performing a Grade 3 (Fair) test for internal rotation of the shoulder joint in a manual muscle test? Options: (C) Supine position (B) Sitting position (A) Standing position (D) Prone position",
+        "answer_idx": "D",
+        "answer": "Prone position",
+        "options": {
+            "A": "Standing position",
+            "B": "Sitting position",
+            "C": "Supine position",
+            "D": "Prone position"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3826,
+            "completion_tokens": 3931
+        },
+        "time_elapsed": 28.15042519569397
+    },
+    {
+        "idx": "7_occupational_therapist",
+        "realidx": "7_occupational_therapist",
+        "question": "What is the severity of injury according to the duration of posttraumatic amnesia? Options: (B) very severe (C) moderate (A) severe (D) very mild",
+        "answer_idx": "C",
+        "answer": "moderate",
+        "options": {
+            "A": "severe",
+            "B": "very severe",
+            "C": "moderate",
+            "D": "very mild"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3945,
+            "completion_tokens": 6289
+        },
+        "time_elapsed": 38.1685357093811
+    },
+    {
+        "idx": "7_speech_pathologist",
+        "realidx": "7_speech_pathologist",
+        "question": "Which question checks for anticipation in the context of stuttering? Options: (C) Does stuttering appear differently depending on the situation? (D) Do you practice words that you think you might stutter on before saying them? (A) Do you repeat parts or all of a word? (B) Do you feel tension in the muscles of your chest or abdomen when you speak?",
+        "answer_idx": "C",
+        "answer": "Does stuttering appear differently depending on the situation?",
+        "options": {
+            "A": "Do you repeat parts or all of a word?",
+            "B": "Do you feel tension in the muscles of your chest or abdomen when you speak?",
+            "C": "Does stuttering appear differently depending on the situation?",
+            "D": "Do you practice words that you think you might stutter on before saying them?"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3977,
+            "completion_tokens": 4265
+        },
+        "time_elapsed": 30.257588863372803
+    },
+    {
+        "idx": "84_clinical_psychologist",
+        "realidx": "84_clinical_psychologist",
+        "question": "In the MMPI, which clinical scale involves the statistical manipulation of K score correction to enhance the test's reliability and validity? Options: (B) Pt scale (C) D scale (A) Si scale (D) L scale",
+        "answer_idx": "B",
+        "answer": "Pt scale",
+        "options": {
+            "A": "Si scale",
+            "B": "Pt scale",
+            "C": "D scale",
+            "D": "L scale"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4246,
+            "completion_tokens": 4429
+        },
+        "time_elapsed": 28.646455764770508
+    },
+    {
+        "idx": "84_occupational_therapist",
+        "realidx": "84_occupational_therapist",
+        "question": "What is the FIM score for an individual who requires minimal assistance and uses a grab bar to perform a task? Options: (B) 5 points (A) 4 points (C) 2 points (D) 6 points",
+        "answer_idx": "D",
+        "answer": "6 points",
+        "options": {
+            "A": "4 points",
+            "B": "5 points",
+            "C": "2 points",
+            "D": "6 points"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3948,
+            "completion_tokens": 4368
+        },
+        "time_elapsed": 28.217648029327393
+    },
+    {
+        "idx": "85_clinical_laboratory_scientist",
+        "realidx": "85_clinical_laboratory_scientist",
+        "question": "Which bacterium is expected to show A/AG, urea negative, positive motility, and IMViC ++-- results on triple sugar iron (TSI) agar? Options: (A) Shigella sonnei (C) Salmonella Typhi (B) Citrobacter freundii (D) Escherichia coli",
+        "answer_idx": "D",
+        "answer": "Escherichia coli",
+        "options": {
+            "A": "Shigella sonnei",
+            "B": "Citrobacter freundii",
+            "C": "Salmonella Typhi",
+            "D": "Escherichia coli"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4501,
+            "completion_tokens": 5381
+        },
+        "time_elapsed": 35.25808143615723
+    },
+    {
+        "idx": "9_speech_pathologist",
+        "realidx": "9_speech_pathologist",
+        "question": "Which of the following is correct regarding the pharyngeal phase of swallowing? Options: (A) Descent of the soft palate (B) Opening of the lower esophageal sphincter (C) Elevation of the hyoid and larynx (D) Opening of the laryngeal vestibule",
+        "answer_idx": "A",
+        "answer": "Descent of the soft palate",
+        "options": {
+            "A": "Descent of the soft palate",
+            "B": "Opening of the lower esophageal sphincter",
+            "C": "Elevation of the hyoid and larynx",
+            "D": "Opening of the laryngeal vestibule"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4342,
+            "completion_tokens": 4620
+        },
+        "time_elapsed": 31.586486101150513
+    }
+]

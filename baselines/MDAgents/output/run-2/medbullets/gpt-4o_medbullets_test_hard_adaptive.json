@@ -42,6 +42,27 @@
         "time_elapsed": 91.54919028282166
     },
     {
+        "idx": 8,
+        "realidx": 8,
+        "question": "A 67-year-old man presents to the emergency department after fainting. He was outside tending to his lawn for several hours in the heat, when he stood up suddenly from pulling weeds and fainted. He denies any preceding symptoms and returned to baseline within 1 minute. The patient is not aware of any medical problems and just started seeing a primary care physician last week. He recently used a friend's prescription for ondansetron for nausea. His temperature is 99.3\u00b0F (37.4\u00b0C), blood pressure is 142/88 mmHg, pulse is 107/min, respirations are 14/min, and oxygen saturation is 99% on room air. Physical exam reveals intact cranial nerves, normal strength and sensation, and a stable gait. His abdomen is soft and nontender. An ECG is performed as seen in Figure A. Which of the following is the most likely diagnosis based on this patient\u2019s ECG? Options: (D) Previous myocardial ischemia (B) Hypokalemia (C) Intermittent torsades des pointes (A) Acute myocardial infarction (E) Pulmonary embolism",
+        "answer_idx": "D",
+        "answer": "Previous myocardial ischemia",
+        "options": {
+            "A": "Acute myocardial infarction",
+            "B": "Hypokalemia",
+            "C": "Intermittent torsades des pointes",
+            "D": "Previous myocardial ischemia",
+            "E": "Pulmonary embolism"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 148209,
+            "completion_tokens": 4303
+        },
+        "time_elapsed": 69.0740294456482
+    },
+    {
         "idx": 9,
         "realidx": 9,
         "question": "A 34-year-old man is brought to a rural emergency department by ambulance after being involved in a motor vehicle accident. Paramedics report that the patient was driving the car and crashed into a tree at roughly 25 miles per hour. There were no passengers and he was awake but disoriented at the scene. His temperature is 97.9\u00b0F (36.6\u00b0C), blood pressure is 131/88 mmHg, pulse is 89/min, and respirations are 14/min. He is speaking but is confused, opens his eyes to voice commands, and follows simple commands. He has multiple lacerations on his face and arms and smells of alcohol and marijuana. His cardiac exam is normal and his lungs are clear to auscultation bilaterally. He has bruising over his abdomen without any tenderness to palpation, distension, or rigidity. Which of the following is the most appropriate next step in management? Options: (A) Abdominal and chest CT (D) Diagnostic peritoneal lavage (B) Chest radiograph anterior-posterior and lateral (C) Diagnostic laparoscopy (E) Focused abdominal sonography for trauma exam",

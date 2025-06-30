@@ -47,7 +47,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     # get handler
-    if args.model_name in ['gpt-4o', 'gpt-4o-mini', 'deepseek-V3']: # select the model
+    if args.model_name in ['gpt-4o', 'gpt-4o-mini', 'o1-mini', 'o3-mini', 'deepseek-V3']: # select the model
         handler = api_handler(args.model_name)
     else:
         raise ValueError

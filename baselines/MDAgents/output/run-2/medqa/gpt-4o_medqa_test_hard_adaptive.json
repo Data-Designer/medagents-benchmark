@@ -300,6 +300,26 @@
         "time_elapsed": 51.683173179626465
     },
     {
+        "idx": 160,
+        "realidx": 160,
+        "question": "A 5-year-old boy of African descent is presented to the emergency department by his parents. The child is clutching his abdomen and crying about pain in his belly. His mother reports intermittent episodes of jaundice with joint and bone pain since he was 5 months old. At presentation, the patient\u2019s vital signs are within normal limits. Physical examination reveals slight jaundice and pale conjunctiva. The spleen is tender and easily palpable. After a complete blood count with differential and an abdominal ultrasound, the patient is found to have sickle-cell disease with splenic infarct. A partial splenectomy is performed. After the operation, the physician provides vaccines against Neisseria meningitidis, Haemophilus influenzae, and Streptococcus pneumoniae. The picture shows a slide obtained from the resected portion of the patient\u2019s spleen. Dysfunction of the zone marked with which number predisposes the patient to the aforementioned infections? Options: (D) 1, 2, and 3 (A) 2 only (B) 1 only (C) 1 and 2",
+        "answer_idx": "C",
+        "answer": "1 and 2",
+        "options": {
+            "A": "2 only",
+            "B": "1 only",
+            "C": "1 and 2",
+            "D": "1, 2, and 3"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7480,
+            "completion_tokens": 1051
+        },
+        "time_elapsed": 15.860210418701172
+    },
+    {
         "idx": 171,
         "realidx": 171,
         "question": "A 38-year-old G4P3 presents to her obstetrician\u2019s office for her 20-week anatomy ultrasound. She reports that she feels well and has not experienced any contractions or vaginal bleeding. She also reports good fetal movement. The patient declined prenatal screening earlier in the pregnancy for religious reasons but would now like an anatomy ultrasound to ensure the fetus is growing appropriately. The patient\u2019s previous pregnancies were uncomplicated, and she delivered three healthy babies at full term. On the ultrasound, the technician observes a male fetus with likely intrauterine growth restriction (IUGR). She also notes microcephaly, convex-rounded feet, and clenched fists with overlapping fingers. The technician further notes a medium-sized ventricular septal defect (VSD). The amniotic fluid index (AFI) is 26 cm.\n\nWhich of the following additional findings is most likely to be observed in this fetus? Options: (A) Cleft palate (B) Epicanthal folds (C) Micropthlamia (D) Prominent occiput",
@@ -418,6 +438,26 @@
             "completion_tokens": 1950
         },
         "time_elapsed": 42.25537371635437
+    },
+    {
+        "idx": 211,
+        "realidx": 211,
+        "question": "A 65-year-old man presents with painless swelling of the neck over the past week. He also says he has been having intermittent fevers and severe night sweats which require a change of bed sheets the next day. His past medical history is significant for human immunodeficiency virus (HIV) diagnosed 10 years ago with which he admits to not always being compliant with his antiretroviral medication. The patient reports a 20-pack-year smoking history but no alcohol or recreational drug use. A review of systems is significant for a 6 kg (13.2 lb) unintentional weight loss over the past 2 months. The vital signs include: temperature 37.8\u2103 (100.0\u2109) and blood pressure 120/75 mm Hg. On physical examination, there are multiple non-tender swollen lymph nodes averaging 2 cm in diameter that is palpable in the anterior and posterior triangles of the neck bilaterally. Axillary and inguinal lymphadenopathy is present on the right side. A cardiopulmonary exam is unremarkable. The spleen size is 16 cm on percussion. Laboratory studies show the following:\nHemoglobin 9 g/dL\nMean corpuscular volume 88 \u03bcm3\nLeukocyte count 18,000/mm3\nPlatelet count 130,000/mm3\n    Serum creatinine 1.1 mg/dL\nSerum lactate dehydrogenase 1,000 U/L\nAn excisional biopsy of a superficial axillary lymph node on the right is performed and a histopathologic analysis confirms the most likely diagnosis. Which of the following is the next best diagnostic step in the workup of this patient? Options: (D) Tartrate-resistant acid phosphatase (TRAP) test (C) JAK-2 mutation (B) Hepatitis C virus antibodies (A) Antinuclear antibody",
+        "answer_idx": "B",
+        "answer": "Hepatitis C virus antibodies",
+        "options": {
+            "A": "Antinuclear antibody",
+            "B": "Hepatitis C virus antibodies",
+            "C": "JAK-2 mutation",
+            "D": "Tartrate-resistant acid phosphatase (TRAP) test"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 45422,
+            "completion_tokens": 2134
+        },
+        "time_elapsed": 53.965678215026855
     },
     {
         "idx": 212,
@@ -760,6 +800,26 @@
         "time_elapsed": 56.254721879959106
     },
     {
+        "idx": 285,
+        "realidx": 285,
+        "question": "A 30-year-old man presents to his primary care physician with complaints of excessive fatigue and weakness for the last several weeks. He also complains of abdominal pain and constipation for the same duration. On further questioning, he reports that he has lost 8 pounds in the last 2 weeks. Past medical history and family history are insignificant. His temperature is 37.3\u00b0 C (99.2\u00b0 F), respirations are 21/min, pulse is 63/min, and blood pressure is 99/70 mm Hg. On physical examination, he is a tired-appearing, thin male. He has a bronze discoloration to his skin, but he denies being outside in the sun or any history of laying in tanning beds. What is the next best step in the management of this patient? Options: (B) Start him on androgen replacement treatment (A) Administer intravenous fludrocortisone (D) Order an ACTH stimulation test (C) Start him on both hydrocortisone and fludrocortisone therapy",
+        "answer_idx": "C",
+        "answer": "Start him on both hydrocortisone and fludrocortisone therapy",
+        "options": {
+            "A": "Administer intravenous fludrocortisone",
+            "B": "Start him on androgen replacement treatment",
+            "C": "Start him on both hydrocortisone and fludrocortisone therapy",
+            "D": "Order an ACTH stimulation test"
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 37125,
+            "completion_tokens": 1801
+        },
+        "time_elapsed": 46.51359844207764
+    },
+    {
         "idx": 303,
         "realidx": 303,
         "question": "A 16-year-old female presents to her primary care physician due to lack of menstruation. She has never had a period and is anxious that she is not \u201ckeeping up\u201d with her friends. She states that her breasts began developing when she was 13, and she had a growth spurt around the same time. Review of systems reveals that she has also been getting headaches every few months over the last year with some photosensitivity and nausea each time. Ibuprofen relieves her symptoms. The patient is a competitive ice skater and has never been sexually active. Her mother has a history of migraine headaches, and her older sister has a history of bipolar disorder. Both underwent menarche at age 15. At this visit, the patient\u2019s temperature is 98.6\u00b0F (37.0\u00b0C), pulse is 70/min, blood pressure is 118/65 mmHg, and respirations are 13/min. Her body mass index is 23.8 kg/m^2. Cardiopulmonary and abdominal exams are unremarkable. Both breasts are Tanner IV with no expressable discharge. Pelvic and axillary hair growth is also Tanner IV. The patient is unable to tolerate a full pelvic exam, but the part of the vaginal canal that is examined is unremarkable. Laboratory studies are ordered and are below:\n\nSerum:\nNa+: 139 mEq/L\nK+: 4.1 mEq/L\nCl-: 100 mEq/L\nHCO3-: 24 mEq/L\nUrea nitrogen: 12 mg/dL\nGlucose: 73 mg/dL\nCreatinine: 0.9 mg/dL\nCa2+: 9.7 mg/dL\nMg2+: 1.7 mEq/L\nAST: 11 U/L\nALT: 11 U/L\nFollicle Stimulating Hormone (FSH): 16.2 mIU/mL (4.7-21.5 mIU/ml)\nEstrogen: 240 pg/mL (64-357 pg/mL)\n\nAbdominal ultrasound is performed and shows a normal uterus and ovaries. Which of the following is the most likely diagnosis? Options: (D) Normal development (A) Hyperprolactinemia (C) Vaginal septum (B) Imperforate hymen",
@@ -840,6 +900,26 @@
         "time_elapsed": 18.138397455215454
     },
     {
+        "idx": 336,
+        "realidx": 336,
+        "question": "A 39-year-old man is brought to the emergency department unconscious following 2 episodes of generalized tonic-clonic seizures. According to the attendants, he has complained of recurrent headaches for the past 2 weeks. There is no history of fever, head trauma, or a seizure disorder. The patient does not smoke cigarettes but reportedly drinks 2 glasses of wine daily. He has multiple sexual partners and history regarding the contraceptive use is unavailable. The patient\u2019s vitals include: blood pressure 137/88 mm Hg, temperature 37.2\u00b0C (99.0\u00b0F). On physical examination, he is obtunded. He grimaces on pain and localizes in response to pain in both upper extremities. Pupils are bilateral 3-mm in diameter and equally round and reactive. Laboratory tests are within normal limits. An MRI of the brain with contrast is shown in the exhibit (see image). A brain biopsy is performed that reveals perivascular clusters of lymphocytes. Which of the following is most associated with this patient\u2019s condition? Options: (A) Epstein-Barr virus (D) Schistosoma haematobium (B) Human herpes virus (C) Human papilloma virus",
+        "answer_idx": "A",
+        "answer": "Epstein-Barr virus",
+        "options": {
+            "A": "Epstein-Barr virus",
+            "B": "Human herpes virus",
+            "C": "Human papilloma virus",
+            "D": "Schistosoma haematobium"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 37104,
+            "completion_tokens": 1774
+        },
+        "time_elapsed": 38.601120948791504
+    },
+    {
         "idx": 337,
         "realidx": 337,
         "question": "A 22-year-old woman from a rural area who recently discovered she was pregnant is referred for a cardiology consultation due to cyanosis, dyspnea, and a cardiac murmur revealed at the initial prenatal visit. She is gravida 1, para 0 with an estimated gestational age of 19 weeks. She says that the murmur was found in her childhood, and the doctor at that time placed her under observation only. However, she has been lost to follow-up and has not had proper follow up in years. Currently, she complains of dizziness and occasional dyspnea on exertion which has gradually increased during her pregnancy. Prior to her pregnancy, she did not have any symptoms. The vital signs are as follows: blood pressure 125/60 mm Hg, heart rate 81/min, respiratory rate 13/min, and temperature 36.7\u00b0C (98.0\u00b0F). Her examination is significant for acrocyanosis and a fixed splitting of S2 and grade 3/6 midsystolic murmur best heard over the left upper sternal border. Which of the following physiological pregnancy changes is causing the change in this patient\u2019s condition? Options: (A) Increase in heart rate (D) Increase in blood volume (B) Decrease in systemic vascular resistance (C) Increase in cardiac output",
@@ -858,6 +938,26 @@
             "completion_tokens": 2046
         },
         "time_elapsed": 55.94347858428955
+    },
+    {
+        "idx": 340,
+        "realidx": 340,
+        "question": "A 67-year-old man is brought to the physician because of increasing forgetfulness, unsteadiness, and falls over the past year. He reports that these symptoms seem to worsen with each fall. Initially, he could not remember directions to his home but now cannot remember recent conversations or appointments he has made. He often repeats questions that he asked shortly before. He has long-standing hypertension, coronary artery disease, and hypercholesterolemia. Current medications include aspirin, carvedilol, enalapril, and atorvastatin. Examination shows a bruise over the left temple and an unsteady gait. On mental status examination, he is oriented to place and person only. Short-term memory is impaired; he can recall 0 out of 5 objects after 10 minutes. Long-term memory is intact. He has no delusions or hallucinations. Muscle strength is decreased in the left lower extremity. The Babinski sign is present on the left. A CT scan of the head is shown. Which of the following is the most appropriate next step in management? Options: (C) Tetrabenazine therapy (A) Warfarin therapy (D) Cognitive training (B) Vitamin E therapy",
+        "answer_idx": "D",
+        "answer": "Cognitive training",
+        "options": {
+            "A": "Warfarin therapy",
+            "B": "Vitamin E therapy",
+            "C": "Tetrabenazine therapy",
+            "D": "Cognitive training"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 335023,
+            "completion_tokens": 6049
+        },
+        "time_elapsed": 100.95966958999634
     },
     {
         "idx": 367,
@@ -918,6 +1018,26 @@
             "completion_tokens": 1252
         },
         "time_elapsed": 21.444038152694702
+    },
+    {
+        "idx": 423,
+        "realidx": 423,
+        "question": "A 27-year-old woman presents to the emergency department with acute onset bloody diarrhea. The patient has had severe abdominal pain throughout her entire life with occasional episodes of bloody diarrhea. She has recently lost 7 pounds and has felt generally ill for the past 2 days. She has a past medical history of generalized seizures with her most recent one having occurred 5 days ago. One month ago, the patient was treated for impetigo. The patient admits to occasional cocaine use and binge drinking. Her temperature is 98.7\u00b0F (37.1\u00b0C), blood pressure is 107/58 mmHg, pulse is 127/min, respirations are 16/min, and oxygen saturation is 99% on room air. Physical exam is notable for diffuse abdominal tenderness and guaiac positive stools. Laboratory values are ordered as seen below.\n\nHemoglobin: 9 g/dL\nHematocrit: 30%\nLeukocyte count: 9,400/mm^3 with normal differential\nPlatelet count: 199,000/mm^3\n\nSerum:\nNa+: 139 mEq/L\nCl-: 101 mEq/L\nK+: 4.9 mEq/L\nHCO3-: 25 mEq/L\nBUN: 37 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.8 mg/dL\nAST: 62 U/L\nALT: 80 U/L\nBlood alcohol: .15 g/dL\n\nUrine:\nColor: Yellow\nProtein: Positive\nCocaine: Positive\nMarijuana: Positive\n\nWhich of the following is the best explanation for this patient's laboratory findings? Options: (C) Intestinal IgA deficiency (B) Immune response to streptococcal infection (D) Protein deposition (A) Alcohol-induced liver injury",
+        "answer_idx": "D",
+        "answer": "Protein deposition",
+        "options": {
+            "A": "Alcohol-induced liver injury",
+            "B": "Immune response to streptococcal infection",
+            "C": "Intestinal IgA deficiency",
+            "D": "Protein deposition"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 40887,
+            "completion_tokens": 1982
+        },
+        "time_elapsed": 54.09701943397522
     },
     {
         "idx": 448,
@@ -1138,6 +1258,26 @@
             "completion_tokens": 2327
         },
         "time_elapsed": 53.611812114715576
+    },
+    {
+        "idx": 514,
+        "realidx": 514,
+        "question": "A 3-year-old girl is brought to the physician because of a 3-day history of fever, cough, purulent nasal discharge. She has experienced 7 similar episodes, each lasting 2\u20135 days in the previous 2 years. She has also had intermittent abdominal cramps and recurrent episodes of foul-smelling greasy diarrhea in the past year. She is at the 55th percentile for height and 35th percentile for weight. Her temperature is 38.9\u00b0C (102\u00b0F), pulse is 100/min, respirations are 24/min, and blood pressure is 110/60 mm Hg. Physical examination shows an erythematous oropharynx without exudate and tenderness over the frontoethmoidal sinuses. The abdomen is distended, nontender, and tympanitic to percussion. Bowel sounds are increased. Stool microscopy shows pear-shaped multi-flagellated organisms. This patient is at increased risk for which of the following? Options: (A) Anaphylactic transfusion reactions (C) Non-Hodgkin lymphoma (B) Cutaneous granulomas (D) Disseminated tuberculosis",
+        "answer_idx": "A",
+        "answer": "Anaphylactic transfusion reactions",
+        "options": {
+            "A": "Anaphylactic transfusion reactions",
+            "B": "Cutaneous granulomas",
+            "C": "Non-Hodgkin lymphoma",
+            "D": "Disseminated tuberculosis"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 258113,
+            "completion_tokens": 6402
+        },
+        "time_elapsed": 109.31140637397766
     },
     {
         "idx": 524,

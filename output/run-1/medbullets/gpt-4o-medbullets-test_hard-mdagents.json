@@ -126,6 +126,27 @@
         "time_elapsed": 51.8835608959198
     },
     {
+        "idx": 20,
+        "realidx": 20,
+        "question": "A 4-week-old boy is brought to the pediatrician by his parents for an initial evaluation. His parents are concerned that he is not feeding well and has lost weight over the last 2 weeks. He was born at home via spontaneous vaginal delivery at 37 weeks of gestation to a G1P1 mother. His mother did not receive prenatal care. His blood pressure is 70/44 mmHg, pulse is 151/min, and respirations are 41/min. His weight is 3 kg (4th percentile) compared with 3.5 kg at birth (45th percentile). On physical exam, he is jaundiced with an enlarged liver and spleen. He does not appear to respond to visual stimuli, and further examination reveals bilateral clouding of the lens. Which of the following interventions could have avoided this patient's symptoms? Options: (A) Avoiding fruit juice and sweetened foods (C) Providing imiglucerase enzyme replacement (D) Removing phenylalanine from maternal diet during pregnancy (B) Changing to a soy based formula (E) Vitamin B6 supplementation",
+        "answer_idx": "B",
+        "answer": "Changing to a soy based formula",
+        "options": {
+            "A": "Avoiding fruit juice and sweetened foods",
+            "B": "Changing to a soy based formula",
+            "C": "Providing imiglucerase enzyme replacement",
+            "D": "Removing phenylalanine from maternal diet during pregnancy",
+            "E": "Vitamin B6 supplementation"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 380574,
+            "completion_tokens": 6621
+        },
+        "time_elapsed": 120.97681069374084
+    },
+    {
         "idx": 22,
         "realidx": 22,
         "question": "A 25-year-old woman is brought to the emergency department by her family. They found her somnolent next to her computer with an empty pill bottle around 3 hours ago. The family cannot recall the types of pill bottles that they found and did not bring them to the ED. The patient's medical history is notable for anxiety, obesity, hypertension, and polycystic ovarian syndrome. She is currently not on any medications. She was given an exercise program but she has not been compliant with these exercises. Her temperature is 99.5\u00b0F (37.5\u00b0C), pulse is 82/min, blood pressure is 125/85 mmHg, respirations are 11/min, and oxygen saturation is 97% on room air. Physical exam is within normal limits. The patient begins communicating with the physician and states that she did take acetaminophen but it was only a few pills. Her parents are certain the bottle was new. Which of the following is the most appropriate next step in management? Options: (B) Charcoal (D) N-acetylcysteine (A) Blood acetaminophen levels (E) Syrup of ipecac (C) Lactated ringer bolus",
@@ -187,6 +208,27 @@
             "completion_tokens": 2343
         },
         "time_elapsed": 56.16802740097046
+    },
+    {
+        "idx": 32,
+        "realidx": 32,
+        "question": "A 59-year-old man presents to his primary care physician for abdominal pain and foul-smelling diarrhea that has persisted for the past 2 years. The patient has a medical history of alcoholism and has been admitted to the hospital multiple times for withdrawal, abdominal pain, and traumatic injuries from his drinking. The patient states that his last drink was more than 1 year ago. His temperature is 99.3\u00b0F (37.4\u00b0C), blood pressure is 115/78 mmHg, pulse is 78/min, respirations are 15/min, and oxygen saturation is 99% on room air. Physical exam reveals a non-tender, non-distended abdomen. Laboratory studies are notable for a serum calcium of 7.0 mg/dL. A computed tomography (CT) scan of the abdomen is performed as seen in Figure A. A Sudan Black stain of the patient\u2019s stool is positive. Which of the following is the most appropriate treatment for the underlying cause of this patient\u2019s diarrhea? Options: (E) Rifaximin (D) Pantoprazole (C) Oral rehydration (B) Loperamide (A) Ciprofloxacin",
+        "answer_idx": "D",
+        "answer": "Pantoprazole",
+        "options": {
+            "A": "Ciprofloxacin",
+            "B": "Loperamide",
+            "C": "Oral rehydration",
+            "D": "Pantoprazole",
+            "E": "Rifaximin"
+        },
+        "predicted_answer": "E",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 161774,
+            "completion_tokens": 3390
+        },
+        "time_elapsed": 94.20498085021973
     },
     {
         "idx": 35,
@@ -313,6 +355,27 @@
             "completion_tokens": 1862
         },
         "time_elapsed": 42.97049379348755
+    },
+    {
+        "idx": 56,
+        "realidx": 56,
+        "question": "A 69-year-old man presents to the emergency department with shortness of breath. The patient has presented 3 times this month with similar complaints. He states his shortness of breath started when he was walking from his car to a local restaurant. He does not see a primary care physician and is not currently taking any medications. He drinks alcohol socially and does not smoke. His temperature is 99.5\u00b0F (37.5\u00b0C), pulse is 100/min, blood pressure is 130/90 mmHg, respirations are 18/min, and oxygen saturation is 96% on room air. On physical exam, he appears fatigued and the cardiovascular exam reveals an additional heart sound after S2. A pulmonary exam is notable for bilateral crackles and an abdominal exam reveals an obese abdomen without pain in any of the quadrants. Lower extremity pitting edema is noted bilaterally. Which of the sets of lab values shown in Figure A would most likely be seen in this patient? Options: (A) A (E) E (B) B (D) D (C) C",
+        "answer_idx": "C",
+        "answer": "C",
+        "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D",
+            "E": "E"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7619,
+            "completion_tokens": 867
+        },
+        "time_elapsed": 10.929009437561035
     },
     {
         "idx": 60,
@@ -523,6 +586,27 @@
             "completion_tokens": 971
         },
         "time_elapsed": 14.391793251037598
+    },
+    {
+        "idx": 92,
+        "realidx": 92,
+        "question": "A 55-year-old man presents to the emergency department after fainting while moving furniture. He states that he has been working in a hot, humid attic all day and forgot his water bottle. He felt dizzy when standing up and then fainted and was unconscious for roughly 1 minute. He awoke at his neurologic baseline afterwards. The patient has a history of hypertension being managed by his primary care doctor. His temperature is 98.7\u00b0F (37.1\u00b0C), blood pressure is 149/82 mmHg, pulse is 86/min, respirations are 15/min, and oxygen saturation is 99% on room air. Physical exam reveals a diaphoretic man. He demonstrates an unremarkable cardiopulmonary exam. The patient walks with a steady gait and his neurologic exam is non-focal. An ECG is performed as seen in Figure A. The patient is given 2 liters of oral fluids and feels back to his baseline. Which of the following conditions is most likely to occur in this patient based on his current history and ECG? Options: (E) Torsades des pointes (C) Myocardial infarction (D) Stroke (A) Atrial fibrillation (B) Complete heart block",
+        "answer_idx": "B",
+        "answer": "Complete heart block",
+        "options": {
+            "A": "Atrial fibrillation",
+            "B": "Complete heart block",
+            "C": "Myocardial infarction",
+            "D": "Stroke",
+            "E": "Torsades des pointes"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8224,
+            "completion_tokens": 1084
+        },
+        "time_elapsed": 15.665395498275757
     },
     {
         "idx": 94,
@@ -1029,6 +1113,27 @@
         "time_elapsed": 41.10568308830261
     },
     {
+        "idx": 194,
+        "realidx": 194,
+        "question": "A 37-year-old woman presents to her physician for mood changes and recent falls over the course of 3 months. She feels more irritable with her husband and children and does not find pleasure in creating art anymore. Over the last 2 weeks, she has been sleeping approximately 5 hours a night and had a fall while walking in her home with the lights off. She denies any head trauma or loss of consciousness associated with the fall. She has a medical history of generalized anxiety disorder and hypothyroidism for which she takes escitalopram and levothyroxine. She had a Roux-en-Y gastric bypass 5 years ago. She has been in a monogamous relationship with her husband for the last 15 years and uses a copper intrauterine device. Physical examination is notable for a depressed affect. Pupils are equal, round, and reactive to light and accommodation. She has 4/5 strength in the bilateral lower extremities and brisk patellar reflexes. Which of the following is most likely the cause of this patient's symptoms? Options: (D) Reduced functional parietal cell count (E) Subtherapeutic levothyroxine dose (B) Prior Treponema pallidum exposure (C) Reduced central nervous system dopamine and serotonin (A) Poor iron absorption",
+        "answer_idx": "D",
+        "answer": "Reduced functional parietal cell count",
+        "options": {
+            "A": "Poor iron absorption",
+            "B": "Prior Treponema pallidum exposure",
+            "C": "Reduced central nervous system dopamine and serotonin",
+            "D": "Reduced functional parietal cell count",
+            "E": "Subtherapeutic levothyroxine dose"
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 134686,
+            "completion_tokens": 3802
+        },
+        "time_elapsed": 73.15917587280273
+    },
+    {
         "idx": 197,
         "realidx": 197,
         "question": "A 55-year-old man presents to the emergency department with chest pressure and diaphoresis. His symptoms started at work when he was lifting boxes. He states that he currently feels crushing pressure over his chest. He is given aspirin and an ECG is performed in triage, as seen in Figure A. His past medical history is notable for diabetes and obesity. He has smoked 1 pack of cigarettes per day for the past 30 years. His temperature is 97.9\u00b0F (36.6\u00b0C), blood pressure is 155/99 mmHg, pulse is 110/min, respirations are 22/min, and oxygen saturation is 98% on room air. Physical exam reveals an uncomfortable, diaphoretic man. His heart and breath sounds are unremarkable. A repeat ECG in the emergency department is performed, also seen in Figure A. The patient\u2019s chest pain is worse when the ECG in the emergency department is taken, compared to the one taken in triage. He is given nitroglycerin, with minimal improvement in his symptoms. A troponin level is drawn. Which of the following is the most appropriate next step in management? Options: (B) Chest radiograph (D) Heparin (A) Cardiac catheterization (E) Repeat ECG in 10 minutes (C) CK-MB level",
@@ -1090,6 +1195,27 @@
             "completion_tokens": 2110
         },
         "time_elapsed": 43.79074835777283
+    },
+    {
+        "idx": 209,
+        "realidx": 209,
+        "question": "A 72-year-old man presents to his primary care physician with weakness. He has felt very weak every morning with his symptoms persisting throughout the day. He notes minor improvement when he rides his bike but otherwise has not noticed any change in his symptoms with rest or ibuprofen use. The patient has lost 12 pounds recently and has had a chronic cough. The patient lives alone and drinks 7 alcoholic beverages per day and smokes 1-2 packs of cigarettes per day for the past 40 years. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 177/108 mmHg, pulse is 93/min, respirations are 17/min, and oxygen saturation is 92% on room air. A chest radiograph is ordered as seen in Figure A. Which of the following diagnostic tests would most likely elucidate the cause of this patient's weakness? Options: (D) Lung biopsy (C) Electromyography (E) Muscle biopsy (B) CT scan of the chest (A) Blood laboratory test",
+        "answer_idx": "C",
+        "answer": "Electromyography",
+        "options": {
+            "A": "Blood laboratory test",
+            "B": "CT scan of the chest",
+            "C": "Electromyography",
+            "D": "Lung biopsy",
+            "E": "Muscle biopsy"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 86002,
+            "completion_tokens": 2976
+        },
+        "time_elapsed": 50.86221122741699
     },
     {
         "idx": 211,
@@ -1302,6 +1428,27 @@
         "time_elapsed": 12.184555292129517
     },
     {
+        "idx": 249,
+        "realidx": 249,
+        "question": "A 23-year-old woman presents to the emergency department with severe abdominal pain. The pain has been dull and progressive, but became suddenly worse while she was exercising. Her medical history is notable for depression, anxiety, and gonococcal urethritis that was appropriately treated. She is sexually active and does not use condoms. She admits to drinking at least 5 standard alcoholic drinks a day. The patient also recently lost a large amount of weight for a fitness show she planned on entering. The patient's current medications include oral contraceptive pills, fluoxetine, alprazolam, ibuprofen, acetaminophen, and folate. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 80/40 mmHg, pulse is 110/minute, and respirations are 15/minute with an oxygen saturation of 96% on room air. On physical exam, you note an athletic young woman with burly shoulders, a thick neck, and acne on her forehead and back. On abdominal exam you note diffuse tenderness with 10/10 pain upon palpation of the right upper quadrant. Intravenous fluids are started and labs are sent. A urinary \u00df-hCG has been ordered. Which of the following is the most likely the diagnosis? Options: (B) Inflammation of the pancreas (E) Vascular ectasia within the liver (D) Obstruction of the common bile duct by radio-opaque stones (C) Obstruction of blood flow through the hepatic vein (A) Ectopic implantation of a blastocyst",
+        "answer_idx": "E",
+        "answer": "Vascular ectasia within the liver",
+        "options": {
+            "A": "Ectopic implantation of a blastocyst",
+            "B": "Inflammation of the pancreas",
+            "C": "Obstruction of blood flow through the hepatic vein",
+            "D": "Obstruction of the common bile duct by radio-opaque stones",
+            "E": "Vascular ectasia within the liver"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 181149,
+            "completion_tokens": 4239
+        },
+        "time_elapsed": 86.05799627304077
+    },
+    {
         "idx": 252,
         "realidx": 252,
         "question": "A 33-year-old man presents to the emergency department after slamming his finger in the car door 5 hours ago. He initially experienced pain which is currently well controlled with acetaminophen. The patient is otherwise healthy and does not take any medications. His temperature is 98.5\u00b0F (36.9\u00b0C), blood pressure is 123/79 mmHg, pulse is 90/min, respirations are 11/min, and oxygen saturation is 97% on room air. Physical exam is notable for the finding in Figure A. A radiograph of the affected digits shows a smooth cortex without disruption of the bone. Which of the following is the most appropriate management for this patient? Options: (A) Excision and histological examination (D) Operative repair (B) Fingernail removal (E) Trephination (C) Observation",
@@ -1321,6 +1468,27 @@
             "completion_tokens": 981
         },
         "time_elapsed": 13.534098386764526
+    },
+    {
+        "idx": 253,
+        "realidx": 253,
+        "question": "A 27-year-old woman presents to her primary care physician for an abnormal vaginal discharge. The patient has engaged in unprotected intercourse with 12 different partners. She has a medical history of asthma, IV drug abuse, and depression. She has 1 to 2 alcoholic drinks per day. She feels ashamed of her behavior and is requesting treatment for her condition and advice for safe sex. The patient is given antibiotics and is advised on safe sex practices. The patient presents to the emergency department 3 days later with a complaint of a rash. She states that every time she has sex a rash has emerged on her skin. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 127/68 mmHg, pulse is 91/min, respirations are 14/min, and oxygen saturation is 98% on room air. A physical exam is notable for the finding in Figure A. Which of the following is the most likely cause of this patient's symptoms? Options: (E) Photosensitivity (C) Infection (B) Drug reaction (D) IV drug use (A) Antigen exposure",
+        "answer_idx": "A",
+        "answer": "Antigen exposure",
+        "options": {
+            "A": "Antigen exposure",
+            "B": "Drug reaction",
+            "C": "Infection",
+            "D": "IV drug use",
+            "E": "Photosensitivity"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 124122,
+            "completion_tokens": 3004
+        },
+        "time_elapsed": 72.21692299842834
     },
     {
         "idx": 257,
@@ -1489,6 +1657,27 @@
             "completion_tokens": 2532
         },
         "time_elapsed": 60.18963289260864
+    },
+    {
+        "idx": 281,
+        "realidx": 281,
+        "question": "A 6-month-old girl is brought to the pediatrician by her father for a scheduled check-up. She was in her usual state of health until 6 weeks ago when she was hospitalized for bacterial pneumonia. She received amoxicillin and had a resolution of her symptoms. Her father reports that she seems \u201cback to normal.\u201d She can roll over by herself and can sit up without support. She often babbles but sometimes does make identifiable sounds like \u201cdada\u201d and \u201cbaba.\u201d They recently started feeding her mushy cereal, which she seems to like but occasionally spits up. She has started teething and sometimes becomes \u201cfussy.\u201d Vital signs are within normal limits. A physical examination is unremarkable. The patient\u2019s father brought a 4-week follow-up chest radiograph taken at the hospital, as shown in Figure A. Which of the structures labeled in Figure A would be most likely to change in response to another infectious illness? Options: (D) D (C) C (A) A (E) E (B) B",
+        "answer_idx": "A",
+        "answer": "A",
+        "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D",
+            "E": "E"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8076,
+            "completion_tokens": 801
+        },
+        "time_elapsed": 12.830686569213867
     },
     {
         "idx": 284,

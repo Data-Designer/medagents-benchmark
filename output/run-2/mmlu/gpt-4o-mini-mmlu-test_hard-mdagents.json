@@ -1040,6 +1040,26 @@
         "time_elapsed": 49.446715116500854
     },
     {
+        "idx": 1284,
+        "realidx": 1284,
+        "question": "A dentist that is performing procedures in his clinic is brought out to the front desk one day to handle a dispute between one of his patients and the clerk. The patient is a middle-aged businessman who is irate and creating a scene because he was told he would have to see the dental hygienist instead of the dentist. The patient loudly rants that he makes too much money to be subjected to treatment by a half-trained associate. The clerk explains to the dentist that the patient was 40 minutes late to his appointment, and the only opening now was with the hygienist. The patient snaps back that his time is worth more than any of the people in the office. What personality disorder is this patient likely exhibiting? Options: (A) Histrionic (B) Narcissistic (D) Obsessive-compulsive (C) Paranoid",
+        "answer_idx": "C",
+        "answer": "Paranoid",
+        "options": {
+            "A": "Histrionic",
+            "B": "Narcissistic",
+            "C": "Paranoid",
+            "D": "Obsessive-compulsive"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5441,
+            "completion_tokens": 535
+        },
+        "time_elapsed": 13.976662874221802
+    },
+    {
         "idx": 1286,
         "realidx": 1286,
         "question": "A young man working with a therapist on becoming more productive is expressing many of his desires throughout growing up and how he feels that it has affected him. Through discernment, the therapist states that he believes the young man\u2019s development is stuck in a stage that reflects itself by his inability to keep his house clean. According to Freud\u2019s theory of psychosexual development, what stage would this young man be fixated in? Options: (D) Genital (C) Latent (A) Anal (B) Phallic",
@@ -1058,6 +1078,26 @@
             "completion_tokens": 490
         },
         "time_elapsed": 9.447012662887573
+    },
+    {
+        "idx": 1293,
+        "realidx": 1293,
+        "question": "Tyler is a high school student who is planning on becoming an engineer. In his calculus II class sophomore year, he receives an F on his first test. Which of the following responses to this event would indicate that Tyler has a higher likelihood of improving in subsequent exams? Options: (C) He says it was due to some home circumstances that won\u2019t be present during the next exam. (D) He critiques his study methods and tries to find out which led to poor returns. (A) He decides that the first test is always harder than the others. (B) He says the teacher graded his exam harder because she doesn\u2019t like him.",
+        "answer_idx": "A",
+        "answer": "He decides that the first test is always harder than the others.",
+        "options": {
+            "A": "He decides that the first test is always harder than the others.",
+            "B": "He says the teacher graded his exam harder because she doesn\u2019t like him.",
+            "C": "He says it was due to some home circumstances that won\u2019t be present during the next exam.",
+            "D": "He critiques his study methods and tries to find out which led to poor returns."
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5169,
+            "completion_tokens": 575
+        },
+        "time_elapsed": 15.913817167282104
     },
     {
         "idx": 1298,

@@ -14,6 +14,12 @@ client = AzureOpenAI(
     api_version = os.environ['AZURE_API_VERSION'],
 )
 
+client_2 = AzureOpenAI(
+    azure_endpoint = os.environ['AZURE_ENDPOINT_2'],
+    api_key = os.environ['AZURE_API_KEY_2'],
+    api_version = os.environ['AZURE_API_VERSION_2'],
+)
+
 client_together = OpenAI(
     base_url="https://api.together.xyz/v1",
     api_key=os.getenv("TOGETHER_API_KEY"),
@@ -37,7 +43,16 @@ def generate_response_multiagent(engine, temperature, frequency_penalty, presenc
             ],
         )
     else:
-        response = client.chat.completions.create(
+        if engine in ['o1-mini', 'o3-mini']:
+            response = client_2.chat.completions.create(
+                model=engine,
+                messages=[  
+                    {"role": "user", "content": system_role},
+                    {"role": "user", "content": user_input}
+                ],
+            )
+        else:
+            response = client.chat.completions.create(
             model=engine,
             temperature=temperature,
             top_p=1,
@@ -123,6 +138,10 @@ class api_handler:
             self.engine = 'gpt-4o-mini'
         elif self.model == 'gpt-4o':
             self.engine = 'gpt-4o'
+        elif self.model == 'o1-mini':
+            self.engine = 'o1-mini'
+        elif self.model == 'o3-mini':
+            self.engine = 'o3-mini'
         elif self.model == 'llama3.1-70b':
             self.engine = 'meta-llama/Llama-3.1-70B-Instruct'
         elif self.model == 'qwen2.5-72b':

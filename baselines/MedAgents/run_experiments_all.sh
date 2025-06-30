@@ -13,7 +13,7 @@ DATA_DIR=../../data
 for RUN_NUMBER in 0 1 2; do
     for dataset in medqa pubmedqa medmcqa medbullets mmlu mmlu-pro medexqa medxpertqa-r medxpertqa-u; do
         mkdir -p $LOGS_DIR/run-${RUN_NUMBER}/$dataset
-        for model in gpt-4o-mini gpt-4o; do
+        for model in o1-mini o3-mini gpt-4o-mini gpt-4o; do
             for split in test_hard; do
                 for difficulty in adaptive; do
                     log_file=$LOGS_DIR/run-${RUN_NUMBER}/$dataset/${model}_${dataset}_${split}_${difficulty}.log

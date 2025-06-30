@@ -171,6 +171,25 @@
         "time_elapsed": 56.8909695148468
     },
     {
+        "idx": "12630042",
+        "realidx": "12630042",
+        "question": "The long-term survival of patients with gastric cancer is governed by various factors, such as the clinical stage of the cancer, the patient's nutritional state, and the treatment and may be governed by the volume of intraperitoneal adipose tissue. The aim of this study is to clarify the relationship between the degree of the patients' body mass index and their long-term survival.\nGastric cancer patients who had undergone a gastrectomy with D2-lymphadenectomy and with resection A and B according to the criteria of the Japanese Research Society for Gastric Cancer Rules were subgrouped into those patients with a body mass index<0.185 (the lower body mass index group) and those patients with a body mass index>0.210 (the higher body mass index group). The patient's morbidity and long-term survival rate was retrospectively compared between the 2 groups.\nA significantly longer mean survival rate was observed for the lower body mass index group in stage 2 (1667 vs. 1322 days, P = 0.0240). Also, a significantly longer mean survival rate was observed for the higher BMI group in stage 3a (1431 vs. 943, P = 0.0071).\nDoes body mass index (BMI) influence morbidity and long-term survival in gastric cancer patients after gastrectomy? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 522459,
+            "completion_tokens": 7390
+        },
+        "time_elapsed": 138.54488253593445
+    },
+    {
         "idx": "12790890",
         "realidx": "12790890",
         "question": "Mesial temporal sclerosis (MTS) is characterized by neuronal loss in the hippocampus. Studies on experimental models and patients with intractable epilepsy suggest that apoptosis may be involved in neuronal death induced by recurrent seizures.\nWe searched evidence for apoptotic cell death in temporal lobes resected from drug-resistant epilepsy patients with MTS by using the terminal deoxynucleotidyl transferase (TdT) and digoxigenin-11-dUTP (TUNEL) method and immunohistochemistry for Bcl-2, Bax, and caspase-cleaved actin fragment, fractin. The temporal lobe specimens were obtained from 15 patients (six women and nine men; mean age, 29 +/- 8 years).\nUnlike that in normal adult brain, we observed Bcl-2 immunoreactivity in some of the remaining neurons dispersed throughout the hippocampus proper as well as in most of the reactive astroglia. Bax immunopositivity was increased in almost all neurons. Fractin immunostaining, an indicator of caspase activity, was detected in approximately 10% of these neurons. Despite increased Bax expression and activation of caspases, we could not find evidence for DNA fragmentation by TUNEL staining. We also could not detect typical apoptotic changes in nuclear morphology by Hoechst-33258 or hematoxylin counterstaining.\nIs the cell death in mesial temporal sclerosis apoptotic? Options: (A) yes (B) no (C) maybe",
@@ -207,6 +226,25 @@
             "completion_tokens": 11907
         },
         "time_elapsed": 213.18151259422302
+    },
+    {
+        "idx": "16392897",
+        "realidx": "16392897",
+        "question": "Quantitative real-time PCR has become the predominant molecular technique to monitor BCRABL levels in response to treatment in Ph(+) leukemia patients. However, without some form of standardized methodology between laboratories, the correlation of results is difficult.\nUsing TaqMan-based assays, parallel quantitative real-time PCR analysis was performed on 70 clinical specimens at Vanderbilt University Medical Center and Virginia Commonwealth University. While the same positive control cell line (K562) and quality control gene (BCR) were used, the RNA isolation technique, cDNA synthesis, BCR control cell line, and PCR primer and probe sequences were different.\nThe detection of BCRABL-positive results spanned a dynamic range from 10(0) to 10(5)/100,000 cells. Forty-three samples were negative at both facilities. A Spearman rank correlation analysis was performed for the 22 BCRABL-positive paired results. The correlation coefficient, r(s), was 0.9435 (p<0.00001), suggesting a strong correlation of the results. One discordant result was obtained for consecutive samples from one patient with a low BCRABL copy number as a result of a minimal RNA yield at one laboratory.\nBCRABL transcript detection by quantitative real-time PCR : are correlated results possible from homebrew assays? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 440581,
+            "completion_tokens": 7372
+        },
+        "time_elapsed": 140.89516520500183
     },
     {
         "idx": "16538201",
@@ -418,6 +456,44 @@
         "time_elapsed": 44.57671523094177
     },
     {
+        "idx": "18235194",
+        "realidx": "18235194",
+        "question": "In a prospective study 218 preschool children were enrolled (stratified in 2 training programs, one specialized for phonologic awareness in order to prevent dyslexia, the other consisting in training of general perception) during the last year of kindergarten. After finishing the first grade 131 children were compared in their reading and writing abilities.\nIn the whole group only a slight difference was found between both training modalities concerning their writing abilities. However, children with a history of hearing loss, actual hearing loss or pathologic middle ear findings profited most from the specialized training program compared to the control in their reading abilities.\nIs a specialised training of phonological awareness indicated in every preschool child? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 41566,
+            "completion_tokens": 1809
+        },
+        "time_elapsed": 48.972407817840576
+    },
+    {
+        "idx": "18243752",
+        "realidx": "18243752",
+        "question": "This study aims to evaluate local failure patterns in node negative breast cancer patients treated with post-mastectomy radiotherapy including internal mammary chain only.\nRetrospective analysis of 92 internal or central-breast node-negative tumours with mastectomy and external irradiation of the internal mammary chain at the dose of 50 Gy, from 1994 to 1998.\nLocal recurrence rate was 5 % (five cases). Recurrence sites were the operative scare and chest wall. Factors associated with increased risk of local failure were age<or = 40 years and tumour size greater than 20mm, without statistical significance.\nShould chest wall irradiation be included after mastectomy and negative node breast cancer? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 16052,
+            "completion_tokens": 1956
+        },
+        "time_elapsed": 137.1755428314209
+    },
+    {
         "idx": "18284441",
         "realidx": "18284441",
         "question": "Paraffin-embedded tissues in Cukurova University Faculty of Medicine Department of Pathology between January 2002 and February 2006 were searched restrospectively to investigate this issue. We performed immunohistochemistry on biopsies of 125 patients with HBV infection, grouped as: mild, moderate and severe hepatitis, cirrhosis and HCC, 25 patients in each of them, using anti c-kit monoclonal antibody. The severity of parenchymal inflammation and of interface hepatitis was semiquantitatively graded on a haematoxylin and eosin stained paraffin sections. Additionally, 50 more HCC, formed on HBV basis, were studied to determine the prevalence of c-kit overexpression.\nIn cirrhotic liver, lower intensity of staining and rarely c-kit positivity were present. The greatest number of the c-kit positivity and higher intensity of staining was found in the livers of patients with severe hepatitis and HCC. In chronic hepatitis B infection, the staining intensity was parallel with the grade and stage of the disease. In the areas where fibrosis was seen, c-kit positivity was rare or absent. In the HCC specimens, c-kit positivity appeared both inside and around the cancerous nodes. C-kit expression was observed in 62 of 75 HCC tissue specimens (82%) (p<0.001).\nExpression of c-kit protooncogen in hepatitis B virus-induced chronic hepatitis, cirrhosis and hepatocellular carcinoma: has it a diagnostic role? Options: (C) maybe (B) no (A) yes",
@@ -589,6 +665,25 @@
         "time_elapsed": 158.6634304523468
     },
     {
+        "idx": "19351635",
+        "realidx": "19351635",
+        "question": "National guidelines and government directives have adopted policies for urgent assessment of patients with a transient ischaemic attack or minor stroke not admitted to hospital. The risk of recurrent stroke increases substantially with age, as does the potential benefit of secondary prevention. In order to develop effective strategies for older patients, it is important to identify how stroke care is currently provided for this patient group.\nBetween 2004 and 2006, older patients (>75 years) referred to a neurovascular clinic were compared with younger patients (<or =75 years). Sociodemographic details, clinical features, resource use and secondary prevention in a neurovascular clinic were collected.\nOf 379 patients referred to the clinic, 129 (34%) were given a non-stroke diagnosis. Of the remaining 250 patients, 149 (60%) were<or =75 years. Median time from symptom onset to clinic appointment was similar for the two groups (24 (IQR 15-42) vs 24 (IQR 14-43) days; p = 0.58). Older patients were more likely to be in atrial fibrillation (10.1% vs 22.8%, p<0.001) and have lacunar stroke (34.7% vs 22.1%; p = 0.04). CT rates were similar in the two groups (27.8% vs 80.0%, p = 0.75). Scans were performed more quickly in younger patients (p<0.01). MRI scan rates were higher in younger patients (26% vs 4%, p<0.01), as was carotid Doppler imaging (92% vs 77%, p<0.01). There were no differences in prescribed secondary preventive treatments. Older patients experienced less delay for carotid endarterectomy (49 vs 90 days, p<0.01). Younger patients were more likely to be given advice on weight reduction (30.2% vs 12.9%, p<0.01) and diet (46.3% vs 31.7%, p = 0.02) than older patients.\nDo older patients receive adequate stroke care? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 20218,
+            "completion_tokens": 1692
+        },
+        "time_elapsed": 135.9631862640381
+    },
+    {
         "idx": "19430778",
         "realidx": "19430778",
         "question": "To correlate magnetic resonance (MR) image findings with pain response by provocation discography in patients with discogenic low back pain, with an emphasis on the combination analysis of a high intensity zone (HIZ) and disc contour abnormalities.\nSixty-two patients (aged 17-68 years) with axial low back pain that was likely to be disc related underwent lumbar discography (178 discs tested). The MR images were evaluated for disc degeneration, disc contour abnormalities, HIZ, and endplate abnormalities. Based on the combination of an HIZ and disc contour abnormalities, four classes were determined: (1) normal or bulging disc without HIZ; (2) normal or bulging disc with HIZ; (3) disc protrusion without HIZ; (4) disc protrusion with HIZ. These MR image findings and a new combined MR classification were analyzed in the base of concordant pain determined by discography.\nDisc protrusion with HIZ [sensitivity 45.5%; specificity 97.8%; positive predictive value (PPV), 87.0%] correlated significantly with concordant pain provocation (P<0.01). A normal or bulging disc with HIZ was not associated with reproduction of pain. Disc degeneration (sensitivity 95.4%; specificity 38.8%; PPV 33.9%), disc protrusion (sensitivity 68.2%; specificity 80.6%; PPV 53.6%), and HIZ (sensitivity 56.8%; specificity 83.6%; PPV 53.2%) were not helpful in the identification of a disc with concordant pain.\nCan magnetic resonance imaging accurately predict concordant pain provocation during provocative disc injection? Options: (C) maybe (A) yes (B) no",
@@ -684,6 +779,25 @@
         "time_elapsed": 154.79891562461853
     },
     {
+        "idx": "20337202",
+        "realidx": "20337202",
+        "question": "To determine the duration of continuing pregnancy after antenatal corticosteroid (AC) administration and to evaluate the potential opportunity for rescue AC.\nRetrospective analysis of women at 24-32 weeks' gestation who received AC at one institution.\nSix hundred ninety-two women received AC. Two hundred forty-seven (35.7%) delivered at>or = 34 weeks' gestation. Three hundred twenty-one (46.4%) delivered within 1 week of AC; 92 of those women (13.3%) delivered within 24 hours. Only 124 (17.9%) remained pregnant 1 week after AC and delivered at<34 weeks. The latter were compared to women delivering>2 week after AC but>or = 34 weeks. More likely to deliver at<34 weeks were those women who received AC for premature preterm rupture of membranes (OR 3.83, 95% CI 2.06-7.17), twins (OR 2.90, 95% CI 1.42-5.95) or before 28 weeks (OR 2.21, 95% CI 1.38-3.52).\nContinuation of pregnancy after antenatal corticosteroid administration: opportunity for rescue? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 720017,
+            "completion_tokens": 11886
+        },
+        "time_elapsed": 206.6443178653717
+    },
+    {
         "idx": "20538207",
         "realidx": "20538207",
         "question": "It is generally considered that kidney grafts should be preserved at 4 degrees C during cold storage. However, actual temperature conditions are not known. We decided to study the temperature levels during preservation with the Biotainer storage can and Vitalpack transport pack.\nTemperature was monitored using the Thermobouton probe during preservation of pig kidneys, in the same conditions used with human grafts. The probe recorded the temperature level every 10 minutes during four days. We compared the results found with the new storage can with results obtained in the same conditions with the storage can formerly used by our team. We also studied the best position of the probe for temperature monitoring and the influence of the amount of ice within the transport pack on the temperature level. We then monitored the temperature during the conservation of actual human kidney grafts harvested at our institution from August 2007 to May 2008.\nThe temperature levels were the same regardless of the position of the probe within the transport pack. The lowest temperature was maintained during 15 hours, and the temperature level stayed below 5 degrees C for 57 hours with the new storage can. The former storage can maintained the lowest temperature level for 80 minutes, and temperature reached 5 degrees C after 10 hours 40 minutes. Temperature levels were similar when 2 or 4 kg of crushed ice were used. We observed similar results when monitoring the conservation of human grafts.\nShould temperature be monitorized during kidney allograft preservation? Options: (A) yes (B) no (C) maybe",
@@ -720,6 +834,25 @@
             "completion_tokens": 1657
         },
         "time_elapsed": 48.323251485824585
+    },
+    {
+        "idx": "20971618",
+        "realidx": "20971618",
+        "question": "Cutaneous infections such as impetigo contagiosum (IC), molluscum contagiosum (MC) and herpes virus infection (HI) appear to be associated with atopic dermatitis (AD), but there are no reports of concrete epidemiological evidence.\nWe evaluated the association of childhood AD with these infections by conducting a population-based cross-sectional study.\nEnrolled in this study were 1117 children aged 0-6 years old attending nursery schools in Ishigaki City, Okinawa Prefecture, Japan. Physical examination was performed by dermatologists, and a questionnaire was completed on each child's history of allergic diseases including AD, asthma, allergic rhinitis and egg allergy, and that of skin infections including IC, MC and HI, as well as familial history of AD.\nIn 913 children (AD; 132), a history of IC, MC or HI was observed in 45.1%, 19.7%, and 2.5%, respectively. Multiple logistic regression analysis revealed that the odds of having a history of IC were 1.8 times higher in AD children than in non-AD children. Meanwhile, a history of MC was significantly correlated to the male gender, but not to a personal history of AD. As for HI, we found no correlated factors in this study.\nAre lifetime prevalence of impetigo, molluscum and herpes infection really increased in children having atopic dermatitis? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9716,
+            "completion_tokens": 842
+        },
+        "time_elapsed": 12.717350482940674
     },
     {
         "idx": "21164063",
@@ -1140,6 +1273,25 @@
         "time_elapsed": 13.696446657180786
     },
     {
+        "idx": "25079920",
+        "realidx": "25079920",
+        "question": "As parents of young children are often unaware their child is overweight, screening provides the opportunity to inform parents and provide the impetus for behaviour change. We aimed to determine if parents could recall and understand the information they received about their overweight child after weight screening.\nRandomised controlled trial of different methods of feedback.\nParticipants were recruited through primary and secondary care but appointments took place at a University research clinic.\n1093 children aged 4-8\u2005years were screened. Only overweight children (n=271, 24.7%) are included in this study. Parents of overweight children were randomised to receive feedback regarding their child's weight using best practice care (BPC) or motivational interviewing (MI) at face-to-face interviews typically lasting 20-40\u2005min. 244 (90%) parents participated in a follow-up interview 2\u2005weeks later to assess recall and understanding of information from the feedback session.\nInterviews were audio-taped and transcribed verbatim before coding for amount and accuracy of recall. Scores were calculated for total recall and sub-categories of interest.\nOverall, 39% of the information was recalled (mean score 6.3 from possible score of 16). Parents given feedback via BPC recalled more than those in the MI group (difference in total score 0.48; 95% CI 0.05 to 0.92). Although 94% of parents were able to correctly recall their child's weight status, fewer than 10 parents could accurately describe what the measurements meant. Maternal education (0.81; 0.25 to 1.37) and parental ratings of how useful they found the information (0.19; 0.04 to 0.35) were significant predictors of recall score in multivariate analyses.\nDo parents recall and understand children's weight status information after BMI screening? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10119,
+            "completion_tokens": 731
+        },
+        "time_elapsed": 12.107714414596558
+    },
+    {
         "idx": "25103647",
         "realidx": "25103647",
         "question": "To examine whether government-funded, low-income vision care programs improve use of eye care services by low-income individuals in Canada.\nCross-sectional survey.\n27,375 white respondents to the Canadian Community Health Survey (CCHS) Healthy Aging 2008/2009.\nGovernment-funded, low-income vision care programs were reviewed. The amount of assistance provided was compared with professional fee schedules for general/routine eye examinations and market prices for eyeglasses. The utilization of eye care providers was derived from the CCHS.\nTo receive low-income vision care assistance, individuals must be in receipt of social assistance. Criteria for receiving social assistance are stringent. The Canadian Financial Capability Survey revealed that 7.9% of Canadians aged 45 to 64 years and 5.5% aged \u226565 years received social assistance in 2009. The CCHS found in 2008/2009 that 12.5% of citizens aged 45 to 64 years and 13.2% of those aged \u226565 years had difficulty paying for basic expenses such as food. In 5 provinces, low-income vision care assistance fully covers a general/routine eye examination. In the remainder, the assistance provided is insufficient for a general/routine eye examination. The assistance for eyeglasses is inadequate in 5 provinces, requiring out-of-pocket copayments. Among middle-aged whites who self-reported not having glaucoma, cataracts, diabetes, or vision problems not corrected by lenses, utilization of eye care providers was 28.1% among those with financial difficulty versus 41.9% among those without (p<0.05), giving a prevalence ratio 0.68 (95% CI 0.57-0.80) adjusted for age, sex and education.\nDoes government assistance improve utilization of eye care services by low-income individuals? Options: (C) maybe (A) yes (B) no",
@@ -1309,6 +1461,25 @@
             "completion_tokens": 865
         },
         "time_elapsed": 12.16025710105896
+    },
+    {
+        "idx": "26037986",
+        "realidx": "26037986",
+        "question": "Emergency surgery is associated with poorer outcomes and higher mortality with recent studies suggesting the 30-day mortality to be 14-15%. The aim of this study was to analyse the 30-day mortality, age-related 30-day mortality and 1-year mortality following emergency laparotomy. We hope this will encourage prospective data collection, improvement of care and initiate strategies to establish best practice in this area.\nThis was a retrospective study of patients who underwent emergency laparotomy from June 2010 to May 2012. The primary end point of the study was 30-day mortality, age-related 30-day mortality and 1-year all-cause mortality.\n477 laparotomies were performed in 446 patients. 57% were aged<70 and 43% aged>70 years. 30-day mortality was 12, 4% in those aged<70 years and 22% in those>70 years (p<0.001). 1-year mortality was 25, 15% in those aged under 70 years and 38% in those aged>70 years (p<0.001).\n30-Day and 1-year mortality in emergency general surgery laparotomies: an area of concern and need for improvement? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10352,
+            "completion_tokens": 761
+        },
+        "time_elapsed": 13.936943292617798
     },
     {
         "idx": "26606599",
@@ -1632,6 +1803,25 @@
             "completion_tokens": 1850
         },
         "time_elapsed": 157.66069293022156
+    },
+    {
+        "idx": "9483814",
+        "realidx": "9483814",
+        "question": "Uterus-specific synthetic Prostaglandin analogues (gemeprost, sulproston etc.) have been widely employed for termination of pregnancy in the second trimester. Since paracervical anaesthesia may be useful during this procedure, we investigated in this prospective randomised study its impact on the clinical course of abortion and pain especially in the late first and second stage of labour.\n20 women scheduled for elective abortion (fetal reasons) between the 16th and 23rd week of gestation were to be given 1 mg gemeprost vaginally every 6 hours. They were allocated at random: 10 women received only Pethidin intravenously and Butylscopolamine rectally, another 10 women were additionally treated by paracervical anaesthesia (2 x 10 ml 0.5% Bupivacain solution) at a cervical dilatation of 2-3 cm.\nA median of 3 gemeprost applications were administered in both groups. In the group without paracervical anaesthesia the median induction to abortion interval was 20 hours (range: 8-44 hours), 13 hours (range: 8-36 hours, NS) resulting for the paracervical anaesthesia group. The intervals from the last application of prostaglandin until abortion and from 3 cm cervical dilatation to abortion were slightly, but not significantly shorter in the paracervical anaesthesia group. The requirement of Butylscopolamine was higher in the latter group (p<0.05). The requirement of Pethidin and the intensity of pain (measured by pain scale according to Huskisson) especially in the late first stage of labour were not statistically different between both groups. Side effects of paracervical anaesthesia did not occur.\nDoes para-cervical block offer additional advantages in abortion induction with gemeprost in the 2nd trimester? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 46803,
+            "completion_tokens": 2041
+        },
+        "time_elapsed": 48.02502155303955
     },
     {
         "idx": "9582182",

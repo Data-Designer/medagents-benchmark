@@ -76,6 +76,25 @@
         "time_elapsed": 141.02516555786133
     },
     {
+        "idx": "11458136",
+        "realidx": "11458136",
+        "question": "By requiring or encouraging enrollees to obtain a usual source of care, managed care programs hope to improve access to care without incurring higher costs.\n(1) To examine the effects of managed care on the likelihood of low-income persons having a usual source of care and a usual physician, and; (2) To examine the association between usual source of care and access.\nCross-sectional survey of households conducted during 1996 and 1997.\nA nationally representative sample of 14,271 low-income persons.\nUsual source of care, usual physician, managed care enrollment, managed care penetration.\nHigh managed care penetration in the community is associated with a lower likelihood of having a usual source of care for uninsured persons (54.8% vs. 62.2% in low penetration areas) as well as a lower likelihood of having a usual physician (60% vs. 72.8%). Managed care has only marginal effects on the likelihood of having a usual source of care for privately insured and Medicaid beneficiaries. Having a usual physician substantially reduces unmet medical needs for the insured but less so for the uninsured.\nDoes managed care enable more low income persons to identify a usual source of care? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 50563,
+            "completion_tokens": 1723
+        },
+        "time_elapsed": 96.85963892936707
+    },
+    {
         "idx": "11570976",
         "realidx": "11570976",
         "question": "Sulfasalazine is a widely used anti-inflammatory agent in the treatment of inflammatory bowel disease and several rheumatological disorders. Although as many as 20% of treated patients may experience reversible, dose-dependent side effects, less frequent but potentially severe, systemic reactions have also been reported.\nA severe systemic reaction to sulfasalazine developed in a 21-year old female with rheumatoid arthritis characterized by eosinophilia, granulomatous enteritis and myelotoxicity, cholestatic hepatitis, and seizures. The clinical course and management of this patient are presented as well as a review of the incidence and outcome of severe systemic reactions to sulfasalazine.\nIs it Crohn's disease? Options: (A) yes (C) maybe (B) no",

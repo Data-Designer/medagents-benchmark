@@ -420,6 +420,26 @@
         "time_elapsed": 43.16608238220215
     },
     {
+        "idx": 203,
+        "realidx": 203,
+        "question": "A 39-year-old man presents to his primary care physician because he has been having severe headaches and fever for the last 2 days. He also says his right eyelid has been painlessly swelling and is starting to block his vision from that eye. He recently returned from a tour of the world where he visited Thailand, Ethiopia, and Brazil. Otherwise his past medical history is unremarkable. On presentation, his temperature is 102\u00b0F (38.8\u00b0C), blood pressure is 126/81 mmHg, pulse is 125/min, and respirations are 13/min. Physical exam reveals a nontender swelling of the right eyelid, lymphadenopathy, and an indurated red patch with surrounding erythema and local swelling on his left leg. Which of the following drugs should be used to treat this patient's condition? Options: (D) Sodium stibogluconate (B) Ivermectin (C) Mebendazol (A) Benznidazole",
+        "answer_idx": "A",
+        "answer": "Benznidazole",
+        "options": {
+            "A": "Benznidazole",
+            "B": "Ivermectin",
+            "C": "Mebendazol",
+            "D": "Sodium stibogluconate"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 69271,
+            "completion_tokens": 2618
+        },
+        "time_elapsed": 54.02633047103882
+    },
+    {
         "idx": 211,
         "realidx": 211,
         "question": "A 65-year-old man presents with painless swelling of the neck over the past week. He also says he has been having intermittent fevers and severe night sweats which require a change of bed sheets the next day. His past medical history is significant for human immunodeficiency virus (HIV) diagnosed 10 years ago with which he admits to not always being compliant with his antiretroviral medication. The patient reports a 20-pack-year smoking history but no alcohol or recreational drug use. A review of systems is significant for a 6 kg (13.2 lb) unintentional weight loss over the past 2 months. The vital signs include: temperature 37.8\u2103 (100.0\u2109) and blood pressure 120/75 mm Hg. On physical examination, there are multiple non-tender swollen lymph nodes averaging 2 cm in diameter that is palpable in the anterior and posterior triangles of the neck bilaterally. Axillary and inguinal lymphadenopathy is present on the right side. A cardiopulmonary exam is unremarkable. The spleen size is 16 cm on percussion. Laboratory studies show the following:\nHemoglobin 9 g/dL\nMean corpuscular volume 88 \u03bcm3\nLeukocyte count 18,000/mm3\nPlatelet count 130,000/mm3\n    Serum creatinine 1.1 mg/dL\nSerum lactate dehydrogenase 1,000 U/L\nAn excisional biopsy of a superficial axillary lymph node on the right is performed and a histopathologic analysis confirms the most likely diagnosis. Which of the following is the next best diagnostic step in the workup of this patient? Options: (D) Tartrate-resistant acid phosphatase (TRAP) test (A) Antinuclear antibody (B) Hepatitis C virus antibodies (C) JAK-2 mutation",
@@ -920,6 +940,26 @@
         "time_elapsed": 48.28723978996277
     },
     {
+        "idx": 340,
+        "realidx": 340,
+        "question": "A 67-year-old man is brought to the physician because of increasing forgetfulness, unsteadiness, and falls over the past year. He reports that these symptoms seem to worsen with each fall. Initially, he could not remember directions to his home but now cannot remember recent conversations or appointments he has made. He often repeats questions that he asked shortly before. He has long-standing hypertension, coronary artery disease, and hypercholesterolemia. Current medications include aspirin, carvedilol, enalapril, and atorvastatin. Examination shows a bruise over the left temple and an unsteady gait. On mental status examination, he is oriented to place and person only. Short-term memory is impaired; he can recall 0 out of 5 objects after 10 minutes. Long-term memory is intact. He has no delusions or hallucinations. Muscle strength is decreased in the left lower extremity. The Babinski sign is present on the left. A CT scan of the head is shown. Which of the following is the most appropriate next step in management? Options: (B) Vitamin E therapy (C) Tetrabenazine therapy (D) Cognitive training (A) Warfarin therapy",
+        "answer_idx": "D",
+        "answer": "Cognitive training",
+        "options": {
+            "A": "Warfarin therapy",
+            "B": "Vitamin E therapy",
+            "C": "Tetrabenazine therapy",
+            "D": "Cognitive training"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 426580,
+            "completion_tokens": 6582
+        },
+        "time_elapsed": 138.00126767158508
+    },
+    {
         "idx": 367,
         "realidx": 367,
         "question": "A 22-year-old gravida 1 presents to her physician at 15 weeks gestation for a prenatal appointment. She complains of a rash involving her chest, face, and arms, a watery nasal discharge, and mild bilateral knee pain. She has had these symptoms for about 5 days. The symptoms do not seem to bother her too much, but she is concerned for the baby. She had contact with her younger sister, who also had a rash and was diagnosed with rubella infection about 10 days ago at a family gathering. She cannot confirm her vaccination history. Her vital signs are as follows: blood pressure, 110/70 mmHg; heart rate, 89/min; respiratory rate, 12/min; and temperature, 37.6\u2103 (99.7\u2109). Examination shows a moderately dense maculopapular lacy rash spread over the patient\u2019s trunk, extremities, and face. No lymph node, liver, or spleen enlargement is noted. The knee joints appear normal.\nSerology performed 1 year ago Current serology\nRubella IgM - negative Rubella IgM - negative\nRubella IgG - 1:128 Rubella IgG - 1:64\nRubella IgG avidity - high Rubella IgG avidity - high\nWhat is the proper next step in the management of this woman? Options: (D) Recommend additional serologic testing for parvovirus B19 (A) Reassure and recommend vaccination against rubella postpartum (B) Recommend pregnancy termination (C) Arrange a chorionic villus sampling",
@@ -1240,6 +1280,26 @@
         "time_elapsed": 18.78202748298645
     },
     {
+        "idx": 524,
+        "realidx": 524,
+        "question": "A 6-month-old boy is brought to the physician by his parents for difficulty breathing and bluish discoloration of the lips for the past hour. During the past 3 months, the patient has had several upper respiratory tract infections and poor weight gain. Physical examination shows crackles over both lung fields and enlargement of the tonsils and cervical lymph nodes. His serum IgA, IgE, and IgG titers are decreased. An x-ray of the chest shows bilateral interstitial infiltrates. Methenamine silver staining of bronchial lavage fluid shows disc-shaped cysts. A defect in which of the following is the most likely underlying cause of this patient's condition? Options: (D) B-cell maturation (A) Actin filament assembly (C) Microtubule polymerization (B) T-cell receptor signaling",
+        "answer_idx": "B",
+        "answer": "T-cell receptor signaling",
+        "options": {
+            "A": "Actin filament assembly",
+            "B": "T-cell receptor signaling",
+            "C": "Microtubule polymerization",
+            "D": "B-cell maturation"
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 282695,
+            "completion_tokens": 5743
+        },
+        "time_elapsed": 103.938880443573
+    },
+    {
         "idx": 531,
         "realidx": 531,
         "question": "A 24-year-old woman is brought to the emergency room (ER) by her co-workers after they found her unconscious in her cubicle when they returned from lunch. They tell you that she has diabetes but do not know anything more about her condition. The woman\u2019s vital signs include: pulse 110/min, respiratory rate 24/min, temperature 36.7\u00b0C (98.0\u00b0F), and blood pressure 90/60 mm Hg. On physical examination, the patient is breathing heavily and gives irrelevant responses to questions. The skin and mucous membranes appear dry. Examination of the abdomen reveals mild diffuse tenderness to palpation. Deep tendon reflexes in the extremities are 1+ bilaterally. Laboratory studies show:\nFinger stick glucose 630 mg/dL\nArterial blood gas analysis:\npH 7.1\nPO2 90 mm Hg\nPCO2 33 mm Hg\nHCO3 8 mEq/L\nSerum:\nSodium 135 mEq/L\nPotassium 3.1 mEq/L\nChloride 136 mEq/L\nBlood urea nitrogen 20 mg/dL\nSerum creatinine 1.2 mg/dL\nUrine examination shows:\nGlucose Positive\nKetones Positive\nLeukocytes Negative\nNitrite Negative\nRBCs Negative\nCasts Negative\nThe patient is immediately started on a bolus of intravenous (IV) 0.9% sodium chloride (NaCl). Which of the following is the next best step in the management of this patient? Options: (A) Infuse NaHCO3 slowly (C) Start IV insulin infusion (D) Replace potassium intravenously (B) Switch fluids to 0.45% NaCl",
@@ -1558,6 +1618,26 @@
             "completion_tokens": 872
         },
         "time_elapsed": 16.61734890937805
+    },
+    {
+        "idx": 676,
+        "realidx": 676,
+        "question": "A 75-year-old man is admitted to the hospital because of a 3-day history of a productive cough and shortness of breath. His temperature is 38\u00b0C (100.4\u00b0F) and respirations are 32/min. Crackles are heard over the right upper and the entire left lung fields. Sputum culture confirms infection with Streptococcus pneumoniae. Despite appropriate therapy, the patient dies. A photomicrograph of a section of the lung obtained during the autopsy is shown. Which of the following mediators is most likely responsible for the presence of the cell-type indicated by the arrow? Options: (B) Interferon-gamma (A) Platelet activating factor (C) Interleukin-10 (D) Leukotriene D4",
+        "answer_idx": "A",
+        "answer": "Platelet activating factor",
+        "options": {
+            "A": "Platelet activating factor",
+            "B": "Interferon-gamma",
+            "C": "Interleukin-10",
+            "D": "Leukotriene D4"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 36661,
+            "completion_tokens": 2164
+        },
+        "time_elapsed": 46.12640190124512
     },
     {
         "idx": 677,

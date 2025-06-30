@@ -209,6 +209,25 @@
         "time_elapsed": 41.60408139228821
     },
     {
+        "idx": "12970636",
+        "realidx": "12970636",
+        "question": "To examine the impact of early discharge on newborn metabolic screening.\nMetabolic screening results were obtained from the Alabama State Lab for all infants born at our hospital between 8/1/97, and 1/31/99, and were matched with an existing database of early discharge infants. An early newborn discharge was defined as a discharge between 24 and 47 hours of age. Metabolic screening tests included phenylketonuria (PKU), hypothyroidism, and congenital adrenal hyperplasia (CAH). Early discharge and traditional stay infants were compared to determine the percentage of newborns screened and the timing of the first adequate specimen.\nThe state laboratory received specimens from 3860 infants; 1324 were on early discharge newborns and 2536 infants in the traditional stay group. At least one filter paper test (PKU, hypothyroidism, and CAH) was collected on 99.2% of early discharge infants and 96.0% of traditional stay infants (P<.0001). Early discharge infants had a higher rate of initial filter paper specimens being inadequate (22.9%) compared with traditional stay infants (14.3%, P<.0001) but had a higher rate of repeat specimens when the initial specimen was inadequate (85.0% early discharge vs 75.3% traditional stay, P=.002). The early discharge group was more likely to have an adequate specimen within the first 9 days of life (1001, 98.8% early discharge vs 2016, 96.7% traditional stay, P=.0005).\nDoes early discharge with nurse home visits affect adequacy of newborn metabolic screening? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10419,
+            "completion_tokens": 854
+        },
+        "time_elapsed": 12.784321784973145
+    },
+    {
         "idx": "14599616",
         "realidx": "14599616",
         "question": "Lymphedema may be identified by simpler circumference changes as compared with changes in limb volume.\nNinety breast cancer patients were prospectively enrolled in an academic trial, and seven upper extremity circumferences were measured quarterly for 3 years. A 10% volume increase or greater than 1 cm increase in arm circumference identified lymphedema with verification by a lymphedema specialist. Sensitivity and specificity of several different criteria for detecting lymphedema were compared using the academic trial as the standard.\nThirty-nine cases of lymphedema were identified by the academic trial. Using a 10% increase in circumference at two sites as the criterion, half the lymphedema cases were detected (sensitivity 37%). When using a 10% increase in circumference at any site, 74.4% of cases were detected (sensitivity 49%). Detection by a 5% increase in circumference at any site was 91% sensitive.\nCan a practicing surgeon detect early lymphedema reliably? Options: (C) maybe (B) no (A) yes",
@@ -245,6 +264,25 @@
             "completion_tokens": 8510
         },
         "time_elapsed": 758.9390406608582
+    },
+    {
+        "idx": "16392897",
+        "realidx": "16392897",
+        "question": "Quantitative real-time PCR has become the predominant molecular technique to monitor BCRABL levels in response to treatment in Ph(+) leukemia patients. However, without some form of standardized methodology between laboratories, the correlation of results is difficult.\nUsing TaqMan-based assays, parallel quantitative real-time PCR analysis was performed on 70 clinical specimens at Vanderbilt University Medical Center and Virginia Commonwealth University. While the same positive control cell line (K562) and quality control gene (BCR) were used, the RNA isolation technique, cDNA synthesis, BCR control cell line, and PCR primer and probe sequences were different.\nThe detection of BCRABL-positive results spanned a dynamic range from 10(0) to 10(5)/100,000 cells. Forty-three samples were negative at both facilities. A Spearman rank correlation analysis was performed for the 22 BCRABL-positive paired results. The correlation coefficient, r(s), was 0.9435 (p<0.00001), suggesting a strong correlation of the results. One discordant result was obtained for consecutive samples from one patient with a low BCRABL copy number as a result of a minimal RNA yield at one laboratory.\nBCRABL transcript detection by quantitative real-time PCR : are correlated results possible from homebrew assays? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 73834,
+            "completion_tokens": 2382
+        },
+        "time_elapsed": 47.58597135543823
     },
     {
         "idx": "16538201",
@@ -777,6 +815,25 @@
             "completion_tokens": 2244
         },
         "time_elapsed": 50.19699025154114
+    },
+    {
+        "idx": "20337202",
+        "realidx": "20337202",
+        "question": "To determine the duration of continuing pregnancy after antenatal corticosteroid (AC) administration and to evaluate the potential opportunity for rescue AC.\nRetrospective analysis of women at 24-32 weeks' gestation who received AC at one institution.\nSix hundred ninety-two women received AC. Two hundred forty-seven (35.7%) delivered at>or = 34 weeks' gestation. Three hundred twenty-one (46.4%) delivered within 1 week of AC; 92 of those women (13.3%) delivered within 24 hours. Only 124 (17.9%) remained pregnant 1 week after AC and delivered at<34 weeks. The latter were compared to women delivering>2 week after AC but>or = 34 weeks. More likely to deliver at<34 weeks were those women who received AC for premature preterm rupture of membranes (OR 3.83, 95% CI 2.06-7.17), twins (OR 2.90, 95% CI 1.42-5.95) or before 28 weeks (OR 2.21, 95% CI 1.38-3.52).\nContinuation of pregnancy after antenatal corticosteroid administration: opportunity for rescue? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 563441,
+            "completion_tokens": 9732
+        },
+        "time_elapsed": 135.7984516620636
     },
     {
         "idx": "20538207",
@@ -1385,6 +1442,25 @@
             "completion_tokens": 1965
         },
         "time_elapsed": 150.92492985725403
+    },
+    {
+        "idx": "25779009",
+        "realidx": "25779009",
+        "question": "There is no standard protocol for the evaluation of antiseptics used for skin and mucous membranes in the presence of interfering substances. Our objective was to suggest trial conditions adapted from the NF EN 13727 standard, for the evaluation of antiseptics used in gynecology and dermatology.\nThree antiseptic solutions were tested in vitro: a chlorhexidine-benzalkonium (CB) combination, a hexamidine-chlorhexidine-chlorocresol (HCC) combination, and povidone iodine (P). The adaptation of trial conditions to the standard involved choosing dilutions, solvent, and interfering substances. The activity of solutions was assessed on the recommended strains at concentrations of 97% (pure solution), 50%, and 10% (diluted solution), and 1%. A logarithmic reduction \u2265 5 was expected after 60seconds of contact, to meet requirements of bactericidal activity.\nHCC did not present any bactericidal activity except on P. aeruginosa at a concentration of 97%. P was not bactericidal on E. hirae at any concentration and on S. aureus at 97%. CB had the most homogeneous bactericidal activity with a reduction>5 log on the 4 bacterial strains at concentrations of 97%, 50% and 10%.\nBactericidal activity of 3 cutaneous/mucosal antiseptic solutions in the presence of interfering substances: Improvement of the NF EN 13727 European Standard? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 461897,
+            "completion_tokens": 8048
+        },
+        "time_elapsed": 155.9873411655426
     },
     {
         "idx": "25793749",

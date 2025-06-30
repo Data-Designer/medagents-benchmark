@@ -920,6 +920,26 @@
         "time_elapsed": 40.509063959121704
     },
     {
+        "idx": "6b3b112c-3f6a-4f33-afe6-421e410a1700",
+        "realidx": "6b3b112c-3f6a-4f33-afe6-421e410a1700",
+        "question": "Production and citation impact of published work of a scientist or scholar Options: (C) H index (B) Citation (A) Impact factor (D) Z index",
+        "answer_idx": "B",
+        "answer": "Citation",
+        "options": {
+            "A": "Impact factor",
+            "B": "Citation",
+            "C": "H index",
+            "D": "Z index"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3633,
+            "completion_tokens": 571
+        },
+        "time_elapsed": 12.95289158821106
+    },
+    {
         "idx": "6e5da328-bb2e-4848-bdff-56a722ca8d7b",
         "realidx": "6e5da328-bb2e-4848-bdff-56a722ca8d7b",
         "question": "Shelf life of colourless, aqueous solution of suxamethonium is Options: (C) 2 yr (D) 3 yr (B) 1 year (A) 6 months",
