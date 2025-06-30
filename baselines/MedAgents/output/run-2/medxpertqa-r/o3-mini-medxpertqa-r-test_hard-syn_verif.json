@@ -382,5 +382,125 @@
             "completion_tokens": 13758
         },
         "time_elapsed": 99.12185263633728
+    },
+    {
+        "id": 16,
+        "realidx": 16,
+        "question": "A 1-day-old male neonate is assessed in the labor and delivery unit due to feeding difficulties, rapid breathing, and bluish-grey skin discoloration. He was born at 37 weeks of gestation to a healthy mother who had irregular prenatal care and denies any drug use during pregnancy. His temperature is 98.2 \u00baF, blood pressure is 70/40 mmHg, pulse is 170/min, and respiratory rate is 56/min. Physical examination reveals a lethargic and cyanotic infant with jugular venous distention. Chest auscultation shows tachypnea, a single second heart sound, and a continuous murmur. A chest X-ray demonstrates reduced pulmonary vascular markings, and an electrocardiogram shows tall P-waves in lead II and low-amplitude R-waves in leads V1-V3. Which congenital cardiac anomaly is most likely in this patient?\nAnswer Choices: (A) Total anomalous pulmonary venous return (B) Complete transposition of the great arteries (C) Isolated opening in membranous interventricular septum (D) Persistent truncus arteriosus (E) Enclosed muscular floor within the right atrium (F) Pulmonary venous drainage into the right atrium (G) Proximal atrialization of the right ventricle (H) Severe tricuspid valve regurgitation (I) Right ventricular hypertrophy with pulmonary stenosis (J) Hypoplastic left heart syndrome?",
+        "options": {
+            "A": "Total anomalous pulmonary venous return",
+            "B": "Complete transposition of the great arteries",
+            "C": "Isolated opening in membranous interventricular septum",
+            "D": "Persistent truncus arteriosus",
+            "E": "Enclosed muscular floor within the right atrium",
+            "F": "Pulmonary venous drainage into the right atrium",
+            "G": "Proximal atrialization of the right ventricle",
+            "H": "Severe tricuspid valve regurgitation",
+            "I": "Right ventricular hypertrophy with pulmonary stenosis",
+            "J": "Hypoplastic left heart syndrome"
+        },
+        "predicted_answer": "B",
+        "answer_idx": "E",
+        "token_usage": {
+            "prompt_tokens": 24045,
+            "completion_tokens": 13390
+        },
+        "time_elapsed": 99.06210899353027
+    },
+    {
+        "id": 17,
+        "realidx": 17,
+        "question": "A 68-year-old woman with chronic idiopathic thrombocytopenic purpura (ITP) visits her hematologist for routine follow-up. She has been receiving long-term corticosteroids for ITP and has undergone multiple treatments with intravenous immunoglobulin (IVIG) and rituximab. Laboratory results show a white blood cell count of 8, hematocrit of 35, and platelet count of 14. Due to refractory ITP and persistent thrombocytopenia, her hematologist recommends splenectomy. What is the appropriate timing for vaccination against encapsulated organisms and the initiation of penicillin prophylaxis for this patient?\nAnswer Choices: (A) Vaccinate: 2 weeks prior to surgery; Penicillin: 1 week post-surgery for 5 years (B) Vaccinate: 2 weeks prior to surgery; Penicillin: at time of surgery for an indefinite course (C) Vaccinate: at the time of surgery; Penicillin:  2 weeks prior to surgery for an indefinite course (D) Vaccinate: 1 week prior to surgery; Penicillin: at time of surgery for 2 years (E) Vaccinate: 2 weeks after surgery; Penicillin: 2 weeks post-surgery for an indefinite course (F) Vaccinate: 2 weeks prior to surgery; Penicillin: 2 weeks post-surgery for 5 years (G) Vaccinate: 2 weeks prior to surgery; Penicillin: at time of surgery for 5 years (H) Vaccinate: 4 weeks prior to surgery; Penicillin: at time of surgery for 1 year (I) Vaccinate: 1 week prior to surgery; Penicillin: at time of surgery for an indefinite course (J) Vaccinate: 4 weeks prior to surgery; Penicillin: 1 week post-surgery for an indefinite course?",
+        "options": {
+            "A": "Vaccinate: 2 weeks prior to surgery; Penicillin: 1 week post-surgery for 5 years",
+            "B": "Vaccinate: 2 weeks prior to surgery; Penicillin: at time of surgery for an indefinite course",
+            "C": "Vaccinate: at the time of surgery; Penicillin:  2 weeks prior to surgery for an indefinite course",
+            "D": "Vaccinate: 1 week prior to surgery; Penicillin: at time of surgery for 2 years",
+            "E": "Vaccinate: 2 weeks after surgery; Penicillin: 2 weeks post-surgery for an indefinite course",
+            "F": "Vaccinate: 2 weeks prior to surgery; Penicillin: 2 weeks post-surgery for 5 years",
+            "G": "Vaccinate: 2 weeks prior to surgery; Penicillin: at time of surgery for 5 years",
+            "H": "Vaccinate: 4 weeks prior to surgery; Penicillin: at time of surgery for 1 year",
+            "I": "Vaccinate: 1 week prior to surgery; Penicillin: at time of surgery for an indefinite course",
+            "J": "Vaccinate: 4 weeks prior to surgery; Penicillin: 1 week post-surgery for an indefinite course"
+        },
+        "predicted_answer": "B",
+        "answer_idx": "G",
+        "token_usage": {
+            "prompt_tokens": 28208,
+            "completion_tokens": 12331
+        },
+        "time_elapsed": 95.96554803848267
+    },
+    {
+        "id": 19,
+        "realidx": 19,
+        "question": "Which condition listed below is linked to bone enlargement?\nAnswer Choices: (A) Lytic Paget disease (B) Osteochondroma (C) Osteoid osteoma (D) Fibrous dysplasia (E) Melorheostosis (F) Type II neurofibromatosis (G) Hyperparathyroidism (H) Giant cell tumor (I) Osteopetrosis (J) Aneurysmal bone cyst?",
+        "options": {
+            "A": "Lytic Paget disease",
+            "B": "Osteochondroma",
+            "C": "Osteoid osteoma",
+            "D": "Fibrous dysplasia",
+            "E": "Melorheostosis",
+            "F": "Type II neurofibromatosis",
+            "G": "Hyperparathyroidism",
+            "H": "Giant cell tumor",
+            "I": "Osteopetrosis",
+            "J": "Aneurysmal bone cyst"
+        },
+        "predicted_answer": "D",
+        "answer_idx": "C",
+        "token_usage": {
+            "prompt_tokens": 16340,
+            "completion_tokens": 17530
+        },
+        "time_elapsed": 123.36944842338562
+    },
+    {
+        "id": 20,
+        "realidx": 20,
+        "question": "A 45-year-old man presents with a 2-day history of headache and exertional breathlessness. He also reports two episodes of vomiting and anuria during this time. Over the past 2 years, he has experienced progressive pain and stiffness in his fingers. He denies any history of serious illness, medications, smoking, or alcohol use. On examination, he appears moderately distressed. His temperature is 37.2\u00b0C (98.9\u00b0F), pulse is 88/min, respirations are 24/min, and blood pressure is 170/100 mm Hg. Oxygen saturation on room air is 91%. Physical findings include pallor, 2+ pretibial edema, jugular venous distention, coarse and thickened skin on the arms, chest, and upper back, diffuse hyperpigmentation, hypopigmented patches with perifollicular hypopigmentation, and contractures of the proximal interphalangeal joints. Auscultation of the chest reveals diffuse crackles, with dullness to percussion and decreased breath sounds at the lung bases. Cardiac examination reveals normal S1 and S2 with an S3 gallop at the apex. Laboratory results show a hemoglobin concentration of 8.1 g/dL and a serum creatinine concentration of 5.3 mg/dL. Further evaluation is most likely to reveal which of the following?\nAnswer Choices: (A) Elevated anti-RNA polymerase III antibodies (B) Decreased serum complement concentration (C) Increased anti-CCP antibody titers (D) Increased anticentromere antibody titers (E) Decreased serum haptoglobin concentration (F) Increased serum aldosterone levels (G) Elevated anti-Scl-70 antibodies (H) Elevated anti-PM/Scl antibodies (I) Increased serum erythropoietin levels (J) Increased serum ferritin concentration?",
+        "options": {
+            "A": "Elevated anti-RNA polymerase III antibodies",
+            "B": "Decreased serum complement concentration",
+            "C": "Increased anti-CCP antibody titers",
+            "D": "Increased anticentromere antibody titers",
+            "E": "Decreased serum haptoglobin concentration",
+            "F": "Increased serum aldosterone levels",
+            "G": "Elevated anti-Scl-70 antibodies",
+            "H": "Elevated anti-PM/Scl antibodies",
+            "I": "Increased serum erythropoietin levels",
+            "J": "Increased serum ferritin concentration"
+        },
+        "predicted_answer": "A",
+        "answer_idx": "E",
+        "token_usage": {
+            "prompt_tokens": 24454,
+            "completion_tokens": 15064
+        },
+        "time_elapsed": 108.0634126663208
+    },
+    {
+        "id": 21,
+        "realidx": 21,
+        "question": "A primary care provider decides to switch hypertensive and diabetic patients to a new blood pressure medication, X, after reviewing a study indicating that medication X leads to improved outcomes compared to the usual antihypertensive treatment prescribed for this patient population. Which study design would offer the most robust evidence to support this decision?\nAnswer Choices: (A) Prospective cohort study (B) Prospective cohort (C) Network meta-analysis (D) Pragmatic trial (E) Observational cohort study (F) Case-control study (G) Real-world evidence study (H) Randomized control trial (I) Cross-sectional study (J) Meta-analysis?",
+        "options": {
+            "A": "Prospective cohort study",
+            "B": "Prospective cohort",
+            "C": "Network meta-analysis",
+            "D": "Pragmatic trial",
+            "E": "Observational cohort study",
+            "F": "Case-control study",
+            "G": "Real-world evidence study",
+            "H": "Randomized control trial",
+            "I": "Cross-sectional study",
+            "J": "Meta-analysis"
+        },
+        "predicted_answer": "H",
+        "answer_idx": "J",
+        "token_usage": {
+            "prompt_tokens": 18624,
+            "completion_tokens": 11247
+        },
+        "time_elapsed": 84.68787574768066
     }
 ]
