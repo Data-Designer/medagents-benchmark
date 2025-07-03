@@ -1222,6 +1222,32 @@
         "time_elapsed": 48.70029616355896
     },
     {
+        "idx": "Text-344",
+        "realidx": "Text-344",
+        "question": "Compared to nonreamed nailing for distal femoral shaft fractures, reamed femoral intramedullary nailing is associated with a higher rate of which of the following outcomes?\nAnswer Choices: (A) Union (B) Implant failure (C) Infection at the fracture site (D) Delayed union (E) Pulmonary complications (F) Need for transfusion (G) Soft tissue damage (H) Nonunion (I) Compartment syndrome (J) Fat embolism syndrome Options: (E) Pulmonary complications (G) Soft tissue damage (A) Union (J) Fat embolism syndrome (D) Delayed union (B) Implant failure (H) Nonunion (I) Compartment syndrome (F) Need for transfusion (C) Infection at the fracture site",
+        "answer_idx": "A",
+        "answer": "Union",
+        "options": {
+            "A": "Union",
+            "B": "Implant failure",
+            "C": "Infection at the fracture site",
+            "D": "Delayed union",
+            "E": "Pulmonary complications",
+            "F": "Need for transfusion",
+            "G": "Soft tissue damage",
+            "H": "Nonunion",
+            "I": "Compartment syndrome",
+            "J": "Fat embolism syndrome"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 14834,
+            "completion_tokens": 906
+        },
+        "time_elapsed": 12.648895502090454
+    },
+    {
         "idx": "Text-350",
         "realidx": "Text-350",
         "question": "What is an appropriate treatment regimen for patients diagnosed with resectable non-metastatic rectal adenocarcinoma?\nAnswer Choices: (A) Short course RT (25 Gy in 5 Fx without concurrent 5-FU) followed by surgery within 1 week (B) Short course chemoRT (25 Gy in 5 Fx with concurrent capecitabine) followed by surgery after 2-3 weeks (C) Long course RT (50.4 Gy in 28 Fx without concurrent chemotherapy) followed by surgery within 2 weeks (D) Moderate course chemoRT (36 Gy in 12 Fx with concurrent 5-FU) followed by surgery after 3-4 weeks (E) Long course RT (50 Gy in 25 Fx without concurrent 5-FU) followed by surgery after 4-8 weeks (F) Long course RT (54 Gy in 30 Fx with concurrent 5-FU) followed by surgery after 6-10 weeks (G) Short course RT (25 Gy in 5 Fx without concurrent 5-FU) followed by surgery after 4-8 weeks (H) Long course chemoRT (50 Gy in 25 Fx with concurrent 5-FU) followed by surgery within 1 week (I) Short course chemoRT (25 Gy in 5 Fx with concurrent 5-FU) followed by surgery within 1 week (J) Long course chemoRT (45 Gy in 25 Fx with concurrent capecitabine) followed by surgery after 6-8 weeks Options: (J) Long course chemoRT (45 Gy in 25 Fx with concurrent capecitabine) followed by surgery after 6-8 weeks (B) Short course chemoRT (25 Gy in 5 Fx with concurrent capecitabine) followed by surgery after 2-3 weeks (A) Short course RT (25 Gy in 5 Fx without concurrent 5-FU) followed by surgery within 1 week (F) Long course RT (54 Gy in 30 Fx with concurrent 5-FU) followed by surgery after 6-10 weeks (E) Long course RT (50 Gy in 25 Fx without concurrent 5-FU) followed by surgery after 4-8 weeks (H) Long course chemoRT (50 Gy in 25 Fx with concurrent 5-FU) followed by surgery within 1 week (C) Long course RT (50.4 Gy in 28 Fx without concurrent chemotherapy) followed by surgery within 2 weeks (I) Short course chemoRT (25 Gy in 5 Fx with concurrent 5-FU) followed by surgery within 1 week (G) Short course RT (25 Gy in 5 Fx without concurrent 5-FU) followed by surgery after 4-8 weeks (D) Moderate course chemoRT (36 Gy in 12 Fx with concurrent 5-FU) followed by surgery after 3-4 weeks",
@@ -2312,6 +2338,32 @@
             "completion_tokens": 2156
         },
         "time_elapsed": 40.77318596839905
+    },
+    {
+        "idx": "Text-6",
+        "realidx": "Text-6",
+        "question": "What postoperative RT dose is recommended for a high grade malignant peripheral nerve sheath  tumor of the upper extremity following R1 resection?\nAnswer Choices: (A) 68 Gy (B) 55 Gy (C) 62 Gy (D) 50 Gy (E) 65 Gy (F) 64 Gy (G) 60 Gy (H) 66 Gy (I) 72 Gy (J) 70 Gy Options: (A) 68 Gy (F) 64 Gy (B) 55 Gy (G) 60 Gy (I) 72 Gy (H) 66 Gy (J) 70 Gy (D) 50 Gy (C) 62 Gy (E) 65 Gy",
+        "answer_idx": "H",
+        "answer": "66 Gy",
+        "options": {
+            "A": "68 Gy",
+            "B": "55 Gy",
+            "C": "62 Gy",
+            "D": "50 Gy",
+            "E": "65 Gy",
+            "F": "64 Gy",
+            "G": "60 Gy",
+            "H": "66 Gy",
+            "I": "72 Gy",
+            "J": "70 Gy"
+        },
+        "predicted_answer": "G",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 17173,
+            "completion_tokens": 880
+        },
+        "time_elapsed": 12.434687376022339
     },
     {
         "idx": "Text-61",

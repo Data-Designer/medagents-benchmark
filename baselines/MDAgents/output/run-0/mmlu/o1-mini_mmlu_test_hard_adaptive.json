@@ -1,5 +1,25 @@
 [
     {
+        "idx": 105,
+        "realidx": 105,
+        "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra. Options: (C) It is impossible to predict an effect on breathing. (B) They will only be able to breathe quietly. (A) They will be unable to breathe without life support. (D) Breathing will be unaffected.",
+        "answer_idx": "B",
+        "answer": "They will only be able to breathe quietly.",
+        "options": {
+            "A": "They will be unable to breathe without life support.",
+            "B": "They will only be able to breathe quietly.",
+            "C": "It is impossible to predict an effect on breathing.",
+            "D": "Breathing will be unaffected."
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5379,
+            "completion_tokens": 5950
+        },
+        "time_elapsed": 37.175005197525024
+    },
+    {
         "idx": 108,
         "realidx": 108,
         "question": "The palatine processes begin to fuse at Options: (D) twelve weeks post-fertilization. (B) eight weeks post-fertilization. (A) six weeks post-fertilization. (C) ten weeks post-fertilization.",
@@ -680,6 +700,26 @@
         "time_elapsed": 38.6532416343689
     },
     {
+        "idx": 721,
+        "realidx": 721,
+        "question": "Which of the following is true in a sensory assessment of the arm? Options: (B) Proprioception is appreciated via the same tracts as light touch (D) Impulses for pain travel principally up the dorsal columns (A) It is acceptable to test pain with a venepuncture needle (C) It is best to test vibration sense with a 256 Hz tuning fork",
+        "answer_idx": "B",
+        "answer": "Proprioception is appreciated via the same tracts as light touch",
+        "options": {
+            "A": "It is acceptable to test pain with a venepuncture needle",
+            "B": "Proprioception is appreciated via the same tracts as light touch",
+            "C": "It is best to test vibration sense with a 256 Hz tuning fork",
+            "D": "Impulses for pain travel principally up the dorsal columns"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5552,
+            "completion_tokens": 5098
+        },
+        "time_elapsed": 32.77011680603027
+    },
+    {
         "idx": 722,
         "realidx": 722,
         "question": "The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise: Options: (A) frequently rises by 1 - 3 mM. (D) falls to hypoglycaemic levels. (B) remains relatively unchanged. (C) frequently falls by 1 - 3 mM.",
@@ -860,6 +900,26 @@
         "time_elapsed": 35.89692687988281
     },
     {
+        "idx": 1222,
+        "realidx": 1222,
+        "question": "While working on a scene for an action movie, a sound technician is given the task of changing the frequency of a gunshot to more accurately reflect the normal speed of sound. The gunshot came from an actor inside a car traveling 108 km/h, and it was recorded by a camera on a platform 200 meters away traveling at 72 km/h in the same direction. If the frequency of the gunshot is normally 800Hz, what is the perceived frequency which the camera picks up the gunshot at? Options: (D) 912 Hz (C) 924 Hz (A) 941 Hz (B) 787 Hz",
+        "answer_idx": "C",
+        "answer": "924 Hz",
+        "options": {
+            "A": "941 Hz",
+            "B": "787 Hz",
+            "C": "924 Hz",
+            "D": "912 Hz"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6401,
+            "completion_tokens": 7437
+        },
+        "time_elapsed": 45.18838429450989
+    },
+    {
         "idx": 1260,
         "realidx": 1260,
         "question": "If the mean rate of oxygen consumption of a male athlete during a training session is 2 l/min, then his rate of energy expenditure is approximately: Options: (D) 40 kJ/min. (C) 80 kJ/min. (B) 200 kJ/min. (A) 400 kJ/min.",
@@ -918,6 +978,26 @@
             "completion_tokens": 5739
         },
         "time_elapsed": 35.23861360549927
+    },
+    {
+        "idx": 1273,
+        "realidx": 1273,
+        "question": "All of the following are example of sensory, or neural, adaptation EXCEPT: Options: (C) After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light. (D) After first walking into an anatomy lab, you no longer notice the smell of formaldehyde. (A) After putting on a shirt, you eventually no longer feel the sensation of the fabric on your back. (B) After first walking into a crowded room, you no longer are distracted by the buzz of conversation around you.",
+        "answer_idx": "C",
+        "answer": "After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light.",
+        "options": {
+            "A": "After putting on a shirt, you eventually no longer feel the sensation of the fabric on your back.",
+            "B": "After first walking into a crowded room, you no longer are distracted by the buzz of conversation around you.",
+            "C": "After first walking outside on a sunny day, you no longer are blinded by the initial brightness of the light.",
+            "D": "After first walking into an anatomy lab, you no longer notice the smell of formaldehyde."
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5932,
+            "completion_tokens": 5378
+        },
+        "time_elapsed": 34.35108280181885
     },
     {
         "idx": 1276,
@@ -1040,6 +1120,26 @@
         "time_elapsed": 33.91238713264465
     },
     {
+        "idx": 1307,
+        "realidx": 1307,
+        "question": "If a gas occupies 0.1L at 200atm, what will its volume be at 1atm? Options: (C) slightly more than 20L (D) 2000L (A) slightly less than 20L (B) 20L",
+        "answer_idx": "A",
+        "answer": "slightly less than 20L",
+        "options": {
+            "A": "slightly less than 20L",
+            "B": "20L",
+            "C": "slightly more than 20L",
+            "D": "2000L"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5425,
+            "completion_tokens": 5020
+        },
+        "time_elapsed": 32.735780477523804
+    },
+    {
         "idx": 1316,
         "realidx": 1316,
         "question": "In games like soccer the blood lactate concentration: Options: (A) rarely increases above 3 mM. (D) increases throughout the course of the game as the players become more fatigued. (C) is usually higher at the end of the game than at the end of the first half. (B) is usually lower at the end of the game than at the end of the first half.",
@@ -1120,6 +1220,26 @@
         "time_elapsed": 39.350058794021606
     },
     {
+        "idx": 1358,
+        "realidx": 1358,
+        "question": "Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia \u2013 an increase in the body's core temperature \u2013 that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors\u2026 In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease\u2026 The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits \u2013 and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week\u2026 The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)\u2026Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40\u00b0C (104\u00b0F), and then changes in core body temperature occur, rising slowly from 37\u00b0C (98.6\u00b0F, or normal) to 38\u00b0C (100.4\u00b0F) and then rapidly increasing to 39\u00b0C (102.2\u00b0F)\u2026  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance\u2026 Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors\u2026 The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nAccording to the article, which of the following is NOT a benefit of sauna use? Options: (C) Improved mental health. (D) Decreased rate of erectile dysfunction. (A) Decreased risk of heart attacks. (B) Increase in stroke volume.",
+        "answer_idx": "D",
+        "answer": "Decreased rate of erectile dysfunction.",
+        "options": {
+            "A": "Decreased risk of heart attacks.",
+            "B": "Increase in stroke volume.",
+            "C": "Improved mental health.",
+            "D": "Decreased rate of erectile dysfunction."
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8180,
+            "completion_tokens": 4795
+        },
+        "time_elapsed": 32.17093276977539
+    },
+    {
         "idx": 1364,
         "realidx": 1364,
         "question": "The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise: Options: (C) frequently falls by 1 - 3 mM. (A) frequently rises by 1 - 3 mM. (B) remains relatively unchanged. (D) falls to hypoglycaemic levels.",
@@ -1198,6 +1318,26 @@
             "completion_tokens": 5529
         },
         "time_elapsed": 37.37786149978638
+    },
+    {
+        "idx": 12247,
+        "realidx": 12247,
+        "question": "A 30-year-old nulliparous female presents to the office with the complaint of mood changes. She says that for the past several months she has been anxious, hyperactive, and unable to sleep 3 to 4\u00a0days prior to the onset of menses. She further reports that on the day her menses begins she becomes acutely depressed, anorectic, irritable, and lethargic. She has no psychiatric history. Physical examination findings are normal. She and her husband have been trying to conceive for over 2\u00a0years. History reveals a tuboplasty approximately 1\u00a0year ago to correct a closed fallopian tube. The most likely diagnosis is Options: (B) bipolar I disorder, mixed (D) generalized anxiety disorder (C) cyclothymic personality (A) adjustment disorder with depressed mood",
+        "answer_idx": "A",
+        "answer": "adjustment disorder with depressed mood",
+        "options": {
+            "A": "adjustment disorder with depressed mood",
+            "B": "bipolar I disorder, mixed",
+            "C": "cyclothymic personality",
+            "D": "generalized anxiety disorder"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 24731,
+            "completion_tokens": 17830
+        },
+        "time_elapsed": 119.07960510253906
     },
     {
         "idx": 12260,

@@ -228,6 +228,32 @@
         "time_elapsed": 38.17392945289612
     },
     {
+        "idx": 6039,
+        "realidx": 6039,
+        "question": "A 78-year-old male presents to the office\u00a0with the complaint of severe neck pain. He rates the pain as a 7\u00a0on a scale of 0 to 10 scale. He denies any trauma but reports that he had been doing a lot of painting over the past week. He denies any radicular pain or numbness. Cervical range of motion is moderately limited in all fields. He is treated with articulatory springing technique. Four hours later the physician receives a call from the local emergency department, where the patient presented confused, nauseated, and vertiginous. The physician may be found liable if Options: (C) the treatment was performed without prior consent from the patient (J) the motion barrier was met with a vectored force from the direction of ease (D) the physician failed to recognize the patient's age as a risk factor for complications (F) the patient was not properly instructed on aftercare following the treatment (H) the patient was not advised of potential risks before the treatment (I) the motion barrier was articulated more than 3 times (E) the patient was previously treated for osteoarthritis of the cervical spine (G) the physician did not ask about any pre-existing conditions before treatment (A) the neck was treated in simultaneous hyperrotation and extension (B) the treatment was performed without first conducting a thorough physical examination",
+        "answer_idx": "A",
+        "answer": "the neck was treated in simultaneous hyperrotation and extension",
+        "options": {
+            "A": "the neck was treated in simultaneous hyperrotation and extension",
+            "B": "the treatment was performed without first conducting a thorough physical examination",
+            "C": "the treatment was performed without prior consent from the patient",
+            "D": "the physician failed to recognize the patient's age as a risk factor for complications",
+            "E": "the patient was previously treated for osteoarthritis of the cervical spine",
+            "F": "the patient was not properly instructed on aftercare following the treatment",
+            "G": "the physician did not ask about any pre-existing conditions before treatment",
+            "H": "the patient was not advised of potential risks before the treatment",
+            "I": "the motion barrier was articulated more than 3 times",
+            "J": "the motion barrier was met with a vectored force from the direction of ease"
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 27903,
+            "completion_tokens": 21457
+        },
+        "time_elapsed": 137.99865865707397
+    },
+    {
         "idx": 6042,
         "realidx": 6042,
         "question": "A 25-year-old man is brought to the emergency department because of a 6-day history of fever, severe muscle pain, and diffuse, painful swelling of his neck, underarms, and groin area. The symptoms began after returning from a camping trip in New Mexico. He appears ill and lethargic and can barely answer questions. His temperature is 39.2\u00b0C (102.5\u00b0F), pulse is 120/min, respirations are 22/min, and blood pressure is 110/70 mm Hg. Physical examination shows generalized scattered black maculae. Examination of the right upper extremity shows an erythematous, solid, tender mass on the underside of the upper extremity just above the elbow; the mass is draining blood and necrotic material. The most effective antibiotic for this patient\u2019s disorder will interfere with which of the following cellular processes or enzymes? Options: (E) Topoisomerase II activity (I) Proteasomal degradation (C) Mitochondrial ATP synthesis (D) Glucuronosyltransferase (J) Phospholipase function (G) RNA polymerase activity (F) Lipid synthesis (H) Cell wall synthesis (B) Ribosomal assembly (A) DNA helicase",
@@ -252,6 +278,30 @@
             "completion_tokens": 6703
         },
         "time_elapsed": 41.459839820861816
+    },
+    {
+        "idx": 6045,
+        "realidx": 6045,
+        "question": "A 57-year-old man comes to the emergency department because of cramping in his hands and feet and numbness and tingling around his lips and in his fingers; these symptoms occurred intermittently for 6 months but have been progressively severe during the past 2 weeks. He also has had a 13-kg (30-lb) weight loss and bulky, foul-smelling stools that do not flush easily. He has a 10-year history of drinking 8 to 10 beers daily. He has been hospitalized twice for severe abdominal pain 4 and 6 years ago. His pulse is 80/min, and blood pressure is 105/65 mm Hg. He appears cachectic and chronically ill. The abdomen is nontender. Deep tendon reflexes are 4+ bilaterally. Chvostek and Trousseau signs are present. His serum calcium concentration is 6.5 mg/dL. Which of the following is the most likely diagnosis? Options: (E) Vitamin D deficiency (A) Hypercalcemia (G) Alcohol Withdrawal Syndrome (B) Hypokalemia (H) Pernicious Anemia (F) Hyperparathyroidism (C) Osteomalacia (D) Chronic Pancreatitis",
+        "answer_idx": "E",
+        "answer": "Vitamin D deficiency",
+        "options": {
+            "A": "Hypercalcemia",
+            "B": "Hypokalemia",
+            "C": "Osteomalacia",
+            "D": "Chronic Pancreatitis",
+            "E": "Vitamin D deficiency",
+            "F": "Hyperparathyroidism",
+            "G": "Alcohol Withdrawal Syndrome",
+            "H": "Pernicious Anemia"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6226,
+            "completion_tokens": 7074
+        },
+        "time_elapsed": 43.19543194770813
     },
     {
         "idx": 6049,
@@ -652,6 +702,58 @@
         "time_elapsed": 37.83307695388794
     },
     {
+        "idx": 6079,
+        "realidx": 6079,
+        "question": "The World Systems Theory divides the world as a unit into three subcategories: core countries, periphery countries, and semi-periphery countries. Which of the following answers correlates best with semi-periphery countries? Options: (H) Countries with no natural resources. (J) An economy centralized around one natural resource. (D) Strong central government. (F) Economies dependent on foreign aid. (I) A diversified and developed economy. (B) Highly industrialized and technologically advanced nations. (A) Small percentage of very high class individuals. (C) Countries with a high rate of population growth. (E) High rates of urbanization. (G) Low income, agrarian societies.",
+        "answer_idx": "I",
+        "answer": "A diversified and developed economy.",
+        "options": {
+            "A": "Small percentage of very high class individuals.",
+            "B": "Highly industrialized and technologically advanced nations.",
+            "C": "Countries with a high rate of population growth.",
+            "D": "Strong central government.",
+            "E": "High rates of urbanization.",
+            "F": "Economies dependent on foreign aid.",
+            "G": "Low income, agrarian societies.",
+            "H": "Countries with no natural resources.",
+            "I": "A diversified and developed economy.",
+            "J": "An economy centralized around one natural resource."
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5984,
+            "completion_tokens": 6878
+        },
+        "time_elapsed": 40.65318012237549
+    },
+    {
+        "idx": 6087,
+        "realidx": 6087,
+        "question": "Which of these features suggest that a pulsation in the neck is arterial? Options: (F) Pulsation increases with physical activity (J) Pressure in the mid-section reduces the impulse (B) Pulsation can be visually seen through the skin (I) Pressure in the root of the neck reduces the impulse (H) A waggling earlobe (E) The pulsation is felt on both sides of the neck (D) No variation with posture (C) The pulsation is erratic and inconsistent (A) Positive for hepatojugular reflux (G) No variation with breathing",
+        "answer_idx": "D",
+        "answer": "No variation with posture",
+        "options": {
+            "A": "Positive for hepatojugular reflux",
+            "B": "Pulsation can be visually seen through the skin",
+            "C": "The pulsation is erratic and inconsistent",
+            "D": "No variation with posture",
+            "E": "The pulsation is felt on both sides of the neck",
+            "F": "Pulsation increases with physical activity",
+            "G": "No variation with breathing",
+            "H": "A waggling earlobe",
+            "I": "Pressure in the root of the neck reduces the impulse",
+            "J": "Pressure in the mid-section reduces the impulse"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5724,
+            "completion_tokens": 6082
+        },
+        "time_elapsed": 35.51135563850403
+    },
+    {
         "idx": 6092,
         "realidx": 6092,
         "question": "With respect to job training, younger workers Options: (I) Perform better on the job than trained older workers (A) Have less experience and therefore need more training (E) Always learn faster than older workers (J) Prefer online training over traditional classroom learning (D) Prefer to have classes by themselves (G) Receive more opportunities than older workers (B) Do not benefit from training as much as older workers do (H) Are not interested in job training (F) Always perform worse on the job than trained older workers (C) Are less open to feedback than older workers",
@@ -730,6 +832,32 @@
         "time_elapsed": 682.8699862957001
     },
     {
+        "idx": 6108,
+        "realidx": 6108,
+        "question": "A 30-year-old woman, gravida 2, para 0, aborta 1, at 28 weeks' gestation comes to the office for a prenatal visit. She has had one previous pregnancy resulting in a spontaneous abortion at 12 weeks' gestation. Today, her vital signs are within normal limits. Physical examination shows a uterus consistent in size with a 28-week gestation. Fetal ultrasonography shows a male fetus with no abnormalities. Her blood group is O, Rh-negative. The father's blood group is B, Rh-positive. The physician recommends administration of Rho Options: (A) Development of polycythemia (F) Development of leukocytosis (D) Formation of antibodies to RhO (I) Formation of antibodies to RhC (H) Development of anemia (J) Development of natural killer cells (E) immune globulin to the patient. This treatment is most likely to prevent which of the following in this mother? (C) Development of lymphocytosis (B) Formation of antibodies to RhB (G) Formation of antibodies to RhD",
+        "answer_idx": "A",
+        "answer": "Development of polycythemia",
+        "options": {
+            "A": "Development of polycythemia",
+            "B": "Formation of antibodies to RhB",
+            "C": "Development of lymphocytosis",
+            "D": "Formation of antibodies to RhO",
+            "E": "immune globulin to the patient. This treatment is most likely to prevent which of the following in this mother?",
+            "F": "Development of leukocytosis",
+            "G": "Formation of antibodies to RhD",
+            "H": "Development of anemia",
+            "I": "Formation of antibodies to RhC",
+            "J": "Development of natural killer cells"
+        },
+        "predicted_answer": "G",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5735,
+            "completion_tokens": 4474
+        },
+        "time_elapsed": 31.776304483413696
+    },
+    {
         "idx": 6109,
         "realidx": 6109,
         "question": "A 30-year-old woman, gravida 2, para 0, aborta 1, at 28 weeks' gestation comes to the office for a prenatal visit. She has had one previous pregnancy resulting in a spontaneous abortion at 12 weeks' gestation. Today, her vital signs are within normal limits. Physical examination shows a uterus consistent in size with a 28-week gestation. Fetal ultrasonography shows a male fetus with no abnormalities. Her blood group is O, Rh-negative. The father's blood group is B, Rh-positive. The physician recommends administration of Rho Options: (F) Development of leukocytosis (J) Development of natural killer cells (I) Formation of antibodies to RhC (E) immune globulin to the patient. This treatment is most likely to prevent which of the following in this mother? (D) Formation of antibodies to RhO (H) Development of anemia (G) Formation of antibodies to RhD (B) Formation of antibodies to RhB (A) Development of polycythemia (C) Development of lymphocytosis",
@@ -754,6 +882,27 @@
             "completion_tokens": 4844
         },
         "time_elapsed": 36.53018808364868
+    },
+    {
+        "idx": 6127,
+        "realidx": 6127,
+        "question": "What nutritional strategies will not improve performance during prolonged endurance type exercise?\n Options: (D) Exogenous carbohydrate ingestion during exercise (A) Tapering (C) Hydration during exercise (E) Carbohydrate loading (B) The classic glycogen loading regime",
+        "answer_idx": "B",
+        "answer": "The classic glycogen loading regime",
+        "options": {
+            "A": "Tapering",
+            "B": "The classic glycogen loading regime",
+            "C": "Hydration during exercise",
+            "D": "Exogenous carbohydrate ingestion during exercise",
+            "E": "Carbohydrate loading"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5199,
+            "completion_tokens": 5319
+        },
+        "time_elapsed": 36.32867956161499
     },
     {
         "idx": 6128,
@@ -858,6 +1007,32 @@
             "completion_tokens": 5178
         },
         "time_elapsed": 34.32012987136841
+    },
+    {
+        "idx": 6146,
+        "realidx": 6146,
+        "question": "Which of the following is true regarding the complications of a large goitre? Options: (J) Dysphagia is an indication for surgery (I) It increases the risk of thyroid cancer (A) It causes tinnitus due to compression of the auditory canal (E) It causes a more florid thyrotoxicosis than a smaller goitre (C) It causes shortness of breath due to compression of the lungs (D) It causes hoarseness due to compression of the trachea (H) It leads to a decreased production of thyroid hormones causing hypothyroidism (F) It can cause hyperthyroidism due to overproduction of thyroid hormones (B) It causes severe headaches due to increased pressure in the neck area (G) It causes stridor due to compression of the oesophagus",
+        "answer_idx": "J",
+        "answer": "Dysphagia is an indication for surgery",
+        "options": {
+            "A": "It causes tinnitus due to compression of the auditory canal",
+            "B": "It causes severe headaches due to increased pressure in the neck area",
+            "C": "It causes shortness of breath due to compression of the lungs",
+            "D": "It causes hoarseness due to compression of the trachea",
+            "E": "It causes a more florid thyrotoxicosis than a smaller goitre",
+            "F": "It can cause hyperthyroidism due to overproduction of thyroid hormones",
+            "G": "It causes stridor due to compression of the oesophagus",
+            "H": "It leads to a decreased production of thyroid hormones causing hypothyroidism",
+            "I": "It increases the risk of thyroid cancer",
+            "J": "Dysphagia is an indication for surgery"
+        },
+        "predicted_answer": "0",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5879,
+            "completion_tokens": 6641
+        },
+        "time_elapsed": 42.39860773086548
     },
     {
         "idx": 6147,
@@ -1265,6 +1440,32 @@
         "time_elapsed": 38.08196449279785
     },
     {
+        "idx": 6198,
+        "realidx": 6198,
+        "question": "Which of the following statements about methods of evaluating protein quality in human nutrition is correct?\n Options: (H) The Protein Digestibility Corrected Amino Acid Score (PDCAAS) is the worst method for assessing protein quality for human nutrition. (C) The growing rat is a good model for assessing protein quality in human nutrition. (D) The use of rats in protein quality tests overestimates the quality of dietary proteins for human nutrition. (G) The rat net protein-utilisation assay, (NPU), is the best method of assessing protein quality for human nutrition. (A) The Biological Value (BV) of a protein does not affect its quality in human nutrition. (J) The rat protein efficiency ratio assay, (PER), is a good method of assessing protein quality for human nutrition. (I) The Human Amino Acid Requirement Pattern (HAARP) is the most reliable method for assessing protein quality for human nutrition. (F) The Chemical Score (CS) is the most accurate method for assessing protein quality in human nutrition. (B) The Digestible Indispensable Amino Acid Score (DIAAS) is not a reliable method for assessing protein quality for human nutrition. (E) Animal growth assays underestimate the quality of dietary proteins for human nutrition",
+        "answer_idx": "E",
+        "answer": "Animal growth assays underestimate the quality of dietary proteins for human nutrition",
+        "options": {
+            "A": "The Biological Value (BV) of a protein does not affect its quality in human nutrition.",
+            "B": "The Digestible Indispensable Amino Acid Score (DIAAS) is not a reliable method for assessing protein quality for human nutrition.",
+            "C": "The growing rat is a good model for assessing protein quality in human nutrition.",
+            "D": "The use of rats in protein quality tests overestimates the quality of dietary proteins for human nutrition.",
+            "E": "Animal growth assays underestimate the quality of dietary proteins for human nutrition",
+            "F": "The Chemical Score (CS) is the most accurate method for assessing protein quality in human nutrition.",
+            "G": "The rat net protein-utilisation assay, (NPU), is the best method of assessing protein quality for human nutrition.",
+            "H": "The Protein Digestibility Corrected Amino Acid Score (PDCAAS) is the worst method for assessing protein quality for human nutrition.",
+            "I": "The Human Amino Acid Requirement Pattern (HAARP) is the most reliable method for assessing protein quality for human nutrition.",
+            "J": "The rat protein efficiency ratio assay, (PER), is a good method of assessing protein quality for human nutrition."
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6041,
+            "completion_tokens": 6597
+        },
+        "time_elapsed": 43.02553677558899
+    },
+    {
         "idx": 6199,
         "realidx": 6199,
         "question": "Cholesterol and fatty acids absorbed from the intestinal lumen are packaged into which types of lipoproteins and secreted from the enterocytes into the lymph?\n Options: (C) VLDL and LDL (I) Chylomicrons and VLDL (G) LDL and VLDL (J) Chylomicrons and LDL (D) Chylomicrons and HDL (A) Chylomicrons only (B) LDL only (F) HDL only (H) HDL and LDL (E) VLDL and HDL",
@@ -1655,6 +1856,32 @@
         "time_elapsed": 33.771472215652466
     },
     {
+        "idx": 6250,
+        "realidx": 6250,
+        "question": "A 16-year-old girl is brought to the office by her mother because she is concerned that she may have contracted meningitis from her soccer teammate, who was diagnosed with meningococcal meningitis and admitted to the hospital yesterday. The patient's soccer team traveled to a neighboring state to participate in a tournament 1 week ago and she shared a hotel room with the girl who was hospitalized. The patient feels well but is concerned she may have \"caught the same bug.\" Medical history is remarkable for asthma. Medications include inhaled albuterol. Vital signs are temperature 37.2\u00b0C (98.9\u00b0F), pulse 64/min, respirations 16/min, and blood pressure 107/58 mm Hg. Physical examination shows no abnormalities. Which of the following is the most appropriate intervention for this patient at this time? Options: (B) Prescribe azithromycin (C) Administer the meningococcal vaccine (G) Prescribe amoxicillin (H) Prescribe doxycycline (D) Prescribe ibuprofen (E) Prescribe penicillin (I) Prescribe rifampin (A) Administer a tetanus shot (F) Administer the pneumococcal vaccine (J) No intervention is needed at this time",
+        "answer_idx": "I",
+        "answer": "Prescribe rifampin",
+        "options": {
+            "A": "Administer a tetanus shot",
+            "B": "Prescribe azithromycin",
+            "C": "Administer the meningococcal vaccine",
+            "D": "Prescribe ibuprofen",
+            "E": "Prescribe penicillin",
+            "F": "Administer the pneumococcal vaccine",
+            "G": "Prescribe amoxicillin",
+            "H": "Prescribe doxycycline",
+            "I": "Prescribe rifampin",
+            "J": "No intervention is needed at this time"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6091,
+            "completion_tokens": 5750
+        },
+        "time_elapsed": 39.50190758705139
+    },
+    {
         "idx": 6251,
         "realidx": 6251,
         "question": "A 16-year-old girl is brought to the office by her mother because she is concerned that she may have contracted meningitis from her soccer teammate, who was diagnosed with meningococcal meningitis and admitted to the hospital yesterday. The patient's soccer team traveled to a neighboring state to participate in a tournament 1 week ago and she shared a hotel room with the girl who was hospitalized. The patient feels well but is concerned she may have \"caught the same bug.\" Medical history is remarkable for asthma. Medications include inhaled albuterol. Vital signs are temperature 37.2\u00b0C (98.9\u00b0F), pulse 64/min, respirations 16/min, and blood pressure 107/58 mm Hg. Physical examination shows no abnormalities. Which of the following is the most appropriate intervention for this patient at this time? Options: (B) Prescribe azithromycin (G) Prescribe amoxicillin (D) Prescribe ibuprofen (J) No intervention is needed at this time (H) Prescribe doxycycline (F) Administer the pneumococcal vaccine (C) Administer the meningococcal vaccine (I) Prescribe rifampin (E) Prescribe penicillin (A) Administer a tetanus shot",
@@ -1679,6 +1906,32 @@
             "completion_tokens": 7135
         },
         "time_elapsed": 42.11333465576172
+    },
+    {
+        "idx": 6252,
+        "realidx": 6252,
+        "question": "A previously healthy 15-year-old boy is brought to the emergency department in August 1 hour after the onset of headache, dizziness, nausea, and one episode of vomiting. His symptoms began during the first hour of full-contact football practice in full uniform. He reported feeling weak and faint but did not lose consciousness. He vomited once after drinking water. On arrival, he is diaphoretic. He is not oriented to person, place, or time. His temperature is 39.5\u00b0C (103.1\u00b0F), pulse is 120/min, respirations are 40/min, and blood pressure is 90/65 mm Hg. Examination, including neurologic examination, shows no other abnormalities. Which of the following is the most appropriate next step in management? Options: (D) Immerse the patient in an ice water bath (C) Perform a lumbar puncture (H) Administer intravenous fluids (A) Administer an epinephrine injection (J) Administer a glucose injection (B) Administer oxygen via a nasal cannula (I) Administer sodium chloride tablets (G) Administer a dose of ibuprofen (E) Apply cold compresses to the forehead (F) Obtain a CT scan of the head",
+        "answer_idx": "H",
+        "answer": "Administer intravenous fluids",
+        "options": {
+            "A": "Administer an epinephrine injection",
+            "B": "Administer oxygen via a nasal cannula",
+            "C": "Perform a lumbar puncture",
+            "D": "Immerse the patient in an ice water bath",
+            "E": "Apply cold compresses to the forehead",
+            "F": "Obtain a CT scan of the head",
+            "G": "Administer a dose of ibuprofen",
+            "H": "Administer intravenous fluids",
+            "I": "Administer sodium chloride tablets",
+            "J": "Administer a glucose injection"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6368,
+            "completion_tokens": 5834
+        },
+        "time_elapsed": 37.648009300231934
     },
     {
         "idx": 6253,
@@ -2168,6 +2421,32 @@
         "time_elapsed": 41.28077149391174
     },
     {
+        "idx": 6301,
+        "realidx": 6301,
+        "question": "A pulse may be felt on a patient's face where the Options: (E) facial artery crosses the orbital rim. (B) superficial temporal artery crosses the mandible. (H) maxillary artery crosses the orbital rim. (D) superficial temporal artery crosses the orbital rim. (I) facial artery crosses the maxilla. (C) maxillary artery crosses the mandible. (A) superficial temporal artery crosses the zygomatic arch. (J) facial artery crosses the mandible. (F) superficial temporal artery crosses the maxilla. (G) facial artery crosses the zygomatic arch.",
+        "answer_idx": "J",
+        "answer": "facial artery crosses the mandible.",
+        "options": {
+            "A": "superficial temporal artery crosses the zygomatic arch.",
+            "B": "superficial temporal artery crosses the mandible.",
+            "C": "maxillary artery crosses the mandible.",
+            "D": "superficial temporal artery crosses the orbital rim.",
+            "E": "facial artery crosses the orbital rim.",
+            "F": "superficial temporal artery crosses the maxilla.",
+            "G": "facial artery crosses the zygomatic arch.",
+            "H": "maxillary artery crosses the orbital rim.",
+            "I": "facial artery crosses the maxilla.",
+            "J": "facial artery crosses the mandible."
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5655,
+            "completion_tokens": 3817
+        },
+        "time_elapsed": 28.194487810134888
+    },
+    {
         "idx": 6305,
         "realidx": 6305,
         "question": "The dorsal roots of all spinal nerves contain Options: (D) sensory and autonomic neuronal processes. (J) autonomic neuronal processes. (B) both autonomic and motor neuronal processes. (G) no neuronal processes. (E) motor neuronal processes. (A) motor and autonomic neuronal processes. (C) both sensory and motor neuronal processes. (H) sensory, motor and autonomic neuronal processes. (F) only autonomic neuronal processes. (I) sensory neuronal processes.",
@@ -2218,5 +2497,31 @@
             "completion_tokens": 6506
         },
         "time_elapsed": 41.48389911651611
+    },
+    {
+        "idx": 6308,
+        "realidx": 6308,
+        "question": "A 23-year-old woman comes to the physician for genetic counseling prior to conception. Her brother and maternal uncle had Duchenne muscular dystrophy (DMD) and died at the ages of 28 and 17 years, respectively. Genetic analysis was not performed on either relative prior to death. Serum studies show a muscle creatine kinase concentration of 120 U/L (N=22\u2013 198). The patient's 50-year-old mother has a serum muscle creatine kinase concentration of 300 U/L. Which of the following is the most appropriate assessment of this patient's carrier status for this disease? Options: (D) The patient's DMD carrier status is uncertain due to lack of genetic analysis on her deceased relatives. (A) The patient is not a carrier of the DMD as her muscle creatine kinase concentration is within the normal range (F) The patient is a carrier of the disease based on her mother's elevated creatine kinase concentration (J) The patient is not a carrier of the DMD based on her normal creatine kinase concentration (C) The patient is a carrier of the disease based on her family history of DMD (B) The patient's mother is a carrier, hence the patient is definitely a carrier too (I) The patient's DMD carrier status is uncertain because of random X inactivation (E) The patient has a 25% risk of having a child with DMD (H) The patient has a 50% risk of having a child with DMD (G) The patient's DMD carrier status is certain due to maternal transmission",
+        "answer_idx": "I",
+        "answer": "The patient's DMD carrier status is uncertain because of random X inactivation",
+        "options": {
+            "A": "The patient is not a carrier of the DMD as her muscle creatine kinase concentration is within the normal range",
+            "B": "The patient's mother is a carrier, hence the patient is definitely a carrier too",
+            "C": "The patient is a carrier of the disease based on her family history of DMD",
+            "D": "The patient's DMD carrier status is uncertain due to lack of genetic analysis on her deceased relatives.",
+            "E": "The patient has a 25% risk of having a child with DMD",
+            "F": "The patient is a carrier of the disease based on her mother's elevated creatine kinase concentration",
+            "G": "The patient's DMD carrier status is certain due to maternal transmission",
+            "H": "The patient has a 50% risk of having a child with DMD",
+            "I": "The patient's DMD carrier status is uncertain because of random X inactivation",
+            "J": "The patient is not a carrier of the DMD based on her normal creatine kinase concentration"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6194,
+            "completion_tokens": 5797
+        },
+        "time_elapsed": 36.52121424674988
     }
 ]

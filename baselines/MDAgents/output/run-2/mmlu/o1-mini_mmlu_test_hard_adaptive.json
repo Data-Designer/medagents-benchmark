@@ -1000,6 +1000,26 @@
         "time_elapsed": 30.027886629104614
     },
     {
+        "idx": 1276,
+        "realidx": 1276,
+        "question": "What is the most likely outcome of this modification?\n\ufeff\nAn RNA strand that normally produces a transmembrane protein that facilitates potassium entry into muscle cells is modified to produce a different strand. The original strand is as follows:\n\n GAAUAGAUGGGAAGCGCCAGAUACAGUAACAGA\u2026 \n\nThe modified sequence is as follows:\n\n GAAUAGAUGGGAAGCGCCAGAUACAGUACCAGA\u2026 Options: (C) No change (B) Production of a similar-sized but dysfunctional protein (A) Absence of the protein (D) Production of a larger, likely dysfunctional protein",
+        "answer_idx": "D",
+        "answer": "Production of a larger, likely dysfunctional protein",
+        "options": {
+            "A": "Absence of the protein",
+            "B": "Production of a similar-sized but dysfunctional protein",
+            "C": "No change",
+            "D": "Production of a larger, likely dysfunctional protein"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6070,
+            "completion_tokens": 4744
+        },
+        "time_elapsed": 29.95423126220703
+    },
+    {
         "idx": 1282,
         "realidx": 1282,
         "question": "Hydrogen ions are formed when: Options: (D) glycolysis is being used as a major means of resynthesising ATP. (B) phosphocreatine breakdown occurs. (C) pyruvate is converted to lactate. (A) glycogen becomes depleted.",
@@ -1318,6 +1338,26 @@
             "completion_tokens": 81469
         },
         "time_elapsed": 433.2652430534363
+    },
+    {
+        "idx": 12296,
+        "realidx": 12296,
+        "question": "A 37-year-old man with type 1 diabetes mellitus is admitted to the hospital because of inadequate control of his glucose concentrations for the past 2 months. Despite his poor control, he demands that he be discharged. He reports that he has had a 3-month history of fatigue, irritability, and feelings of hopelessness. He says that he has been noncompliant with his diabetic regimen, adding, \"Sometimes I forget.\" He has been avoiding his family and friends because he is not in the mood to see them but admits that he is lonely. He did not get out of bed for 2 days, which prompted his wife to call an ambulance and have him admitted to the hospital. Prior to admission to the hospital, his only medication was insulin, although he often missed doses. He does not drink alcohol. He is 168 cm (5 ft 6 in) tall and weighs 100 kg (220 lb); BMI is 36 kg/m2 . His temperature is 37\u00b0C (98.6\u00b0F), pulse is 68/min, respirations are 18/min, and blood pressure is 150/85 mm Hg. Physical examination shows no abnormalities. On mental status examination, he is tired and has a restricted affect. There is no evidence of suicidal ideation. Cognition is intact. His fasting serum glucose concentration is 120 mg/dL. Which of the following is the most appropriate next step in management? Options: (B) Adhere to the patient's wishes on the condition that he agree to home nursing care (D) Seek a court order to appoint a legal guardian (A) Adhere to the patient's wishes and discuss home-care options (C) Schedule neuropsychological testing",
+        "answer_idx": "A",
+        "answer": "Adhere to the patient's wishes and discuss home-care options",
+        "options": {
+            "A": "Adhere to the patient's wishes and discuss home-care options",
+            "B": "Adhere to the patient's wishes on the condition that he agree to home nursing care",
+            "C": "Schedule neuropsychological testing",
+            "D": "Seek a court order to appoint a legal guardian"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 28377,
+            "completion_tokens": 20926
+        },
+        "time_elapsed": 130.9696910381317
     },
     {
         "idx": 12307,

@@ -220,6 +220,26 @@
         "time_elapsed": 38.23443388938904
     },
     {
+        "idx": 173,
+        "realidx": 173,
+        "question": "When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the Options: (B) posterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle. (C) anterior fragment to be displaced backwards by action of the temporalis muscle. (A) anterior fragment to be displaced downwards by the action of the digastric muscle. (D) posterior fragment to be displaced medially by action of the medial pterygoid muscle.",
+        "answer_idx": "A",
+        "answer": "anterior fragment to be displaced downwards by the action of the digastric muscle.",
+        "options": {
+            "A": "anterior fragment to be displaced downwards by the action of the digastric muscle.",
+            "B": "posterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle.",
+            "C": "anterior fragment to be displaced backwards by action of the temporalis muscle.",
+            "D": "posterior fragment to be displaced medially by action of the medial pterygoid muscle."
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6023,
+            "completion_tokens": 5322
+        },
+        "time_elapsed": 37.33323836326599
+    },
+    {
         "idx": 197,
         "realidx": 197,
         "question": "In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandibular teeth to be Options: (C) red below the mucogingival junction and light pink above it. (D) red on both sides of the mucogingival junction. (A) light pink in colour on both sides of the mucogingigival junction. (B) light pink below the mucogingival junction and red above it.",
@@ -278,6 +298,26 @@
             "completion_tokens": 4517
         },
         "time_elapsed": 31.79658532142639
+    },
+    {
+        "idx": 229,
+        "realidx": 229,
+        "question": "During swallowing the Options: (C) rima glottis opens. (A) auditory tube opens. (D) gag reflex is suspended. (B) cricopharyngeus muscle contracts.",
+        "answer_idx": "A",
+        "answer": "auditory tube opens.",
+        "options": {
+            "A": "auditory tube opens.",
+            "B": "cricopharyngeus muscle contracts.",
+            "C": "rima glottis opens.",
+            "D": "gag reflex is suspended."
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5676,
+            "completion_tokens": 6003
+        },
+        "time_elapsed": 39.54965615272522
     },
     {
         "idx": 491,
@@ -1078,6 +1118,26 @@
             "completion_tokens": 4404
         },
         "time_elapsed": 30.252475023269653
+    },
+    {
+        "idx": 1307,
+        "realidx": 1307,
+        "question": "If a gas occupies 0.1L at 200atm, what will its volume be at 1atm? Options: (A) slightly less than 20L (D) 2000L (B) 20L (C) slightly more than 20L",
+        "answer_idx": "A",
+        "answer": "slightly less than 20L",
+        "options": {
+            "A": "slightly less than 20L",
+            "B": "20L",
+            "C": "slightly more than 20L",
+            "D": "2000L"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5718,
+            "completion_tokens": 4354
+        },
+        "time_elapsed": 32.697654485702515
     },
     {
         "idx": 1316,

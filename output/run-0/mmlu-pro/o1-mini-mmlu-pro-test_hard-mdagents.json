@@ -228,6 +228,32 @@
         "time_elapsed": 32.39699029922485
     },
     {
+        "idx": 6042,
+        "realidx": 6042,
+        "question": "A 25-year-old man is brought to the emergency department because of a 6-day history of fever, severe muscle pain, and diffuse, painful swelling of his neck, underarms, and groin area. The symptoms began after returning from a camping trip in New Mexico. He appears ill and lethargic and can barely answer questions. His temperature is 39.2\u00b0C (102.5\u00b0F), pulse is 120/min, respirations are 22/min, and blood pressure is 110/70 mm Hg. Physical examination shows generalized scattered black maculae. Examination of the right upper extremity shows an erythematous, solid, tender mass on the underside of the upper extremity just above the elbow; the mass is draining blood and necrotic material. The most effective antibiotic for this patient\u2019s disorder will interfere with which of the following cellular processes or enzymes? Options: (I) Proteasomal degradation (G) RNA polymerase activity (D) Glucuronosyltransferase (J) Phospholipase function (E) Topoisomerase II activity (F) Lipid synthesis (C) Mitochondrial ATP synthesis (A) DNA helicase (B) Ribosomal assembly (H) Cell wall synthesis",
+        "answer_idx": "B",
+        "answer": "Ribosomal assembly",
+        "options": {
+            "A": "DNA helicase",
+            "B": "Ribosomal assembly",
+            "C": "Mitochondrial ATP synthesis",
+            "D": "Glucuronosyltransferase",
+            "E": "Topoisomerase II activity",
+            "F": "Lipid synthesis",
+            "G": "RNA polymerase activity",
+            "H": "Cell wall synthesis",
+            "I": "Proteasomal degradation",
+            "J": "Phospholipase function"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 341264,
+            "completion_tokens": 107461
+        },
+        "time_elapsed": 574.1516034603119
+    },
+    {
         "idx": 6045,
         "realidx": 6045,
         "question": "A 57-year-old man comes to the emergency department because of cramping in his hands and feet and numbness and tingling around his lips and in his fingers; these symptoms occurred intermittently for 6 months but have been progressively severe during the past 2 weeks. He also has had a 13-kg (30-lb) weight loss and bulky, foul-smelling stools that do not flush easily. He has a 10-year history of drinking 8 to 10 beers daily. He has been hospitalized twice for severe abdominal pain 4 and 6 years ago. His pulse is 80/min, and blood pressure is 105/65 mm Hg. He appears cachectic and chronically ill. The abdomen is nontender. Deep tendon reflexes are 4+ bilaterally. Chvostek and Trousseau signs are present. His serum calcium concentration is 6.5 mg/dL. Which of the following is the most likely diagnosis? Options: (C) Osteomalacia (D) Chronic Pancreatitis (H) Pernicious Anemia (B) Hypokalemia (G) Alcohol Withdrawal Syndrome (F) Hyperparathyroidism (A) Hypercalcemia (E) Vitamin D deficiency",
@@ -356,6 +382,30 @@
         "time_elapsed": 30.96657633781433
     },
     {
+        "idx": 6054,
+        "realidx": 6054,
+        "question": "Which of the following is not a reason for increased risk of vitamin or mineral deficiencies among older people in high income countries?\n Options: (C) Increased intrinsic factor in the stomach (H) Increased absorption of vitamins and minerals due to medication (D) Low income so decreased ability to purchase nutrient-rich foods (F) Decreased nutrient requirements due to aging (B) High nutrient requirements for tissue turnover (A) Regular physical activity and outdoor exposure (G) Decreased mobility and little time spend outdoors in the sunshine (E) Decreased intrinsic factor in the stomach",
+        "answer_idx": "B",
+        "answer": "High nutrient requirements for tissue turnover",
+        "options": {
+            "A": "Regular physical activity and outdoor exposure",
+            "B": "High nutrient requirements for tissue turnover",
+            "C": "Increased intrinsic factor in the stomach",
+            "D": "Low income so decreased ability to purchase nutrient-rich foods",
+            "E": "Decreased intrinsic factor in the stomach",
+            "F": "Decreased nutrient requirements due to aging",
+            "G": "Decreased mobility and little time spend outdoors in the sunshine",
+            "H": "Increased absorption of vitamins and minerals due to medication"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6240,
+            "completion_tokens": 6252
+        },
+        "time_elapsed": 40.77585816383362
+    },
+    {
         "idx": 6055,
         "realidx": 6055,
         "question": "Which of the following is not a beneficial effect of exercise in people with diabetes:\n Options: (G) Hypoglycaemia (B) Impaired digestion (F) Increase in body fat percentage (D) Increase in blood sugar levels (E) Reduction of bone density (A) Decreased muscle mass (C) Worsening of vision",
@@ -457,6 +507,31 @@
         "time_elapsed": 39.122628927230835
     },
     {
+        "idx": 6064,
+        "realidx": 6064,
+        "question": "Which diseases are not less frequent among vegetarians?\n Options: (B) Hypertension (G) Ischaemic heart disease (F) Stroke (H) Obesity (E) Respiratory diseases (C) Kidney stones (I) Diverticular disease (A) Colorectal cancer (D) Diabetes",
+        "answer_idx": "E",
+        "answer": "Respiratory diseases",
+        "options": {
+            "A": "Colorectal cancer",
+            "B": "Hypertension",
+            "C": "Kidney stones",
+            "D": "Diabetes",
+            "E": "Respiratory diseases",
+            "F": "Stroke",
+            "G": "Ischaemic heart disease",
+            "H": "Obesity",
+            "I": "Diverticular disease"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5508,
+            "completion_tokens": 5271
+        },
+        "time_elapsed": 34.47699499130249
+    },
+    {
         "idx": 6067,
         "realidx": 6067,
         "question": "How are new polyomaviruses detailed Options: (C) Deep pyro sequencing (NGS) (D) Monoclonal antibody techniques (A) Shot gun sequencing (B) Cultivation in human neural cells",
@@ -497,6 +572,32 @@
         "time_elapsed": 31.921813011169434
     },
     {
+        "idx": 6070,
+        "realidx": 6070,
+        "question": "The chance of acquiring HIV infection from factor VIII in the United States in 2011 is 0% primarily because: Options: (D) Factor VIII is irradiated to kill any potential HIV (F) Factor VIII is heat-treated to inactivate any potential HIV (C) Factor VIII is only used by individuals who are already HIV positive (H) Factor VIII is made synthetically (E) Factor VIII is important from countries with no reported HIV (J) Factor VIII is subject to detergent \u201cwashing\u201d prior to release (I) Factor VIII is derived from animals, which cannot carry HIV (G) All donors for factor VIII are screened (A) The use of Factor VIII has been completely discontinued in the United States (B) Factor VIII is only distributed to hospitals with strict infection control protocols",
+        "answer_idx": "H",
+        "answer": "Factor VIII is made synthetically",
+        "options": {
+            "A": "The use of Factor VIII has been completely discontinued in the United States",
+            "B": "Factor VIII is only distributed to hospitals with strict infection control protocols",
+            "C": "Factor VIII is only used by individuals who are already HIV positive",
+            "D": "Factor VIII is irradiated to kill any potential HIV",
+            "E": "Factor VIII is important from countries with no reported HIV",
+            "F": "Factor VIII is heat-treated to inactivate any potential HIV",
+            "G": "All donors for factor VIII are screened",
+            "H": "Factor VIII is made synthetically",
+            "I": "Factor VIII is derived from animals, which cannot carry HIV",
+            "J": "Factor VIII is subject to detergent \u201cwashing\u201d prior to release"
+        },
+        "predicted_answer": "F",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5928,
+            "completion_tokens": 6365
+        },
+        "time_elapsed": 38.54943561553955
+    },
+    {
         "idx": 6071,
         "realidx": 6071,
         "question": "What is urban yellow fever (YF)? Options: (I) Part of a cycle of mosquitoes biting humans in cities (E) A mutant of the YF virus (C) A YF virus that is transmitted through contaminated water in cities (G) A YF species that has adapted to rats in urban areas (A) A YF species that has adapted to new mosquitoes (D) A YF species that has adapted to colder climates in urban areas (J) A YF virus that only affects humans in rural areas (F) Part of a cycle of mosquitoes biting only animals in cities (B) Part of a cycle of mosquitoes biting humans and monkeys in forested areas (H) A YF virus that has lost its virulence in urban areas",
@@ -521,6 +622,110 @@
             "completion_tokens": 6525
         },
         "time_elapsed": 43.87092709541321
+    },
+    {
+        "idx": 6072,
+        "realidx": 6072,
+        "question": "For a very weak base, the pKb of a solution would likely be: Options: (G) Near 7 at 25\u00baC (B) Lower than the pOH (A) Near 14 at 25\u00baC (F) Higher than the pH (C) Lower than the pH (H) Higher than the pOH (I) Equal to the pKa (J) Equal to the pH (E) Near 0 at 25\u00baC (D) Equal to the pOH",
+        "answer_idx": "H",
+        "answer": "Higher than the pOH",
+        "options": {
+            "A": "Near 14 at 25\u00baC",
+            "B": "Lower than the pOH",
+            "C": "Lower than the pH",
+            "D": "Equal to the pOH",
+            "E": "Near 0 at 25\u00baC",
+            "F": "Higher than the pH",
+            "G": "Near 7 at 25\u00baC",
+            "H": "Higher than the pOH",
+            "I": "Equal to the pKa",
+            "J": "Equal to the pH"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5611,
+            "completion_tokens": 6964
+        },
+        "time_elapsed": 44.8074734210968
+    },
+    {
+        "idx": 6074,
+        "realidx": 6074,
+        "question": "A segment of DNA from a lab mouse is determined to be 5\u2019 \u2013 GGATCCTCATG \u2013 3\u2019. Which of the following DNA segments would be the result of this original DNA sequence experiencing both a point mutation and a deletion? Options: (E) 5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019 (A) 5' - GGATCCTCA - 3' (G) 5' - GGATCTCATG - 3' (I) 5' - GGATCCTCAG - 3' (F) 5' - GGATCCGCATG - 3' (H) 5' - GGATCCTCAT - 3' (C) 5\u2019 \u2013 GGATCCATG \u2013 3\u2019 (B) 5\u2019 \u2013 TGATCCCAG \u2013 3\u2019 (D) 5' - GGATCCTCGT - 3' (J) 5\u2019 \u2013 GCATCCTCATG \u2013 3\u2019",
+        "answer_idx": "E",
+        "answer": "5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019",
+        "options": {
+            "A": "5' - GGATCCTCA - 3'",
+            "B": "5\u2019 \u2013 TGATCCCAG \u2013 3\u2019",
+            "C": "5\u2019 \u2013 GGATCCATG \u2013 3\u2019",
+            "D": "5' - GGATCCTCGT - 3'",
+            "E": "5\u2019 \u2013 GGTCCTCATC \u2013 3\u2019",
+            "F": "5' - GGATCCGCATG - 3'",
+            "G": "5' - GGATCTCATG - 3'",
+            "H": "5' - GGATCCTCAT - 3'",
+            "I": "5' - GGATCCTCAG - 3'",
+            "J": "5\u2019 \u2013 GCATCCTCATG \u2013 3\u2019"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6107,
+            "completion_tokens": 7428
+        },
+        "time_elapsed": 46.19634008407593
+    },
+    {
+        "idx": 6079,
+        "realidx": 6079,
+        "question": "The World Systems Theory divides the world as a unit into three subcategories: core countries, periphery countries, and semi-periphery countries. Which of the following answers correlates best with semi-periphery countries? Options: (F) Economies dependent on foreign aid. (E) High rates of urbanization. (I) A diversified and developed economy. (J) An economy centralized around one natural resource. (C) Countries with a high rate of population growth. (G) Low income, agrarian societies. (A) Small percentage of very high class individuals. (H) Countries with no natural resources. (D) Strong central government. (B) Highly industrialized and technologically advanced nations.",
+        "answer_idx": "I",
+        "answer": "A diversified and developed economy.",
+        "options": {
+            "A": "Small percentage of very high class individuals.",
+            "B": "Highly industrialized and technologically advanced nations.",
+            "C": "Countries with a high rate of population growth.",
+            "D": "Strong central government.",
+            "E": "High rates of urbanization.",
+            "F": "Economies dependent on foreign aid.",
+            "G": "Low income, agrarian societies.",
+            "H": "Countries with no natural resources.",
+            "I": "A diversified and developed economy.",
+            "J": "An economy centralized around one natural resource."
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6005,
+            "completion_tokens": 5562
+        },
+        "time_elapsed": 36.35456824302673
+    },
+    {
+        "idx": 6087,
+        "realidx": 6087,
+        "question": "Which of these features suggest that a pulsation in the neck is arterial? Options: (H) A waggling earlobe (I) Pressure in the root of the neck reduces the impulse (G) No variation with breathing (J) Pressure in the mid-section reduces the impulse (F) Pulsation increases with physical activity (A) Positive for hepatojugular reflux (D) No variation with posture (C) The pulsation is erratic and inconsistent (E) The pulsation is felt on both sides of the neck (B) Pulsation can be visually seen through the skin",
+        "answer_idx": "D",
+        "answer": "No variation with posture",
+        "options": {
+            "A": "Positive for hepatojugular reflux",
+            "B": "Pulsation can be visually seen through the skin",
+            "C": "The pulsation is erratic and inconsistent",
+            "D": "No variation with posture",
+            "E": "The pulsation is felt on both sides of the neck",
+            "F": "Pulsation increases with physical activity",
+            "G": "No variation with breathing",
+            "H": "A waggling earlobe",
+            "I": "Pressure in the root of the neck reduces the impulse",
+            "J": "Pressure in the mid-section reduces the impulse"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5462,
+            "completion_tokens": 7025
+        },
+        "time_elapsed": 44.52262830734253
     },
     {
         "idx": 6092,
@@ -752,6 +957,32 @@
         "time_elapsed": 30.363656044006348
     },
     {
+        "idx": 6146,
+        "realidx": 6146,
+        "question": "Which of the following is true regarding the complications of a large goitre? Options: (D) It causes hoarseness due to compression of the trachea (F) It can cause hyperthyroidism due to overproduction of thyroid hormones (A) It causes tinnitus due to compression of the auditory canal (G) It causes stridor due to compression of the oesophagus (I) It increases the risk of thyroid cancer (H) It leads to a decreased production of thyroid hormones causing hypothyroidism (J) Dysphagia is an indication for surgery (B) It causes severe headaches due to increased pressure in the neck area (C) It causes shortness of breath due to compression of the lungs (E) It causes a more florid thyrotoxicosis than a smaller goitre",
+        "answer_idx": "J",
+        "answer": "Dysphagia is an indication for surgery",
+        "options": {
+            "A": "It causes tinnitus due to compression of the auditory canal",
+            "B": "It causes severe headaches due to increased pressure in the neck area",
+            "C": "It causes shortness of breath due to compression of the lungs",
+            "D": "It causes hoarseness due to compression of the trachea",
+            "E": "It causes a more florid thyrotoxicosis than a smaller goitre",
+            "F": "It can cause hyperthyroidism due to overproduction of thyroid hormones",
+            "G": "It causes stridor due to compression of the oesophagus",
+            "H": "It leads to a decreased production of thyroid hormones causing hypothyroidism",
+            "I": "It increases the risk of thyroid cancer",
+            "J": "Dysphagia is an indication for surgery"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5878,
+            "completion_tokens": 6732
+        },
+        "time_elapsed": 40.839356660842896
+    },
+    {
         "idx": 6147,
         "realidx": 6147,
         "question": "Peak flow meters record: Options: (G) the volume of air remaining in the lungs after a forced expiration. (E) the average rate of air expelled from the lungs through an open mouth. (C) the lowest rate of air expelled from the lungs through an open mouth. (I) the highest rate of air expelled from the lungs through an open mouth. (D) the oxygen saturation level in the blood. (F) forced vital capacity. (J) the rate of air inhaled into the lungs through an open mouth. (B) the total capacity of the lungs. (H) forced expiratory volume. (A) the amount of air inhaled into the lungs.",
@@ -932,6 +1163,32 @@
             "completion_tokens": 6085
         },
         "time_elapsed": 37.9858124256134
+    },
+    {
+        "idx": 6169,
+        "realidx": 6169,
+        "question": "When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the Options: (C) anterior fragment to be displaced backwards by action of the temporalis muscle. (G) posterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle. (E) anterior fragment to be displaced medially by the action of the medial pterygoid muscle. (J) posterior fragment to be displaced medially by action of the medial pterygoid muscle. (D) posterior fragment to be displaced laterally by the action of the medial pterygoid muscle. (F) posterior fragment to be displaced upwards by the action of the masseter muscle. (A) anterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle. (I) anterior fragment to be displaced downwards by the action of the digastric muscle. (B) posterior fragment to be displaced downwards by the action of the digastric muscle. (H) anterior fragment to be displaced upwards by the action of the masseter muscle.",
+        "answer_idx": "I",
+        "answer": "anterior fragment to be displaced downwards by the action of the digastric muscle.",
+        "options": {
+            "A": "anterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle.",
+            "B": "posterior fragment to be displaced downwards by the action of the digastric muscle.",
+            "C": "anterior fragment to be displaced backwards by action of the temporalis muscle.",
+            "D": "posterior fragment to be displaced laterally by the action of the medial pterygoid muscle.",
+            "E": "anterior fragment to be displaced medially by the action of the medial pterygoid muscle.",
+            "F": "posterior fragment to be displaced upwards by the action of the masseter muscle.",
+            "G": "posterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle.",
+            "H": "anterior fragment to be displaced upwards by the action of the masseter muscle.",
+            "I": "anterior fragment to be displaced downwards by the action of the digastric muscle.",
+            "J": "posterior fragment to be displaced medially by action of the medial pterygoid muscle."
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5595,
+            "completion_tokens": 5119
+        },
+        "time_elapsed": 34.43107199668884
     },
     {
         "idx": 6171,
@@ -1235,6 +1492,32 @@
         "time_elapsed": 36.22531318664551
     },
     {
+        "idx": 6203,
+        "realidx": 6203,
+        "question": "Which of the following is closest to the amount of retinol formed from \u00df-carotene?\n Options: (A) 0.2 mol retinol /mol \u00df-carotene (D) 0.15 mol retinol /mol \u00df-carotene (G) 1 mol retinol /mol \u00df-carotene (H) 0.75 mol retinol /mol \u00df-carotene (E) 0.5 mol retinol /mol \u00df-carotene (B) 0.25 mol retinol /mol \u00df-carotene (I) 2 mol retinol /mol \u00df-carotene (J) 0.1 mol retinol /mol \u00df-carotene (F) 3 mol retinol /mol \u00df-carotene (C) 0.05 mol retinol /mol \u00df-carotene",
+        "answer_idx": "D",
+        "answer": "0.15 mol retinol /mol \u00df-carotene",
+        "options": {
+            "A": "0.2 mol retinol /mol \u00df-carotene",
+            "B": "0.25 mol retinol /mol \u00df-carotene",
+            "C": "0.05 mol retinol /mol \u00df-carotene",
+            "D": "0.15 mol retinol /mol \u00df-carotene",
+            "E": "0.5 mol retinol /mol \u00df-carotene",
+            "F": "3 mol retinol /mol \u00df-carotene",
+            "G": "1 mol retinol /mol \u00df-carotene",
+            "H": "0.75 mol retinol /mol \u00df-carotene",
+            "I": "2 mol retinol /mol \u00df-carotene",
+            "J": "0.1 mol retinol /mol \u00df-carotene"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5391,
+            "completion_tokens": 6087
+        },
+        "time_elapsed": 41.84006977081299
+    },
+    {
         "idx": 6208,
         "realidx": 6208,
         "question": "An expected side effect of creatine supplementation is: Options: (G) muscle cramps. (I) gain in body mass. (A) improved vision. (B) loss of appetite. (D) decrease in body mass. (H) hair loss. (J) loss of electrolytes. (E) muscle weakness. (F) increased heart rate. (C) improved cognitive function.",
@@ -1391,6 +1674,32 @@
         "time_elapsed": 33.97805190086365
     },
     {
+        "idx": 6222,
+        "realidx": 6222,
+        "question": "Which one of the following statements about the growth of the mandible is correct? Options: (D) The mandibular foramen shifts position during growth (I) The mandible stops growing at the onset of adolescence (J) The mental symphysis closes at about 1 year postnatally (C) The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage (E) The condylar growth cartilage ceases activity at puberty (B) The mental symphysis never fully closes (H) The condylar growth cartilage remains active throughout life (F) The ossification centre appears about 12 weeks I.U.L medial to Meckel's cartilage (A) The functional matrix acting on the angle of the mandible is the medial pterygoid muscle (G) The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle",
+        "answer_idx": "J",
+        "answer": "The mental symphysis closes at about 1 year postnatally",
+        "options": {
+            "A": "The functional matrix acting on the angle of the mandible is the medial pterygoid muscle",
+            "B": "The mental symphysis never fully closes",
+            "C": "The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage",
+            "D": "The mandibular foramen shifts position during growth",
+            "E": "The condylar growth cartilage ceases activity at puberty",
+            "F": "The ossification centre appears about 12 weeks I.U.L medial to Meckel's cartilage",
+            "G": "The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle",
+            "H": "The condylar growth cartilage remains active throughout life",
+            "I": "The mandible stops growing at the onset of adolescence",
+            "J": "The mental symphysis closes at about 1 year postnatally"
+        },
+        "predicted_answer": "H",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6084,
+            "completion_tokens": 6739
+        },
+        "time_elapsed": 39.24680161476135
+    },
+    {
         "idx": 6224,
         "realidx": 6224,
         "question": "In which of the following positions does a patient lie face down? Options: (G) Jackknife (D) Prone (E) Sims (F) Dorsal (I) Semi-Fowler's (A) Supine (B) Erect (H) Lateral (J) Lithotomy (C) Trendelenburg",
@@ -1493,6 +1802,32 @@
             "completion_tokens": 5079
         },
         "time_elapsed": 35.0133957862854
+    },
+    {
+        "idx": 6250,
+        "realidx": 6250,
+        "question": "A 16-year-old girl is brought to the office by her mother because she is concerned that she may have contracted meningitis from her soccer teammate, who was diagnosed with meningococcal meningitis and admitted to the hospital yesterday. The patient's soccer team traveled to a neighboring state to participate in a tournament 1 week ago and she shared a hotel room with the girl who was hospitalized. The patient feels well but is concerned she may have \"caught the same bug.\" Medical history is remarkable for asthma. Medications include inhaled albuterol. Vital signs are temperature 37.2\u00b0C (98.9\u00b0F), pulse 64/min, respirations 16/min, and blood pressure 107/58 mm Hg. Physical examination shows no abnormalities. Which of the following is the most appropriate intervention for this patient at this time? Options: (J) No intervention is needed at this time (C) Administer the meningococcal vaccine (I) Prescribe rifampin (G) Prescribe amoxicillin (D) Prescribe ibuprofen (F) Administer the pneumococcal vaccine (H) Prescribe doxycycline (A) Administer a tetanus shot (B) Prescribe azithromycin (E) Prescribe penicillin",
+        "answer_idx": "I",
+        "answer": "Prescribe rifampin",
+        "options": {
+            "A": "Administer a tetanus shot",
+            "B": "Prescribe azithromycin",
+            "C": "Administer the meningococcal vaccine",
+            "D": "Prescribe ibuprofen",
+            "E": "Prescribe penicillin",
+            "F": "Administer the pneumococcal vaccine",
+            "G": "Prescribe amoxicillin",
+            "H": "Prescribe doxycycline",
+            "I": "Prescribe rifampin",
+            "J": "No intervention is needed at this time"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6074,
+            "completion_tokens": 4419
+        },
+        "time_elapsed": 29.45673441886902
     },
     {
         "idx": 6251,
@@ -1623,6 +1958,32 @@
             "completion_tokens": 4358
         },
         "time_elapsed": 33.17580008506775
+    },
+    {
+        "idx": 6269,
+        "realidx": 6269,
+        "question": "The Worldwide HIV/AIDS campaigns have made significant progress over the last years. The HIV infection rates in Europe\n Options: (D) Have been unchanged (J) Have been decreasing in some areas and increasing in others (F) Are unknown (B) Have been steadily decreasing in the past but recently started increasing (E) Have been significantly increasing in certain age groups (A) Have been sporadically fluctuating (I) Are inconsistent across different countries (C) Have been increasing (H) Have been significantly decreasing (G) Are currently at their highest rates ever",
+        "answer_idx": "D",
+        "answer": "Have been unchanged",
+        "options": {
+            "A": "Have been sporadically fluctuating",
+            "B": "Have been steadily decreasing in the past but recently started increasing",
+            "C": "Have been increasing",
+            "D": "Have been unchanged",
+            "E": "Have been significantly increasing in certain age groups",
+            "F": "Are unknown",
+            "G": "Are currently at their highest rates ever",
+            "H": "Have been significantly decreasing",
+            "I": "Are inconsistent across different countries",
+            "J": "Have been decreasing in some areas and increasing in others"
+        },
+        "predicted_answer": "J",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5599,
+            "completion_tokens": 4600
+        },
+        "time_elapsed": 33.07021522521973
     },
     {
         "idx": 6270,
@@ -2006,6 +2367,32 @@
             "completion_tokens": 4681
         },
         "time_elapsed": 31.87114405632019
+    },
+    {
+        "idx": 6301,
+        "realidx": 6301,
+        "question": "A pulse may be felt on a patient's face where the Options: (B) superficial temporal artery crosses the mandible. (H) maxillary artery crosses the orbital rim. (F) superficial temporal artery crosses the maxilla. (I) facial artery crosses the maxilla. (G) facial artery crosses the zygomatic arch. (A) superficial temporal artery crosses the zygomatic arch. (J) facial artery crosses the mandible. (C) maxillary artery crosses the mandible. (E) facial artery crosses the orbital rim. (D) superficial temporal artery crosses the orbital rim.",
+        "answer_idx": "J",
+        "answer": "facial artery crosses the mandible.",
+        "options": {
+            "A": "superficial temporal artery crosses the zygomatic arch.",
+            "B": "superficial temporal artery crosses the mandible.",
+            "C": "maxillary artery crosses the mandible.",
+            "D": "superficial temporal artery crosses the orbital rim.",
+            "E": "facial artery crosses the orbital rim.",
+            "F": "superficial temporal artery crosses the maxilla.",
+            "G": "facial artery crosses the zygomatic arch.",
+            "H": "maxillary artery crosses the orbital rim.",
+            "I": "facial artery crosses the maxilla.",
+            "J": "facial artery crosses the mandible."
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6036,
+            "completion_tokens": 5399
+        },
+        "time_elapsed": 36.13384199142456
     },
     {
         "idx": 6305,

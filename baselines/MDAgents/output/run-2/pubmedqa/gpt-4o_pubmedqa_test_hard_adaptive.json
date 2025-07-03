@@ -380,6 +380,25 @@
         "time_elapsed": 13.54075837135315
     },
     {
+        "idx": "17208539",
+        "realidx": "17208539",
+        "question": "The transanal endorectal pull-through (TERPT) is becoming the most popular procedure in the treatment of Hirschsprung disease (HD), but overstretching of the anal sphincters remains a critical issue that may impact the continence. This study examined the long-term outcome of TERPT versus conventional transabdominal (ABD) pull-through for HD.\nRecords of 41 patients more than 3 years old who underwent a pull-through for HD (TERPT, n = 20; ABD, n = 21) were reviewed, and their families were thoroughly interviewed and scored via a 15-item post-pull-through long-term outcome questionnaire. Patients were operated on between the years 1995 and 2003. During this time, our group transitioned from the ABD to the TERPT technique. Total scoring ranged from 0 to 40: 0 to 10, excellent; 11 to 20 good; 21 to 30 fair; 31 to 40 poor. A 2-tailed Student t test, analysis of covariance, as well as logistic and linear regression were used to analyze the collected data with confidence interval higher than 95%.\nOverall scores were similar. However, continence score was significantly better in the ABD group, and the stool pattern score was better in the TERPT group. A significant difference in age at interview between the 2 groups was noted; we therefore reanalyzed the data controlling for age, and this showed that age did not significantly affect the long-term scoring outcome between groups.\nAre the long-term results of the transanal pull-through equal to those of the transabdominal pull-through? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 724020,
+            "completion_tokens": 11154
+        },
+        "time_elapsed": 194.1701738834381
+    },
+    {
         "idx": "17445978",
         "realidx": "17445978",
         "question": "To evaluate renal damage and impairment of renal function 1 yr after laparoscopic partial nephrectomy (LPN) with warm ischemia>30 min.\nFrom July 2004 to June 2005, 18 patients underwent LPN with warm ischemia time>30 min. Kidney damage markers (daily proteinuria and tubular enzymes) and renal function (serum creatinine, cystatin C, and creatinine clearances) were assessed on postoperative days 1 and 5 and at 12 mo. Glomerular filtration rate (GFR) was evaluated before surgery and at 3 mo. Renal scintigraphy was performed before the procedure, at 5 d and at 3 and 12 mo postoperatively. Statistical analysis was performed using the Student t test and logistic regression analysis.\nIn terms of kidney damage and renal function markers, the statistical analysis demonstrated that at 1 yr there was complete return to the normal range and no statistical difference between the values at the various time points. The GFR was not significantly different before and 3 mo after surgery. In terms of scintigraphy of the operated kidney, the values were 48.35+/-3.82% (40-50%) before the procedure, 36.88+/-8.42 (16-50%) on postoperative day 5 (p=0.0001), 40.56+/-8.96 (20-50%) at 3 mo (p=0.003), and 42.8+/-7.2% (20-50%) 1 yr after surgery (p=0.001).\nIs renal warm ischemia over 30 minutes during laparoscopic partial nephrectomy possible? Options: (B) no (C) maybe (A) yes",
@@ -1309,6 +1328,25 @@
             "completion_tokens": 1401
         },
         "time_elapsed": 145.1778383255005
+    },
+    {
+        "idx": "25079920",
+        "realidx": "25079920",
+        "question": "As parents of young children are often unaware their child is overweight, screening provides the opportunity to inform parents and provide the impetus for behaviour change. We aimed to determine if parents could recall and understand the information they received about their overweight child after weight screening.\nRandomised controlled trial of different methods of feedback.\nParticipants were recruited through primary and secondary care but appointments took place at a University research clinic.\n1093 children aged 4-8\u2005years were screened. Only overweight children (n=271, 24.7%) are included in this study. Parents of overweight children were randomised to receive feedback regarding their child's weight using best practice care (BPC) or motivational interviewing (MI) at face-to-face interviews typically lasting 20-40\u2005min. 244 (90%) parents participated in a follow-up interview 2\u2005weeks later to assess recall and understanding of information from the feedback session.\nInterviews were audio-taped and transcribed verbatim before coding for amount and accuracy of recall. Scores were calculated for total recall and sub-categories of interest.\nOverall, 39% of the information was recalled (mean score 6.3 from possible score of 16). Parents given feedback via BPC recalled more than those in the MI group (difference in total score 0.48; 95% CI 0.05 to 0.92). Although 94% of parents were able to correctly recall their child's weight status, fewer than 10 parents could accurately describe what the measurements meant. Maternal education (0.81; 0.25 to 1.37) and parental ratings of how useful they found the information (0.19; 0.04 to 0.35) were significant predictors of recall score in multivariate analyses.\nDo parents recall and understand children's weight status information after BMI screening? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 11620,
+            "completion_tokens": 751
+        },
+        "time_elapsed": 15.759040117263794
     },
     {
         "idx": "25103647",

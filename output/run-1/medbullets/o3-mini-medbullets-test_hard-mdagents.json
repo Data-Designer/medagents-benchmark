@@ -21,6 +21,27 @@
         "time_elapsed": 36.84691405296326
     },
     {
+        "idx": 5,
+        "realidx": 5,
+        "question": "A 9-year-old girl presents to the emergency department with a fever and a change in her behavior. She presented with similar symptoms 6 weeks ago and was treated for an Escherchia coli infection. She also was treated for a urinary tract infection 10 weeks ago. Her mother says that last night her daughter felt ill, and her condition has been worsening. Her daughter experienced a severe headache and had a stiff neck. This morning she was minimally responsive, vomited several times, and produced a small amount of dark cloudy urine. The patient was born at 39 weeks and met all her developmental milestones. She is currently up to date on her vaccinations and did not have infections during early childhood. Her parents are divorced and her father has noted she does not seem to get sick when he takes care of her. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 60/35 mmHg, pulse is 190/min, respirations are 33/min, and oxygen saturation is 98% on room air. The patient is started on intravenous fluids, vasopressors, and broad-spectrum antibiotics. Which of the following is the most appropriate underlying explanation for this patient's presentation? Options: (A) Gastroenteritis (D) Meningitis (C) Intentional contamination (B) Immunodeficiency (E) Urinary tract infection",
+        "answer_idx": "C",
+        "answer": "Intentional contamination",
+        "options": {
+            "A": "Gastroenteritis",
+            "B": "Immunodeficiency",
+            "C": "Intentional contamination",
+            "D": "Meningitis",
+            "E": "Urinary tract infection"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8453,
+            "completion_tokens": 4186
+        },
+        "time_elapsed": 40.11686301231384
+    },
+    {
         "idx": 8,
         "realidx": 8,
         "question": "A 67-year-old man presents to the emergency department after fainting. He was outside tending to his lawn for several hours in the heat, when he stood up suddenly from pulling weeds and fainted. He denies any preceding symptoms and returned to baseline within 1 minute. The patient is not aware of any medical problems and just started seeing a primary care physician last week. He recently used a friend's prescription for ondansetron for nausea. His temperature is 99.3\u00b0F (37.4\u00b0C), blood pressure is 142/88 mmHg, pulse is 107/min, respirations are 14/min, and oxygen saturation is 99% on room air. Physical exam reveals intact cranial nerves, normal strength and sensation, and a stable gait. His abdomen is soft and nontender. An ECG is performed as seen in Figure A. Which of the following is the most likely diagnosis based on this patient\u2019s ECG? Options: (A) Acute myocardial infarction (D) Previous myocardial ischemia (C) Intermittent torsades des pointes (B) Hypokalemia (E) Pulmonary embolism",
@@ -355,6 +376,27 @@
             "completion_tokens": 4083
         },
         "time_elapsed": 41.60412931442261
+    },
+    {
+        "idx": 62,
+        "realidx": 62,
+        "question": "A 43-year-old man presents to the emergency department acutely with altered mental status. He uses intravenous drugs and is unable to offer a history. He was found unconscious in a park. His temperature is 99.0\u00b0F (37.2\u00b0C), blood pressure is 80/40 mmHg, pulse is 156/min, and respirations are 26/min. Physical exam reveals an obtunded man covered in vomit, with track marks on his arm and several skin abscesses. The patient is given 4 liters of Ringer lactate and intravenous antibiotics. As the fourth liter of fluids is finishing, the patient is noted to have jugular venous distension and an oxygen saturation of 92% on nonrebreather. He is subsequently intubated. An ECG is obtained as seen in Figure A. The patient is started on norepinephrine, and his blood pressure is subsequently found to be 85/44 mmHg. Which of the following is the most appropriate next step in management? Options: (D) Normal saline (C) Hydrocortisone (E) Phenylephrine (B) Epinephrine (A) Cardioversion",
+        "answer_idx": "B",
+        "answer": "Epinephrine",
+        "options": {
+            "A": "Cardioversion",
+            "B": "Epinephrine",
+            "C": "Hydrocortisone",
+            "D": "Normal saline",
+            "E": "Phenylephrine"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8688,
+            "completion_tokens": 3802
+        },
+        "time_elapsed": 48.98570013046265
     },
     {
         "idx": 70,
@@ -1281,6 +1323,27 @@
         "time_elapsed": 39.12187170982361
     },
     {
+        "idx": 229,
+        "realidx": 229,
+        "question": "A 55-year-old man presents to the emergency department with chest pain and shortness of breath. He has a medical history of hypertension, diabetes, and obesity. His temperature is 98.6\u00b0F (37.0\u00b0C), blood pressure is 177/118 mmHg, pulse is 127/min, respirations are 11/min, and oxygen saturation is 98% on room air. An ECG is performed and notable for ST elevation in leads II, III, and aVF. The patient is treated appropriately and transferred to the medical floor. On the 2nd day of his hospitalization, the patient has abdominal pain. His serum lipase is 272 U/L and his creatinine is 1.6 mg/dL. A physical exam is notable for the finding in Figure A. He is requesting pain medication for his abdominal pain. Which of the following is the most likely underlying diagnosis? Options: (D) Pancreatitis (E) Renal failure (C) Medication side effect (A) Cholesterol embolism (B) Heart failure and reinfarction",
+        "answer_idx": "A",
+        "answer": "Cholesterol embolism",
+        "options": {
+            "A": "Cholesterol embolism",
+            "B": "Heart failure and reinfarction",
+            "C": "Medication side effect",
+            "D": "Pancreatitis",
+            "E": "Renal failure"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6960,
+            "completion_tokens": 4176
+        },
+        "time_elapsed": 39.36392688751221
+    },
+    {
         "idx": 231,
         "realidx": 231,
         "question": "A 62-year-old man presents to the emergency department with skin lesions. He felt itchy recently, then noticed skin lesions that broke out prompting him to come to the emergency department. He recently went camping and hiking in the woods. The patient drinks 1-2 beers per day and smokes 1 pack of cigarettes per day. He is currently sexually active with multiple partners and does not use condoms. The patient was discharged 1 week ago for pneumonia which was treated with azithromycin; however, he feels that his symptoms may be returning. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 157/78 mmHg, pulse is 90/min, respirations are 15/min, and oxygen saturation is 98% on room air. Physical exam reveals the findings in Figure A on the patient's arm. The skin lesions are thick and do not break when pressure is applied. Which of the following most appropriately describes the most likely diagnosis? Options: (C) Multi-nucleated giant cells (A) IgG in a fish-net pattern (B) Linear IgG along the basement membrane (D) Panniculitis (E) Type IV hypersensitivity reaction",
@@ -1405,6 +1468,27 @@
             "completion_tokens": 4394
         },
         "time_elapsed": 38.359522342681885
+    },
+    {
+        "idx": 253,
+        "realidx": 253,
+        "question": "A 27-year-old woman presents to her primary care physician for an abnormal vaginal discharge. The patient has engaged in unprotected intercourse with 12 different partners. She has a medical history of asthma, IV drug abuse, and depression. She has 1 to 2 alcoholic drinks per day. She feels ashamed of her behavior and is requesting treatment for her condition and advice for safe sex. The patient is given antibiotics and is advised on safe sex practices. The patient presents to the emergency department 3 days later with a complaint of a rash. She states that every time she has sex a rash has emerged on her skin. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 127/68 mmHg, pulse is 91/min, respirations are 14/min, and oxygen saturation is 98% on room air. A physical exam is notable for the finding in Figure A. Which of the following is the most likely cause of this patient's symptoms? Options: (E) Photosensitivity (B) Drug reaction (A) Antigen exposure (D) IV drug use (C) Infection",
+        "answer_idx": "A",
+        "answer": "Antigen exposure",
+        "options": {
+            "A": "Antigen exposure",
+            "B": "Drug reaction",
+            "C": "Infection",
+            "D": "IV drug use",
+            "E": "Photosensitivity"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7470,
+            "completion_tokens": 3714
+        },
+        "time_elapsed": 43.15155839920044
     },
     {
         "idx": 257,
@@ -1533,6 +1617,27 @@
         "time_elapsed": 41.35057282447815
     },
     {
+        "idx": 279,
+        "realidx": 279,
+        "question": "A 31-year-old man presents to the emergency department for fever, malaise, and cough. For the last week, his cough has been progressively worsening, and he has been noticing blood in his sputum. He denies any recent travel or sick contacts and infrequently smokes cigarettes. Approximately 5 weeks ago, he presented with similar symptoms and was found to have a right upper lobe lung infiltrate, a CD4 count of 40/mm^3, and an HIV viral load of 115,000 copies/mL. He was appropriately treated and discharged home. Four weeks after initiation of treatment, his CD4 count was over 400/mm^3 and HIV viral load was negligible. His temperature today is 102\u00b0F (38.9\u00b0C), blood pressure is 130/90 mmHg, pulse is 100/min, and respirations are 20/min. A radiograph of the chest demonstrates new nodules in the left upper lobe and hilar adenopathy. Which of the following is the most appropriate next step in management? Options: (E) Start high-dose glucocorticoid treatment and discontinue antiretroviral therapy (B) Determine drug sensitivities against the patient\u2019s pulmonary infection (D) Obtain a D-dimer level (C) Discontinue antimicrobial treatment (A) Continue current anti-retroviral treatment, antimicrobial, and anti-tuberculoid therapies",
+        "answer_idx": "A",
+        "answer": "Continue current anti-retroviral treatment, antimicrobial, and anti-tuberculoid therapies",
+        "options": {
+            "A": "Continue current anti-retroviral treatment, antimicrobial, and anti-tuberculoid therapies",
+            "B": "Determine drug sensitivities against the patient\u2019s pulmonary infection",
+            "C": "Discontinue antimicrobial treatment",
+            "D": "Obtain a D-dimer level",
+            "E": "Start high-dose glucocorticoid treatment and discontinue antiretroviral therapy"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8835,
+            "completion_tokens": 3121
+        },
+        "time_elapsed": 34.06289315223694
+    },
+    {
         "idx": 280,
         "realidx": 280,
         "question": "A 57-year-old woman presents to her primary care physician with weakness for the past 6 months with symptoms that have worsened recently. She feels fatigued, depressed, and has gained 10 pounds which she attributes to feeling too weak to go to the gym. She was recently treated for an ear infection with an antibiotic which she completed 3 weeks ago, and experienced a rash which she believes was an allergic reaction to her treatment. The patient has a medical history of diabetes mellitus that is well-controlled with insulin and metformin. She has been admitted multiple times for hypoglycemia secondary to missing meals. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 127/68 mmHg, pulse is 80/min, respirations are 17/min, and oxygen saturation is 98% on room air. Physical exam is notable for 2/5 strength in the patient's upper and lower extremities, sparse fine hair on her body, and a rash on her face and arms. Laboratory values are ordered as seen below. Serum: Na+: 139 mEq/L K+: 3.3 mEq/L Cl-: 100 mEq/L HCO3-: 25 mEq/L BUN: 20 mg/dL Glucose: 70 mg/dL Creatinine: 1.1 mg/dL Ca2+: 10.2 mg/dL AST: 12 U/L ALT: 10 U/L A muscle biopsy is obtained as seen in Figure A. Which of the following is the most likely explanation for this patient's presentation? Options: (E) Polymyositis (C) Hypothyroidism (A) Dermatomyositis (D) Inclusion body myositis (B) Hypokalemia",
@@ -1594,6 +1699,27 @@
             "completion_tokens": 3676
         },
         "time_elapsed": 34.97629761695862
+    },
+    {
+        "idx": 290,
+        "realidx": 290,
+        "question": "A 45-year-old African American woman presents to her primary care physician for not feeling well. She states she has had a cough for the past week. She also has abdominal pain and trouble focusing that has been worsening and has lost 5 pounds recently. Her gastroesophageal reflux disease (GERD) has been poorly controlled recently. The patient is a non-smoker and has a history of GERD for which she takes antacids. Her temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 115/71 mmHg, pulse is 72/min, and respirations are 12/min. A physical exam is within normal limits. Laboratory studies are ordered and are below:\n\nSerum:\nNa+: 139 mEq/L\nK+: 4.1 mEq/L\nCl-: 101 mEq/L\nHCO3-: 24 mEq/L\nUrea nitrogen: 12 mg/dL\nGlucose: 70 mg/dL\nCreatinine: 0.9 mg/dL\nCa2+: 12.5 mg/dL\nAlkaline phosphatase: 150 U/L\nPhosphorus: 2.0 mg/dL\n\nUrine:\nColor: amber\nNitrites: negative\nSodium: 5 mmol/24 hours\nRed blood cells: 0/hpf\n\nWhich of the following is the most likely explanation of this patient's current presentation? Options: (C) Increased parathyroid hormone (A) Antacid overuse (B) Increased 1,25-dihydroxyvitamin D (D) Malignancy (E) Viral illness",
+        "answer_idx": "C",
+        "answer": "Increased parathyroid hormone",
+        "options": {
+            "A": "Antacid overuse",
+            "B": "Increased 1,25-dihydroxyvitamin D",
+            "C": "Increased parathyroid hormone",
+            "D": "Malignancy",
+            "E": "Viral illness"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7710,
+            "completion_tokens": 4859
+        },
+        "time_elapsed": 42.24492955207825
     },
     {
         "idx": 293,

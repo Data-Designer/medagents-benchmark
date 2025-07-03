@@ -180,6 +180,26 @@
         "time_elapsed": 34.49784827232361
     },
     {
+        "idx": "130_biomedical_engineer",
+        "realidx": "130_biomedical_engineer",
+        "question": "What are the conditions that must be met for biomaterials to satisfy biocompatibility? Options: (A) The biomaterial should not cause inflammation or allergies in the surrounding tissues (D) The biomaterial should not inhibit biological functions (C) The biomaterial should have sufficient mechanical strength to perform its function (B) The biomaterial should not exhibit toxicity within the body",
+        "answer_idx": "C",
+        "answer": "The biomaterial should have sufficient mechanical strength to perform its function",
+        "options": {
+            "A": "The biomaterial should not cause inflammation or allergies in the surrounding tissues",
+            "B": "The biomaterial should not exhibit toxicity within the body",
+            "C": "The biomaterial should have sufficient mechanical strength to perform its function",
+            "D": "The biomaterial should not inhibit biological functions"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 221265,
+            "completion_tokens": 70908
+        },
+        "time_elapsed": 387.97562861442566
+    },
+    {
         "idx": "131_clinical_laboratory_scientist",
         "realidx": "131_clinical_laboratory_scientist",
         "question": "Which of the following statements about IRMA is correct? Options: (A) It is a non-competitive method. (B) The radioactive isotope is labeled on the antigen. (C) Uses 99mTc. (D) There is no need to separate the bound and free forms.",
@@ -840,6 +860,26 @@
         "time_elapsed": 27.123070001602173
     },
     {
+        "idx": "28_clinical_laboratory_scientist",
+        "realidx": "28_clinical_laboratory_scientist",
+        "question": "What is commonly included in the VC (Vital Capacity)? Options: (A) IRV (Inspiratory Reserve Volume) (C) IC (Inspiratory Capacity) (B) ERV (Expiratory Reserve Volume) (D) TV (Tidal Volume)",
+        "answer_idx": "B",
+        "answer": "ERV (Expiratory Reserve Volume)",
+        "options": {
+            "A": "IRV (Inspiratory Reserve Volume)",
+            "B": "ERV (Expiratory Reserve Volume)",
+            "C": "IC (Inspiratory Capacity)",
+            "D": "TV (Tidal Volume)"
+        },
+        "predicted_answer": "0",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4080,
+            "completion_tokens": 4920
+        },
+        "time_elapsed": 31.247037172317505
+    },
+    {
         "idx": "29_biomedical_engineer",
         "realidx": "29_biomedical_engineer",
         "question": "Which of the following is not related to the Anatomical Therapeutic Chemical (ATC) classification system? Options: (A) It has a hierarchical structure, allowing for logical grouping. (D) It is an international standard of the WHO for drug utilization studies. (B) Combination products cannot be included. (C) It uses mnemonic codes.",
@@ -1340,6 +1380,26 @@
         "time_elapsed": 28.209322452545166
     },
     {
+        "idx": "47_clinical_laboratory_scientist",
+        "realidx": "47_clinical_laboratory_scientist",
+        "question": "Which cells are involved in tissue damage or wound healing? Options: (A) Macrophages (C) Mast cells (B) Adipocytes (D) Fibroblasts",
+        "answer_idx": "D",
+        "answer": "Fibroblasts",
+        "options": {
+            "A": "Macrophages",
+            "B": "Adipocytes",
+            "C": "Mast cells",
+            "D": "Fibroblasts"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3939,
+            "completion_tokens": 4130
+        },
+        "time_elapsed": 29.439432859420776
+    },
+    {
         "idx": "49_speech_pathologist",
         "realidx": "49_speech_pathologist",
         "question": "What is the correct order of difficulty levels in auditory training for children with hearing impairments, from easier listening situations to more difficult ones? Options: (C) Background noise present \u2192 No background noise (A) Tasks with visual cues \u2192 Tasks without visual cues (D) Soft sounds \u2192 Loud sounds (B) Far from hearing aid \u2192 Close to hearing aid",
@@ -1358,6 +1418,26 @@
             "completion_tokens": 18301
         },
         "time_elapsed": 121.37717461585999
+    },
+    {
+        "idx": "4_speech_pathologist",
+        "realidx": "4_speech_pathologist",
+        "question": "Which of the following is a correct description of the perceptual evaluation method for voice? Options: (D) The higher the CAPE-V score, the closer to a normal voice. (C) The GRBAS scale is a 3-point Likert scale. (A) CAPE-V uses a 0-100 mm equal interval scale. (B) CAPE-V can assess voice tremor.",
+        "answer_idx": "D",
+        "answer": "The higher the CAPE-V score, the closer to a normal voice.",
+        "options": {
+            "A": "CAPE-V uses a 0-100 mm equal interval scale.",
+            "B": "CAPE-V can assess voice tremor.",
+            "C": "The GRBAS scale is a 3-point Likert scale.",
+            "D": "The higher the CAPE-V score, the closer to a normal voice."
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4221,
+            "completion_tokens": 3158
+        },
+        "time_elapsed": 25.123953819274902
     },
     {
         "idx": "50_speech_pathologist",
@@ -1578,6 +1658,26 @@
             "completion_tokens": 3756
         },
         "time_elapsed": 27.846988677978516
+    },
+    {
+        "idx": "60_speech_pathologist",
+        "realidx": "60_speech_pathologist",
+        "question": "Which of the following is the correct interpretation of the results of an electroglottographic waveform test? Options: (B) In Fry phonation, the glottal closure index is larger than the glottal opening index. (C) In falsetto, the glottal closure index is smaller than the glottal opening index. (A) In vocal fold paralysis, the glottal closure index is smaller than the glottal opening index. (D) In adductor spasmodic dysphonia, the glottal closure index is larger than the glottal opening index.",
+        "answer_idx": "B",
+        "answer": "In Fry phonation, the glottal closure index is larger than the glottal opening index.",
+        "options": {
+            "A": "In vocal fold paralysis, the glottal closure index is smaller than the glottal opening index.",
+            "B": "In Fry phonation, the glottal closure index is larger than the glottal opening index.",
+            "C": "In falsetto, the glottal closure index is smaller than the glottal opening index.",
+            "D": "In adductor spasmodic dysphonia, the glottal closure index is larger than the glottal opening index."
+        },
+        "predicted_answer": "0",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4721,
+            "completion_tokens": 5516
+        },
+        "time_elapsed": 34.12570548057556
     },
     {
         "idx": "61_biomedical_engineer",

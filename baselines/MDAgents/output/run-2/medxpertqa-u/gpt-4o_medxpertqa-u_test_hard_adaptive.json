@@ -1508,6 +1508,32 @@
         "time_elapsed": 13.250481367111206
     },
     {
+        "idx": "Text-391",
+        "realidx": "Text-391",
+        "question": "When evaluating long-term functional outcomes in clubfoot patients who have undergone soft-tissue release procedures, which factor demonstrates the strongest correlation with functional impairment?\nAnswer Choices: (A) Subtalar joint function (B) Plantar fascia tension (C) Calcaneal alignment (D) Peroneal muscle function (E) Talonavicular joint mobility (F) Extent of soft-tissue release (G) Ankle joint range of motion (H) Age at initial surgical intervention (I) Achilles tendon length (J) Tibialis anterior strength Options: (C) Calcaneal alignment (G) Ankle joint range of motion (D) Peroneal muscle function (H) Age at initial surgical intervention (F) Extent of soft-tissue release (B) Plantar fascia tension (E) Talonavicular joint mobility (I) Achilles tendon length (A) Subtalar joint function (J) Tibialis anterior strength",
+        "answer_idx": "F",
+        "answer": "Extent of soft-tissue release",
+        "options": {
+            "A": "Subtalar joint function",
+            "B": "Plantar fascia tension",
+            "C": "Calcaneal alignment",
+            "D": "Peroneal muscle function",
+            "E": "Talonavicular joint mobility",
+            "F": "Extent of soft-tissue release",
+            "G": "Ankle joint range of motion",
+            "H": "Age at initial surgical intervention",
+            "I": "Achilles tendon length",
+            "J": "Tibialis anterior strength"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 95087,
+            "completion_tokens": 2010
+        },
+        "time_elapsed": 46.27564883232117
+    },
+    {
         "idx": "Text-393",
         "realidx": "Text-393",
         "question": "What is the MOST common congenital heart abnormality?\nAnswer Choices: (A) Ventricular septal defect (B) Persistent truncus arteriosus (C) Pulmonary valve stenosis (D) Transposition of the great arteries (E) Coarctation of the aorta (F) Tetralogy of Fallot (G) Patent foramen ovale (H) Atrial septal defect (I) Bicuspid aortic valve (J) Patent ductus arteriosus Options: (J) Patent ductus arteriosus (C) Pulmonary valve stenosis (D) Transposition of the great arteries (H) Atrial septal defect (I) Bicuspid aortic valve (B) Persistent truncus arteriosus (F) Tetralogy of Fallot (G) Patent foramen ovale (E) Coarctation of the aorta (A) Ventricular septal defect",
@@ -2392,6 +2418,32 @@
         "time_elapsed": 19.78364086151123
     },
     {
+        "idx": "Text-77",
+        "realidx": "Text-77",
+        "question": "For which of the following scenarios involving a bunionette deformity are distal chevron osteotomies most appropriate?\nAnswer Choices: (A) Type III deformity with a medially deviated fifth metatarsal and normal keratotic skin (B) Type II deformity with a significantly increased 4-5 intermetatarsal angle and painful callus formation (C) Type III deformity with a 4-5 intermetatarsal angle of 13 degrees (D) Patients with a laterally bowed fifth metatarsal, no keratotic lesions, and a normal 4-5 intermetatarsal angle (E) Type III deformity with a laterally deviated fifth metatarsal and mild pain during weight-bearing (F) Painful type II deformity with a mild increase in the 4-5 intermetatarsal angle and no keratotic lesions (G) Patients with a painful bunionette deformity and a 4-5 intermetatarsal angle of 10 degrees (H) Patients with a normal 4-5 intermetatarsal angle but significant plantar keratotic lesions (I) Painful type I deformity with associated intractable lateral keratotic lesions (J) Type I deformity with a widened fifth metatarsal head and associated pain during ambulation Options: (D) Patients with a laterally bowed fifth metatarsal, no keratotic lesions, and a normal 4-5 intermetatarsal angle (A) Type III deformity with a medially deviated fifth metatarsal and normal keratotic skin (E) Type III deformity with a laterally deviated fifth metatarsal and mild pain during weight-bearing (J) Type I deformity with a widened fifth metatarsal head and associated pain during ambulation (F) Painful type II deformity with a mild increase in the 4-5 intermetatarsal angle and no keratotic lesions (C) Type III deformity with a 4-5 intermetatarsal angle of 13 degrees (G) Patients with a painful bunionette deformity and a 4-5 intermetatarsal angle of 10 degrees (B) Type II deformity with a significantly increased 4-5 intermetatarsal angle and painful callus formation (I) Painful type I deformity with associated intractable lateral keratotic lesions (H) Patients with a normal 4-5 intermetatarsal angle but significant plantar keratotic lesions",
+        "answer_idx": "D",
+        "answer": "Patients with a laterally bowed fifth metatarsal, no keratotic lesions, and a normal 4-5 intermetatarsal angle",
+        "options": {
+            "A": "Type III deformity with a medially deviated fifth metatarsal and normal keratotic skin",
+            "B": "Type II deformity with a significantly increased 4-5 intermetatarsal angle and painful callus formation",
+            "C": "Type III deformity with a 4-5 intermetatarsal angle of 13 degrees",
+            "D": "Patients with a laterally bowed fifth metatarsal, no keratotic lesions, and a normal 4-5 intermetatarsal angle",
+            "E": "Type III deformity with a laterally deviated fifth metatarsal and mild pain during weight-bearing",
+            "F": "Painful type II deformity with a mild increase in the 4-5 intermetatarsal angle and no keratotic lesions",
+            "G": "Patients with a painful bunionette deformity and a 4-5 intermetatarsal angle of 10 degrees",
+            "H": "Patients with a normal 4-5 intermetatarsal angle but significant plantar keratotic lesions",
+            "I": "Painful type I deformity with associated intractable lateral keratotic lesions",
+            "J": "Type I deformity with a widened fifth metatarsal head and associated pain during ambulation"
+        },
+        "predicted_answer": "F",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 16726,
+            "completion_tokens": 1071
+        },
+        "time_elapsed": 14.46393084526062
+    },
+    {
         "idx": "Text-81",
         "realidx": "Text-81",
         "question": "A 34-year-old woman who works as a yoga instructor seeks medical attention for left hip discomfort that began one week ago. She reports no relevant medical history or injury to the area. The patient describes a progressively worsening, non-radiating, achy pain rated at 5/10, which intensifies during left hip extension. Physical assessment reveals slightly limited hip extension range of motion, but normal bilateral lower extremity strength (5/5). The seated flexion test yields negative results, and both anterior superior iliac spines (ASIS) and posterior superior iliac spines (PSIS) are symmetrically aligned. Palpation reveals a specific point of tenderness medial to the left ASIS. Which somatic dysfunction is indicated by these findings?\nAnswer Choices: (A) Left piriformis tender point (B) Pubic symphysis dysfunction (C) Quadratus lumborum tender point (D) L2 anterior lumbar tender point (E) Obturator internus tender point (F) L1 anterior lumbar tender point (G) Sartorius muscle strain (H) Psoas tender point (I) Iliacus tender point (J) Rectus femoris tender point Options: (B) Pubic symphysis dysfunction (E) Obturator internus tender point (H) Psoas tender point (F) L1 anterior lumbar tender point (A) Left piriformis tender point (J) Rectus femoris tender point (D) L2 anterior lumbar tender point (G) Sartorius muscle strain (I) Iliacus tender point (C) Quadratus lumborum tender point",
@@ -2468,5 +2520,31 @@
             "completion_tokens": 1199
         },
         "time_elapsed": 145.2638807296753
+    },
+    {
+        "idx": "Text-94",
+        "realidx": "Text-94",
+        "question": "A 13-year-old athlete is evaluated for sports participation. The patient has played soccer without any symptoms and has no prior significant past medical history. Their brother, who has a \u201cthickened heart\u201d diagnosed at the age of 15, was advised by their cardiologist to avoid competitive sports. Physical exams, including an electrocardiogram, are unremarkable. Which of the following is the most appropriate screening recommendation for this patient?\nAnswer Choices: (A) One-time echocardiogram (B) Screening echocardiogram only if symptoms develop (C) Genetic testing for hypertrophic cardiomyopathy mutations (D) Annual electrocardiogram without echocardiogram (E) Annual echocardiogram (F) Cardiac (magnetic resonance imaging) MRI (G) Holter monitor evaluation annually (H) Referral for electrophysiology study (I) Cardiac MRI every 5 years (J) Exercise stress testing every 2 years Options: (A) One-time echocardiogram (I) Cardiac MRI every 5 years (E) Annual echocardiogram (B) Screening echocardiogram only if symptoms develop (C) Genetic testing for hypertrophic cardiomyopathy mutations (H) Referral for electrophysiology study (F) Cardiac (magnetic resonance imaging) MRI (D) Annual electrocardiogram without echocardiogram (J) Exercise stress testing every 2 years (G) Holter monitor evaluation annually",
+        "answer_idx": "E",
+        "answer": "Annual echocardiogram",
+        "options": {
+            "A": "One-time echocardiogram",
+            "B": "Screening echocardiogram only if symptoms develop",
+            "C": "Genetic testing for hypertrophic cardiomyopathy mutations",
+            "D": "Annual electrocardiogram without echocardiogram",
+            "E": "Annual echocardiogram",
+            "F": "Cardiac (magnetic resonance imaging) MRI",
+            "G": "Holter monitor evaluation annually",
+            "H": "Referral for electrophysiology study",
+            "I": "Cardiac MRI every 5 years",
+            "J": "Exercise stress testing every 2 years"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 532038,
+            "completion_tokens": 6741
+        },
+        "time_elapsed": 169.24257278442383
     }
 ]

@@ -200,6 +200,26 @@
         "time_elapsed": 45.084919452667236
     },
     {
+        "idx": 114,
+        "realidx": 114,
+        "question": "A 41-year-old man presents to the emergency department with a 6-hour history of muscle cramping, decreased appetite, and diarrhea. He says that these symptoms came on rapidly but does not recall anything that may have triggered the episode. He has never experienced these symptoms before. His past medical history is significant for obesity, sleep apnea, and type 2 diabetes that is well controlled on metformin. He also has gastroesophageal reflux disease for which he occasionally takes antacids. On presentation he is found to have fast, shallow breathing and abdominal pain that is poorly localized. Basic labs as well as an arterial blood gas are obtained and the results are shown below:\n\nNa+: 139 mEq/L\nCl-: 106 mEq/L\nHCO3-: 11 mEq/L\npH: 7.25\npCO2: 22 mmHg\n\nWhich of the following is the most likely cause of the changes seen in this patient's labs? Options: (C) Metformin (D) Sleep apnea (B) Diarrhea (A) Anxiety",
+        "answer_idx": "C",
+        "answer": "Metformin",
+        "options": {
+            "A": "Anxiety",
+            "B": "Diarrhea",
+            "C": "Metformin",
+            "D": "Sleep apnea"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9308,
+            "completion_tokens": 6227
+        },
+        "time_elapsed": 42.14458203315735
+    },
+    {
         "idx": 128,
         "realidx": 128,
         "question": "A 47-year-old woman comes to the physician because of progressive muscle weakness for five months. She feels that the muscles in her shoulders and hips have been getting weaker and sometimes feel sore. She now has difficulty getting up from chairs, climbing stairs, and combing her hair. She has also noticed new difficulty with swallowing solid foods, but has no trouble with liquids. She has a 5-year history of hyperlipidemia controlled with fluvastatin. Her maternal uncle died at age 26 from Duchenne's muscular dystrophy and her mother has Hashimoto's thyroiditis. Vital signs are within normal limits. Neurologic examination shows moderate weakness in the arm abductors and hip flexors bilaterally. Deep tendon reflexes are 2+ bilaterally. Laboratory studies show:\nHemoglobin 13.7 g/dL\nLeukocytes 11,200/mm3\nErythrocyte sedimentation rate 33 mm/h\nSerum\nCreatine kinase 212 U/L\nLactate dehydrogenase 164 U/L\nAST 34 U/L\nALT 35 U/L\nWhich of the following is most likely to confirm the diagnosis?\" Options: (A) Intrafascicular infiltration on muscle biopsy (C) Positive anti-acetylcholine receptor antibodies (D) Dystrophin gene mutation on genetic analysis (B) Perifascicular and perivascular infiltration on muscle biopsy",
@@ -680,6 +700,26 @@
         "time_elapsed": 52.277913093566895
     },
     {
+        "idx": 265,
+        "realidx": 265,
+        "question": "A 76-year-old man with chronic obstructive pulmonary disease (COPD) presents complaining of 3 weeks of cough and progressive dyspnea on exertion in the setting of a 20 pound weight loss. He is a 60 pack-year smoker, worked as a shipbuilder 30 years ago, and recently traveled to Ohio to visit family. Chest radiograph shows increased bronchovascular markings, reticular parenchymal opacities, and multiple pleural plaques. Labs are unremarkable except for a slight anemia. Which of the following is the most likely finding on this patient's chest CT? Options: (B) Honeycombing (C) Air bronchogram (D) Lower lobe cavitary mass (A) Nodular mass spreading along pleural surfaces",
+        "answer_idx": "D",
+        "answer": "Lower lobe cavitary mass",
+        "options": {
+            "A": "Nodular mass spreading along pleural surfaces",
+            "B": "Honeycombing",
+            "C": "Air bronchogram",
+            "D": "Lower lobe cavitary mass"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 32802,
+            "completion_tokens": 18286
+        },
+        "time_elapsed": 124.98188710212708
+    },
+    {
         "idx": 267,
         "realidx": 267,
         "question": "A 34-year-old male suffers from inherited hemophilia A. He and his wife have three unaffected daughters. What is the probability that the second daughter is a carrier of the disease? Options: (A) 0% (C) 50% (B) 25% (D) 100%",
@@ -978,6 +1018,26 @@
             "completion_tokens": 5680
         },
         "time_elapsed": 40.71516156196594
+    },
+    {
+        "idx": 423,
+        "realidx": 423,
+        "question": "A 27-year-old woman presents to the emergency department with acute onset bloody diarrhea. The patient has had severe abdominal pain throughout her entire life with occasional episodes of bloody diarrhea. She has recently lost 7 pounds and has felt generally ill for the past 2 days. She has a past medical history of generalized seizures with her most recent one having occurred 5 days ago. One month ago, the patient was treated for impetigo. The patient admits to occasional cocaine use and binge drinking. Her temperature is 98.7\u00b0F (37.1\u00b0C), blood pressure is 107/58 mmHg, pulse is 127/min, respirations are 16/min, and oxygen saturation is 99% on room air. Physical exam is notable for diffuse abdominal tenderness and guaiac positive stools. Laboratory values are ordered as seen below.\n\nHemoglobin: 9 g/dL\nHematocrit: 30%\nLeukocyte count: 9,400/mm^3 with normal differential\nPlatelet count: 199,000/mm^3\n\nSerum:\nNa+: 139 mEq/L\nCl-: 101 mEq/L\nK+: 4.9 mEq/L\nHCO3-: 25 mEq/L\nBUN: 37 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.8 mg/dL\nAST: 62 U/L\nALT: 80 U/L\nBlood alcohol: .15 g/dL\n\nUrine:\nColor: Yellow\nProtein: Positive\nCocaine: Positive\nMarijuana: Positive\n\nWhich of the following is the best explanation for this patient's laboratory findings? Options: (C) Intestinal IgA deficiency (D) Protein deposition (A) Alcohol-induced liver injury (B) Immune response to streptococcal infection",
+        "answer_idx": "D",
+        "answer": "Protein deposition",
+        "options": {
+            "A": "Alcohol-induced liver injury",
+            "B": "Immune response to streptococcal infection",
+            "C": "Intestinal IgA deficiency",
+            "D": "Protein deposition"
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 327242,
+            "completion_tokens": 107627
+        },
+        "time_elapsed": 579.0861022472382
     },
     {
         "idx": 448,

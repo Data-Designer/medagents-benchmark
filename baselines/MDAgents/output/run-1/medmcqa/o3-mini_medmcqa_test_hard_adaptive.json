@@ -1040,6 +1040,26 @@
         "time_elapsed": 34.166407108306885
     },
     {
+        "idx": "723bd8c7-6da8-4897-8a1b-dd87891f24a7",
+        "realidx": "723bd8c7-6da8-4897-8a1b-dd87891f24a7",
+        "question": "Bartholins duct is the name of : Options: (B) Submandibular gland (D) Lacrimal duct (A) Parotid duct (C) Sublingual duct",
+        "answer_idx": "C",
+        "answer": "Sublingual duct",
+        "options": {
+            "A": "Parotid duct",
+            "B": "Submandibular gland",
+            "C": "Sublingual duct",
+            "D": "Lacrimal duct"
+        },
+        "predicted_answer": "0",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3563,
+            "completion_tokens": 2347
+        },
+        "time_elapsed": 30.246567487716675
+    },
+    {
         "idx": "73818dbb-2bd3-4c46-a06a-b18b6ddb5450",
         "realidx": "73818dbb-2bd3-4c46-a06a-b18b6ddb5450",
         "question": "According to WHO classi\ufb01cation of periapical pathology, sinus to oral cavity comes  under: Options: (B) 4.6 (A) 4.6 (C) 4.61 (D) 4.62",
@@ -1898,6 +1918,26 @@
             "completion_tokens": 3832
         },
         "time_elapsed": 37.674519777297974
+    },
+    {
+        "idx": "f3a56182-648b-4ca9-9e60-6ef497b1b54f",
+        "realidx": "f3a56182-648b-4ca9-9e60-6ef497b1b54f",
+        "question": "Sensitivity in gingival area of class II light cured composite restoration after 2 months is due to: Options: (D) Curing from buccal and lingual aspect (C) Addition of resin in multiple increments (A) Improper cavity preparation at gingival margin (B) Curing from occlusal area only",
+        "answer_idx": "A",
+        "answer": "Improper cavity preparation at gingival margin",
+        "options": {
+            "A": "Improper cavity preparation at gingival margin",
+            "B": "Curing from occlusal area only",
+            "C": "Addition of resin in multiple increments",
+            "D": "Curing from buccal and lingual aspect"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3748,
+            "completion_tokens": 3171
+        },
+        "time_elapsed": 33.25659370422363
     },
     {
         "idx": "f5f3cd4b-3180-4f0e-b585-d681407b89d0",

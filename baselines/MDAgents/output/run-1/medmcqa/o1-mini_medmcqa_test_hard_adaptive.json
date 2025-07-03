@@ -740,6 +740,26 @@
         "time_elapsed": 46.58258390426636
     },
     {
+        "idx": "5682860b-5ef4-4c1d-88b4-eb81546548ba",
+        "realidx": "5682860b-5ef4-4c1d-88b4-eb81546548ba",
+        "question": "Kamlesh, a 2 year old girl, has Down's syndrome. Her karyotype is 21/21 translocation. What is the risk ofrecurrence in subsequent pregnancies if the father is a balanced translocation carrier : Options: (B) 50% (C) 25% (D) 0% (A) 100%",
+        "answer_idx": "A",
+        "answer": "100%",
+        "options": {
+            "A": "100%",
+            "B": "50%",
+            "C": "25%",
+            "D": "0%"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4407,
+            "completion_tokens": 3972
+        },
+        "time_elapsed": 28.17277193069458
+    },
+    {
         "idx": "57d48689-dcbd-4e81-9ea9-d56b7f7eed2d",
         "realidx": "57d48689-dcbd-4e81-9ea9-d56b7f7eed2d",
         "question": "Percentage of carbon in carbon steel hand instruments is Options: (B) 10-12% (D) 6 to 8% (C) 0.6 to 0.8% (A) 1-1.2%",
@@ -1418,6 +1438,26 @@
             "completion_tokens": 5072
         },
         "time_elapsed": 33.53221583366394
+    },
+    {
+        "idx": "ac6be140-880b-40c6-9855-01f30c8dd7b2",
+        "realidx": "ac6be140-880b-40c6-9855-01f30c8dd7b2",
+        "question": "The source of calcium ions of a calcific bridge in a\ntooth in which calcium hydroxide pulpotomy has been\nperformed is: Options: (B) Derided cells (C) Dentin (A) Blood vessel borne (D) From the calcium hydroxide",
+        "answer_idx": "A",
+        "answer": "Blood vessel borne",
+        "options": {
+            "A": "Blood vessel borne",
+            "B": "Derided cells",
+            "C": "Dentin",
+            "D": "From the calcium hydroxide"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4403,
+            "completion_tokens": 4629
+        },
+        "time_elapsed": 32.012861490249634
     },
     {
         "idx": "b304b0be-c800-43e4-be04-739bd0cc47fd",

@@ -1365,6 +1365,27 @@
         "time_elapsed": 125.91616559028625
     },
     {
+        "idx": 231,
+        "realidx": 231,
+        "question": "A 62-year-old man presents to the emergency department with skin lesions. He felt itchy recently, then noticed skin lesions that broke out prompting him to come to the emergency department. He recently went camping and hiking in the woods. The patient drinks 1-2 beers per day and smokes 1 pack of cigarettes per day. He is currently sexually active with multiple partners and does not use condoms. The patient was discharged 1 week ago for pneumonia which was treated with azithromycin; however, he feels that his symptoms may be returning. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 157/78 mmHg, pulse is 90/min, respirations are 15/min, and oxygen saturation is 98% on room air. Physical exam reveals the findings in Figure A on the patient's arm. The skin lesions are thick and do not break when pressure is applied. Which of the following most appropriately describes the most likely diagnosis? Options: (E) Type IV hypersensitivity reaction (A) IgG in a fish-net pattern (C) Multi-nucleated giant cells (D) Panniculitis (B) Linear IgG along the basement membrane",
+        "answer_idx": "B",
+        "answer": "Linear IgG along the basement membrane",
+        "options": {
+            "A": "IgG in a fish-net pattern",
+            "B": "Linear IgG along the basement membrane",
+            "C": "Multi-nucleated giant cells",
+            "D": "Panniculitis",
+            "E": "Type IV hypersensitivity reaction"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 178674,
+            "completion_tokens": 3827
+        },
+        "time_elapsed": 70.31742596626282
+    },
+    {
         "idx": 236,
         "realidx": 236,
         "question": "A 6-month-old boy is brought to the physician by his mother for abnormal movements. Several times a day, he experiences paroxysmal episodes of crying, bending at the waist, and jerking of the arms and legs. These episodes last 1-2 seconds, but occur in clusters every 20-30 seconds for several minutes. His mother's pregnancy, labor, delivery, and his neonatal course have been unremarkable. He is rolling over less frequently than before, has worse head control, and no longer smiles socially. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 92/46 mmHg, pulse is 115/min, and respirations are 34/min. On examination, no dysmorphic features are noted. A 24-hour electroencephalography (EEG) is performed, during which the patient has one of these spells. A chaotic pattern of slowing and multifocal epileptiform charges is seen. Which of the following is the pathophysiology of this patient's condition? Options: (A) Abnormalities in T-type calcium channels (C) Decreased gamma aminobutyric acid (GABA) levels (D) Excess of corticotropin releasing hormone (B) Anti-N-methyl-D-aspartate (NMDA) receptor antibodies (E) Vitamin B6 deficiency",

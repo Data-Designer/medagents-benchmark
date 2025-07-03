@@ -78,6 +78,32 @@
         "time_elapsed": 44.71297860145569
     },
     {
+        "idx": "Text-101",
+        "realidx": "Text-101",
+        "question": "A 56-year-old male patient presents with severe right leg pain and swelling four days after undergoing a craniotomy with evacuation of a subdural hematoma. He experiences chills and nausea. His medical history includes type 2 diabetes mellitus and chronic kidney disease requiring hemodialysis for the past 2 years. His pre-admission medications included insulin, enalapril, atorvastatin, and sevelamer.\n\nOn examination, his temperature is 38.3\u00b0C (101.0\u00b0F), pulse is 110/min, and blood pressure is 130/80 mm Hg. The right calf appears swollen, warm, and erythematous. Pain is elicited in the right calf upon dorsiflexion of the right foot. Peripheral pulses are palpable bilaterally, and cardiopulmonary examination is unremarkable. Laboratory findings show:\n\n| Hemoglobin | 10.1 g/dL |\n| --- | --- |\n| Leukocyte count | 11,800/mm3 |\n| Platelet count | 230,000/mm3 |\n| Serum |  |\n| Glucose | 87 mg/dL |\n| Creatinine | 1.9 mg/dL |\n\nWhat is the most appropriate next step in managing this patient?\nAnswer Choices: (A) Surgical thrombectomy (B) Inferior vena cava filter (C) Unfractionated heparin therapy (D) Direct oral anticoagulants (DOACs) (E) Aspirin therapy only (F) Prophylactic antibiotics for cellulitis (G) Oral warfarin therapy (H) Compression stockings and observation (I) Thrombolytic therapy with tissue plasminogen activator (tPA) (J) Low molecular weight heparin therapy Options: (C) Unfractionated heparin therapy (G) Oral warfarin therapy (E) Aspirin therapy only (D) Direct oral anticoagulants (DOACs) (B) Inferior vena cava filter (I) Thrombolytic therapy with tissue plasminogen activator (tPA) (F) Prophylactic antibiotics for cellulitis (J) Low molecular weight heparin therapy (A) Surgical thrombectomy (H) Compression stockings and observation",
+        "answer_idx": "B",
+        "answer": "Inferior vena cava filter",
+        "options": {
+            "A": "Surgical thrombectomy",
+            "B": "Inferior vena cava filter",
+            "C": "Unfractionated heparin therapy",
+            "D": "Direct oral anticoagulants (DOACs)",
+            "E": "Aspirin therapy only",
+            "F": "Prophylactic antibiotics for cellulitis",
+            "G": "Oral warfarin therapy",
+            "H": "Compression stockings and observation",
+            "I": "Thrombolytic therapy with tissue plasminogen activator (tPA)",
+            "J": "Low molecular weight heparin therapy"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 16716,
+            "completion_tokens": 1074
+        },
+        "time_elapsed": 15.294179916381836
+    },
+    {
         "idx": "Text-102",
         "realidx": "Text-102",
         "question": "A 59-year-old female presents to clinic with a three-month history of urinary urgency, vaginal itching, and approximately four episodes of urinary incontinence daily, unrelated to coughing or sneezing. She experienced menopause at age 52 and reports pain during intercourse that has led to sexual abstinence with her husband. Her medical history includes a chlamydial infection in her twenties and three urinary tract infections in the past year. She takes no medications. Vital signs are normal. Physical examination reveals pale, atrophic vulvar skin with decreased elasticity and petechiae. The vaginal mucosa shows loss of rugae with areas of friable irritation and minimal clear discharge. Urinalysis is normal, fecal occult blood is negative, and pelvic ultrasound shows a small, retroverted uterus. What is the most appropriate initial management step?\nAnswer Choices: (A) Topical corticosteroids (B) Behavioral bladder training (C) Systemic antibiotics (D) Topical estrogen (E) Pelvic floor physical therapy (F) Oral selective estrogen receptor modulators (G) Vaginal moisturizers (H) Oral estrogen therapy (I) Anticholinergic medications (J) Nitrofurantoin Options: (A) Topical corticosteroids (I) Anticholinergic medications (E) Pelvic floor physical therapy (F) Oral selective estrogen receptor modulators (B) Behavioral bladder training (J) Nitrofurantoin (D) Topical estrogen (C) Systemic antibiotics (G) Vaginal moisturizers (H) Oral estrogen therapy",
@@ -128,6 +154,32 @@
             "completion_tokens": 705
         },
         "time_elapsed": 11.790624856948853
+    },
+    {
+        "idx": "Text-104",
+        "realidx": "Text-104",
+        "question": "A 22-year-old man seeks medical attention for mild dyspnea and pain in his anterior neck and left shoulder following a football tackle two days ago. The pain, which is sharp and rated 4/10 at rest, worsens with left upper extremity movement and increased breathing rate, causing mild shortness of breath. The patient finds some relief with rest and ice application. Physical examination reveals symmetric rib movement during respiration. The left lateral clavicle appears elevated compared to the right side. The left acromioclavicular joint shows no resistance to springing motion, while the medial end of the left clavicle demonstrates resistance to anterior motion. The supraclavicular fossa is notably tender to palpation. What is the most likely primary diagnosis?\nAnswer Choices: (A) Acromioclavicular joint separation (B) Pectoralis minor syndrome (C) Thoracic outlet syndrome (D) Clavicular posterior rotation somatic dysfunction (E) First rib somatic dysfunction (F) Costoclavicular syndrome (G) Anterior sternoclavicular joint dislocation (H) Subclavian vein thrombosis (I) Cervical radiculopathy (C5-C6) (J) Posterior and inferior sternoclavicular somatic dysfunction Options: (A) Acromioclavicular joint separation (H) Subclavian vein thrombosis (B) Pectoralis minor syndrome (E) First rib somatic dysfunction (J) Posterior and inferior sternoclavicular somatic dysfunction (I) Cervical radiculopathy (C5-C6) (D) Clavicular posterior rotation somatic dysfunction (G) Anterior sternoclavicular joint dislocation (C) Thoracic outlet syndrome (F) Costoclavicular syndrome",
+        "answer_idx": "J",
+        "answer": "Posterior and inferior sternoclavicular somatic dysfunction",
+        "options": {
+            "A": "Acromioclavicular joint separation",
+            "B": "Pectoralis minor syndrome",
+            "C": "Thoracic outlet syndrome",
+            "D": "Clavicular posterior rotation somatic dysfunction",
+            "E": "First rib somatic dysfunction",
+            "F": "Costoclavicular syndrome",
+            "G": "Anterior sternoclavicular joint dislocation",
+            "H": "Subclavian vein thrombosis",
+            "I": "Cervical radiculopathy (C5-C6)",
+            "J": "Posterior and inferior sternoclavicular somatic dysfunction"
+        },
+        "predicted_answer": "J",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 514192,
+            "completion_tokens": 6899
+        },
+        "time_elapsed": 141.3231225013733
     },
     {
         "idx": "Text-106",
@@ -676,6 +728,32 @@
         "time_elapsed": 130.5777747631073
     },
     {
+        "idx": "Text-142",
+        "realidx": "Text-142",
+        "question": "A 71-year-old male presents to the emergency department with complaints of blood in his stool. He denies experiencing any pain during defecation or at present. He recently returned from a camping trip where he consumed fire-cooked meats and drank water from local streams. His medical history includes obesity, diabetes, constipation, irritable bowel syndrome, ulcerative colitis in remission, and a 70-pack-year smoking history. His family history is notable for breast cancer in his mother and prostate cancer in his father. His vital signs are as follows: temperature 98.9\u00b0F (37.2\u00b0C), blood pressure 160/87 mmHg, pulse 80/min, respirations 14/min, and oxygen saturation 98% on room air. Physical examination reveals an obese man in no acute distress. Abdominal examination shows a non-tender, non-distended abdomen with normal bowel sounds. Abdominal radiograph and barium swallow studies are unremarkable. What is the most appropriate treatment for this patient\u2019s condition?\nAnswer Choices: (A) Oral metronidazole (B) Surgical resection of the small intestine (C) Intravenous corticosteroids (D) Colonoscopy with polypectomy (E) Endoscopic band ligation (F) Ciprofloxacin (G) Cautery of an arteriovenous malformation (H) Oral anticoagulation therapy (I) Mesalamine enema (J) Stool softeners and dietary fiber supplementation Options: (H) Oral anticoagulation therapy (F) Ciprofloxacin (I) Mesalamine enema (G) Cautery of an arteriovenous malformation (E) Endoscopic band ligation (J) Stool softeners and dietary fiber supplementation (D) Colonoscopy with polypectomy (B) Surgical resection of the small intestine (A) Oral metronidazole (C) Intravenous corticosteroids",
+        "answer_idx": "G",
+        "answer": "Cautery of an arteriovenous malformation",
+        "options": {
+            "A": "Oral metronidazole",
+            "B": "Surgical resection of the small intestine",
+            "C": "Intravenous corticosteroids",
+            "D": "Colonoscopy with polypectomy",
+            "E": "Endoscopic band ligation",
+            "F": "Ciprofloxacin",
+            "G": "Cautery of an arteriovenous malformation",
+            "H": "Oral anticoagulation therapy",
+            "I": "Mesalamine enema",
+            "J": "Stool softeners and dietary fiber supplementation"
+        },
+        "predicted_answer": "F",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 326526,
+            "completion_tokens": 4268
+        },
+        "time_elapsed": 80.57780122756958
+    },
+    {
         "idx": "Text-143",
         "realidx": "Text-143",
         "question": "Two days after birth, a term male newborn weighing 4300 g (9 lb 8 oz) presents with feeding difficulties and increasing lethargy. His cry has weakened. The mother has a history of intravenous drug use. Vital signs include a temperature of 36.4\u00b0C (97.5\u00b0F), pulse of 170/min, respirations of 62/min, and blood pressure of 70/48 mm Hg. Physical examination reveals midfacial hypoplasia, diaphoresis, tremors in the lower extremities, macroglossia, and posterior auricular cartilage folds. The left lower extremity is larger than the right. An umbilical hernia is noted, and the liver is palpable 4 cm below the right costal margin. Neurologic examination shows hypotonia in all extremities. Which of the following interventions is most appropriate for this patient?\nAnswer Choices: (A) Glucose (B) Diazepam (C) Hydrocortisone (D) Naloxone (E) Insulin (F) Vitamin K (G) Phenobarbital (H) Thyroxine (I) Calcium gluconate (J) Dopamine Options: (I) Calcium gluconate (E) Insulin (H) Thyroxine (D) Naloxone (B) Diazepam (G) Phenobarbital (F) Vitamin K (A) Glucose (J) Dopamine (C) Hydrocortisone",
@@ -934,6 +1012,32 @@
             "completion_tokens": 1875
         },
         "time_elapsed": 161.70678448677063
+    },
+    {
+        "idx": "Text-22",
+        "realidx": "Text-22",
+        "question": "A 1-day-old male neonate is assessed in the labor and delivery unit due to feeding difficulties, rapid breathing, and bluish-grey skin discoloration. He was born at 37 weeks of gestation to a healthy mother who had irregular prenatal care and denies any drug use during pregnancy. His temperature is 98.2 \u00baF, blood pressure is 70/40 mmHg, pulse is 170/min, and respiratory rate is 56/min. Physical examination reveals a lethargic and cyanotic infant with jugular venous distention. Chest auscultation shows tachypnea, a single second heart sound, and a continuous murmur. A chest X-ray demonstrates reduced pulmonary vascular markings, and an electrocardiogram shows tall P-waves in lead II and low-amplitude R-waves in leads V1-V3. Which congenital cardiac anomaly is most likely in this patient?\nAnswer Choices: (A) Total anomalous pulmonary venous return (B) Complete transposition of the great arteries (C) Isolated opening in membranous interventricular septum (D) Persistent truncus arteriosus (E) Enclosed muscular floor within the right atrium (F) Pulmonary venous drainage into the right atrium (G) Proximal atrialization of the right ventricle (H) Severe tricuspid valve regurgitation (I) Right ventricular hypertrophy with pulmonary stenosis (J) Hypoplastic left heart syndrome Options: (H) Severe tricuspid valve regurgitation (I) Right ventricular hypertrophy with pulmonary stenosis (B) Complete transposition of the great arteries (J) Hypoplastic left heart syndrome (C) Isolated opening in membranous interventricular septum (A) Total anomalous pulmonary venous return (G) Proximal atrialization of the right ventricle (F) Pulmonary venous drainage into the right atrium (D) Persistent truncus arteriosus (E) Enclosed muscular floor within the right atrium",
+        "answer_idx": "E",
+        "answer": "Enclosed muscular floor within the right atrium",
+        "options": {
+            "A": "Total anomalous pulmonary venous return",
+            "B": "Complete transposition of the great arteries",
+            "C": "Isolated opening in membranous interventricular septum",
+            "D": "Persistent truncus arteriosus",
+            "E": "Enclosed muscular floor within the right atrium",
+            "F": "Pulmonary venous drainage into the right atrium",
+            "G": "Proximal atrialization of the right ventricle",
+            "H": "Severe tricuspid valve regurgitation",
+            "I": "Right ventricular hypertrophy with pulmonary stenosis",
+            "J": "Hypoplastic left heart syndrome"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 115270,
+            "completion_tokens": 3405
+        },
+        "time_elapsed": 49.65589141845703
     },
     {
         "idx": "Text-24",
@@ -1974,6 +2078,32 @@
             "completion_tokens": 2332
         },
         "time_elapsed": 43.551191329956055
+    },
+    {
+        "idx": "Text-73",
+        "realidx": "Text-73",
+        "question": "A 33-year-old male construction worker is brought to the emergency department with acute confusion after being found unconscious at his worksite. His medical history includes seizure disorder and schizophrenia, for which he takes haloperidol. He underwent an appendectomy two months ago. On examination, his vital signs show: temperature 105\u00b0F (40.6\u00b0C), blood pressure 120/84 mmHg, heart rate 150/min, respiratory rate 19/min, and oxygen saturation 99% on room air. The patient is confused and non-communicative, with sweat-soaked clothing. While he shows no clear focal neurologic deficits, he lacks purposeful movement of his extremities. What is the most likely diagnosis?\nAnswer Choices: (A) Anticholinergic toxicity (B) Exertional heat stroke (C) Malignant hyperthermia (D) Neuroleptic malignant syndrome (E) Central nervous system infection (F) Drug-induced hyperthermia (G) Septic shock (H) Nonexertional heat stroke (I) Thyroid storm (J) Status epilepticus Options: (B) Exertional heat stroke (E) Central nervous system infection (A) Anticholinergic toxicity (J) Status epilepticus (I) Thyroid storm (D) Neuroleptic malignant syndrome (C) Malignant hyperthermia (H) Nonexertional heat stroke (F) Drug-induced hyperthermia (G) Septic shock",
+        "answer_idx": "B",
+        "answer": "Exertional heat stroke",
+        "options": {
+            "A": "Anticholinergic toxicity",
+            "B": "Exertional heat stroke",
+            "C": "Malignant hyperthermia",
+            "D": "Neuroleptic malignant syndrome",
+            "E": "Central nervous system infection",
+            "F": "Drug-induced hyperthermia",
+            "G": "Septic shock",
+            "H": "Nonexertional heat stroke",
+            "I": "Thyroid storm",
+            "J": "Status epilepticus"
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 63422,
+            "completion_tokens": 2174
+        },
+        "time_elapsed": 52.13943099975586
     },
     {
         "idx": "Text-75",

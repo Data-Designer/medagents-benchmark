@@ -440,6 +440,26 @@
         "time_elapsed": 28.180635690689087
     },
     {
+        "idx": "180_occupational_therapist",
+        "realidx": "180_occupational_therapist",
+        "question": "Which theory argues that population control is necessary to ensure real income, not because of food, but to maintain living standards due to overpopulation? Options: (B) Population Transition Theory (D) Malthusianism (C) Neo-Malthusianism (A) Optimum Population Theory",
+        "answer_idx": "A",
+        "answer": "Optimum Population Theory",
+        "options": {
+            "A": "Optimum Population Theory",
+            "B": "Population Transition Theory",
+            "C": "Neo-Malthusianism",
+            "D": "Malthusianism"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4325,
+            "completion_tokens": 3783
+        },
+        "time_elapsed": 28.93396759033203
+    },
+    {
         "idx": "18_speech_pathologist",
         "realidx": "18_speech_pathologist",
         "question": "What type of hearing loss occurs due to problems in the outer or middle ear? Options: (A) Sensorineural hearing loss (C) Psychogenic hearing loss (B) Central auditory processing disorder (D) Conductive hearing loss",
@@ -798,6 +818,26 @@
             "completion_tokens": 4385
         },
         "time_elapsed": 27.550475120544434
+    },
+    {
+        "idx": "26_speech_pathologist",
+        "realidx": "26_speech_pathologist",
+        "question": "Which of the following statements is correct regarding voice rehabilitation for a patient who has had a total laryngectomy due to laryngeal cancer? Options: (B) Artificial larynx speech is closer to normal voice than tracheoesophageal speech. (C) The artificial larynx uses the velopharyngeal port as a sound source. (D) Tracheoesophageal speech requires a tracheoesophageal puncture procedure. (A) For esophageal speech, lung breath is used for phonation.",
+        "answer_idx": "A",
+        "answer": "For esophageal speech, lung breath is used for phonation.",
+        "options": {
+            "A": "For esophageal speech, lung breath is used for phonation.",
+            "B": "Artificial larynx speech is closer to normal voice than tracheoesophageal speech.",
+            "C": "The artificial larynx uses the velopharyngeal port as a sound source.",
+            "D": "Tracheoesophageal speech requires a tracheoesophageal puncture procedure."
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4110,
+            "completion_tokens": 4848
+        },
+        "time_elapsed": 35.24155116081238
     },
     {
         "idx": "275_clinical_laboratory_scientist",
@@ -1338,6 +1378,26 @@
             "completion_tokens": 4827
         },
         "time_elapsed": 32.74871778488159
+    },
+    {
+        "idx": "49_speech_pathologist",
+        "realidx": "49_speech_pathologist",
+        "question": "What is the correct order of difficulty levels in auditory training for children with hearing impairments, from easier listening situations to more difficult ones? Options: (D) Soft sounds \u2192 Loud sounds (C) Background noise present \u2192 No background noise (A) Tasks with visual cues \u2192 Tasks without visual cues (B) Far from hearing aid \u2192 Close to hearing aid",
+        "answer_idx": "D",
+        "answer": "Soft sounds \u2192 Loud sounds",
+        "options": {
+            "A": "Tasks with visual cues \u2192 Tasks without visual cues",
+            "B": "Far from hearing aid \u2192 Close to hearing aid",
+            "C": "Background noise present \u2192 No background noise",
+            "D": "Soft sounds \u2192 Loud sounds"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4194,
+            "completion_tokens": 4039
+        },
+        "time_elapsed": 29.102665424346924
     },
     {
         "idx": "4_speech_pathologist",

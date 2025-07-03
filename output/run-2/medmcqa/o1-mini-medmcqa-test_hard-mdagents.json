@@ -1080,6 +1080,26 @@
         "time_elapsed": 30.416736841201782
     },
     {
+        "idx": "74d6497b-16bd-44f8-bba0-a9a139482e77",
+        "realidx": "74d6497b-16bd-44f8-bba0-a9a139482e77",
+        "question": "Wave patterns of EEF, ECG and EMG are depicted below. The B pattern belongs to (Figure was not provided in the exam): Options: (C) Wakefulness (B) REM sleep (D) Quiet wakefulness (A) NREM sleep",
+        "answer_idx": "C",
+        "answer": "Wakefulness",
+        "options": {
+            "A": "NREM sleep",
+            "B": "REM sleep",
+            "C": "Wakefulness",
+            "D": "Quiet wakefulness"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3951,
+            "completion_tokens": 4336
+        },
+        "time_elapsed": 30.152004957199097
+    },
+    {
         "idx": "75394ad7-5dde-4b6b-8cec-7365972b5dd6",
         "realidx": "75394ad7-5dde-4b6b-8cec-7365972b5dd6",
         "question": "Fluoride pit and fissure sealants belong to which\ngeneration? Options: (B) II (D) IV (A) I (C) III",
@@ -1458,6 +1478,26 @@
             "completion_tokens": 4117
         },
         "time_elapsed": 27.723795890808105
+    },
+    {
+        "idx": "b3163789-82b3-4054-aabe-3a2b90aa7a98",
+        "realidx": "b3163789-82b3-4054-aabe-3a2b90aa7a98",
+        "question": "Which marker shows holocrine gland? Options: (D) D (A) A (B) B (C) C",
+        "answer_idx": "A",
+        "answer": "A",
+        "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "predicted_answer": "0",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4019,
+            "completion_tokens": 5136
+        },
+        "time_elapsed": 36.86457014083862
     },
     {
         "idx": "b4c3fa06-01fe-4c3c-8521-25299a221d43",
@@ -1938,5 +1978,25 @@
             "completion_tokens": 5382
         },
         "time_elapsed": 34.326966762542725
+    },
+    {
+        "idx": "f7d9f997-d9d6-40e0-a921-49bb343f8b52",
+        "realidx": "f7d9f997-d9d6-40e0-a921-49bb343f8b52",
+        "question": "For >10 mm setback of mandible, which of these surgeries is most suitable: Options: (C) Subapical osteotomy (A) Sagittal split ramus osteotomy (D) Body osteotomy  with extraction of premolars (B) Vertical ramus osteotomy",
+        "answer_idx": "B",
+        "answer": "Vertical ramus osteotomy",
+        "options": {
+            "A": "Sagittal split ramus osteotomy",
+            "B": "Vertical ramus osteotomy",
+            "C": "Subapical osteotomy",
+            "D": "Body osteotomy  with extraction of premolars"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 20301,
+            "completion_tokens": 16847
+        },
+        "time_elapsed": 114.99739909172058
     }
 ]

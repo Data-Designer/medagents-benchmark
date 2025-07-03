@@ -1,5 +1,62 @@
 [
     {
+        "id": 0,
+        "realidx": 0,
+        "question": "A 64-year-old man presents to the emergency room with a headache and nausea. He reports that he was rocking his grandson to sleep when the symptoms began. He states the pain is constant and is primarily located on his right side. When asked to indicate the area of pain, he says that it surrounds his eye and upper forehead. He had one episode of vomiting. The patient also reports difficulty seeing out of his right eye, which he attributes to excessive tearing. The patient\u2019s past medical history is significant for hypertension. His medications include hydrochlorothiazide. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 135/91 mmHg, pulse is 72/min, and respirations are 12/min. The patient\u2019s right eye is shown in Figure A. Upon physical examination, the right pupil is minimally responsive to light and the globe feels firm. A right-sided carotid bruit is appreciated. Which of the following is the most appropriate prophylaxis for this patient\u2019s condition?",
+        "options": {
+            "A": "Acetazolamide",
+            "B": "Amitriptyline",
+            "C": "Clopidogrel",
+            "D": "Epinephrine",
+            "E": "Verapamil"
+        },
+        "predicted_answer": "N",
+        "answer_idx": "A",
+        "token_usage": {
+            "prompt_tokens": 19782,
+            "completion_tokens": 25742
+        },
+        "time_elapsed": 174.38408970832825
+    },
+    {
+        "id": 1,
+        "realidx": 1,
+        "question": "A 9-year-old girl presents to the emergency department with a fever and a change in her behavior. She presented with similar symptoms 6 weeks ago and was treated for an Escherchia coli infection. She also was treated for a urinary tract infection 10 weeks ago. Her mother says that last night her daughter felt ill, and her condition has been worsening. Her daughter experienced a severe headache and had a stiff neck. This morning she was minimally responsive, vomited several times, and produced a small amount of dark cloudy urine. The patient was born at 39 weeks and met all her developmental milestones. She is currently up to date on her vaccinations and did not have infections during early childhood. Her parents are divorced and her father has noted she does not seem to get sick when he takes care of her. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 60/35 mmHg, pulse is 190/min, respirations are 33/min, and oxygen saturation is 98% on room air. The patient is started on intravenous fluids, vasopressors, and broad-spectrum antibiotics. Which of the following is the most appropriate underlying explanation for this patient's presentation?",
+        "options": {
+            "A": "Gastroenteritis",
+            "B": "Immunodeficiency",
+            "C": "Intentional contamination",
+            "D": "Meningitis",
+            "E": "Urinary tract infection"
+        },
+        "predicted_answer": "C",
+        "answer_idx": "C",
+        "token_usage": {
+            "prompt_tokens": 20197,
+            "completion_tokens": 19372
+        },
+        "time_elapsed": 147.44288635253906
+    },
+    {
+        "id": 2,
+        "realidx": 2,
+        "question": "A 67-year-old man presents to the emergency department after fainting. He was outside tending to his lawn for several hours in the heat, when he stood up suddenly from pulling weeds and fainted. He denies any preceding symptoms and returned to baseline within 1 minute. The patient is not aware of any medical problems and just started seeing a primary care physician last week. He recently used a friend's prescription for ondansetron for nausea. His temperature is 99.3\u00b0F (37.4\u00b0C), blood pressure is 142/88 mmHg, pulse is 107/min, respirations are 14/min, and oxygen saturation is 99% on room air. Physical exam reveals intact cranial nerves, normal strength and sensation, and a stable gait. His abdomen is soft and nontender. An ECG is performed as seen in Figure A. Which of the following is the most likely diagnosis based on this patient\u2019s ECG?",
+        "options": {
+            "A": "Acute myocardial infarction",
+            "B": "Hypokalemia",
+            "C": "Intermittent torsades des pointes",
+            "D": "Previous myocardial ischemia",
+            "E": "Pulmonary embolism"
+        },
+        "predicted_answer": "C",
+        "answer_idx": "D",
+        "token_usage": {
+            "prompt_tokens": 18138,
+            "completion_tokens": 12421
+        },
+        "time_elapsed": 99.45449733734131
+    },
+    {
         "id": 4,
         "realidx": 4,
         "question": "A 17-year-old boy presents to his primary care physician with a chief concern of \"bad\" skin that has not improved despite home remedies. The patient has had lesions on his face that have persisted since he was 13 years of age. He has a diet high in refined carbohydrates and has gained 20 pounds since starting high school. Physical exam is notable for the findings in Figure A. The patient is started on benzoyl peroxide and topical retinoids. He returns 1 month later stating that his symptoms are roughly the same. Which of the following is the most appropriate next step in management?",

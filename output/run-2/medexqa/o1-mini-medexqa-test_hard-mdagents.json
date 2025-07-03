@@ -200,6 +200,26 @@
         "time_elapsed": 32.046201944351196
     },
     {
+        "idx": "131_clinical_laboratory_scientist",
+        "realidx": "131_clinical_laboratory_scientist",
+        "question": "Which of the following statements about IRMA is correct? Options: (B) The radioactive isotope is labeled on the antigen. (A) It is a non-competitive method. (C) Uses 99mTc. (D) There is no need to separate the bound and free forms.",
+        "answer_idx": "A",
+        "answer": "It is a non-competitive method.",
+        "options": {
+            "A": "It is a non-competitive method.",
+            "B": "The radioactive isotope is labeled on the antigen.",
+            "C": "Uses 99mTc.",
+            "D": "There is no need to separate the bound and free forms."
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4297,
+            "completion_tokens": 5543
+        },
+        "time_elapsed": 37.27814340591431
+    },
+    {
         "idx": "134_biomedical_engineer",
         "realidx": "134_biomedical_engineer",
         "question": "Which of the following is a correct description of the types of synovial joints? Options: (B) Saddle joint: The articulating surfaces are shaped like a saddle, allowing movement in two perpendicular directions. (C) Plane joint: The articulating surfaces are flat, and the joint is surrounded by a tight joint capsule and strong ligaments, limiting movement. (D) Ellipsoidal joint: The head of the joint is oval-shaped, allowing movement along the long and short axes, but rotation is not possible. (A) Ball-and-socket joint: The head of the joint is ball-shaped and the socket is deep and concave, allowing for the greatest range of motion in various planes.",
@@ -278,6 +298,26 @@
             "completion_tokens": 4360
         },
         "time_elapsed": 28.66587519645691
+    },
+    {
+        "idx": "158_occupational_therapist",
+        "realidx": "158_occupational_therapist",
+        "question": "How many times can you bill for the assessment of a stroke patient's activities of daily living using the MBI? Options: (C) Unlimited (A) Twice a week (D) Once a month (B) Once a week",
+        "answer_idx": "D",
+        "answer": "Once a month",
+        "options": {
+            "A": "Twice a week",
+            "B": "Once a week",
+            "C": "Unlimited",
+            "D": "Once a month"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4154,
+            "completion_tokens": 3799
+        },
+        "time_elapsed": 30.517375707626343
     },
     {
         "idx": "162_occupational_therapist",
@@ -780,6 +820,26 @@
         "time_elapsed": 26.140007972717285
     },
     {
+        "idx": "26_speech_pathologist",
+        "realidx": "26_speech_pathologist",
+        "question": "Which of the following statements is correct regarding voice rehabilitation for a patient who has had a total laryngectomy due to laryngeal cancer? Options: (D) Tracheoesophageal speech requires a tracheoesophageal puncture procedure. (B) Artificial larynx speech is closer to normal voice than tracheoesophageal speech. (A) For esophageal speech, lung breath is used for phonation. (C) The artificial larynx uses the velopharyngeal port as a sound source.",
+        "answer_idx": "A",
+        "answer": "For esophageal speech, lung breath is used for phonation.",
+        "options": {
+            "A": "For esophageal speech, lung breath is used for phonation.",
+            "B": "Artificial larynx speech is closer to normal voice than tracheoesophageal speech.",
+            "C": "The artificial larynx uses the velopharyngeal port as a sound source.",
+            "D": "Tracheoesophageal speech requires a tracheoesophageal puncture procedure."
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4389,
+            "completion_tokens": 3678
+        },
+        "time_elapsed": 28.060368061065674
+    },
+    {
         "idx": "275_clinical_laboratory_scientist",
         "realidx": "275_clinical_laboratory_scientist",
         "question": "If the last menstrual period (LMP) was on December 24th and the specimen collection date for endocrine evaluation is January 6th, which phase does it correspond to? Options: (A) Proliferative phase (D) Secretory phase (B) Ovulatory phase (C) Pregnancy phase",
@@ -798,6 +858,26 @@
             "completion_tokens": 3885
         },
         "time_elapsed": 27.99024510383606
+    },
+    {
+        "idx": "28_clinical_laboratory_scientist",
+        "realidx": "28_clinical_laboratory_scientist",
+        "question": "What is commonly included in the VC (Vital Capacity)? Options: (A) IRV (Inspiratory Reserve Volume) (B) ERV (Expiratory Reserve Volume) (D) TV (Tidal Volume) (C) IC (Inspiratory Capacity)",
+        "answer_idx": "B",
+        "answer": "ERV (Expiratory Reserve Volume)",
+        "options": {
+            "A": "IRV (Inspiratory Reserve Volume)",
+            "B": "ERV (Expiratory Reserve Volume)",
+            "C": "IC (Inspiratory Capacity)",
+            "D": "TV (Tidal Volume)"
+        },
+        "predicted_answer": "0",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4206,
+            "completion_tokens": 5318
+        },
+        "time_elapsed": 34.81958031654358
     },
     {
         "idx": "29_biomedical_engineer",

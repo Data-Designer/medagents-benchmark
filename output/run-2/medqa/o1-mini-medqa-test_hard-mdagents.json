@@ -40,6 +40,26 @@
         "time_elapsed": 698.0360534191132
     },
     {
+        "idx": 6,
+        "realidx": 6,
+        "question": "A 68-year-old male comes to the physician for evaluation of right flank pain. He has a history of diabetes and peripheral artery disease. His blood pressure is 160/90 mm Hg. Physical examination shows abdominal tenderness and right flank tenderness. An ultrasound shows dilation of the right ureter and renal pelvis. Which of the following is the most likely underlying cause of this patient's condition? Options: (D) Urethral stricture (C) Common iliac artery aneurysm (B) Benign prostatic hyperplasia (A) Renal artery stenosis",
+        "answer_idx": "C",
+        "answer": "Common iliac artery aneurysm",
+        "options": {
+            "A": "Renal artery stenosis",
+            "B": "Benign prostatic hyperplasia",
+            "C": "Common iliac artery aneurysm",
+            "D": "Urethral stricture"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7192,
+            "completion_tokens": 5797
+        },
+        "time_elapsed": 41.874685287475586
+    },
+    {
         "idx": 33,
         "realidx": 33,
         "question": "An otherwise healthy 50-year-old man comes to the physician because of a 6-month history of increasingly frequent episodes of upper abdominal pain, nausea, vomiting, and diarrhea. He has had a 3.2-kg (7-lb) weight loss during this time. Physical examination shows bilateral pitting pedal edema. An endoscopy shows prominent rugae in the gastric fundus. Biopsy shows parietal cell atrophy. Which of the following is the most likely underlying cause? Options: (B) Proliferation of gastric mucus-producing cells (C) Excessive somatostatin secretion (A) Serotonin-secreting gastric tumor (D) Ectopic secretion of gastrin",
@@ -58,6 +78,26 @@
             "completion_tokens": 7553
         },
         "time_elapsed": 52.34075140953064
+    },
+    {
+        "idx": 34,
+        "realidx": 34,
+        "question": "A 27-year-old man presents to the emergency department. He was brought in by staff from the homeless shelter when they found him unresponsive. The patient is a known IV drug abuser but otherwise has an unknown past medical history. He currently attends a methadone clinic. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 97/48 mmHg, pulse is 140/min, respirations are 29/min, and oxygen saturation is 98% on room air. Initial laboratory values are shown below.\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 6.3 mEq/L\nHCO3-: 17 mEq/L\nGlucose: 589 mg/dL\n\nThe patient is given treatment. After treatment, his temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 117/78 mmHg, pulse is 100/min, respirations are 23/min, and oxygen saturation is 98% on room air. His laboratory values are seen below.\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 4.3 mEq/L\nHCO3-: 19 mEq/L\nGlucose: 90 mg/dL\n\nWhich of the following is the best next step in management? Options: (D) Supportive therapy and close monitoring (B) IV fluids only (C) Oral rehydration (A) Insulin, potassium, IV fluids, and glucose",
+        "answer_idx": "A",
+        "answer": "Insulin, potassium, IV fluids, and glucose",
+        "options": {
+            "A": "Insulin, potassium, IV fluids, and glucose",
+            "B": "IV fluids only",
+            "C": "Oral rehydration",
+            "D": "Supportive therapy and close monitoring"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9618,
+            "completion_tokens": 6863
+        },
+        "time_elapsed": 48.250218629837036
     },
     {
         "idx": 44,
@@ -258,6 +298,26 @@
             "completion_tokens": 136028
         },
         "time_elapsed": 706.7099483013153
+    },
+    {
+        "idx": 171,
+        "realidx": 171,
+        "question": "A 38-year-old G4P3 presents to her obstetrician\u2019s office for her 20-week anatomy ultrasound. She reports that she feels well and has not experienced any contractions or vaginal bleeding. She also reports good fetal movement. The patient declined prenatal screening earlier in the pregnancy for religious reasons but would now like an anatomy ultrasound to ensure the fetus is growing appropriately. The patient\u2019s previous pregnancies were uncomplicated, and she delivered three healthy babies at full term. On the ultrasound, the technician observes a male fetus with likely intrauterine growth restriction (IUGR). She also notes microcephaly, convex-rounded feet, and clenched fists with overlapping fingers. The technician further notes a medium-sized ventricular septal defect (VSD). The amniotic fluid index (AFI) is 26 cm.\n\nWhich of the following additional findings is most likely to be observed in this fetus? Options: (A) Cleft palate (D) Prominent occiput (B) Epicanthal folds (C) Micropthlamia",
+        "answer_idx": "D",
+        "answer": "Prominent occiput",
+        "options": {
+            "A": "Cleft palate",
+            "B": "Epicanthal folds",
+            "C": "Micropthlamia",
+            "D": "Prominent occiput"
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 338994,
+            "completion_tokens": 98948
+        },
+        "time_elapsed": 536.5718293190002
     },
     {
         "idx": 178,
@@ -540,6 +600,26 @@
         "time_elapsed": 112.09495210647583
     },
     {
+        "idx": 241,
+        "realidx": 241,
+        "question": "A 41-year-old man presents to his primary care provider with abdominal pain. He says that the pain \u201ccomes and goes\u201d throughout the day and usually lasts 20-30 minutes per episode. He can point to the spot 1-2 inches above the umbilicus where he feels the pain. He denies any feeling of regurgitation or nighttime cough but endorses nausea. He reports that he used to eat three large meals per day but has found that eating more frequently improves his pain. He tried a couple pills of ibuprofen with food over the past couple days and thinks it helped. He has gained four pounds since his past appointment three months ago. The patient denies any diarrhea or change in his stools. He has no past medical history. He drinks 5-6 beers on the weekend and has a 20 pack-year smoking history. He denies any family history of cancer. On physical exam, he is tender to palpation above the umbilicus. Bowel sounds are present. A stool guaiac test is positive. The patient undergoes endoscopy with biopsy to diagnose his condition.\n\nWhich of the following is most likely to be found on histology? Options: (C) PAS-positive material in the small intestine (A) Mucosal defect in the stomach (B) Urease-producing organism in the small intestine (D) Crypt abscesses in the large intestine",
+        "answer_idx": "B",
+        "answer": "Urease-producing organism in the small intestine",
+        "options": {
+            "A": "Mucosal defect in the stomach",
+            "B": "Urease-producing organism in the small intestine",
+            "C": "PAS-positive material in the small intestine",
+            "D": "Crypt abscesses in the large intestine"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 330279,
+            "completion_tokens": 72788
+        },
+        "time_elapsed": 410.567063331604
+    },
+    {
         "idx": 243,
         "realidx": 243,
         "question": " A 61-year-old man was started on rosuvastatin 40 mg 8 weeks ago and presents today for a follow-up. He complains of pain in his legs and general weakness. On physical exam, he has full range of motion of his extremities but complains of pain. His blood pressure is 126/84 mm Hg and heart rate is 74/min. The decision is made to stop the statin and return to the clinic in 2 weeks to assess any changes in symptoms. After stopping the statin, his muscular symptoms resolve. What is the next best course of action to take regarding his LDL control? Options: (A) Restart rosuvastatin at a lower dose (B) Initiate fenofibrate (C) Initiate a different statin (D) Initiate fish oils",
@@ -640,6 +720,26 @@
         "time_elapsed": 29.298118591308594
     },
     {
+        "idx": 271,
+        "realidx": 271,
+        "question": "A 22-year-old primigravida presents for a regular prenatal visit at 16 weeks gestation. She is concerned about the results of a dipstick test she performed at home, which showed 1+ glucose. She does not know  if her liquid consumption has increased, but she urinates more frequently than before. The course of her pregnancy has been unremarkable and she has no significant co-morbidities. The BMI is 25.6 kg/cm2 and she has gained 3 kg (6.72 lb) during the pregnancy. The blood pressure is 110/80 mm Hg, the heart rate is 82/min, the respiratory rate is 14/min, and the temperature is 36.6\u2103 (97.9\u2109). The lungs are clear to auscultation, the heart sounds are normal with no murmurs, and there is no abdominal or costovertebral angle tenderness. The laboratory tests show the following results:\nFasting glucose 97 mg/L\nALT 12 IU/L\nAST 14 IU/L\nTotal bilirubin 0.8 mg/dL(15 \u00b5mol/L)\nPlasma creatinine 0.7 mg/dL (61.9 \u00b5mol/L)\nWhich of the following tests are indicated to determine the cause of the abnormal dipstick test results? Options: (D) Oral glucose tolerance test (B) No tests required (C) Urinalysis (A) HbA1c measurement",
+        "answer_idx": "B",
+        "answer": "No tests required",
+        "options": {
+            "A": "HbA1c measurement",
+            "B": "No tests required",
+            "C": "Urinalysis",
+            "D": "Oral glucose tolerance test"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9213,
+            "completion_tokens": 5183
+        },
+        "time_elapsed": 35.54652643203735
+    },
+    {
         "idx": 273,
         "realidx": 273,
         "question": "A 57-year-old man comes to the physician because of a 3-week history of abdominal bloating and increased frequency of stools. He describes the stools as bulky, foul-smelling, and difficult to flush. He also has a 4-month history of recurrent dull upper abdominal pain that usually lasts for a few days, worsens after meals, and is not relieved with antacids. He has had a 10-kg (22-lb) weight loss in the past 4 months. He has no personal or family history of serious illness. He has smoked 1 pack of cigarettes daily for 37 years. He has a 12-year history of drinking 6 to 8 beers daily. He is 160 cm (5 ft 3 in) tall and weighs 52 kg (115 lb); BMI is 20 kg/m2. His vital signs are within normal limits. Abdominal examination shows mild epigastric tenderness without rebound or guarding. Bowel sounds are normal. The remainder of the examination shows no abnormalities. Which of the following is the most appropriate next step in diagnosis? Options: (A) Abdominal CT scan (B) Endoscopic ultrasonography (C) Abdominal ultrasound (D) Upper gastrointestinal endoscopy",
@@ -700,6 +800,26 @@
         "time_elapsed": 40.53868269920349
     },
     {
+        "idx": 303,
+        "realidx": 303,
+        "question": "A 16-year-old female presents to her primary care physician due to lack of menstruation. She has never had a period and is anxious that she is not \u201ckeeping up\u201d with her friends. She states that her breasts began developing when she was 13, and she had a growth spurt around the same time. Review of systems reveals that she has also been getting headaches every few months over the last year with some photosensitivity and nausea each time. Ibuprofen relieves her symptoms. The patient is a competitive ice skater and has never been sexually active. Her mother has a history of migraine headaches, and her older sister has a history of bipolar disorder. Both underwent menarche at age 15. At this visit, the patient\u2019s temperature is 98.6\u00b0F (37.0\u00b0C), pulse is 70/min, blood pressure is 118/65 mmHg, and respirations are 13/min. Her body mass index is 23.8 kg/m^2. Cardiopulmonary and abdominal exams are unremarkable. Both breasts are Tanner IV with no expressable discharge. Pelvic and axillary hair growth is also Tanner IV. The patient is unable to tolerate a full pelvic exam, but the part of the vaginal canal that is examined is unremarkable. Laboratory studies are ordered and are below:\n\nSerum:\nNa+: 139 mEq/L\nK+: 4.1 mEq/L\nCl-: 100 mEq/L\nHCO3-: 24 mEq/L\nUrea nitrogen: 12 mg/dL\nGlucose: 73 mg/dL\nCreatinine: 0.9 mg/dL\nCa2+: 9.7 mg/dL\nMg2+: 1.7 mEq/L\nAST: 11 U/L\nALT: 11 U/L\nFollicle Stimulating Hormone (FSH): 16.2 mIU/mL (4.7-21.5 mIU/ml)\nEstrogen: 240 pg/mL (64-357 pg/mL)\n\nAbdominal ultrasound is performed and shows a normal uterus and ovaries. Which of the following is the most likely diagnosis? Options: (A) Hyperprolactinemia (B) Imperforate hymen (C) Vaginal septum (D) Normal development",
+        "answer_idx": "C",
+        "answer": "Vaginal septum",
+        "options": {
+            "A": "Hyperprolactinemia",
+            "B": "Imperforate hymen",
+            "C": "Vaginal septum",
+            "D": "Normal development"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9432,
+            "completion_tokens": 5053
+        },
+        "time_elapsed": 41.05991840362549
+    },
+    {
         "idx": 307,
         "realidx": 307,
         "question": "A 67-year-old man is brought to the emergency department with sudden onset of slurred speech. The patient\u2019s eldest daughter says that he couldn\u2019t move his arm during the episode. Past medical history is significant for hypertension and a hemorrhagic stroke 6 years ago, which was treated surgically. After admission, the patient gets increasingly worse and loses consciousness. A noncontrast CT of the head shows a subarachnoid hemorrhage (SAH). The patient is taken to the operating room, where the SAH evacuated, and the vessel is repaired. Postoperatively, the patient is unresponsive. Several days later, a repeat CT of the head shows an enlarging aneurysm in a different vessel in the brain. The patient\u2019s daughter is asked to consent to a non-emergent, life-saving operation since the patient is in a comatose state. She does not consent to the operation even though the physician stresses it would be life-saving. Upon further discussion, the physician finds out that the patient was abusive and neglectful to his children, and the daughter wants \u201cto live in peace.\u201d The patient has no written advanced directive. Which of the following is the most appropriate course of action? Options: (C) Contact another family member for consent (A) Follow the daughter\u2019s wishes to withhold the operation (B) Refer this case to the court (D) Report the daughter to the police",
@@ -740,6 +860,26 @@
         "time_elapsed": 34.25320529937744
     },
     {
+        "idx": 329,
+        "realidx": 329,
+        "question": "A 57-year-old woman is brought to the emergency department by ambulance for dysarthria and left-sided facial droop. She is accompanied by her son, who states that the patient had just returned home an hour ago from walking the dog when suddenly the patient stated she felt \u201cstrange.\u201d When her son asked her what was wrong, her speech was slurred and her \"face looked funny.\u201d The son quickly called an ambulance. The paramedic upon arrival noted that the patient had left-sided facial droop. Her medical history includes asthma and sickle cell disease. She takes hydroxyurea, uses oxycodone as needed for pain, and an albuterol inhaler as needed for shortness of breath. The patient\u2019s temperature is 97\u00b0F (36.1\u00b0C), blood pressure is 145/72 mmHg, pulse is 93/min, and respirations are 14/min with an oxygen saturation of 96% on room air. On physical examination, a left-sided facial droop is appreciated. She has trouble articulating her words, and her speech is garbled. She is put on 2 L of oxygen by nasal cannula. Labs are obtained and pending. Which of the following therapies is most likely indicated? Options: (A) Alteplase (C) Hydralazine (B) Exchange transfusion (D) Warfarin",
+        "answer_idx": "B",
+        "answer": "Exchange transfusion",
+        "options": {
+            "A": "Alteplase",
+            "B": "Exchange transfusion",
+            "C": "Hydralazine",
+            "D": "Warfarin"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 295671,
+            "completion_tokens": 79552
+        },
+        "time_elapsed": 436.7426209449768
+    },
+    {
         "idx": 336,
         "realidx": 336,
         "question": "A 39-year-old man is brought to the emergency department unconscious following 2 episodes of generalized tonic-clonic seizures. According to the attendants, he has complained of recurrent headaches for the past 2 weeks. There is no history of fever, head trauma, or a seizure disorder. The patient does not smoke cigarettes but reportedly drinks 2 glasses of wine daily. He has multiple sexual partners and history regarding the contraceptive use is unavailable. The patient\u2019s vitals include: blood pressure 137/88 mm Hg, temperature 37.2\u00b0C (99.0\u00b0F). On physical examination, he is obtunded. He grimaces on pain and localizes in response to pain in both upper extremities. Pupils are bilateral 3-mm in diameter and equally round and reactive. Laboratory tests are within normal limits. An MRI of the brain with contrast is shown in the exhibit (see image). A brain biopsy is performed that reveals perivascular clusters of lymphocytes. Which of the following is most associated with this patient\u2019s condition? Options: (B) Human herpes virus (A) Epstein-Barr virus (D) Schistosoma haematobium (C) Human papilloma virus",
@@ -758,6 +898,26 @@
             "completion_tokens": 6123
         },
         "time_elapsed": 43.11131191253662
+    },
+    {
+        "idx": 337,
+        "realidx": 337,
+        "question": "A 22-year-old woman from a rural area who recently discovered she was pregnant is referred for a cardiology consultation due to cyanosis, dyspnea, and a cardiac murmur revealed at the initial prenatal visit. She is gravida 1, para 0 with an estimated gestational age of 19 weeks. She says that the murmur was found in her childhood, and the doctor at that time placed her under observation only. However, she has been lost to follow-up and has not had proper follow up in years. Currently, she complains of dizziness and occasional dyspnea on exertion which has gradually increased during her pregnancy. Prior to her pregnancy, she did not have any symptoms. The vital signs are as follows: blood pressure 125/60 mm Hg, heart rate 81/min, respiratory rate 13/min, and temperature 36.7\u00b0C (98.0\u00b0F). Her examination is significant for acrocyanosis and a fixed splitting of S2 and grade 3/6 midsystolic murmur best heard over the left upper sternal border. Which of the following physiological pregnancy changes is causing the change in this patient\u2019s condition? Options: (C) Increase in cardiac output (D) Increase in blood volume (A) Increase in heart rate (B) Decrease in systemic vascular resistance",
+        "answer_idx": "B",
+        "answer": "Decrease in systemic vascular resistance",
+        "options": {
+            "A": "Increase in heart rate",
+            "B": "Decrease in systemic vascular resistance",
+            "C": "Increase in cardiac output",
+            "D": "Increase in blood volume"
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 33092,
+            "completion_tokens": 19458
+        },
+        "time_elapsed": 129.3145136833191
     },
     {
         "idx": 340,
@@ -780,6 +940,26 @@
         "time_elapsed": 58.466797828674316
     },
     {
+        "idx": 367,
+        "realidx": 367,
+        "question": "A 22-year-old gravida 1 presents to her physician at 15 weeks gestation for a prenatal appointment. She complains of a rash involving her chest, face, and arms, a watery nasal discharge, and mild bilateral knee pain. She has had these symptoms for about 5 days. The symptoms do not seem to bother her too much, but she is concerned for the baby. She had contact with her younger sister, who also had a rash and was diagnosed with rubella infection about 10 days ago at a family gathering. She cannot confirm her vaccination history. Her vital signs are as follows: blood pressure, 110/70 mmHg; heart rate, 89/min; respiratory rate, 12/min; and temperature, 37.6\u2103 (99.7\u2109). Examination shows a moderately dense maculopapular lacy rash spread over the patient\u2019s trunk, extremities, and face. No lymph node, liver, or spleen enlargement is noted. The knee joints appear normal.\nSerology performed 1 year ago Current serology\nRubella IgM - negative Rubella IgM - negative\nRubella IgG - 1:128 Rubella IgG - 1:64\nRubella IgG avidity - high Rubella IgG avidity - high\nWhat is the proper next step in the management of this woman? Options: (A) Reassure and recommend vaccination against rubella postpartum (D) Recommend additional serologic testing for parvovirus B19 (B) Recommend pregnancy termination (C) Arrange a chorionic villus sampling",
+        "answer_idx": "D",
+        "answer": "Recommend additional serologic testing for parvovirus B19",
+        "options": {
+            "A": "Reassure and recommend vaccination against rubella postpartum",
+            "B": "Recommend pregnancy termination",
+            "C": "Arrange a chorionic villus sampling",
+            "D": "Recommend additional serologic testing for parvovirus B19"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8790,
+            "completion_tokens": 4631
+        },
+        "time_elapsed": 29.815701723098755
+    },
+    {
         "idx": 413,
         "realidx": 413,
         "question": "A 56-year-old man with a history of pancreatic cancer presents to the surgical intensive care unit following a pancreaticoduodenectomy. Over the next 3 days, the patient's drainage output is noted to exceed 1 liter per day. In the early morning of postoperative day 4, the nurse states that the patient is difficult to arouse. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 107/88 mmHg, pulse is 120/min, respirations are 17/min, and oxygen saturation is 98% on room air. His skin and mucous membranes are dry on physical exam. Laboratory values are ordered as seen below.\n\nSerum:\nNa+: 154 mEq/L\nCl-: 100 mEq/L\nK+: 4.3 mEq/L\nHCO3-: 27 mEq/L\nBUN: 20 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.1 mg/dL\n\nWhich of the following is the best next step in management? Options: (A) 0.9% saline IV (C) 5% dextrose IV with 0.45% saline IV (D) Oral free water replacement (B) 5% dextrose IV",
@@ -798,6 +978,26 @@
             "completion_tokens": 5518
         },
         "time_elapsed": 39.57002115249634
+    },
+    {
+        "idx": 448,
+        "realidx": 448,
+        "question": "A 69-year-old male with a longstanding history of hypertension and high cholesterol presents with abdominal pain and \u2018bruising on his feet\u2019. The patient states that his symptoms started about a week ago and have steadily worsened. He describes the abdominal pain as mild to moderate, dull, and deeply localized to the umbilical region. Past medical history is significant for 2 transient ischemic attacks 6 months prior, characterized by a sudden right-sided weakness and trouble speaking but recovered fully within 30 minutes. Current medications are sildenafil 100 mg orally as needed. Patient reports a 30-pack-year smoking history and heavy alcohol use on the weekends. Review of systems is significant for decreased appetite and feeling easily full. Vitals are temperature 37\u00b0C (98.6\u00b0F), blood pressure 155/89 mm Hg, pulse 89/min, respirations 16/min, and oxygen saturation 98% on room air. On physical examination, the patient is alert and cooperative. The cardiac exam is normal. Lungs are clear to auscultation. Carotid bruit present on the right. The abdomen is soft and nontender. Bowel sounds present. A pulsatile abdominal mass is felt in the lower umbilical region. Patient\u2019s feet have the following appearance seen in the picture. Abdominal ultrasound reveals the presence of an abdominal aortic aneurysm (AAA). Contrast CT reveals a small, unruptured AAA (diameter 4.1 cm). High flow supplemental oxygen and fluid resuscitation are initiated. Morphine sulfate and metoprolol are administered. Which of the following is the best course of treatment for this patient?\n  Options: (D) Emergency open surgical repair (B) Elective endovascular repair (C) Elective open surgical repair (A) Discharge with clinical surveillance and ultrasound every 6 months",
+        "answer_idx": "D",
+        "answer": "Emergency open surgical repair",
+        "options": {
+            "A": "Discharge with clinical surveillance and ultrasound every 6 months",
+            "B": "Elective endovascular repair",
+            "C": "Elective open surgical repair",
+            "D": "Emergency open surgical repair"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 36139,
+            "completion_tokens": 14960
+        },
+        "time_elapsed": 107.72052645683289
     },
     {
         "idx": 452,
@@ -838,6 +1038,26 @@
             "completion_tokens": 3712
         },
         "time_elapsed": 26.905710697174072
+    },
+    {
+        "idx": 461,
+        "realidx": 461,
+        "question": "A 58-year-old man comes to the physician because he is unable to achieve erections during sexual intercourse. He first noticed the problem 8 months ago, when he became sexually active with a new girlfriend. He states that his relationship with his girlfriend is good, but his inability to engage in sexual intercourse has been frustrating. He has hyperlipidemia and was diagnosed with major depressive disorder 3 years ago. He works as a lawyer and enjoys his job, but he has had a great deal of stress lately. He had not been sexually active for the previous 3 years, since the death of his wife. He does not smoke. He drinks 4\u20136 beers on weekends. Current medications include simvastatin and citalopram. His temperature is 37.5\u00b0C (99.5\u00b0F), pulse is 80/min, and blood pressure is 135/82 mm Hg. BMI is 30 kg/m2. Pedal pulses are difficult to palpate. The remainder of the physical examination shows no abnormalities. Which of the following is the most appropriate next step in management? Options: (B) Penile prosthesis insertion (A) Psychotherapy (D) Switch citalopram to bupropion (C) Nocturnal penile tumescence testing",
+        "answer_idx": "C",
+        "answer": "Nocturnal penile tumescence testing",
+        "options": {
+            "A": "Psychotherapy",
+            "B": "Penile prosthesis insertion",
+            "C": "Nocturnal penile tumescence testing",
+            "D": "Switch citalopram to bupropion"
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 419410,
+            "completion_tokens": 112114
+        },
+        "time_elapsed": 601.2542495727539
     },
     {
         "idx": 477,
@@ -1020,6 +1240,26 @@
         "time_elapsed": 34.80807876586914
     },
     {
+        "idx": 531,
+        "realidx": 531,
+        "question": "A 24-year-old woman is brought to the emergency room (ER) by her co-workers after they found her unconscious in her cubicle when they returned from lunch. They tell you that she has diabetes but do not know anything more about her condition. The woman\u2019s vital signs include: pulse 110/min, respiratory rate 24/min, temperature 36.7\u00b0C (98.0\u00b0F), and blood pressure 90/60 mm Hg. On physical examination, the patient is breathing heavily and gives irrelevant responses to questions. The skin and mucous membranes appear dry. Examination of the abdomen reveals mild diffuse tenderness to palpation. Deep tendon reflexes in the extremities are 1+ bilaterally. Laboratory studies show:\nFinger stick glucose 630 mg/dL\nArterial blood gas analysis:\npH 7.1\nPO2 90 mm Hg\nPCO2 33 mm Hg\nHCO3 8 mEq/L\nSerum:\nSodium 135 mEq/L\nPotassium 3.1 mEq/L\nChloride 136 mEq/L\nBlood urea nitrogen 20 mg/dL\nSerum creatinine 1.2 mg/dL\nUrine examination shows:\nGlucose Positive\nKetones Positive\nLeukocytes Negative\nNitrite Negative\nRBCs Negative\nCasts Negative\nThe patient is immediately started on a bolus of intravenous (IV) 0.9% sodium chloride (NaCl). Which of the following is the next best step in the management of this patient? Options: (D) Replace potassium intravenously (C) Start IV insulin infusion (A) Infuse NaHCO3 slowly (B) Switch fluids to 0.45% NaCl",
+        "answer_idx": "D",
+        "answer": "Replace potassium intravenously",
+        "options": {
+            "A": "Infuse NaHCO3 slowly",
+            "B": "Switch fluids to 0.45% NaCl",
+            "C": "Start IV insulin infusion",
+            "D": "Replace potassium intravenously"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8834,
+            "completion_tokens": 4297
+        },
+        "time_elapsed": 30.39029836654663
+    },
+    {
         "idx": 560,
         "realidx": 560,
         "question": "A 55-year-old man presents to his primary care physician for a general checkup. The patient has a past medical history of diabetes, hypertension, and atrial fibrillation and is currently taking warfarin, insulin, lisinopril, and metoprolol. The patient\u2019s brother recently died from a heart attack and he has switched to an all vegetarian diet in order to improve his health. His temperature is 98.6\u00b0F (37.0\u00b0C), blood pressure is 167/108 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air. The patient\u2019s physical exam is unremarkable. His laboratory values are ordered as seen below.\n\nHemoglobin: 12 g/dL\nHematocrit: 36%\nLeukocyte count: 7,550/mm^3 with normal differential\nPlatelet count: 197,000/mm^3\nINR: 1.0\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 4.3 mEq/L\nHCO3-: 25 mEq/L\nBUN: 20 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.1 mg/dL\nCa2+: 10.2 mg/dL\n\nWhich of the following is the best explanation for this patient\u2019s laboratory values? Options: (B) Increased hepatic metabolism (D) Medication noncompliance (A) Dietary changes (C) Increased renal clearance",
@@ -1120,6 +1360,26 @@
         "time_elapsed": 39.9333074092865
     },
     {
+        "idx": 596,
+        "realidx": 596,
+        "question": "Six hours after birth, a newborn boy is evaluated for tachypnea. He was delivered at 41 weeks' gestation via Caesarian section and the amniotic fluid was meconium-stained. His respiratory rate is 75/min. Physical examination shows increased work of breathing. X-rays of the abdomen and chest show no abnormalities. Echocardiography shows elevated pulmonary artery pressure. He is started on an inhaled medication that increases smooth muscle cGMP, and there is immediate improvement in his tachypnea and oxygenation status. Three hours later, the newborn is tachypneic and there is blue-grey discoloration of the lips, fingers, and toes. Which of the following is the most likely cause of this infant's cyanosis? Options: (A) Increase in concentration of serum myoglobin (B) Closure of the ductus arteriosus (D) Allosteric alteration of heme groups (C) Oxidization of Fe2+ to Fe3+",
+        "answer_idx": "C",
+        "answer": "Oxidization of Fe2+ to Fe3+",
+        "options": {
+            "A": "Increase in concentration of serum myoglobin",
+            "B": "Closure of the ductus arteriosus",
+            "C": "Oxidization of Fe2+ to Fe3+",
+            "D": "Allosteric alteration of heme groups"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7869,
+            "completion_tokens": 4653
+        },
+        "time_elapsed": 37.232460260391235
+    },
+    {
         "idx": 616,
         "realidx": 616,
         "question": "A 31-year-old man presents to his primary care physician with fevers, chills, and night sweats. After a physical exam and a series of laboratory tests, the patient undergoes a lymph node biopsy (Image A). Three days later, while awaiting treatment, he presents to his physician complaining of generalized swelling and is found to have 4+ protein in his urine. Which of the following pathological findings is most likely to be found on renal biopsy in this patient? Options: (C) Focal segmental glomerulosclerosis (D) Minimal change disease (A) Rapidly progresive glomerulonephritis (B) Amyloidosis",
@@ -1158,6 +1418,26 @@
             "completion_tokens": 5240
         },
         "time_elapsed": 38.3691143989563
+    },
+    {
+        "idx": 634,
+        "realidx": 634,
+        "question": "A 67-year-old woman presents to her primary care physician for urinary incontinence. She has been waking up every morning with her underwear soaked in urine. She notices that at work if she does not take regular bathroom breaks her underwear will have some urine in it. She urinates 5 to 11 times per day but she claims it is a small volume. Her current medications include lisinopril, metformin, insulin, aspirin, atorvastatin, sodium docusate, and loratadine. Her temperature is 98.2\u00b0F (36.8\u00b0C), blood pressure is 167/108 mmHg, pulse is 90/min, respirations are 15/min, and oxygen saturation is 99% on room air. Physical exam is notable for decreased pinprick sensation in the lower extremities and a systolic murmur along the right upper sternal border. Which of the following is the best treatment for this patient? Options: (D) Reduce fluid intake and discontinue diuretics (A) Bethanechol and intermittent straight catheterization (C) No recommendations needed (B) Bethanechol during the day and oxybutynin at night",
+        "answer_idx": "A",
+        "answer": "Bethanechol and intermittent straight catheterization",
+        "options": {
+            "A": "Bethanechol and intermittent straight catheterization",
+            "B": "Bethanechol during the day and oxybutynin at night",
+            "C": "No recommendations needed",
+            "D": "Reduce fluid intake and discontinue diuretics"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 423256,
+            "completion_tokens": 112276
+        },
+        "time_elapsed": 602.9575612545013
     },
     {
         "idx": 651,
@@ -1298,6 +1578,26 @@
             "completion_tokens": 14930
         },
         "time_elapsed": 104.48718810081482
+    },
+    {
+        "idx": 677,
+        "realidx": 677,
+        "question": "A 2-month-old infant is brought to the emergency department by her mother due to a fall. Tearfully, the patient\u2019s mother describes witnessing her child fall from the changing table. The patient was born prematurely at 36 weeks estimated gestational age via vacuum-assisted vaginal delivery. The patient is afebrile. Her vital signs include: blood pressure of 94/60 mm Hg, pulse 200/min, and respiratory rate 70/min. Physical examination reveals a subconjunctival hemorrhage in the left eye and multiple bruises on the chest and back. Which of the following is the best initial step in management of this patient\u2019s condition? Options: (B) Involvement of social services (A) CT scan of the head (C) Family counseling (D) Rule out medical conditions",
+        "answer_idx": "A",
+        "answer": "CT scan of the head",
+        "options": {
+            "A": "CT scan of the head",
+            "B": "Involvement of social services",
+            "C": "Family counseling",
+            "D": "Rule out medical conditions"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7623,
+            "completion_tokens": 6281
+        },
+        "time_elapsed": 38.409486532211304
     },
     {
         "idx": 689,
@@ -1480,6 +1780,46 @@
         "time_elapsed": 36.744664907455444
     },
     {
+        "idx": 764,
+        "realidx": 764,
+        "question": "A 28-year-old woman, gravida 2, para 1, at 40 weeks gestation is brought to the emergency department by her husband. She is in active labor and has lost a lot of blood in the past 2 hours, but appears alert and cooperative. At the hospital, her blood pressure is 88/65 mm Hg, the pulse is 110/min, and the respirations are 23/min. Neither the hospital nor the emergency department is equipped for high-risk pregnancies. The patient and her husband request a transfer to a more capable center. They are informed of the hospital\u2019s obligations under the Emergency Medical Treatment and Labor Act and the risks of transfer. They insist to be transferred. Which of the following is the most appropriate next step in management? Options: (B) Disregard patient\u2019s request and treat until delivery is complete (D) Transfer the patient only if the medical benefits of transfer outweigh the risks (C) Treat and transfer the patient after she makes a written request (A) Decline admission and refer the patient to the closest capable emergency department",
+        "answer_idx": "C",
+        "answer": "Treat and transfer the patient after she makes a written request",
+        "options": {
+            "A": "Decline admission and refer the patient to the closest capable emergency department",
+            "B": "Disregard patient\u2019s request and treat until delivery is complete",
+            "C": "Treat and transfer the patient after she makes a written request",
+            "D": "Transfer the patient only if the medical benefits of transfer outweigh the risks"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8172,
+            "completion_tokens": 4900
+        },
+        "time_elapsed": 39.56382489204407
+    },
+    {
+        "idx": 778,
+        "realidx": 778,
+        "question": "A 3rd year resident in good standing with his residency training program would like to work more hours outside his residency obligations to gain more experience and pay for his medical school loans. He currently works and trains 60 hours per week as a resident and has a 10-hour shift external to his residency program on Saturdays. He is free of any educational and work obligations on Sundays. Based on the most recent standards set by the Accreditation Council for Graduate Medical Education (ACGME), which of the following is the most accurate statement regarding this resident\u2019s moonlighting and patient safety? Options: (A) He is already overcommitting and must reduce the number of hours (C) He may work longer shifts (B) He is not allowed to work outside the scope of his residency training (D) He may work up to 20 more hours",
+        "answer_idx": "C",
+        "answer": "He may work longer shifts",
+        "options": {
+            "A": "He is already overcommitting and must reduce the number of hours",
+            "B": "He is not allowed to work outside the scope of his residency training",
+            "C": "He may work longer shifts",
+            "D": "He may work up to 20 more hours"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7475,
+            "completion_tokens": 6037
+        },
+        "time_elapsed": 43.067325592041016
+    },
+    {
         "idx": 784,
         "realidx": 784,
         "question": "A 42-year-old woman presents to her obstetrician for a prenatal care appointment at 10 weeks gestation. The patient recently found out she was pregnant after having unprotected intercourse with her husband for the past year. She states that she is feeling well and has experienced some nausea and vomiting. She is currently taking prenatal vitamins and folate supplements. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 127/68 mmHg, pulse is 90/min, respirations are 19/min, and oxygen saturation is 98% on room air. On physical exam, you notice a gravid uterus 10 cm above the pubic symphysis. The patient's external genitalia appear within normal limits. Which of the following is the next best step in management? Options: (D) Regular follow up appointments (C) Chorionic villus sampling (A) Amniocentesis (B) Cell-free DNA testing",
@@ -1498,6 +1838,26 @@
             "completion_tokens": 4792
         },
         "time_elapsed": 32.13569664955139
+    },
+    {
+        "idx": 785,
+        "realidx": 785,
+        "question": "A 6-year-old boy is brought to the physician because of abdominal distention, fatigue, and night sweats over the past 4 months. He also has a 2-month history of post-prandial fullness and recurrent nonbilious vomiting. He appears pale. Abdominal examination shows hepatosplenomegaly and shifting dullness; there is mild tenderness to palpation. Examination of the skin shows multiple nonblanching maculae. A CT scan of the abdomen shows mesenteric and retroperitoneal lymph node enlargement and nodular thickening of the omentum. A photomicrograph of a biopsy specimen from an enlarged mesenteric lymph node is shown. Immunohistochemical staining of the Ki-67 nuclear antigen shows that the proliferation index of the specimen is > 99%. The structure indicated by the arrows is most likely which of the following? Options: (B) Human immunodeficiency virus (C) B lymphocytes (A) Neutrophil (D) Macrophage",
+        "answer_idx": "D",
+        "answer": "Macrophage",
+        "options": {
+            "A": "Neutrophil",
+            "B": "Human immunodeficiency virus",
+            "C": "B lymphocytes",
+            "D": "Macrophage"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 16473,
+            "completion_tokens": 7531
+        },
+        "time_elapsed": 176.60175895690918
     },
     {
         "idx": 791,
@@ -1538,6 +1898,26 @@
             "completion_tokens": 5688
         },
         "time_elapsed": 42.55464434623718
+    },
+    {
+        "idx": 822,
+        "realidx": 822,
+        "question": "A 27-year-old man presents to the emergency department due to a change in his skin color. The patient went on a long hike this morning, and his girlfriend noticed that his skin had changed color when they were driving home. The patient has a past medical history of marijuana use, IV drug use, alcohol use, and asthma. His current medications include albuterol, fluticasone, and ibuprofen. His temperature is 97.5\u00b0F (36.4\u00b0C), blood pressure is 120/75 mmHg, pulse is 60/min, respirations are 10/min, and oxygen saturation is 98% on room air. Laboratory studies are ordered and are seen below.\n\nHemoglobin: 10 g/dL\nHematocrit: 32%\nLeukocyte count: 5,500 cells/mm^3 with normal differential\nPlatelet count: 207,000/mm^3\n\nSerum:\nNa+: 139 mEq/L\nCl-: 99 mEq/L\nK+: 4.3 mEq/L\nHCO3-: 24 mEq/L\nBUN: 17 mg/dL\nGlucose: 89 mg/dL\nCreatinine: 1.0 mg/dL\nCa2+: 10.1 mg/dL\nBilirubin, total: 11.3 mg/dL\nBilirubin, direct: 7.8 mg/dL\n\nPhysical exam is notable for a patient with skin that appears yellow/orange. Cardiac, pulmonary, abdominal, and neurological exams are within normal limits. Which of the following is associated with this patient's underlying pathology? Options: (D) Increased consumption of beta-carotene (C) Hyperpigmentation of the liver (B) Decreased UDP-glucuronyl transferase activity (A) A pathology responsive to sofosbuvir",
+        "answer_idx": "C",
+        "answer": "Hyperpigmentation of the liver",
+        "options": {
+            "A": "A pathology responsive to sofosbuvir",
+            "B": "Decreased UDP-glucuronyl transferase activity",
+            "C": "Hyperpigmentation of the liver",
+            "D": "Increased consumption of beta-carotene"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7991,
+            "completion_tokens": 6403
+        },
+        "time_elapsed": 41.376343965530396
     },
     {
         "idx": 829,

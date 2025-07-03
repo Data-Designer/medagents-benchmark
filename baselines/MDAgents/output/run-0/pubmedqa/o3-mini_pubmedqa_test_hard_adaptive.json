@@ -171,6 +171,25 @@
         "time_elapsed": 34.7546489238739
     },
     {
+        "idx": "12630042",
+        "realidx": "12630042",
+        "question": "The long-term survival of patients with gastric cancer is governed by various factors, such as the clinical stage of the cancer, the patient's nutritional state, and the treatment and may be governed by the volume of intraperitoneal adipose tissue. The aim of this study is to clarify the relationship between the degree of the patients' body mass index and their long-term survival.\nGastric cancer patients who had undergone a gastrectomy with D2-lymphadenectomy and with resection A and B according to the criteria of the Japanese Research Society for Gastric Cancer Rules were subgrouped into those patients with a body mass index<0.185 (the lower body mass index group) and those patients with a body mass index>0.210 (the higher body mass index group). The patient's morbidity and long-term survival rate was retrospectively compared between the 2 groups.\nA significantly longer mean survival rate was observed for the lower body mass index group in stage 2 (1667 vs. 1322 days, P = 0.0240). Also, a significantly longer mean survival rate was observed for the higher BMI group in stage 3a (1431 vs. 943, P = 0.0071).\nDoes body mass index (BMI) influence morbidity and long-term survival in gastric cancer patients after gastrectomy? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9691,
+            "completion_tokens": 2751
+        },
+        "time_elapsed": 79.81399750709534
+    },
+    {
         "idx": "12970636",
         "realidx": "12970636",
         "question": "To examine the impact of early discharge on newborn metabolic screening.\nMetabolic screening results were obtained from the Alabama State Lab for all infants born at our hospital between 8/1/97, and 1/31/99, and were matched with an existing database of early discharge infants. An early newborn discharge was defined as a discharge between 24 and 47 hours of age. Metabolic screening tests included phenylketonuria (PKU), hypothyroidism, and congenital adrenal hyperplasia (CAH). Early discharge and traditional stay infants were compared to determine the percentage of newborns screened and the timing of the first adequate specimen.\nThe state laboratory received specimens from 3860 infants; 1324 were on early discharge newborns and 2536 infants in the traditional stay group. At least one filter paper test (PKU, hypothyroidism, and CAH) was collected on 99.2% of early discharge infants and 96.0% of traditional stay infants (P<.0001). Early discharge infants had a higher rate of initial filter paper specimens being inadequate (22.9%) compared with traditional stay infants (14.3%, P<.0001) but had a higher rate of repeat specimens when the initial specimen was inadequate (85.0% early discharge vs 75.3% traditional stay, P=.002). The early discharge group was more likely to have an adequate specimen within the first 9 days of life (1001, 98.8% early discharge vs 2016, 96.7% traditional stay, P=.0005).\nDoes early discharge with nurse home visits affect adequacy of newborn metabolic screening? Options: (A) yes (B) no (C) maybe",
@@ -188,6 +207,25 @@
             "completion_tokens": 2742
         },
         "time_elapsed": 260.6094524860382
+    },
+    {
+        "idx": "14599616",
+        "realidx": "14599616",
+        "question": "Lymphedema may be identified by simpler circumference changes as compared with changes in limb volume.\nNinety breast cancer patients were prospectively enrolled in an academic trial, and seven upper extremity circumferences were measured quarterly for 3 years. A 10% volume increase or greater than 1 cm increase in arm circumference identified lymphedema with verification by a lymphedema specialist. Sensitivity and specificity of several different criteria for detecting lymphedema were compared using the academic trial as the standard.\nThirty-nine cases of lymphedema were identified by the academic trial. Using a 10% increase in circumference at two sites as the criterion, half the lymphedema cases were detected (sensitivity 37%). When using a 10% increase in circumference at any site, 74.4% of cases were detected (sensitivity 49%). Detection by a 5% increase in circumference at any site was 91% sensitive.\nCan a practicing surgeon detect early lymphedema reliably? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8613,
+            "completion_tokens": 3554
+        },
+        "time_elapsed": 37.41643261909485
     },
     {
         "idx": "14627582",
@@ -323,6 +361,25 @@
         "time_elapsed": 35.33694005012512
     },
     {
+        "idx": "17208539",
+        "realidx": "17208539",
+        "question": "The transanal endorectal pull-through (TERPT) is becoming the most popular procedure in the treatment of Hirschsprung disease (HD), but overstretching of the anal sphincters remains a critical issue that may impact the continence. This study examined the long-term outcome of TERPT versus conventional transabdominal (ABD) pull-through for HD.\nRecords of 41 patients more than 3 years old who underwent a pull-through for HD (TERPT, n = 20; ABD, n = 21) were reviewed, and their families were thoroughly interviewed and scored via a 15-item post-pull-through long-term outcome questionnaire. Patients were operated on between the years 1995 and 2003. During this time, our group transitioned from the ABD to the TERPT technique. Total scoring ranged from 0 to 40: 0 to 10, excellent; 11 to 20 good; 21 to 30 fair; 31 to 40 poor. A 2-tailed Student t test, analysis of covariance, as well as logistic and linear regression were used to analyze the collected data with confidence interval higher than 95%.\nOverall scores were similar. However, continence score was significantly better in the ABD group, and the stool pattern score was better in the TERPT group. A significant difference in age at interview between the 2 groups was noted; we therefore reanalyzed the data controlling for age, and this showed that age did not significantly affect the long-term scoring outcome between groups.\nAre the long-term results of the transanal pull-through equal to those of the transabdominal pull-through? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9253,
+            "completion_tokens": 3000
+        },
+        "time_elapsed": 28.75722336769104
+    },
+    {
         "idx": "17445978",
         "realidx": "17445978",
         "question": "To evaluate renal damage and impairment of renal function 1 yr after laparoscopic partial nephrectomy (LPN) with warm ischemia>30 min.\nFrom July 2004 to June 2005, 18 patients underwent LPN with warm ischemia time>30 min. Kidney damage markers (daily proteinuria and tubular enzymes) and renal function (serum creatinine, cystatin C, and creatinine clearances) were assessed on postoperative days 1 and 5 and at 12 mo. Glomerular filtration rate (GFR) was evaluated before surgery and at 3 mo. Renal scintigraphy was performed before the procedure, at 5 d and at 3 and 12 mo postoperatively. Statistical analysis was performed using the Student t test and logistic regression analysis.\nIn terms of kidney damage and renal function markers, the statistical analysis demonstrated that at 1 yr there was complete return to the normal range and no statistical difference between the values at the various time points. The GFR was not significantly different before and 3 mo after surgery. In terms of scintigraphy of the operated kidney, the values were 48.35+/-3.82% (40-50%) before the procedure, 36.88+/-8.42 (16-50%) on postoperative day 5 (p=0.0001), 40.56+/-8.96 (20-50%) at 3 mo (p=0.003), and 42.8+/-7.2% (20-50%) 1 yr after surgery (p=0.001).\nIs renal warm ischemia over 30 minutes during laparoscopic partial nephrectomy possible? Options: (A) yes (B) no (C) maybe",
@@ -418,6 +475,25 @@
         "time_elapsed": 103.82984709739685
     },
     {
+        "idx": "17940352",
+        "realidx": "17940352",
+        "question": "To evaluate the impact of HER2 immunoreactivity on clinical outcome in locally advanced urothelial carcinoma patients who received surgery alone, or methotrexate, vinblastine, epirubicin, and cisplatin (M-VEC) as adjuvant chemotherapy.\nWe studied 114 formalin-fixed paraffin-embedded specimens obtained from locally advanced urothelial carcinoma patients receiving surgery alone or adjuvant M-VEC. The authors evaluated HER2 immunoreactivity using immunohistochemical staining and explored the influence of pathological parameters and HER2 immunoreactivity on progression-free survival (PFS) and disease-specific overall survival (OS) using univariate and multivariate Cox's analyses.\nUrothelial carcinoma of the bladder had a significantly higher frequency of HER2 immunoreactivity than that of the upper urinary tract (60.7 vs. 20.7%, p<0.0001). Overall, nodal status was a strong and independent prognostic indicator for clinical outcome. The HER2 immunoreactivity was significantly associated with PFS (p = 0.02) and disease-specific OS (p = 0.005) in advanced urothelial carcinoma patients. As for patients with adjuvant M-VEC, HER2 immunoreactivity was a significant prognostic factor for PFS (p = 0.03) and disease-specific OS (p = 0.02) using univariate analysis, but not multivariate analysis, and not for patients receiving watchful waiting.\nDoes HER2 immunoreactivity provide prognostic information in locally advanced urothelial carcinoma patients receiving adjuvant M-VEC chemotherapy? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10509,
+            "completion_tokens": 3021
+        },
+        "time_elapsed": 36.35236072540283
+    },
+    {
         "idx": "18235194",
         "realidx": "18235194",
         "question": "In a prospective study 218 preschool children were enrolled (stratified in 2 training programs, one specialized for phonologic awareness in order to prevent dyslexia, the other consisting in training of general perception) during the last year of kindergarten. After finishing the first grade 131 children were compared in their reading and writing abilities.\nIn the whole group only a slight difference was found between both training modalities concerning their writing abilities. However, children with a history of hearing loss, actual hearing loss or pathologic middle ear findings profited most from the specialized training program compared to the control in their reading abilities.\nIs a specialised training of phonological awareness indicated in every preschool child? Options: (C) maybe (B) no (A) yes",
@@ -454,6 +530,44 @@
             "completion_tokens": 44604
         },
         "time_elapsed": 1130.2726969718933
+    },
+    {
+        "idx": "18359123",
+        "realidx": "18359123",
+        "question": "Swedish hospital mergers seem to stem from a conviction among policy makers that bigger hospitals lead to lower average costs and improved clinical outcomes. The effects of mergers in the form of multisited hospitals have not been systematically evaluated. The purpose of this article is to contribute to this area of knowledge by exploring responses to the merger of Blekinge Hospital.\nThe evaluation was guided by the philosophy of triangulation. A questionnaire was sent to 597 randomly selected employees, that is 24% of the health care staff. Four hundred ninety-eight employees answered the questionnaire, giving a response rate of 83%. Furthermore, interviews of different groups of stakeholders were conducted.\nA moderate increase of quality was assessed, which, a low proportion of the employees perceived had decisively or largely to do with the merger. The majority perceives economical incentives as the drivers of change, but, at the same time, only 10% of this group believes this target was reached completely or to a large extent.\nIs it better to be big? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10118,
+            "completion_tokens": 3198
+        },
+        "time_elapsed": 38.06107783317566
+    },
+    {
+        "idx": "18496363",
+        "realidx": "18496363",
+        "question": "To characterize the gender dimorphism after injury with specific reference to the reproductive age of the women (young,<48 yrs of age, vs. old,>52 yrs of age) in a cohort of severely injured trauma patients for which significant variation in postinjury care is minimized.\nSecondary data analysis of an ongoing prospective multicenter cohort study.\nAcademic, level I trauma and intensive care unit centers.\nBlunt-injured adults with hemorrhagic shock.\nNone.\nSeparate Cox proportional hazard regression models were formulated based on all patients to evaluate the effects of gender on mortality, multiple organ failure, and nosocomial infection, after controlling for all important confounders. These models were then used to characterize the effect of gender in young and old age groups. Overall mortality, multiple organ failure, and nosocomial infection rates for the entire cohort (n = 1,036) were 20%, 40%, and 45%, respectively. Mean Injury Severity Score was 32 +/- 14 (mean +/- SD). Men (n = 680) and women (n = 356) were clinically similar except that men required higher crystalloid volumes, more often had a history of alcoholism and liver disease, and had greater ventilatory and intensive care unit requirements. Female gender was independently associated with a 43% and 23% lower risk of multiple organ failure and nosocomial infection, respectively. Gender remained an independent risk factor in young and old subgroup analysis, with the protection afforded by female gender remaining unchanged.\nCharacterization of the gender dimorphism after injury and hemorrhagic shock: are hormonal differences responsible? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 14909,
+            "completion_tokens": 5191
+        },
+        "time_elapsed": 173.03668975830078
     },
     {
         "idx": "18565233",
@@ -570,6 +684,25 @@
         "time_elapsed": 1109.4898965358734
     },
     {
+        "idx": "19351635",
+        "realidx": "19351635",
+        "question": "National guidelines and government directives have adopted policies for urgent assessment of patients with a transient ischaemic attack or minor stroke not admitted to hospital. The risk of recurrent stroke increases substantially with age, as does the potential benefit of secondary prevention. In order to develop effective strategies for older patients, it is important to identify how stroke care is currently provided for this patient group.\nBetween 2004 and 2006, older patients (>75 years) referred to a neurovascular clinic were compared with younger patients (<or =75 years). Sociodemographic details, clinical features, resource use and secondary prevention in a neurovascular clinic were collected.\nOf 379 patients referred to the clinic, 129 (34%) were given a non-stroke diagnosis. Of the remaining 250 patients, 149 (60%) were<or =75 years. Median time from symptom onset to clinic appointment was similar for the two groups (24 (IQR 15-42) vs 24 (IQR 14-43) days; p = 0.58). Older patients were more likely to be in atrial fibrillation (10.1% vs 22.8%, p<0.001) and have lacunar stroke (34.7% vs 22.1%; p = 0.04). CT rates were similar in the two groups (27.8% vs 80.0%, p = 0.75). Scans were performed more quickly in younger patients (p<0.01). MRI scan rates were higher in younger patients (26% vs 4%, p<0.01), as was carotid Doppler imaging (92% vs 77%, p<0.01). There were no differences in prescribed secondary preventive treatments. Older patients experienced less delay for carotid endarterectomy (49 vs 90 days, p<0.01). Younger patients were more likely to be given advice on weight reduction (30.2% vs 12.9%, p<0.01) and diet (46.3% vs 31.7%, p = 0.02) than older patients.\nDo older patients receive adequate stroke care? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10949,
+            "completion_tokens": 4270
+        },
+        "time_elapsed": 72.56224703788757
+    },
+    {
         "idx": "19430778",
         "realidx": "19430778",
         "question": "To correlate magnetic resonance (MR) image findings with pain response by provocation discography in patients with discogenic low back pain, with an emphasis on the combination analysis of a high intensity zone (HIZ) and disc contour abnormalities.\nSixty-two patients (aged 17-68 years) with axial low back pain that was likely to be disc related underwent lumbar discography (178 discs tested). The MR images were evaluated for disc degeneration, disc contour abnormalities, HIZ, and endplate abnormalities. Based on the combination of an HIZ and disc contour abnormalities, four classes were determined: (1) normal or bulging disc without HIZ; (2) normal or bulging disc with HIZ; (3) disc protrusion without HIZ; (4) disc protrusion with HIZ. These MR image findings and a new combined MR classification were analyzed in the base of concordant pain determined by discography.\nDisc protrusion with HIZ [sensitivity 45.5%; specificity 97.8%; positive predictive value (PPV), 87.0%] correlated significantly with concordant pain provocation (P<0.01). A normal or bulging disc with HIZ was not associated with reproduction of pain. Disc degeneration (sensitivity 95.4%; specificity 38.8%; PPV 33.9%), disc protrusion (sensitivity 68.2%; specificity 80.6%; PPV 53.6%), and HIZ (sensitivity 56.8%; specificity 83.6%; PPV 53.2%) were not helpful in the identification of a disc with concordant pain.\nCan magnetic resonance imaging accurately predict concordant pain provocation during provocative disc injection? Options: (B) no (A) yes (C) maybe",
@@ -587,6 +720,25 @@
             "completion_tokens": 2970
         },
         "time_elapsed": 84.08352279663086
+    },
+    {
+        "idx": "19468282",
+        "realidx": "19468282",
+        "question": "Prospective multicenter longitudinal cohort study.\nTo validate the prognostic value of the acute phase sacral sparing measurements with regard to chronic phase-independent ambulation in patients with traumatic spinal cord injury (SCI).\nEuropean Multicenter Study of Human Spinal Cord Injury (EM-SCI).\nIn 432 patients, acute phase (0-15 days) American Spinal Injury Association (ASIA)/International Spinal Cord Society neurological standard scale (AIS) grades, ASIA sacral sparing measurements, which are S4-5 light touch (LT), S4-5 pin prick (PP), anal sensation and voluntary anal contraction; and chronic phase (6 or 12 months) indoor mobility Spinal Cord Independence Measure (SCIM) measurements were analyzed. Calculations of positive and negative predictive values (PPV/NPV) as well as univariate and multivariate logistic regressions were performed in all four sacral sparing criteria. The area under the receiver-operating characteristic curve (AUC) ratios of all regression equations was calculated.\nTo achieve independent ambulation 1-year post injury, a normal S4-5 PP score showed the best PPV (96.5%, P<0.001, 95% confidence interval (95% CI): 87.9-99.6). Best NPV was reported in the S4-5 LT score (91.7%, P<0.001, 95% CI: 81.6-97.2). The use of the combination of only voluntary anal contraction and the S4-5 LT and PP sensory scores (AUC: 0.906, P<0.001, 95% CI: 0.871-0.941) showed significantly better (P<0.001, 95% CI: 0.038-0.128) discriminating results in prognosticating 1-year independent ambulation than with the use of currently used distinction between complete and incomplete SCI (AUC: 0.823, P<0.001, 95% CI: 0.781-0.864).\nIs determination between complete and incomplete traumatic spinal cord injury clinically relevant? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8860,
+            "completion_tokens": 3557
+        },
+        "time_elapsed": 36.963603496551514
     },
     {
         "idx": "19578820",
@@ -627,6 +779,25 @@
         "time_elapsed": 35.88268804550171
     },
     {
+        "idx": "20337202",
+        "realidx": "20337202",
+        "question": "To determine the duration of continuing pregnancy after antenatal corticosteroid (AC) administration and to evaluate the potential opportunity for rescue AC.\nRetrospective analysis of women at 24-32 weeks' gestation who received AC at one institution.\nSix hundred ninety-two women received AC. Two hundred forty-seven (35.7%) delivered at>or = 34 weeks' gestation. Three hundred twenty-one (46.4%) delivered within 1 week of AC; 92 of those women (13.3%) delivered within 24 hours. Only 124 (17.9%) remained pregnant 1 week after AC and delivered at<34 weeks. The latter were compared to women delivering>2 week after AC but>or = 34 weeks. More likely to deliver at<34 weeks were those women who received AC for premature preterm rupture of membranes (OR 3.83, 95% CI 2.06-7.17), twins (OR 2.90, 95% CI 1.42-5.95) or before 28 weeks (OR 2.21, 95% CI 1.38-3.52).\nContinuation of pregnancy after antenatal corticosteroid administration: opportunity for rescue? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9137,
+            "completion_tokens": 3099
+        },
+        "time_elapsed": 36.66285014152527
+    },
+    {
         "idx": "20538207",
         "realidx": "20538207",
         "question": "It is generally considered that kidney grafts should be preserved at 4 degrees C during cold storage. However, actual temperature conditions are not known. We decided to study the temperature levels during preservation with the Biotainer storage can and Vitalpack transport pack.\nTemperature was monitored using the Thermobouton probe during preservation of pig kidneys, in the same conditions used with human grafts. The probe recorded the temperature level every 10 minutes during four days. We compared the results found with the new storage can with results obtained in the same conditions with the storage can formerly used by our team. We also studied the best position of the probe for temperature monitoring and the influence of the amount of ice within the transport pack on the temperature level. We then monitored the temperature during the conservation of actual human kidney grafts harvested at our institution from August 2007 to May 2008.\nThe temperature levels were the same regardless of the position of the probe within the transport pack. The lowest temperature was maintained during 15 hours, and the temperature level stayed below 5 degrees C for 57 hours with the new storage can. The former storage can maintained the lowest temperature level for 80 minutes, and temperature reached 5 degrees C after 10 hours 40 minutes. Temperature levels were similar when 2 or 4 kg of crushed ice were used. We observed similar results when monitoring the conservation of human grafts.\nShould temperature be monitorized during kidney allograft preservation? Options: (C) maybe (B) no (A) yes",
@@ -663,6 +834,25 @@
             "completion_tokens": 2389
         },
         "time_elapsed": 659.9534435272217
+    },
+    {
+        "idx": "20971618",
+        "realidx": "20971618",
+        "question": "Cutaneous infections such as impetigo contagiosum (IC), molluscum contagiosum (MC) and herpes virus infection (HI) appear to be associated with atopic dermatitis (AD), but there are no reports of concrete epidemiological evidence.\nWe evaluated the association of childhood AD with these infections by conducting a population-based cross-sectional study.\nEnrolled in this study were 1117 children aged 0-6 years old attending nursery schools in Ishigaki City, Okinawa Prefecture, Japan. Physical examination was performed by dermatologists, and a questionnaire was completed on each child's history of allergic diseases including AD, asthma, allergic rhinitis and egg allergy, and that of skin infections including IC, MC and HI, as well as familial history of AD.\nIn 913 children (AD; 132), a history of IC, MC or HI was observed in 45.1%, 19.7%, and 2.5%, respectively. Multiple logistic regression analysis revealed that the odds of having a history of IC were 1.8 times higher in AD children than in non-AD children. Meanwhile, a history of MC was significantly correlated to the male gender, but not to a personal history of AD. As for HI, we found no correlated factors in this study.\nAre lifetime prevalence of impetigo, molluscum and herpes infection really increased in children having atopic dermatitis? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9806,
+            "completion_tokens": 3166
+        },
+        "time_elapsed": 36.02295398712158
     },
     {
         "idx": "21164063",
@@ -760,6 +950,44 @@
         "time_elapsed": 45.66321349143982
     },
     {
+        "idx": "22491528",
+        "realidx": "22491528",
+        "question": "To determine if composite measures based on process indicators are consistent with short-term outcome indicators in surgical colorectal cancer care.\nLongitudinal analysis of consistency between composite measures based on process indicators and outcome indicators for 85 Dutch hospitals.\nThe Dutch Surgical Colorectal Audit database, the Netherlands.\n4732 elective patients with colon carcinoma and 2239 with rectum carcinoma treated in 85 hospitals were included in the analyses.\nAll available process indicators were aggregated into five different composite measures. The association of the different composite measures with risk-adjusted postoperative mortality and morbidity was analysed at the patient and hospital level.\nAt the patient level, only one of the composite measures was negatively associated with morbidity for rectum carcinoma. At the hospital level, a strong negative association was found between composite measures and hospital mortality and morbidity rates for rectum carcinoma (p<0.05), and hospital morbidity rates for colon carcinoma.\nCombining process indicators to evaluate quality of care for surgical patients with colorectal cancer: are scores consistent with short-term outcome? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 13989,
+            "completion_tokens": 3829
+        },
+        "time_elapsed": 408.1024520397186
+    },
+    {
+        "idx": "22617083",
+        "realidx": "22617083",
+        "question": "To examine age-related differences in the relationship between personality and coping strategies in an Australian population of psychiatric inpatients.\nConsenting eligible adults (N=238) from 18-100 years of age consecutively admitted to inpatient psychiatry units were assessed using the SCID I and II, the Coping Orientations to Problems Experienced Scale (COPE), the Brief Psychiatric Rating Scale (BPRS), the Global Assessment of Functioning Scale (GAF), the Social and Occupational Functioning Assessment Scale (SOFAS), the 12 Item Short-Form Heath Survey (SF12), the Sarason Social Support Questionnaire, and the NEO Five Factor Inventory (NEO-FFI) (cognitively impaired, and non-English speaking patients were excluded).\nOlder adults reported less symptomatology than younger patients and younger patients described more personality dysfunction than older patients. As assessed by the COPE, older adults reported lower levels of dysfunctional coping strategies than younger adults. Personality traits, social supports, gender, and age predicted coping strategies, while Axis I diagnosis, education, personality disorder, and symptom severity were not significant predictors of coping strategies.\nDoes age moderate the effect of personality disorder on coping style in psychiatric inpatients? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9544,
+            "completion_tokens": 2843
+        },
+        "time_elapsed": 33.394174098968506
+    },
+    {
         "idx": "23422012",
         "realidx": "23422012",
         "question": "Vancomycin is the primary treatment for infections caused by methicilin-resistant Staphylococcus aureus (MRSA). The association of vancomycin treatment failures with increased vancomycin minimum inhibitory concentration (MIC) is a well-recognized problem. A number of single-centre studies have identified progressive increases in glycopeptide MICs for S. aureus strains over recent years - a phenomenon known as vancomycin MIC creep. It is unknown if this is a worldwide phenomenon or if it is localized to specific centers.\nThe aim of this study was to evaluate the trend of vancomycin MIC for isolates of MRSA over a 3-year period in a tertiary university hospital in Portugal. MRSA isolates from samples of patients admitted from January 2007 to December 2009 were assessed. Etest method was used to determine the respective vancomycin MIC. Only one isolate per patient was included in the final analysis.\nA total of 93 MRSA isolates were studied. The vancomycin MICs were 0.75, 1, 1.5 and 2 mg/L for 1 (1.1%), 19 (20.4%), 38 (40.9%), 35 (37.6%) isolates, respectively. During the 3 year period, we observed a significant fluctuation in the rate of MRSA with a vancomycin MIC\u2009>\u20091 mg/L (2007: 86.2%; 2008: 93.3%; 2009: 58.8%, p\u2009=\u20090.002). No MRSA isolate presented a MIC\u2009>\u20092 mg/L.\nIs vancomycin MIC creep a worldwide phenomenon? Options: (A) yes (C) maybe (B) no",
@@ -798,6 +1026,25 @@
         "time_elapsed": 213.47166323661804
     },
     {
+        "idx": "24139705",
+        "realidx": "24139705",
+        "question": "Each patient received a smartphone with an insulin dose advisor (IDA) and with (G3 group) or without (G2 group) the telemonitoring/teleconsultation function. Patients were classified as \"high users\" if the proportion of \"informed\" meals using the IDA exceeded 67% (median) and as \"low users\" if not. Also analyzed was the respective impact of the IDA function and teleconsultations on the final HbA1c levels.\nAmong the high users, the proportion of informed meals remained stable from baseline to the end of the study 6months later (from 78.1\u00b121.5% to 73.8\u00b125.1%; P=0.107), but decreased in the low users (from 36.6\u00b129.4% to 26.7\u00b128.4%; P=0.005). As expected, HbA1c improved in high users from 8.7% [range: 8.3-9.2%] to 8.2% [range: 7.8-8.7%]in patients with (n=26) vs without (n=30) the benefit of telemonitoring/teleconsultation (-0.49\u00b10.60% vs -0.52\u00b10.73%, respectively; P=0.879). However, although HbA1c also improved in low users from 9.0% [8.5-10.1] to 8.5% [7.9-9.6], those receiving support via teleconsultation tended to show greater improvement than the others (-0.93\u00b10.97 vs -0.46\u00b11.05, respectively; P=0.084).\nTelemedicine and type 1 diabetes: is technology per se sufficient to improve glycaemic control? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10092,
+            "completion_tokens": 2983
+        },
+        "time_elapsed": 33.50470304489136
+    },
+    {
         "idx": "24318956",
         "realidx": "24318956",
         "question": "Digoxin is a commonly used medication for heart failure and cardiac arrhythmias that has recently been suggested as a novel chemotherapeutic agent. Preclinical studies of prostate cancer (PCa) have shown anti-tumor activity with digoxin. We explore the relationship between use of digoxin and PCa risk.\nData from a population-based case-control study of incident cases aged 35-74 years at PCa diagnosis in 2002-2005 in King County, Washington were available. Controls were identified by random digit dialing and frequency matched by age. Use of digoxin was determined from in-person questionnaires regarding medical and prescription history. The relationship of digoxin use with PCa risk was evaluated with logistic regression.\nOne thousand one cases of PCa and 942 controls were analyzed. The prevalence of digoxin use in controls was 2.7%, and use was positively correlated with age. In multivariate analysis adjusting for age, race, PSA screening, and family history of PCa, digoxin use was associated with a reduction in the odds ratio of PCa (OR 0.58, 95% CI: 0.30-1.10). Among those with \u22653 PSA tests over the preceding 5 years (546 cases, 380 controls), digoxin use was associated with a stronger reduction of PCa risk (OR 0.44, 95% CI: 0.20-0.98).\nIs digoxin use for cardiovascular disease associated with risk of prostate cancer? Options: (C) maybe (B) no (A) yes",
@@ -815,6 +1062,25 @@
             "completion_tokens": 2782
         },
         "time_elapsed": 176.19399428367615
+    },
+    {
+        "idx": "24352924",
+        "realidx": "24352924",
+        "question": "The purpose of this study was to investigate the efficacy of ultrasonography to confirm Schanz pin placement in a cadaveric model, and the interobserver repeatability of the ultrasound methodology.\nThis investigation is a repeated measures cadaveric study with multiple examiners.\nCadaveric preparation and observations were done by an orthopaedic traumatologist and resident, and two general surgery traumatologists.\nA total of 16 Schanz pins were equally placed in bilateral femora and tibiae. Four examiners took measurements of pin protrusion beyond the distal cortices using first ultrasonography and then by direct measurement after gross dissection.MAIN OUTCOME MEASURE(S): Distal Schanz pin protrusion length measurements from both ultrasonography and direct measurement post dissection.\nSchanz pin protrusion measurements are underestimated by ultrasonography (p<0.01) by an average of 10 percent over the range of 5 to 18 mm, and they display a proportional bias that increases the under reporting as the magnitude of pin protrusion increases. Ultrasound data demonstrate good linear correlation and closely represent actual protrusion values in the 5 to 12 mm range. Interobserver repeatability analysis demonstrated that all examiners were not statistically different in their measurements despite minimal familiarity with the ultrasound methodology (p>0.8).\nIs portable ultrasonography accurate in the evaluation of Schanz pin placement during extremity fracture fixation in austere environments? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9911,
+            "completion_tokens": 2582
+        },
+        "time_elapsed": 32.89476943016052
     },
     {
         "idx": "24359102",
@@ -969,6 +1235,25 @@
         "time_elapsed": 364.31306195259094
     },
     {
+        "idx": "25371231",
+        "realidx": "25371231",
+        "question": "The aetiology of osteochondritis dissecans is still unclear. The aim of this prospective pilot study was to analyse whether vitamin D insufficiency, or deficiency, might be a contributing etiological factor in the development of an OCD lesion.\nThe serum level of vitamin D3 in 23 consecutive patients (12 male and 11 female) suffering from a stage III, or stages III and IV, OCD lesion (mostly stage III) admitted for surgery was measured.\nThe patients' mean age was 31.3\u00a0years and most of them already exhibited closed epiphyseal plates. In the majority of patients (18/23), a distinct vitamin D3 deficiency was found, two patients were vitamin D3-insufficient and, in three patients, the vitamin D3 level reached the lowest normal value.\nIs vitamin D insufficiency or deficiency related to the development of osteochondritis dissecans? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9361,
+            "completion_tokens": 2805
+        },
+        "time_elapsed": 36.68168592453003
+    },
+    {
         "idx": "25488308",
         "realidx": "25488308",
         "question": "The proper angle of miniscrew insertion is important for cortical anchorage, patient safety, and biomechanical control. The purposes of this study are to report the alveolar process thickness and inter-radicular space in the posterior region of the mandible, to assess the impact of different miniscrew insertion angle protocols, and to identify differences between the genders or types of malocclusion.\nIn this retrospective study, 100 individuals were selected for orthodontic treatment at a radiology clinic. Cone-beam computed tomography data were imported into 3-dimensional software. The predictor variable was the location in the mandible and insertion angle. The demographic variables collected included age, gender, and malocclusion (Angle Classes I and II). The primary outcome variables were bone thickness and inter-radicular space. The inter-radicular spaces were evaluated 5 mm from the cement-enamel junction. The bone thicknesses were taken at 45\u00b0, 60\u00b0, and 90\u00b0 in relation to the alveolar ridge, simulating a miniscrew insertion. These factors were evaluated for sexual dimorphism and malocclusion (Angle Classes I and II). Sexual dimorphism and malocclusion were evaluated with t tests. To compare the inter-radicular space and the thickness of bone between areas, an analysis of variance for repeated measures was used.\nThe sample was composed of 100 patients with a mean age of 17.4 \u00b1 6.74 years. There were 61 female and 39 male patients and 60 Class I and 40 Class II molar relationships. The inter-radicular space ranged from 2.46 to 3.31 mm, and alveolar bone thickness ranged from 8.01 to 13.77 mm. The thickness tended to decrease with the increase in insertion angle from 45\u00b0 to 90\u00b0. No significant differences between the genders or types of malocclusion were found.\nCan bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites? Options: (A) yes (C) maybe (B) no",
@@ -1007,6 +1292,25 @@
         "time_elapsed": 182.64457440376282
     },
     {
+        "idx": "25779009",
+        "realidx": "25779009",
+        "question": "There is no standard protocol for the evaluation of antiseptics used for skin and mucous membranes in the presence of interfering substances. Our objective was to suggest trial conditions adapted from the NF EN 13727 standard, for the evaluation of antiseptics used in gynecology and dermatology.\nThree antiseptic solutions were tested in vitro: a chlorhexidine-benzalkonium (CB) combination, a hexamidine-chlorhexidine-chlorocresol (HCC) combination, and povidone iodine (P). The adaptation of trial conditions to the standard involved choosing dilutions, solvent, and interfering substances. The activity of solutions was assessed on the recommended strains at concentrations of 97% (pure solution), 50%, and 10% (diluted solution), and 1%. A logarithmic reduction \u2265 5 was expected after 60seconds of contact, to meet requirements of bactericidal activity.\nHCC did not present any bactericidal activity except on P. aeruginosa at a concentration of 97%. P was not bactericidal on E. hirae at any concentration and on S. aureus at 97%. CB had the most homogeneous bactericidal activity with a reduction>5 log on the 4 bacterial strains at concentrations of 97%, 50% and 10%.\nBactericidal activity of 3 cutaneous/mucosal antiseptic solutions in the presence of interfering substances: Improvement of the NF EN 13727 European Standard? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10103,
+            "completion_tokens": 3746
+        },
+        "time_elapsed": 40.030396461486816
+    },
+    {
         "idx": "25793749",
         "realidx": "25793749",
         "question": "Although the Internet is commonly used to recruit samples in studies of human immunodeficiency virus (HIV)-related risk behaviors, it has not been used to measure patient-reported well-being. As the burden of long-term chronic HIV infection rises, the Internet may offer enormous potential for recruitment to research and interventions.\nThis study aimed to compare two samples of gay men living with HIV, one recruited via the Web and the other recruited in outpatient settings, in terms of self-reported physical and psychological symptom burden.\nThe Internet sample was recruited from a UK-wide Web-based survey of gay men with diagnosed HIV. Of these, 154 respondents identified themselves as resident in London and were included in this analysis. The HIV clinic sample was recruited from five HIV outpatient clinics. Of these participants, 400 gay men recruited in London clinics were included in this analysis.\nThe Web-based sample was younger than the clinic sample (37.3 years, SD 7.0 vs 40.9 years, SD 8.3), more likely to be in paid employment (72.8%, 99/136 vs 60.1%, 227/378), less likely to be on antiretroviral therapy (ART) (58.4%, 90/154 vs 68.0%, 266/391), and had worse mean psychological symptom burden compared to the clinic sample (mean scores: 1.61, SD 1.09 vs 1.36, SD 0.96) but similar physical symptom burden (mean scores: 0.78, SD 0.65 vs 0.70, SD 0.74). In multivariable logistic regression, for the physical symptom burden model, adjusted for age, ethnicity, employment status, and ART use, the recruitment setting (ie, Web-based vs clinic) was not significantly associated with high physical symptom score. The only variable that remained significantly associated with high physical symptom score was employment status, with those in employment being less likely to report being in the upper (worst) physical symptom tertile versus the other two tertiles (adjusted OR 0.41, 95% CI 0.28-0.62, P<.001). For the psychological symptom burden model, those recruited via the Web were significantly more likely to report being in the upper (worst) tertile (adjusted OR 2.20, 95% CI 1.41-3.44, P=.001). In addition, those in employment were less likely to report being in the upper (worst) psychological symptom tertile compared to those not in employment (adjusted OR 0.32, 95% CI 0.21-0.49, P<.001).\nDo Web-based and clinic samples of gay men living with HIV differ on self-reported physical and psychological symptoms? Options: (A) yes (B) no (C) maybe",
@@ -1043,6 +1347,25 @@
             "completion_tokens": 2682
         },
         "time_elapsed": 424.9803874492645
+    },
+    {
+        "idx": "26606599",
+        "realidx": "26606599",
+        "question": "To determine the relationship between injury severity surrogates and other patient factors with the development and severity of heterotopic ossification (HO) following open reduction internal fixation of acetabular fractures treated with a posterior approach.\nRetrospective review.\nAcademic level 1 trauma center.\nTwo hundred forty-one patients who were treated through a posterior approach with a minimum of 6-month radiographic follow-up were identified from an acetabular fracture database.\nNone.\nThe occurrence and severity (Brooker Grade III/IV) of HO 6 months postsurgery.\nLength of stay (LOS) in the intensive care unit (ICU), non-ICU LOS>10 days, and HO prophylaxis with external radiation beam therapy (XRT) were significantly associated with the development of HO in a multivariate model [\n1-2 days, odds ratio (OR) = 4.33, 95% confidence interval (CI): 1.03-18.25; 3-6 days, OR = 4.1, 95% CI, 1.27-13.27;>6 days, OR = 11.7, 95% CI, 3.24-42.22; non-ICU LOS>10 days (vs. 0-6 days): OR = 7.6, 95% CI, 2.6-22.25; XRT HO prophylaxis: OR = 0.29, 95% CI, 0.10-0.85]. Other variables evaluated in multivariate modeling not significantly associated with development and severity of HO included age, gender, mechanism of injury, injury severity score, presence of neurologic injury, Letournel fracture type, occurrence of hip dislocation, interval from injury to surgery, operative time, and estimated blood loss.\nDo Surrogates of Injury Severity Influence the Occurrence of Heterotopic Ossification in Fractures of the Acetabulum? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10525,
+            "completion_tokens": 2670
+        },
+        "time_elapsed": 33.00058722496033
     },
     {
         "idx": "26708803",
@@ -1121,6 +1444,25 @@
         "time_elapsed": 31.2242648601532
     },
     {
+        "idx": "27136599",
+        "realidx": "27136599",
+        "question": "Patient data were retrospectively collected from a database for gynaecological cancer procedures carried out between January 2013 and July 2015. All patients who underwent a colorectal resection during cytoreduction were included in the study. The primary outcome was anastomotic leakage in the presence or absence of a diverting stoma. Secondary outcome parameters were complications and reoperations.\nIn the period of study, 43 major colorectal procedures were performed on 37 women. The most common colorectal procedure was low rectal resection (n\u00a0=\u00a022; 59%) followed by anterior rectal resection (n\u00a0=\u00a07; 19%) and sigmoid resection (n\u00a0=\u00a04; 11%). Five (14%) patients underwent Hartmann's procedure. In three (8%) patients, a diverting loop ileostomy was created.\nIs it safe to perform rectal anastomosis in gynaecological debulking surgery without a diverting stoma? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 16103,
+            "completion_tokens": 4854
+        },
+        "time_elapsed": 192.94391441345215
+    },
+    {
         "idx": "27217036",
         "realidx": "27217036",
         "question": "Longer duration of neoadjuvant (NA) imatinib\u00a0(IM) used for locally advanced (LA) gastrointestinal stromal tumours (GIST) is not based on biology of the tumour reflected by kit mutation analysis.\nLA or locally recurrent (LR) GIST treated with NA IM from May 2008 to March 2015 from a prospective database were included in\u00a0the analysis. Archived formalin-fixed paraffin-embedded tissues (FFPE) were used for testing KIT exons 9, 11, 13 and 17 by PCR.\nOne hundred twenty-five patients with LA or LR GIST were treated with NA IM. Forty-five patients (36\u00a0%) had undergone c-kit mutation testing. Exon 11 was seen in 25 patients (55.5\u00a0%), 3 with exon 9 (6.7\u00a0%) and 2 with exon 13 (4.4\u00a0%). Twelve were wild type (26.6\u00a0%) and \u00a03 (6.7 %) were declared uninterpretable. Response rate (RR) for the exon 11 mutants was higher than the non-exon 11 mutant group (84 vs. 40\u00a0%, p\u2009=\u20090.01). Disease stabilization rate (DSR) rates were also higher in the exon 11 subgroup than non-exon 11 group (92 vs. 75\u00a0%). Eighty-four per cent exon 11 and 75\u00a0% non-exon 11 mutants were surgical candidates. Patients undergoing surgery had significantly improved event free survival (EFS) (p\u2009<\u20090.001) compared to patients not undergoing surgery, with the same trend seen in OS (p\u2009=\u20090.021). Patients with a SD on response to NA IM had a lower EFS (p\u2009=\u20090.076) and OS compared to patients achieving CR/PR. There were no differences between the various exon variants in terms of outcomes and responses\nNeoadjuvant Imatinib in Locally Advanced Gastrointestinal stromal Tumours, Will Kit Mutation Analysis Be a Pathfinder? Options: (C) maybe (A) yes (B) no",
@@ -1157,6 +1499,25 @@
             "completion_tokens": 2468
         },
         "time_elapsed": 125.6944363117218
+    },
+    {
+        "idx": "27643961",
+        "realidx": "27643961",
+        "question": "Comorbid major depression (MD) and alcohol use disorder (AUD), particularly in adolescents, have been shown to be associated with poorer subsequent MD outcomes.\nLongitudinal data were used to model associations between a four-level classification of MD/AUD during the period 15-18 years (neither; MD-only; AUD-only; comorbid MD/AUD) and MD over the period 18-35 years. These associations were then adjusted for confounding by a series of factors measured in childhood.\nThe three disorder groups had rates of adult MD during the period 18-35 years that were significantly (p<.05) higher than that of the group with no disorder. Furthermore, those in the comorbid MD/AUD group had significantly (p<.05) higher rates of adult MD than those in the AUD-only group, and marginally (p<.10) higher rates of adult MD than those in the MD-only group. After adjustment for confounding, the difference in rates of adult MD between the MD-only group and the MD/AUD group were no longer statistically significant. The factors that explained the associations were gender, childhood behavior problems, and exposure to physical and sexual abuse.\nThe data were obtained by self-report, and may have been subject to biases.\nMajor depression and alcohol use disorder in adolescence: Does comorbidity lead to poorer outcomes of depression? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10981,
+            "completion_tokens": 3803
+        },
+        "time_elapsed": 38.43229126930237
     },
     {
         "idx": "28359277",
@@ -1214,6 +1575,25 @@
             "completion_tokens": 2947
         },
         "time_elapsed": 56.98471117019653
+    },
+    {
+        "idx": "9363244",
+        "realidx": "9363244",
+        "question": "To determine the effect of occupational exposure in a nuclear power plant in Griefswald, Germany on male and female fecundity.\nThe frequency of men and women exposed to ionizing radiation through work in a nuclear power plant among 270 infertile couples was retrospectively compared to a control fertile population using a pair-matched analysis. The total cumulative equivalent radiation dose was determined. In addition, the spermiograms of the male partners in both groups were compared and correlated to the degree of exposure.\nNo differences were noted in the frequency of nuclear power plant exposure between sterile and fertile groups. There was a higher rate of anomalous spermiograms in nuclear power plant workers. However, abnormalities were temporary. No correlation was found between the cumulative equivalent radiation dose and abnormal spermiograms.\nDoes occupational nuclear power plant radiation affect conception and pregnancy? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10014,
+            "completion_tokens": 2956
+        },
+        "time_elapsed": 32.21094226837158
     },
     {
         "idx": "9483814",

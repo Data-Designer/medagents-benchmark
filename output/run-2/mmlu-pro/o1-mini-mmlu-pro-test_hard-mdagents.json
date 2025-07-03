@@ -572,6 +572,32 @@
         "time_elapsed": 27.568613052368164
     },
     {
+        "idx": 6070,
+        "realidx": 6070,
+        "question": "The chance of acquiring HIV infection from factor VIII in the United States in 2011 is 0% primarily because: Options: (A) The use of Factor VIII has been completely discontinued in the United States (B) Factor VIII is only distributed to hospitals with strict infection control protocols (G) All donors for factor VIII are screened (C) Factor VIII is only used by individuals who are already HIV positive (D) Factor VIII is irradiated to kill any potential HIV (I) Factor VIII is derived from animals, which cannot carry HIV (J) Factor VIII is subject to detergent \u201cwashing\u201d prior to release (F) Factor VIII is heat-treated to inactivate any potential HIV (E) Factor VIII is important from countries with no reported HIV (H) Factor VIII is made synthetically",
+        "answer_idx": "H",
+        "answer": "Factor VIII is made synthetically",
+        "options": {
+            "A": "The use of Factor VIII has been completely discontinued in the United States",
+            "B": "Factor VIII is only distributed to hospitals with strict infection control protocols",
+            "C": "Factor VIII is only used by individuals who are already HIV positive",
+            "D": "Factor VIII is irradiated to kill any potential HIV",
+            "E": "Factor VIII is important from countries with no reported HIV",
+            "F": "Factor VIII is heat-treated to inactivate any potential HIV",
+            "G": "All donors for factor VIII are screened",
+            "H": "Factor VIII is made synthetically",
+            "I": "Factor VIII is derived from animals, which cannot carry HIV",
+            "J": "Factor VIII is subject to detergent \u201cwashing\u201d prior to release"
+        },
+        "predicted_answer": "H",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6413,
+            "completion_tokens": 6006
+        },
+        "time_elapsed": 40.54052948951721
+    },
+    {
         "idx": 6071,
         "realidx": 6071,
         "question": "What is urban yellow fever (YF)? Options: (B) Part of a cycle of mosquitoes biting humans and monkeys in forested areas (A) A YF species that has adapted to new mosquitoes (F) Part of a cycle of mosquitoes biting only animals in cities (E) A mutant of the YF virus (D) A YF species that has adapted to colder climates in urban areas (H) A YF virus that has lost its virulence in urban areas (J) A YF virus that only affects humans in rural areas (C) A YF virus that is transmitted through contaminated water in cities (I) Part of a cycle of mosquitoes biting humans in cities (G) A YF species that has adapted to rats in urban areas",
@@ -650,6 +676,84 @@
         "time_elapsed": 37.433589220047
     },
     {
+        "idx": 6079,
+        "realidx": 6079,
+        "question": "The World Systems Theory divides the world as a unit into three subcategories: core countries, periphery countries, and semi-periphery countries. Which of the following answers correlates best with semi-periphery countries? Options: (I) A diversified and developed economy. (A) Small percentage of very high class individuals. (F) Economies dependent on foreign aid. (J) An economy centralized around one natural resource. (E) High rates of urbanization. (G) Low income, agrarian societies. (H) Countries with no natural resources. (B) Highly industrialized and technologically advanced nations. (C) Countries with a high rate of population growth. (D) Strong central government.",
+        "answer_idx": "I",
+        "answer": "A diversified and developed economy.",
+        "options": {
+            "A": "Small percentage of very high class individuals.",
+            "B": "Highly industrialized and technologically advanced nations.",
+            "C": "Countries with a high rate of population growth.",
+            "D": "Strong central government.",
+            "E": "High rates of urbanization.",
+            "F": "Economies dependent on foreign aid.",
+            "G": "Low income, agrarian societies.",
+            "H": "Countries with no natural resources.",
+            "I": "A diversified and developed economy.",
+            "J": "An economy centralized around one natural resource."
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5811,
+            "completion_tokens": 4306
+        },
+        "time_elapsed": 29.232290029525757
+    },
+    {
+        "idx": 6087,
+        "realidx": 6087,
+        "question": "Which of these features suggest that a pulsation in the neck is arterial? Options: (D) No variation with posture (B) Pulsation can be visually seen through the skin (E) The pulsation is felt on both sides of the neck (C) The pulsation is erratic and inconsistent (A) Positive for hepatojugular reflux (F) Pulsation increases with physical activity (I) Pressure in the root of the neck reduces the impulse (G) No variation with breathing (H) A waggling earlobe (J) Pressure in the mid-section reduces the impulse",
+        "answer_idx": "D",
+        "answer": "No variation with posture",
+        "options": {
+            "A": "Positive for hepatojugular reflux",
+            "B": "Pulsation can be visually seen through the skin",
+            "C": "The pulsation is erratic and inconsistent",
+            "D": "No variation with posture",
+            "E": "The pulsation is felt on both sides of the neck",
+            "F": "Pulsation increases with physical activity",
+            "G": "No variation with breathing",
+            "H": "A waggling earlobe",
+            "I": "Pressure in the root of the neck reduces the impulse",
+            "J": "Pressure in the mid-section reduces the impulse"
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 55988,
+            "completion_tokens": 29491
+        },
+        "time_elapsed": 184.7488157749176
+    },
+    {
+        "idx": 6092,
+        "realidx": 6092,
+        "question": "With respect to job training, younger workers Options: (C) Are less open to feedback than older workers (G) Receive more opportunities than older workers (A) Have less experience and therefore need more training (J) Prefer online training over traditional classroom learning (B) Do not benefit from training as much as older workers do (F) Always perform worse on the job than trained older workers (D) Prefer to have classes by themselves (I) Perform better on the job than trained older workers (E) Always learn faster than older workers (H) Are not interested in job training",
+        "answer_idx": "G",
+        "answer": "Receive more opportunities than older workers",
+        "options": {
+            "A": "Have less experience and therefore need more training",
+            "B": "Do not benefit from training as much as older workers do",
+            "C": "Are less open to feedback than older workers",
+            "D": "Prefer to have classes by themselves",
+            "E": "Always learn faster than older workers",
+            "F": "Always perform worse on the job than trained older workers",
+            "G": "Receive more opportunities than older workers",
+            "H": "Are not interested in job training",
+            "I": "Perform better on the job than trained older workers",
+            "J": "Prefer online training over traditional classroom learning"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5168,
+            "completion_tokens": 4660
+        },
+        "time_elapsed": 31.622747898101807
+    },
+    {
         "idx": 6093,
         "realidx": 6093,
         "question": "Older adults are most likely to be involved in a traffic accident when they are Options: (B) Driving during peak traffic hours (H) Riding a bicycle (G) A passenger in a younger person's car (I) Driving a new vehicle (J) Driving in a new location (D) On a highway (C) In a parking lot (A) Alone (E) Driving at night (F) On foot",
@@ -726,6 +830,79 @@
             "completion_tokens": 5868
         },
         "time_elapsed": 37.27821683883667
+    },
+    {
+        "idx": 6108,
+        "realidx": 6108,
+        "question": "A 30-year-old woman, gravida 2, para 0, aborta 1, at 28 weeks' gestation comes to the office for a prenatal visit. She has had one previous pregnancy resulting in a spontaneous abortion at 12 weeks' gestation. Today, her vital signs are within normal limits. Physical examination shows a uterus consistent in size with a 28-week gestation. Fetal ultrasonography shows a male fetus with no abnormalities. Her blood group is O, Rh-negative. The father's blood group is B, Rh-positive. The physician recommends administration of Rho Options: (J) Development of natural killer cells (I) Formation of antibodies to RhC (D) Formation of antibodies to RhO (E) immune globulin to the patient. This treatment is most likely to prevent which of the following in this mother? (B) Formation of antibodies to RhB (H) Development of anemia (C) Development of lymphocytosis (G) Formation of antibodies to RhD (F) Development of leukocytosis (A) Development of polycythemia",
+        "answer_idx": "A",
+        "answer": "Development of polycythemia",
+        "options": {
+            "A": "Development of polycythemia",
+            "B": "Formation of antibodies to RhB",
+            "C": "Development of lymphocytosis",
+            "D": "Formation of antibodies to RhO",
+            "E": "immune globulin to the patient. This treatment is most likely to prevent which of the following in this mother?",
+            "F": "Development of leukocytosis",
+            "G": "Formation of antibodies to RhD",
+            "H": "Development of anemia",
+            "I": "Formation of antibodies to RhC",
+            "J": "Development of natural killer cells"
+        },
+        "predicted_answer": "G",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6057,
+            "completion_tokens": 6017
+        },
+        "time_elapsed": 38.142186641693115
+    },
+    {
+        "idx": 6109,
+        "realidx": 6109,
+        "question": "A 30-year-old woman, gravida 2, para 0, aborta 1, at 28 weeks' gestation comes to the office for a prenatal visit. She has had one previous pregnancy resulting in a spontaneous abortion at 12 weeks' gestation. Today, her vital signs are within normal limits. Physical examination shows a uterus consistent in size with a 28-week gestation. Fetal ultrasonography shows a male fetus with no abnormalities. Her blood group is O, Rh-negative. The father's blood group is B, Rh-positive. The physician recommends administration of Rho Options: (B) Formation of antibodies to RhB (F) Development of leukocytosis (A) Development of polycythemia (C) Development of lymphocytosis (H) Development of anemia (G) Formation of antibodies to RhD (J) Development of natural killer cells (I) Formation of antibodies to RhC (D) Formation of antibodies to RhO (E) immune globulin to the patient. This treatment is most likely to prevent which of the following in this mother?",
+        "answer_idx": "A",
+        "answer": "Development of polycythemia",
+        "options": {
+            "A": "Development of polycythemia",
+            "B": "Formation of antibodies to RhB",
+            "C": "Development of lymphocytosis",
+            "D": "Formation of antibodies to RhO",
+            "E": "immune globulin to the patient. This treatment is most likely to prevent which of the following in this mother?",
+            "F": "Development of leukocytosis",
+            "G": "Formation of antibodies to RhD",
+            "H": "Development of anemia",
+            "I": "Formation of antibodies to RhC",
+            "J": "Development of natural killer cells"
+        },
+        "predicted_answer": "G",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5762,
+            "completion_tokens": 5456
+        },
+        "time_elapsed": 37.8764762878418
+    },
+    {
+        "idx": 6127,
+        "realidx": 6127,
+        "question": "What nutritional strategies will not improve performance during prolonged endurance type exercise?\n Options: (D) Exogenous carbohydrate ingestion during exercise (E) Carbohydrate loading (B) The classic glycogen loading regime (A) Tapering (C) Hydration during exercise",
+        "answer_idx": "B",
+        "answer": "The classic glycogen loading regime",
+        "options": {
+            "A": "Tapering",
+            "B": "The classic glycogen loading regime",
+            "C": "Hydration during exercise",
+            "D": "Exogenous carbohydrate ingestion during exercise",
+            "E": "Carbohydrate loading"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5509,
+            "completion_tokens": 5882
+        },
+        "time_elapsed": 39.33350968360901
     },
     {
         "idx": 6128,
@@ -1367,6 +1544,32 @@
         "time_elapsed": 35.39914894104004
     },
     {
+        "idx": 6203,
+        "realidx": 6203,
+        "question": "Which of the following is closest to the amount of retinol formed from \u00df-carotene?\n Options: (J) 0.1 mol retinol /mol \u00df-carotene (E) 0.5 mol retinol /mol \u00df-carotene (D) 0.15 mol retinol /mol \u00df-carotene (I) 2 mol retinol /mol \u00df-carotene (A) 0.2 mol retinol /mol \u00df-carotene (C) 0.05 mol retinol /mol \u00df-carotene (B) 0.25 mol retinol /mol \u00df-carotene (F) 3 mol retinol /mol \u00df-carotene (G) 1 mol retinol /mol \u00df-carotene (H) 0.75 mol retinol /mol \u00df-carotene",
+        "answer_idx": "D",
+        "answer": "0.15 mol retinol /mol \u00df-carotene",
+        "options": {
+            "A": "0.2 mol retinol /mol \u00df-carotene",
+            "B": "0.25 mol retinol /mol \u00df-carotene",
+            "C": "0.05 mol retinol /mol \u00df-carotene",
+            "D": "0.15 mol retinol /mol \u00df-carotene",
+            "E": "0.5 mol retinol /mol \u00df-carotene",
+            "F": "3 mol retinol /mol \u00df-carotene",
+            "G": "1 mol retinol /mol \u00df-carotene",
+            "H": "0.75 mol retinol /mol \u00df-carotene",
+            "I": "2 mol retinol /mol \u00df-carotene",
+            "J": "0.1 mol retinol /mol \u00df-carotene"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5906,
+            "completion_tokens": 5516
+        },
+        "time_elapsed": 36.96101951599121
+    },
+    {
         "idx": 6208,
         "realidx": 6208,
         "question": "An expected side effect of creatine supplementation is: Options: (F) increased heart rate. (D) decrease in body mass. (G) muscle cramps. (I) gain in body mass. (E) muscle weakness. (A) improved vision. (B) loss of appetite. (C) improved cognitive function. (J) loss of electrolytes. (H) hair loss.",
@@ -1731,6 +1934,32 @@
         "time_elapsed": 37.14373230934143
     },
     {
+        "idx": 6253,
+        "realidx": 6253,
+        "question": "A previously healthy 15-year-old boy is brought to the emergency department in August 1 hour after the onset of headache, dizziness, nausea, and one episode of vomiting. His symptoms began during the first hour of full-contact football practice in full uniform. He reported feeling weak and faint but did not lose consciousness. He vomited once after drinking water. On arrival, he is diaphoretic. He is not oriented to person, place, or time. His temperature is 39.5\u00b0C (103.1\u00b0F), pulse is 120/min, respirations are 40/min, and blood pressure is 90/65 mm Hg. Examination, including neurologic examination, shows no other abnormalities. Which of the following is the most appropriate next step in management? Options: (J) Administer a glucose injection (C) Perform a lumbar puncture (E) Apply cold compresses to the forehead (D) Immerse the patient in an ice water bath (H) Administer intravenous fluids (A) Administer an epinephrine injection (B) Administer oxygen via a nasal cannula (I) Administer sodium chloride tablets (G) Administer a dose of ibuprofen (F) Obtain a CT scan of the head",
+        "answer_idx": "H",
+        "answer": "Administer intravenous fluids",
+        "options": {
+            "A": "Administer an epinephrine injection",
+            "B": "Administer oxygen via a nasal cannula",
+            "C": "Perform a lumbar puncture",
+            "D": "Immerse the patient in an ice water bath",
+            "E": "Apply cold compresses to the forehead",
+            "F": "Obtain a CT scan of the head",
+            "G": "Administer a dose of ibuprofen",
+            "H": "Administer intravenous fluids",
+            "I": "Administer sodium chloride tablets",
+            "J": "Administer a glucose injection"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6291,
+            "completion_tokens": 5276
+        },
+        "time_elapsed": 37.7781343460083
+    },
+    {
         "idx": 6260,
         "realidx": 6260,
         "question": "Which single statement about fat digestion and absorption is correct?\n Options: (A) After absorption, both medium chain triglycerides (MCT) and long chain triglycerides enter the lymphatic system. (D) Triglycerides (triacylglycerols) must be emulsified and digested before the fatty acids can be transported (C) Absorption of fatty acids in the intestine occurs mainly through FABP and FAT/CD36 transport proteins in the enterocytes of the distal duodenum (F) Absorption of fatty acids in the intestine occurs primarily through the FABP and FAT/CD36 transport proteins in the proximal duodenum (J) Triglycerides (triacylglycerols) can be directly transported without being emulsified and digested (I) After absorption, long chain triglycerides (LCT) enter the lymphatic system, whereas medium chain triglycerides enter the portal blood system. (B) The products of complete digestion of triglycerides (triacylglycerols) can form mixed micelles with pancreatic cholesterol and phospholipids and this decreases absorption (H) The products of partial digestion of triglycerides (triacylglycerols) can form mixed micelles with pancreatic cholesterol and phospholipids and this increases absorption (E) After absorption, medium chain triglycerides (MCT) enter the lymphatic system, whereas long chain triglycerides enter the portal blood system. (G) Absorption of fatty acids in the intestine occurs mainly through FABP and FAT/CD36 transport proteins in the enterocytes of the mid jejunum.",
@@ -2034,6 +2263,32 @@
             "completion_tokens": 4728
         },
         "time_elapsed": 32.43555521965027
+    },
+    {
+        "idx": 6291,
+        "realidx": 6291,
+        "question": "Which of the following age differences could be, in part, a cohort effect? Differences in Options: (E) Depression (B) Alcoholism (I) Obesity (D) Diabetes (F) Schizophrenia (A) Heart Disease (C) Suicide (G) Dementia (H) Asthma (J) Hypertension",
+        "answer_idx": "B",
+        "answer": "Alcoholism",
+        "options": {
+            "A": "Heart Disease",
+            "B": "Alcoholism",
+            "C": "Suicide",
+            "D": "Diabetes",
+            "E": "Depression",
+            "F": "Schizophrenia",
+            "G": "Dementia",
+            "H": "Asthma",
+            "I": "Obesity",
+            "J": "Hypertension"
+        },
+        "predicted_answer": "E",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 95778,
+            "completion_tokens": 49869
+        },
+        "time_elapsed": 284.7871332168579
     },
     {
         "idx": 6293,

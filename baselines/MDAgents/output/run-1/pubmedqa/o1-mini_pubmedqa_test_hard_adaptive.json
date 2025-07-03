@@ -133,6 +133,25 @@
         "time_elapsed": 27.274972677230835
     },
     {
+        "idx": "12094116",
+        "realidx": "12094116",
+        "question": "The purpose of this study was to identify the relationships between leg muscle power and sprinting speed with changes of direction.\nthe study was designed to describe relationships between physical qualities and a component of sports performance.\ntesting was conducted in an indoor sports hall and a biomechanics laboratory.\n15 male participants were required to be free of injury and have recent experience competing in sports involving sprints with changes of direction.\nsubjects were timed in 8 m sprints in a straight line and with various changes of direction. They were also tested for bilateral and unilateral leg extensor muscle concentric power output by an isokinetic squat and reactive strength by a drop jump.\nThe correlations between concentric power and straight sprinting speed were non-significant whereas the relationships between reactive strength and straight speed were statistically significant. Correlations between muscle power and speed while changing direction were generally low and non-significant for concentric leg power with some moderate and significant (p<0.05) coefficients found for reactive strength. The participants who turned faster to one side tended to have a reactive strength dominance in the leg responsible for the push-off action.\nIs muscle power related to running speed with changes of direction? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10426,
+            "completion_tokens": 4304
+        },
+        "time_elapsed": 31.889562606811523
+    },
+    {
         "idx": "12407608",
         "realidx": "12407608",
         "question": "To investigate whether prepuncture ultrasound evaluation of vascular anatomy facilitates internal jugular vein cannulation compared with landmark-guided puncture.\nProspective randomized study.\nSingle community hospital.\nAdult patients undergoing general anesthesia (n = 240).\nThe right internal jugular vein was cannulated using either anatomic landmarks or prepuncture ultrasound (3.75/7.5 MHz) guidance. In the landmark group, respiratory jugular venodilation was used as the primary landmark for locating the vein. Results of cannulation and the incidence of complications were compared.\nPatients were randomly assigned to the ultrasound or landmark group. Respiratory jugular venodilation was identified in 188 patients (78.3%), in whom results of cannulation did not differ between the 2 techniques with respect to the venous access rate (cannulated at the first attempt: 83.5% in the landmark v 85.7% in the ultrasound group), the success rate (cannulated within 3 attempts: 96.9% v 95.6%), and the incidence of arterial puncture (1.0% v 3.3%). In the remaining 52 respiratory jugular venodilation-unidentified patients, the access rate (30.4% v 86.2%, p<0.001) and the success rate (78.3 v 100%, p<0.05) were significantly better in the ultrasound group, and no arterial puncture was recorded in the ultrasound group, whereas the incidence was 13.0% in the landmark group. The results were similar regardless of the ultrasound frequency used.\nDoes ultrasound imaging before puncture facilitate internal jugular vein cannulation? Options: (C) maybe (A) yes (B) no",
@@ -190,6 +209,44 @@
         "time_elapsed": 465.8231863975525
     },
     {
+        "idx": "12970636",
+        "realidx": "12970636",
+        "question": "To examine the impact of early discharge on newborn metabolic screening.\nMetabolic screening results were obtained from the Alabama State Lab for all infants born at our hospital between 8/1/97, and 1/31/99, and were matched with an existing database of early discharge infants. An early newborn discharge was defined as a discharge between 24 and 47 hours of age. Metabolic screening tests included phenylketonuria (PKU), hypothyroidism, and congenital adrenal hyperplasia (CAH). Early discharge and traditional stay infants were compared to determine the percentage of newborns screened and the timing of the first adequate specimen.\nThe state laboratory received specimens from 3860 infants; 1324 were on early discharge newborns and 2536 infants in the traditional stay group. At least one filter paper test (PKU, hypothyroidism, and CAH) was collected on 99.2% of early discharge infants and 96.0% of traditional stay infants (P<.0001). Early discharge infants had a higher rate of initial filter paper specimens being inadequate (22.9%) compared with traditional stay infants (14.3%, P<.0001) but had a higher rate of repeat specimens when the initial specimen was inadequate (85.0% early discharge vs 75.3% traditional stay, P=.002). The early discharge group was more likely to have an adequate specimen within the first 9 days of life (1001, 98.8% early discharge vs 2016, 96.7% traditional stay, P=.0005).\nDoes early discharge with nurse home visits affect adequacy of newborn metabolic screening? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 234167,
+            "completion_tokens": 60691
+        },
+        "time_elapsed": 339.66366481781006
+    },
+    {
+        "idx": "14599616",
+        "realidx": "14599616",
+        "question": "Lymphedema may be identified by simpler circumference changes as compared with changes in limb volume.\nNinety breast cancer patients were prospectively enrolled in an academic trial, and seven upper extremity circumferences were measured quarterly for 3 years. A 10% volume increase or greater than 1 cm increase in arm circumference identified lymphedema with verification by a lymphedema specialist. Sensitivity and specificity of several different criteria for detecting lymphedema were compared using the academic trial as the standard.\nThirty-nine cases of lymphedema were identified by the academic trial. Using a 10% increase in circumference at two sites as the criterion, half the lymphedema cases were detected (sensitivity 37%). When using a 10% increase in circumference at any site, 74.4% of cases were detected (sensitivity 49%). Detection by a 5% increase in circumference at any site was 91% sensitive.\nCan a practicing surgeon detect early lymphedema reliably? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 569152,
+            "completion_tokens": 131868
+        },
+        "time_elapsed": 1300.939454317093
+    },
+    {
         "idx": "14627582",
         "realidx": "14627582",
         "question": "The purpose of our study was to determine the effectiveness, clinical impact, and feasibility of double reading barium enemas.\nIndependent double readings of 1,003 consecutive barium enemas (822 double- and 181 single-contrast examinations) were prospectively performed. From this pool of 1,003 examinations, 994 were included in our study. Examinations showing at least one polyp or carcinoma 5 mm or larger were considered to have positive results. For combined readings, results were considered positive if either of the two interpreters reported finding a polyp or carcinoma. A McNemar test was used to compare the first reader's results with the combined results of the first and second readers. Results were retrospectively correlated with endoscopic or surgical results in 360 patients, and agreement between first and combined readings and endoscopic results was determined.\nAdding a second reader increased the number of positive results on examinations from 249 to 315 (p<0.0001) and resulted in potential alteration of clinical treatment in 98 patients (9.9%). Sensitivity of the first and combined readings for detection of all lesions was identical, 76.3% (95% CI, 65.4-87.1%). Specificity decreased from 91.0% (95% CI, 87.9-94.3%) for the first reading to 86.4% (95% CI, 82.2-90.0%) for the combined reading. The overall measurement of agreement decreased from a kappa value of 61.8 (95% CI, 51.2-72.4%) for the first reading to 52.9 (95% CI, 42.2-63.6%) for the combined reading. The second reading required an average of 3.3 min. Sensitivity for the detection of adenocarcinomas was 100%.\nDouble reading of barium enemas: is it necessary? Options: (B) no (A) yes (C) maybe",
@@ -245,6 +302,44 @@
             "completion_tokens": 403293
         },
         "time_elapsed": 2228.8202497959137
+    },
+    {
+        "idx": "16816043",
+        "realidx": "16816043",
+        "question": "To determine under what conditions lay people and health professionals find it acceptable for a physician to breach confidentiality to protect the wife of a patient with a sexually transmitted disease (STD).\nIn a study in France, breaching confidentiality in 48 scenarios were accepted by 144 lay people, 10 psychologists and 7 physicians. The scenarios were all possible combinations of five factors: severity of the disease (severe, lethal); time taken to discuss this with (little time, much time); intent to inform the spouse about the disease (none, one of these days, immediately); intent to adopt protective behaviours (no intent, intent); and decision to consult an expert in STDs (yes, no), 2 x 2 x 3 x 2 x 2. The importance and interactions of each factor were determined, at the group level, by performing analyses of variance and constructing graphs.\nThe concept of breaching confidentiality to protect a wife from her husband's STD was favoured much more by lay people and psychologists than by physicians (mean ratings 11.76, 9.28 and 2.90, respectively, on a scale of 0-22). The patient's stated intentions to protect his wife and to inform her of the disease had the greatest impact on acceptability. A cluster analysis showed groups of lay participants who found breaching confidentiality \"always acceptable\" (n = 14), \"depending on the many circumstances\" (n = 87), requiring \"consultation with an expert\" (n = 30) and \"never acceptable (n = 13)\".\nDo French lay people and health professionals find it acceptable to breach confidentiality to protect a patient's wife from a sexually transmitted disease? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 207677,
+            "completion_tokens": 54771
+        },
+        "time_elapsed": 308.0693302154541
+    },
+    {
+        "idx": "16962519",
+        "realidx": "16962519",
+        "question": "To estimate changes in uterine myoma volume during pregnancy.\nReview of departmental electronic perinatal database and medical records. Canadian Task Force Classification II-3.\nObstetrical ultrasound unit in an academic tertiary care center.\nOne hundred-seven patients diagnosed with uterine myomas during pregnancy and who had two or more obstetrical ultrasounds in different periods of pregnancy.\nWe analyzed the change in volume of uterine myomas between the first half of pregnancy (up until 19 weeks), third quarter (20-30 weeks), and last quarter (31 weeks to term). The volume of largest uterine myoma was calculated using the formula Volume (mm3)=Pi/6x(length mm)x(width mm)x(height mm).\nThe mean age of the population was 31+/-6 years. Between the first and the second study periods, the percentage of uterine myomas that decreased in size was 55.1% (95% CI: 43-66), with a mean decrease in volume of 35%+/-4%; while the percentage of uterine myomas that enlarged was 44.9% (95% CI: 34-56), with a mean increase in volume of 69%+/-11%. Between the second and the third study periods, 75% (95% CI: 56-87) became smaller, with a mean decrease in volume of 30%+/-3%; while 25% (95% CI: 13-43) enlarged, with a mean increase in volume of 102%+/-62%.\nVolume change of uterine myomas during pregnancy: do myomas really grow? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 335422,
+            "completion_tokens": 75401
+        },
+        "time_elapsed": 416.6789560317993
     },
     {
         "idx": "16968876",
@@ -399,6 +494,25 @@
         "time_elapsed": 613.6091520786285
     },
     {
+        "idx": "17940352",
+        "realidx": "17940352",
+        "question": "To evaluate the impact of HER2 immunoreactivity on clinical outcome in locally advanced urothelial carcinoma patients who received surgery alone, or methotrexate, vinblastine, epirubicin, and cisplatin (M-VEC) as adjuvant chemotherapy.\nWe studied 114 formalin-fixed paraffin-embedded specimens obtained from locally advanced urothelial carcinoma patients receiving surgery alone or adjuvant M-VEC. The authors evaluated HER2 immunoreactivity using immunohistochemical staining and explored the influence of pathological parameters and HER2 immunoreactivity on progression-free survival (PFS) and disease-specific overall survival (OS) using univariate and multivariate Cox's analyses.\nUrothelial carcinoma of the bladder had a significantly higher frequency of HER2 immunoreactivity than that of the upper urinary tract (60.7 vs. 20.7%, p<0.0001). Overall, nodal status was a strong and independent prognostic indicator for clinical outcome. The HER2 immunoreactivity was significantly associated with PFS (p = 0.02) and disease-specific OS (p = 0.005) in advanced urothelial carcinoma patients. As for patients with adjuvant M-VEC, HER2 immunoreactivity was a significant prognostic factor for PFS (p = 0.03) and disease-specific OS (p = 0.02) using univariate analysis, but not multivariate analysis, and not for patients receiving watchful waiting.\nDoes HER2 immunoreactivity provide prognostic information in locally advanced urothelial carcinoma patients receiving adjuvant M-VEC chemotherapy? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 44315,
+            "completion_tokens": 15174
+        },
+        "time_elapsed": 107.64213991165161
+    },
+    {
         "idx": "18235194",
         "realidx": "18235194",
         "question": "In a prospective study 218 preschool children were enrolled (stratified in 2 training programs, one specialized for phonologic awareness in order to prevent dyslexia, the other consisting in training of general perception) during the last year of kindergarten. After finishing the first grade 131 children were compared in their reading and writing abilities.\nIn the whole group only a slight difference was found between both training modalities concerning their writing abilities. However, children with a history of hearing loss, actual hearing loss or pathologic middle ear findings profited most from the specialized training program compared to the control in their reading abilities.\nIs a specialised training of phonological awareness indicated in every preschool child? Options: (A) yes (C) maybe (B) no",
@@ -416,6 +530,44 @@
             "completion_tokens": 122089
         },
         "time_elapsed": 656.6753644943237
+    },
+    {
+        "idx": "18243752",
+        "realidx": "18243752",
+        "question": "This study aims to evaluate local failure patterns in node negative breast cancer patients treated with post-mastectomy radiotherapy including internal mammary chain only.\nRetrospective analysis of 92 internal or central-breast node-negative tumours with mastectomy and external irradiation of the internal mammary chain at the dose of 50 Gy, from 1994 to 1998.\nLocal recurrence rate was 5 % (five cases). Recurrence sites were the operative scare and chest wall. Factors associated with increased risk of local failure were age<or = 40 years and tumour size greater than 20mm, without statistical significance.\nShould chest wall irradiation be included after mastectomy and negative node breast cancer? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 367032,
+            "completion_tokens": 90086
+        },
+        "time_elapsed": 485.2518811225891
+    },
+    {
+        "idx": "18284441",
+        "realidx": "18284441",
+        "question": "Paraffin-embedded tissues in Cukurova University Faculty of Medicine Department of Pathology between January 2002 and February 2006 were searched restrospectively to investigate this issue. We performed immunohistochemistry on biopsies of 125 patients with HBV infection, grouped as: mild, moderate and severe hepatitis, cirrhosis and HCC, 25 patients in each of them, using anti c-kit monoclonal antibody. The severity of parenchymal inflammation and of interface hepatitis was semiquantitatively graded on a haematoxylin and eosin stained paraffin sections. Additionally, 50 more HCC, formed on HBV basis, were studied to determine the prevalence of c-kit overexpression.\nIn cirrhotic liver, lower intensity of staining and rarely c-kit positivity were present. The greatest number of the c-kit positivity and higher intensity of staining was found in the livers of patients with severe hepatitis and HCC. In chronic hepatitis B infection, the staining intensity was parallel with the grade and stage of the disease. In the areas where fibrosis was seen, c-kit positivity was rare or absent. In the HCC specimens, c-kit positivity appeared both inside and around the cancerous nodes. C-kit expression was observed in 62 of 75 HCC tissue specimens (82%) (p<0.001).\nExpression of c-kit protooncogen in hepatitis B virus-induced chronic hepatitis, cirrhosis and hepatocellular carcinoma: has it a diagnostic role? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 626503,
+            "completion_tokens": 128547
+        },
+        "time_elapsed": 684.026093006134
     },
     {
         "idx": "18359123",
@@ -513,6 +665,25 @@
         "time_elapsed": 384.2015161514282
     },
     {
+        "idx": "18802997",
+        "realidx": "18802997",
+        "question": "Assessing the clinical course of inflammatory bowel disease (IBD) patients consists of periodical clinical evaluations and laboratory tests. We aimed to assess the role of calprotectin tests in predicting clinical relapse in IBD patients.\nNinety-seven patients with ulcerative colitis (UC) and 65 with Crohn's disease (CD) in clinical remission were prospectively included in the study. A 10-g stool sample was collected for calprotectin assay. The cutoff level was set at 130 mg/kg of feces. Patients were followed up for 1 yr after the test or until relapse. The cumulative proportion of relapses was estimated by the Kaplan-Meier analysis. Statistics for equality of survival distribution were tested using the log-rank test.\nThe calprotectin test was positive in 44 UC patients and 26 of them relapsed within a year, while 11 of 53 UC patients with a negative calprotectin test relapsed within the same time frame. Thirty CD patients had a positive calprotectin test and 13 of them relapsed within a year, as did 7 of the 35 with a negative test result. A significant correlation emerged between a positive calprotectin test and the probability of relapse in UC patients (P= 0.000). In CD patients, only cases of colonic CD showed a significant correlation between a positive calprotectin test and the probability of relapse, i.e., 6 colonic CD patients were positive for the calprotectin test and 4 relapsed (P= 0.02).\nCan calprotectin predict relapse risk in inflammatory bowel disease? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 13305,
+            "completion_tokens": 3536
+        },
+        "time_elapsed": 27.940803289413452
+    },
+    {
         "idx": "19103915",
         "realidx": "19103915",
         "question": "There is an urgent need to increase opportunistic screening for sexually transmitted infections (STIs) in community settings, particularly for those who are at increased risk including men who have sex with men (MSM). The aim of this qualitative study was to explore whether home sampling kits (HSK) for multiple bacterial STIs are potentially acceptable among MSM and to identify any concerns regarding their use. This study was developed as part of a formative evaluation of HSKs.\nFocus groups and one-to-one semi-structured interviews with MSM were conducted. Focus group participants (n = 20) were shown a variety of self-sampling materials and asked to discuss them. Individual interviewees (n = 24) had experience of the self-sampling techniques as part of a pilot clinical study. All data were digitally recorded and transcribed verbatim. Data were analysed using a framework analysis approach.\nThe concept of a HSK was generally viewed as positive, with many benefits identified relating to increased access to testing, enhanced personal comfort and empowerment. Concerns about the accuracy of the test, delays in receiving the results, the possible lack of support and potential negative impact on 'others' were raised.\nAre home sampling kits for sexually transmitted infections acceptable among men who have sex with men? Options: (C) maybe (A) yes (B) no",
@@ -608,6 +779,25 @@
         "time_elapsed": 105.78351759910583
     },
     {
+        "idx": "19578820",
+        "realidx": "19578820",
+        "question": "Opioid-dependent patients often have co-occurring chronic illnesses requiring medications that interact with methadone. Methadone maintenance treatment (MMT) is typically provided separately from medical care. Hence, coordination of medical care and substance use treatment is important to preserve patient safety.\nTo identify potential safety risks among MMT patients engaged in medical care by evaluating the frequency that opioid dependence and MMT documentation are missing in medical records and characterizing potential medication-methadone interactions.\nAmong patients from a methadone clinic who received primary care from an affiliated, but separate, medical center, we reviewed electronic medical records for documentation of methadone, opioid dependence, and potential drug-methadone interactions. The proportions of medical records without opioid dependence and methadone documentation were estimated and potential medication-methadone interactions were identified.\nAmong the study subjects (n = 84), opioid dependence documentation was missing from the medical record in 30% (95% CI, 20%-41%) and MMT documentation was missing from either the last primary care note or the last hospital discharge summary in 11% (95% CI, 5%-19%). Sixty-nine percent of the study subjects had at least 1 medication that potentially interacted with methadone; 19% had 3 or more potentially interacting medications.\nAre opioid dependence and methadone maintenance treatment (MMT) documented in the medical record? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9070,
+            "completion_tokens": 4640
+        },
+        "time_elapsed": 33.44003748893738
+    },
+    {
         "idx": "20197761",
         "realidx": "20197761",
         "question": "Guidelines emphasize that irritable bowel syndrome (IBS) is not a diagnosis of exclusion and encourage clinicians to make a positive diagnosis using the Rome criteria alone. Yet many clinicians are concerned about overlooking alternative diagnoses. We measured beliefs about whether IBS is a diagnosis of exclusion, and measured testing proclivity between IBS experts and community providers.\nWe developed a survey to measure decision-making in two standardized patients with Rome III-positive IBS, including IBS with diarrhea (D-IBS) and IBS with constipation (C-IBS). The survey elicited provider knowledge and beliefs about IBS, including testing proclivity and beliefs regarding IBS as a diagnosis of exclusion. We surveyed nurse practitioners, primary care physicians, community gastroenterologists, and IBS experts.\nExperts were less likely than nonexperts to endorse IBS as a diagnosis of exclusion (8 vs. 72%; P<0.0001). In the D-IBS vignette, experts were more likely to make a positive diagnosis of IBS (67 vs. 38%; P<0.001), to perform fewer tests (2.0 vs. 4.1; P<0.01), and to expend less money on testing (US$297 vs. $658; P<0.01). Providers who believed IBS is a diagnosis of exclusion ordered 1.6 more tests and consumed $364 more than others (P<0.0001). Experts only rated celiac sprue screening and complete blood count as appropriate in D-IBS; nonexperts rated most tests as appropriate. Parallel results were found in the C-IBS vignette.\nIs irritable bowel syndrome a diagnosis of exclusion? Options: (C) maybe (A) yes (B) no",
@@ -663,6 +853,25 @@
             "completion_tokens": 173186
         },
         "time_elapsed": 927.3724477291107
+    },
+    {
+        "idx": "20538207",
+        "realidx": "20538207",
+        "question": "It is generally considered that kidney grafts should be preserved at 4 degrees C during cold storage. However, actual temperature conditions are not known. We decided to study the temperature levels during preservation with the Biotainer storage can and Vitalpack transport pack.\nTemperature was monitored using the Thermobouton probe during preservation of pig kidneys, in the same conditions used with human grafts. The probe recorded the temperature level every 10 minutes during four days. We compared the results found with the new storage can with results obtained in the same conditions with the storage can formerly used by our team. We also studied the best position of the probe for temperature monitoring and the influence of the amount of ice within the transport pack on the temperature level. We then monitored the temperature during the conservation of actual human kidney grafts harvested at our institution from August 2007 to May 2008.\nThe temperature levels were the same regardless of the position of the probe within the transport pack. The lowest temperature was maintained during 15 hours, and the temperature level stayed below 5 degrees C for 57 hours with the new storage can. The former storage can maintained the lowest temperature level for 80 minutes, and temperature reached 5 degrees C after 10 hours 40 minutes. Temperature levels were similar when 2 or 4 kg of crushed ice were used. We observed similar results when monitoring the conservation of human grafts.\nShould temperature be monitorized during kidney allograft preservation? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 7219820,
+            "completion_tokens": 706560
+        },
+        "time_elapsed": 3709.030982017517
     },
     {
         "idx": "20736672",
@@ -760,6 +969,25 @@
         "time_elapsed": 1074.7094492912292
     },
     {
+        "idx": "21889895",
+        "realidx": "21889895",
+        "question": "The aim of this study was to determine if educating residents about the potential effects of radiation exposure from computed tomographic (CT) imaging alters ordering patterns. This study also explored whether referring physicians are interested in radiation education and was an initial effort to address their CT ordering behavior.\nTwo to four months after a radiologist's lecture on the potential effects of radiation exposure related to CT scans, urology and orthopedic residents were surveyed regarding the number and types of CT scans they ordered, the use of alternative imaging modalities, and whether they used the lecture information to educate patients.\nTwenty-one resident lecture attendants completed the survey. The number of CT scans ordered after the lecture stayed constant for 90% (19 of 21) and decreased for 10% (two of 21). The types of CT scans ordered changed after the lecture for 14% (three of 21). Thirty-three percent (seven of 21) reported increases in alternative imaging after the lecture, including 24% (five of 21) reporting increases in magnetic resonance imaging and 19% (four of 21) reporting increases in ultrasound. Patients directed questions about radiation exposure to 57% (12 of 21); 38% (eight of 21) used the lecture information to educate patients. Referring physicians were interested in the topic, and afterward, other physician groups requested radiation education lectures.\nWill CT ordering practices change if we educate residents about the potential effects of radiation exposure? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 12777,
+            "completion_tokens": 3999
+        },
+        "time_elapsed": 28.032824516296387
+    },
+    {
         "idx": "22227642",
         "realidx": "22227642",
         "question": "The aim of this work is to assess a previously described slit-lamp biomicroscopy-based method (SLBM) for measuring pupil diameter and compare it to Colvard infrared pupillometry (CIP).\nTwo examiners performed three repeated measurements with each instrument in 40 healthy eyes. We determined the agreement of SLBM and CIP, intraobserver and interobserver repeatabilities, and interobserver concordance (kappa) and SLBM ability for detecting pupil sizes over 6.0\u00a0mm.\nThe mean (\u00b1standard deviation [SD]) pupil diameter was 5.81 \u00b1 0.70\u00a0mm with SLBM and 6.26 \u00b1 0.68\u00a0mm with CIP (p\u2009=\u20090.01) averaging both examiner's results. Mean differences between the SLBM and CIP were -0.60\u00a0mm and -0.30\u00a0mm for each examiner using the average of the three readings (p\u2009=\u20090.02), and they were very similar using the first reading. Intraobserver reproducibility: the width of the 95% LoA ranged from 1.79 to 2.30\u00a0mm. The ICCs were 0.97 and 0.92 for SLBM, and 0.96 and 0.90 for CIP. Interobserver reproducibility: the width of the LoA ranged from 1.82 to 2.09\u00a0mm. Kappa statistics were 0.39 and 0.49 for the first and mean SLBM readings, respectively, and 0.45 for both the first and mean CIP readings. Sensitivity and specificity of SLBM for detection of pupils larger than 6\u00a0mm ranged from 55.56% to 73.68% and from 76.19% to 95.45%, respectively. The best trade-off between sensitivity and specificity ranged from 5.4\u00a0mm to 6.2\u00a0mm.\nCan we measure mesopic pupil size with the cobalt blue light slit-lamp biomicroscopy method? Options: (A) yes (C) maybe (B) no",
@@ -777,6 +1005,25 @@
             "completion_tokens": 142694
         },
         "time_elapsed": 778.2970836162567
+    },
+    {
+        "idx": "22236315",
+        "realidx": "22236315",
+        "question": "Distance to provider might be an important barrier to timely diagnosis and treatment for cancer patients who qualify for Medicaid coverage. Whether driving time or driving distance is a better indicator of travel burden is also of interest.\nDriving distances and times from patient residence to primary care provider were calculated for 3,917 breast, colorectal (CRC) and lung cancer Medicaid patients in Washington State from 1997 to 2003 using MapQuest.com. We fitted regression models of stage at diagnosis and time-to-treatment (number of days between diagnosis and surgery) to test the hypothesis that travel burden is associated with timely diagnosis and treatment of cancer.\nLater stage at diagnosis for breast cancer Medicaid patients is associated with travel burden (OR = 1.488 per 100 driving miles, P= .037 and OR = 1.270 per driving hour, P= .016). Time-to-treatment after diagnosis of CRC is also associated with travel burden (14.57 days per 100 driving miles, P= .002 and 5.86 days per driving hour, P= .018).\nIs distance to provider a barrier to care for medicaid patients with breast, colorectal, or lung cancer? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 670267,
+            "completion_tokens": 152776
+        },
+        "time_elapsed": 820.0625717639923
     },
     {
         "idx": "22491528",
@@ -853,6 +1100,44 @@
             "completion_tokens": 87942
         },
         "time_elapsed": 491.0363755226135
+    },
+    {
+        "idx": "23497210",
+        "realidx": "23497210",
+        "question": "Although record linkage of routinely collected health datasets is a valuable research resource, most datasets are established for administrative purposes and not for health outcomes research. In order for meaningful results to be extrapolated to specific populations, the limitations of the data and linkage methodology need to be investigated and clarified. It is the objective of this study to investigate the differences in ascertainment which may arise between a hospital admission dataset and a dispensing claims dataset, using major depression in pregnancy as an example. The safe use of antidepressants in pregnancy is an ongoing issue for clinicians with around 10% of pregnant women suffer from depression. As the birth admission will be the first admission to hospital during their pregnancy for most women, their use of antidepressants, or their depressive condition, may not be revealed to the attending hospital clinicians. This may result in adverse outcomes for the mother and infant.\nPopulation-based de-identified data were provided from the Western Australian Data Linkage System linking the administrative health records of women with a delivery to related records from the Midwives' Notification System, the Hospital Morbidity Data System and the national Pharmaceutical Benefits Scheme dataset. The women with depression during their pregnancy were ascertained in two ways: women with dispensing records relating to dispensed antidepressant medicines with an WHO ATC code to the 3rd level, pharmacological subgroup, 'N06A Antidepressants'; and, women with any hospital admission during pregnancy, including the birth admission, if a comorbidity was recorded relating to depression.\nFrom 2002 to 2005, there were 96698 births in WA. At least one antidepressant was dispensed to 4485 (4.6%) pregnant women. There were 3010 (3.1%) women with a comorbidity related to depression recorded on their delivery admission, or other admission to hospital during pregnancy. There were a total of 7495 pregnancies identified by either set of records. Using data linkage, we determined that these records represented 6596 individual pregnancies. Only 899 pregnancies were found in both groups (13.6% of all cases). 80% of women dispensed an antidepressant did not have depression recorded as a comorbidity on their hospital records. A simple capture-recapture calculation suggests the prevalence of depression in this population of pregnant women to be around 16%.\nAre women with major depression in pregnancy identifiable in population health data? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 539518,
+            "completion_tokens": 111777
+        },
+        "time_elapsed": 608.308464050293
+    },
+    {
+        "idx": "23690198",
+        "realidx": "23690198",
+        "question": "Social and cultural factors combined with little information may prevent the diffusion of epidural analgesia for pain relief during childbirth. The present study was launched contemporarily to the implementation of analgesia for labor in our Department in order to perform a 2 years audit on its use. The goal is to evaluate the epidural acceptance and penetration into hospital practice by women and care givers and safety and efficacy during childbirth.\nThis audit cycle measured epidural analgesia performance against 4 standards: (1) Implementation of epidural analgesia for labor to all patients; (2) Acceptance and good satisfaction level reported by patients and caregivers. (3) Effectiveness of labor analgesia; (4) No maternal or fetal side effects.\nDuring the audit period epidural analgesia increased from 15.5% of all labors in the first trimester of the study to 51% in the last trimester (p<0.005). Satisfaction levels reported by patients and care givers were good. A hierarchical clustering analysis identified two clusters based on VAS (Visual Analogue Scale) time course: in 226 patients (cluster 1) VAS decreased from 8.5\u00b11.4 before to 4.1\u00b11.3 after epidural analgesia; in 1002 patients (cluster 2) VAS decreased from 8.12\u00b11.7 before (NS vs cluster 1), to 0.76\u00b10.79 after (p<0.001 vs before and vs cluster 2 after). No other differences between clusters were observed.\nImplementation of epidural analgesia for labor: is the standard of effective analgesia reachable in all women? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 357466,
+            "completion_tokens": 96405
+        },
+        "time_elapsed": 516.1377830505371
     },
     {
         "idx": "24139705",
@@ -969,6 +1254,25 @@
         "time_elapsed": 1535.4768517017365
     },
     {
+        "idx": "24977765",
+        "realidx": "24977765",
+        "question": "Concussions are commonly diagnosed in pediatric patients presenting to the emergency department (ED). The primary objective of this study was to evaluate compliance with ED discharge instructions for concussion management.\nA prospective cohort study was conducted from November 2011 to November 2012 in a pediatric ED at a regional Level 1 trauma center, serving 35,000 pediatric patients per year. Subjects were aged 8 years to 17 years and were discharged from the ED with a diagnosis of concussion. Exclusion criteria included recent (past 3 months) diagnosis of head injury, hospital admission, intracranial injury, skull fracture, suspected nonaccidental trauma, or preexisting neurologic condition. Subjects were administered a baseline survey in the ED and were given standardized discharge instructions for concussion by the treating physician. Telephone follow-up surveys were conducted at 2 weeks and 4 weeks after ED visit.\nA total of 150 patients were enrolled. The majority (67%) of concussions were sports related. Among sports-related concussions, soccer (30%), football (11%), lacrosse (8%), and basketball (8%) injuries were most common. More than one third (39%) reported return to play (RTP) on the day of the injury. Physician follow-up was equivalent for sport and nonsport concussions (2 weeks, 58%; 4 weeks, 64%). Sports-related concussion patients were more likely to follow up with a trainer (2 weeks, 25% vs. 10%, p = 0.06; 4 weeks, 29% vs. 8%, p<0.01). Of the patients who did RTP or normal activities at 2 weeks (44%), more than one third (35%) were symptomatic, and most (58%) did not receive medical clearance. Of the patients who had returned to activities at 4 weeks (64%), less than one quarter (23%) were symptomatic, and most (54%) received medical clearance.\nAre pediatric concussion patients compliant with discharge instructions? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 48843,
+            "completion_tokens": 16970
+        },
+        "time_elapsed": 114.69265365600586
+    },
+    {
         "idx": "24995509",
         "realidx": "24995509",
         "question": "To investigate the association between age-related macular degeneration (AMD) and the polymorphisms of HIF1A, a major vascular epithelial growth factor regulator under hypoxic conditions. The associations of AMD and polymorphisms of genes CFH, SKIV2L and MYRIP were also studied.\nProspective study.\nEighty-seven AMD patients and 80 healthy subjects admitted to the Department of Ophthalmology at Pamukkale University Hospital, Denizli, Turkey, were included: 45 (52%) had wet type AMD, and 42 (48%) had dry type AMD.\nPolymorphisms rs1061170 (CFH), rs429608 (SKIV2L), rs2679798 (MYRIP) and both rs11549465 and rs11549467 (HIF1A) were investigated in DNA isolated from peripheral blood samples of the cases and controls by dye-termination DNA sequencing.\nGenotype distribution of rs1061170 (CFH), rs429608 (SKIV2L), rs2679798 (MYRIP) and both rs11549465 and rs11549467 (HIF1A) in AMD cases and healthy controls; association between genotypes and AMD subtypes.\nGiven the significant difference between the mean age of case and control groups (72.13\u2009\u00b1\u20095.77 vs. 62.80\u2009\u00b1\u20095.22, respectively) (P\u2009=\u2009.000), subsequent analyses were adjusted for age. We found that having at least one C allele for polymorphism rs1061170 increases AMD risk independent of age (OR\u2009=\u20092.42, 95% confidence interval [CI], 1.22-4.81). The ancestral T allele for polymorphism rs1061170 has a protective effect for AMD (OR\u2009=\u20090.53, 95% CI, 0.34-0.83). No statistically significant difference for distributions of other single nucleotide polymorphisms (SNPs) emerged between patients and healthy subjects.\nHIF1A as a major vascular endothelial growth factor regulator: do its polymorphisms have an association with age-related macular degeneration? Options: (C) maybe (A) yes (B) no",
@@ -1007,6 +1311,25 @@
         "time_elapsed": 880.3161220550537
     },
     {
+        "idx": "25103647",
+        "realidx": "25103647",
+        "question": "To examine whether government-funded, low-income vision care programs improve use of eye care services by low-income individuals in Canada.\nCross-sectional survey.\n27,375 white respondents to the Canadian Community Health Survey (CCHS) Healthy Aging 2008/2009.\nGovernment-funded, low-income vision care programs were reviewed. The amount of assistance provided was compared with professional fee schedules for general/routine eye examinations and market prices for eyeglasses. The utilization of eye care providers was derived from the CCHS.\nTo receive low-income vision care assistance, individuals must be in receipt of social assistance. Criteria for receiving social assistance are stringent. The Canadian Financial Capability Survey revealed that 7.9% of Canadians aged 45 to 64 years and 5.5% aged \u226565 years received social assistance in 2009. The CCHS found in 2008/2009 that 12.5% of citizens aged 45 to 64 years and 13.2% of those aged \u226565 years had difficulty paying for basic expenses such as food. In 5 provinces, low-income vision care assistance fully covers a general/routine eye examination. In the remainder, the assistance provided is insufficient for a general/routine eye examination. The assistance for eyeglasses is inadequate in 5 provinces, requiring out-of-pocket copayments. Among middle-aged whites who self-reported not having glaucoma, cataracts, diabetes, or vision problems not corrected by lenses, utilization of eye care providers was 28.1% among those with financial difficulty versus 41.9% among those without (p<0.05), giving a prevalence ratio 0.68 (95% CI 0.57-0.80) adjusted for age, sex and education.\nDoes government assistance improve utilization of eye care services by low-income individuals? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 353305,
+            "completion_tokens": 104947
+        },
+        "time_elapsed": 558.4304418563843
+    },
+    {
         "idx": "25277731",
         "realidx": "25277731",
         "question": "Sternal fractures in childhood are rare. The aim of the study was to investigate the accident mechanism, the detection of radiological and sonographical criteria and consideration of associated injuries.\nIn the period from January 2010 to December 2012 all inpatients and outpatients with sternal fractures were recorded according to the documentation.\nA total of 4 children aged 5-14\u00a0years with a sternal fracture were treated in 2\u00a0years, 2\u00a0children were hospitalized for pain management and 2 remained in outpatient care.\nSternal fracture in growing children : A rare and often overlooked fracture? Options: (A) yes (B) no (C) maybe",
@@ -1024,6 +1347,44 @@
             "completion_tokens": 133497
         },
         "time_elapsed": 725.7878007888794
+    },
+    {
+        "idx": "25371231",
+        "realidx": "25371231",
+        "question": "The aetiology of osteochondritis dissecans is still unclear. The aim of this prospective pilot study was to analyse whether vitamin D insufficiency, or deficiency, might be a contributing etiological factor in the development of an OCD lesion.\nThe serum level of vitamin D3 in 23 consecutive patients (12 male and 11 female) suffering from a stage III, or stages III and IV, OCD lesion (mostly stage III) admitted for surgery was measured.\nThe patients' mean age was 31.3\u00a0years and most of them already exhibited closed epiphyseal plates. In the majority of patients (18/23), a distinct vitamin D3 deficiency was found, two patients were vitamin D3-insufficient and, in three patients, the vitamin D3 level reached the lowest normal value.\nIs vitamin D insufficiency or deficiency related to the development of osteochondritis dissecans? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 111195,
+            "completion_tokens": 35192
+        },
+        "time_elapsed": 208.61850905418396
+    },
+    {
+        "idx": "25394614",
+        "realidx": "25394614",
+        "question": "To compare two treatment strategies in preterm infants with or at risk of respiratory distress syndrome: early surfactant administration (within one hour of birth) versus late surfactant administration, in a geographically defined population.\nThe primary outcome was chronic lung disease (CLD) and mortality before/at 36 weeks. Secondary outcomes included: duration of mechanical ventilation and continuous positive airway pressure (CPAP), post-natal steroids for CLD and major neonatal morbidities.\nPremature infants born at 22-32 weeks' gestation between January 2006 and December 2009.\nTen neonatal intensive care units (NICUs) in New South Wales (NSW) and Australian Capital Territory (ACT), Australia.\nRetrospective analysis of prospectively collected data from the regional NICU database in NSW and ACT.\nOf the 2170 infants who received surfactant, 1182 (54.5%) and 988 (45.5%) received early and late surfactant, respectively. The early surfactant group was less mature (27.1\u2009\u00b1\u20092.1 versus 29.4\u2009\u00b1\u20092.1 weeks) and had more CLD and mortality (40.2% versus 20.0%). The multivariable analysis showed early surfactant to be associated with less duration of ventilation, longer duration of CPAP and longer hospital stay but had little or no impact on CLD/mortality.\nDoes timing of initial surfactant treatment make a difference in rates of chronic lung disease or mortality in premature infants? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 43434,
+            "completion_tokens": 14040
+        },
+        "time_elapsed": 108.17115688323975
     },
     {
         "idx": "25488308",
@@ -1235,6 +1596,25 @@
         "time_elapsed": 112.64018821716309
     },
     {
+        "idx": "26965932",
+        "realidx": "26965932",
+        "question": "This study sought to investigate the ischemic and bleeding outcomes of patients fulfilling high bleeding risk (HBR) criteria who were randomized to zotarolimus-eluting Endeavor Sprint stent (E-ZES) or bare-metal stent (BMS) implantation followed by an abbreviated dual antiplatelet therapy (DAPT) duration for stable or unstable coronary artery disease.\nDES instead of BMS use remains controversial in HBR patients, in whom long-term DAPT poses safety concerns.\nThe ZEUS (Zotarolimus-Eluting Endeavor Sprint Stent in Uncertain DES Candidates) is a multinational, randomized single-blinded trial that randomized among others, in a stratified manner, 828 patients fulfilling pre-defined clinical or biochemical HBR criteria-including advanced age, indication to oral anticoagulants or other pro-hemorrhagic medications, history of bleeding and known anemia-to receive E-ZES or BMS followed by a protocol-mandated 30-day DAPT regimen. The primary endpoint of the study was the 12-month major adverse cardiovascular event rate, consisting of death, myocardial infarction, or target vessel revascularization.\nCompared with patients without, those with 1 or more HBR criteria had worse outcomes, owing to higher ischemic and bleeding risks. Among HBR patients, major adverse cardiovascular events occurred in 22.6% of the E-ZES and 29% of the BMS patients (hazard ratio: 0.75; 95% confidence interval: 0.57 to 0.98; p = 0.033), driven by lower myocardial infarction (3.5% vs. 10.4%; p<0.001) and target vessel revascularization (5.9% vs. 11.4%; p = 0.005) rates in the E-ZES arm. The composite of definite or probable stent thrombosis was significantly reduced in E-ZES recipients, whereas bleeding events did not differ between stent groups.\nIs Bare-Metal Stent Implantation Still Justifiable in High Bleeding Risk Patients Undergoing Percutaneous Coronary Intervention? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 45637,
+            "completion_tokens": 13942
+        },
+        "time_elapsed": 101.20987915992737
+    },
+    {
         "idx": "27044366",
         "realidx": "27044366",
         "question": "The technique of induced sputum has allowed to subdivide asthma patients into inflammatory phenotypes according to their level of granulocyte airway infiltration. There are very few studies which looked at detailed sputum and blood cell counts in a large cohort of asthmatics divided into inflammatory phenotypes. The purpose of this study was to analyze sputum cell counts, blood leukocytes and systemic inflammatory markers in these phenotypes, and investigate how those groups compared with healthy subjects.\nWe conducted a retrospective cross-sectional study on 833 asthmatics recruited from the University Asthma Clinic of Liege and compared them with 194 healthy subjects. Asthmatics were classified into inflammatory phenotypes.\nThe total non-squamous cell count per gram of sputum was greater in mixed granulocytic and neutrophilic phenotypes as compared to eosinophilic, paucigranulocytic asthma and healthy subjects (p\u2009<\u20090.005). Sputum eosinophils (in absolute values and percentages) were increased in all asthma phenotypes including paucigranulocytic asthma, compared to healthy subjects (p\u2009<\u20090.005). Eosinophilic asthma showed higher absolute sputum neutrophil and lymphocyte counts than healthy subjects (p\u2009<\u20090.005), while neutrophilic asthmatics had a particularly low number of sputum macrophages and epithelial cells. All asthma phenotypes showed an increased blood leukocyte count compared to healthy subjects (p\u2009<\u20090.005), with paucigranulocytic asthmatics having also increased absolute blood eosinophils compared to healthy subjects (p\u2009<\u20090.005). Neutrophilic asthma had raised CRP and fibrinogen while eosinophilic asthma only showed raised fibrinogen compared to healthy subjects (p\u2009<\u20090.005).\nDetailed analysis of sputum and systemic inflammation in asthma phenotypes: are paucigranulocytic asthmatics really non-inflammatory? Options: (C) maybe (A) yes (B) no",
@@ -1252,6 +1632,25 @@
             "completion_tokens": 17431
         },
         "time_elapsed": 117.5221107006073
+    },
+    {
+        "idx": "27050489",
+        "realidx": "27050489",
+        "question": "Misty mesentery appearance is commonly reported in daily practice, usually as a secondary finding of various pathological entities, but sometimes it is encountered as an isolated finding that cannot be attributed to any other disease entity. We aimed to assess the prevalence of cases with incidentally detected idiopathic misty mesentery on computed tomography (CT) and to summarize the pathologies leading to this appearance.\nMedical records and initial and follow-up CT features of patients with misty mesentery appearance between January 2011 and January 2013 were analysed. The study included cases with no known cause of misty mesentery according to associated CT findings, clinical history, or biochemical manifestations, and excluded patients with diseases known to cause misty mesentery, lymph nodes greater than a short-axis diameter of 5\u00a0mm, discrete mesenteric masses, or bowel wall thickening.\nThere were a total of 561 patients in whom misty mesentery appearance was depicted on abdominopelvic CT scans. A total of 80 cases were found to have isolated incidental idiopathic misty mesentery, giving a prevalence of 7%. The common indication for CT examination was abdominal pain. There was a slight female predominance (51.3%). 67.5% of all patients were classified as obese and 17.5% as overweight.\nThe Prevalence of Incidentally Detected Idiopathic Misty Mesentery on\u00a0Multidetector Computed Tomography: Can Obesity Be the Triggering Cause? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 140070,
+            "completion_tokens": 46889
+        },
+        "time_elapsed": 269.705513715744
     },
     {
         "idx": "27136599",
@@ -1385,6 +1784,25 @@
             "completion_tokens": 106807
         },
         "time_elapsed": 584.3324766159058
+    },
+    {
+        "idx": "9363244",
+        "realidx": "9363244",
+        "question": "To determine the effect of occupational exposure in a nuclear power plant in Griefswald, Germany on male and female fecundity.\nThe frequency of men and women exposed to ionizing radiation through work in a nuclear power plant among 270 infertile couples was retrospectively compared to a control fertile population using a pair-matched analysis. The total cumulative equivalent radiation dose was determined. In addition, the spermiograms of the male partners in both groups were compared and correlated to the degree of exposure.\nNo differences were noted in the frequency of nuclear power plant exposure between sterile and fertile groups. There was a higher rate of anomalous spermiograms in nuclear power plant workers. However, abnormalities were temporary. No correlation was found between the cumulative equivalent radiation dose and abnormal spermiograms.\nDoes occupational nuclear power plant radiation affect conception and pregnancy? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 55468,
+            "completion_tokens": 17778
+        },
+        "time_elapsed": 115.20407819747925
     },
     {
         "idx": "9465206",

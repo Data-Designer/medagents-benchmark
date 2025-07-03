@@ -180,6 +180,26 @@
         "time_elapsed": 31.87311053276062
     },
     {
+        "idx": "130_biomedical_engineer",
+        "realidx": "130_biomedical_engineer",
+        "question": "What are the conditions that must be met for biomaterials to satisfy biocompatibility? Options: (D) The biomaterial should not inhibit biological functions (B) The biomaterial should not exhibit toxicity within the body (C) The biomaterial should have sufficient mechanical strength to perform its function (A) The biomaterial should not cause inflammation or allergies in the surrounding tissues",
+        "answer_idx": "C",
+        "answer": "The biomaterial should have sufficient mechanical strength to perform its function",
+        "options": {
+            "A": "The biomaterial should not cause inflammation or allergies in the surrounding tissues",
+            "B": "The biomaterial should not exhibit toxicity within the body",
+            "C": "The biomaterial should have sufficient mechanical strength to perform its function",
+            "D": "The biomaterial should not inhibit biological functions"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3838,
+            "completion_tokens": 2577
+        },
+        "time_elapsed": 31.179925441741943
+    },
+    {
         "idx": "131_clinical_laboratory_scientist",
         "realidx": "131_clinical_laboratory_scientist",
         "question": "Which of the following statements about IRMA is correct? Options: (B) The radioactive isotope is labeled on the antigen. (A) It is a non-competitive method. (D) There is no need to separate the bound and free forms. (C) Uses 99mTc.",
@@ -918,6 +938,26 @@
             "completion_tokens": 2541
         },
         "time_elapsed": 30.294583320617676
+    },
+    {
+        "idx": "30_clinical_psychologist",
+        "realidx": "30_clinical_psychologist",
+        "question": "What is the correct thing for a counselor to be aware of during the initial stages of counseling for a sexual abuse survivor? Options: (D) Even if the client expresses discomfort, it is important for the counselor to lead the interview to collect detailed information about the abuse situation. (B) The counselor should actively intervene to quickly explore and heal the psychological trauma caused by the sexual abuse. (C) The counselor should obtain detailed information about the survivor's family situation and any complications from the sexual abuse as early as possible. (A) If the survivor denies the sexual abuse during the first interview, the counselor should continuously encourage them to be open and honest.",
+        "answer_idx": "C",
+        "answer": "The counselor should obtain detailed information about the survivor's family situation and any complications from the sexual abuse as early as possible.",
+        "options": {
+            "A": "If the survivor denies the sexual abuse during the first interview, the counselor should continuously encourage them to be open and honest.",
+            "B": "The counselor should actively intervene to quickly explore and heal the psychological trauma caused by the sexual abuse.",
+            "C": "The counselor should obtain detailed information about the survivor's family situation and any complications from the sexual abuse as early as possible.",
+            "D": "Even if the client expresses discomfort, it is important for the counselor to lead the interview to collect detailed information about the abuse situation."
+        },
+        "predicted_answer": "0",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 4277,
+            "completion_tokens": 4239
+        },
+        "time_elapsed": 38.430100440979004
     },
     {
         "idx": "30_speech_pathologist",

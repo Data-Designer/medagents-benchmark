@@ -1,5 +1,24 @@
 [
     {
+        "idx": "10173769",
+        "realidx": "10173769",
+        "question": "To consider whether the Barthel Index alone provides sufficient information about the long term outcome of stroke.\nCross sectional follow up study with a structured interview questionnaire and measures of impairment, disability, handicap, and general health. The scales used were the hospital anxiety and depression scale, mini mental state examination, Barthel index, modified Rankin scale, London handicap scale, Frenchay activities index, SF36, Nottingham health profile, life satisfaction index, and the caregiver strain index.\nSouth east London.\nPeople, and their identified carers, resident in south east London in 1989-90 when they had their first in a life-time stroke aged under 75 years.\nObservational study.\nComparison and correlation of the individual Barthel index scores with the scores on other outcome measures.\nOne hundred and twenty three (42%) people were known to be alive, of whom 106 (86%) were interviewed. The median age was 71 years (range 34-79). The mean interval between the stroke and follow up was 4.9 years. The rank correlation coefficients between the Barthel and the different dimensions of the SF36 ranged from r = 0.217 (with the role emotional dimension) to r = 0.810 (with the physical functioning dimension); with the Nottingham health profile the range was r = -0.189 (with the sleep dimension, NS) to r = -0.840 (with the physical mobility dimension); with the hospital and anxiety scale depression component the coefficient was r = -0.563, with the life satisfaction index r = 0.361, with the London handicap scale r = 0.726 and with the Frenchay activities index r = 0.826.\nLonger term quality of life and outcome in stroke patients: is the Barthel index alone an adequate measure of outcome? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 11415,
+            "completion_tokens": 3680
+        },
+        "time_elapsed": 61.73806571960449
+    },
+    {
         "idx": "11411430",
         "realidx": "11411430",
         "question": "The purpose of this study is to determine if baseline antral follicle assessment may serve as additional information in predicting in vitro fertilization outcome.\nProspective, descriptive preliminary study of in vitro fertilization outcome. From July 1998 to July 1999, 224 patients underwent antral follicle assessment (follicle 2-6 mm in diameter) on baseline of the planned, stimulated in vitro fertilization cycle. The outcomes were analyzed with respect to antral follicle assessment (<or = 6 or>6), basal cycle day 3 follicle stimulated hormone (<or = 10 or>10 IU/L) and maternal age (<or = 35 or>35 years).\nThe clinical pregnancy rate was significantly higher in the group with baseline antral follicle>6 compared to that in the group with antral follicle<or = 6 (51% vs. 19%, respectively). Controlling for patient age, and basal follicle stimulated hormone, the pregnancy rate was significantly higher in the group with antral follicle>6 compared to that in the group with antral follicle<or = 6. The cancellation rate was significantly increased with advancing maternal age, elevated basal follicle stimulated hormone levels, and baseline antral follicle<or = 6. The cancellation rate was significantly higher in the group with antral follicle<or = 6 compared to that in the group with antral follicle>or = 6 (33% vs. 1%, respectively).\nAntral follicle assessment as a tool for predicting outcome in IVF--is it a better predictor than age and FSH? Options: (B) no (A) yes (C) maybe",
@@ -36,6 +55,44 @@
             "completion_tokens": 2220
         },
         "time_elapsed": 32.846230030059814
+    },
+    {
+        "idx": "11570976",
+        "realidx": "11570976",
+        "question": "Sulfasalazine is a widely used anti-inflammatory agent in the treatment of inflammatory bowel disease and several rheumatological disorders. Although as many as 20% of treated patients may experience reversible, dose-dependent side effects, less frequent but potentially severe, systemic reactions have also been reported.\nA severe systemic reaction to sulfasalazine developed in a 21-year old female with rheumatoid arthritis characterized by eosinophilia, granulomatous enteritis and myelotoxicity, cholestatic hepatitis, and seizures. The clinical course and management of this patient are presented as well as a review of the incidence and outcome of severe systemic reactions to sulfasalazine.\nIs it Crohn's disease? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9723,
+            "completion_tokens": 2572
+        },
+        "time_elapsed": 39.146424531936646
+    },
+    {
+        "idx": "11926574",
+        "realidx": "11926574",
+        "question": "Hepatitis G virus can cause chronic infection in man but the role of this agent in chronic liver disease is poorly understood. Little is known about the relation of another newly discovered agent, the TT virus, with chronic liver disease.AIM: To investigate the rate of infection with hepatitis G virus and TT virus in patients with cryptogenic chronic liver disease.\nA total of 23 subjects with chronically raised alanine transaminase and a liver biopsy in whom all known causes of liver disease had been excluded, and 40 subjects with hepatitis C virus-related chronic liver disease.\nEvaluation of anti-hepatitis G virus by enzyme immunoassay. Hepatitis G virus-RNA by polymerase chain reaction with primers from the 5' NC and NS5a regions. TT virus-DNA by nested polymerase chain reaction with primers from the ORF1 region. Results. Hepatitis G virus-RNA was detected in 4 out of 23 patients with cryptogenic chronic hepatitis and in 6 out of 40 with hepatitis C virus chronic hepatitis (17.4% vs 15% p=ns). At least one marker of hepatitis G virus infection (hepatitis G virus-RNA and/or anti-hepatitis G virus, mostly mutually exclusive) was present in 6 out of 23 patients with cryptogenic hepatitis and 16 out of 40 with hepatitis C virus liver disease (26. 1% vs 40% p=ns). T virus-DNA was present in serum in 3 subjects, 1 with cryptogenic and 2 with hepatitis C virus-related chronic liver disease. Demographic and clinical features, including stage and grade of liver histology, were comparable between hepatitis G virus-infected and uninfected subjects. Severe liver damage [chronic hepatitis with fibrosis or cirrhosis) were significantly more frequent in subjects with hepatitis C virus liver disease.\nAre hepatitis G virus and TT virus involved in cryptogenic chronic liver disease? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 11402,
+            "completion_tokens": 2567
+        },
+        "time_elapsed": 59.74469208717346
     },
     {
         "idx": "12094116",
@@ -342,6 +399,25 @@
         "time_elapsed": 34.63053894042969
     },
     {
+        "idx": "17894828",
+        "realidx": "17894828",
+        "question": "An association has been described between elevated serum angiotensin-converting enzyme (ACE) and an increased risk of severe hypoglycaemia (SH). To ascertain whether this reported association could be replicated in a different country, it was re-examined in 300 individuals with Type 1 diabetes.\nPeople with Type 1 diabetes, none of whom was taking renin-angiotensin system blocking drugs, were recruited. Participants recorded the frequency with which they had experienced SH. Glycated haemoglobin (HbA(1c)) and serum ACE were measured. The difference in the incidence of SH between different quartiles of ACE activity and the relationship between serum ACE and SH were examined using non-parametric statistical tests and a negative binomial model.\nData were obtained from 300 patients [158 male; HbA(1c) median (range) 8.2% (5.2-12.8%), median age 36 years (16-88); duration of diabetes 14.5 years (2-49)]. The incidence of SH was 0.93 episodes per patient year. The mean incidence of SH in the top and bottom quartiles of ACE activity was 0.5 and 1.7 episodes per patient year, respectively, but this difference was not statistically significant (P = 0.075). Spearman's test showed a very weak, although statistically significant, association between serum ACE level and SH incidence (r = 0.115, P = 0.047). The binomial model also showed a statistically significant (P = 0.002), but clinically weak, relationship between serum ACE and SH.\nSerum angiotensin-converting enzyme and frequency of severe hypoglycaemia in Type 1 diabetes: does a relationship exist? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9992,
+            "completion_tokens": 2754
+        },
+        "time_elapsed": 83.31203126907349
+    },
+    {
         "idx": "17940352",
         "realidx": "17940352",
         "question": "To evaluate the impact of HER2 immunoreactivity on clinical outcome in locally advanced urothelial carcinoma patients who received surgery alone, or methotrexate, vinblastine, epirubicin, and cisplatin (M-VEC) as adjuvant chemotherapy.\nWe studied 114 formalin-fixed paraffin-embedded specimens obtained from locally advanced urothelial carcinoma patients receiving surgery alone or adjuvant M-VEC. The authors evaluated HER2 immunoreactivity using immunohistochemical staining and explored the influence of pathological parameters and HER2 immunoreactivity on progression-free survival (PFS) and disease-specific overall survival (OS) using univariate and multivariate Cox's analyses.\nUrothelial carcinoma of the bladder had a significantly higher frequency of HER2 immunoreactivity than that of the upper urinary tract (60.7 vs. 20.7%, p<0.0001). Overall, nodal status was a strong and independent prognostic indicator for clinical outcome. The HER2 immunoreactivity was significantly associated with PFS (p = 0.02) and disease-specific OS (p = 0.005) in advanced urothelial carcinoma patients. As for patients with adjuvant M-VEC, HER2 immunoreactivity was a significant prognostic factor for PFS (p = 0.03) and disease-specific OS (p = 0.02) using univariate analysis, but not multivariate analysis, and not for patients receiving watchful waiting.\nDoes HER2 immunoreactivity provide prognostic information in locally advanced urothelial carcinoma patients receiving adjuvant M-VEC chemotherapy? Options: (A) yes (C) maybe (B) no",
@@ -378,6 +454,44 @@
             "completion_tokens": 2476
         },
         "time_elapsed": 30.03722381591797
+    },
+    {
+        "idx": "18284441",
+        "realidx": "18284441",
+        "question": "Paraffin-embedded tissues in Cukurova University Faculty of Medicine Department of Pathology between January 2002 and February 2006 were searched restrospectively to investigate this issue. We performed immunohistochemistry on biopsies of 125 patients with HBV infection, grouped as: mild, moderate and severe hepatitis, cirrhosis and HCC, 25 patients in each of them, using anti c-kit monoclonal antibody. The severity of parenchymal inflammation and of interface hepatitis was semiquantitatively graded on a haematoxylin and eosin stained paraffin sections. Additionally, 50 more HCC, formed on HBV basis, were studied to determine the prevalence of c-kit overexpression.\nIn cirrhotic liver, lower intensity of staining and rarely c-kit positivity were present. The greatest number of the c-kit positivity and higher intensity of staining was found in the livers of patients with severe hepatitis and HCC. In chronic hepatitis B infection, the staining intensity was parallel with the grade and stage of the disease. In the areas where fibrosis was seen, c-kit positivity was rare or absent. In the HCC specimens, c-kit positivity appeared both inside and around the cancerous nodes. C-kit expression was observed in 62 of 75 HCC tissue specimens (82%) (p<0.001).\nExpression of c-kit protooncogen in hepatitis B virus-induced chronic hepatitis, cirrhosis and hepatocellular carcinoma: has it a diagnostic role? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10016,
+            "completion_tokens": 3626
+        },
+        "time_elapsed": 159.10786890983582
+    },
+    {
+        "idx": "18359123",
+        "realidx": "18359123",
+        "question": "Swedish hospital mergers seem to stem from a conviction among policy makers that bigger hospitals lead to lower average costs and improved clinical outcomes. The effects of mergers in the form of multisited hospitals have not been systematically evaluated. The purpose of this article is to contribute to this area of knowledge by exploring responses to the merger of Blekinge Hospital.\nThe evaluation was guided by the philosophy of triangulation. A questionnaire was sent to 597 randomly selected employees, that is 24% of the health care staff. Four hundred ninety-eight employees answered the questionnaire, giving a response rate of 83%. Furthermore, interviews of different groups of stakeholders were conducted.\nA moderate increase of quality was assessed, which, a low proportion of the employees perceived had decisively or largely to do with the merger. The majority perceives economical incentives as the drivers of change, but, at the same time, only 10% of this group believes this target was reached completely or to a large extent.\nIs it better to be big? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9951,
+            "completion_tokens": 3303
+        },
+        "time_elapsed": 32.557459115982056
     },
     {
         "idx": "18496363",
@@ -475,6 +589,25 @@
         "time_elapsed": 168.2125322818756
     },
     {
+        "idx": "19351635",
+        "realidx": "19351635",
+        "question": "National guidelines and government directives have adopted policies for urgent assessment of patients with a transient ischaemic attack or minor stroke not admitted to hospital. The risk of recurrent stroke increases substantially with age, as does the potential benefit of secondary prevention. In order to develop effective strategies for older patients, it is important to identify how stroke care is currently provided for this patient group.\nBetween 2004 and 2006, older patients (>75 years) referred to a neurovascular clinic were compared with younger patients (<or =75 years). Sociodemographic details, clinical features, resource use and secondary prevention in a neurovascular clinic were collected.\nOf 379 patients referred to the clinic, 129 (34%) were given a non-stroke diagnosis. Of the remaining 250 patients, 149 (60%) were<or =75 years. Median time from symptom onset to clinic appointment was similar for the two groups (24 (IQR 15-42) vs 24 (IQR 14-43) days; p = 0.58). Older patients were more likely to be in atrial fibrillation (10.1% vs 22.8%, p<0.001) and have lacunar stroke (34.7% vs 22.1%; p = 0.04). CT rates were similar in the two groups (27.8% vs 80.0%, p = 0.75). Scans were performed more quickly in younger patients (p<0.01). MRI scan rates were higher in younger patients (26% vs 4%, p<0.01), as was carotid Doppler imaging (92% vs 77%, p<0.01). There were no differences in prescribed secondary preventive treatments. Older patients experienced less delay for carotid endarterectomy (49 vs 90 days, p<0.01). Younger patients were more likely to be given advice on weight reduction (30.2% vs 12.9%, p<0.01) and diet (46.3% vs 31.7%, p = 0.02) than older patients.\nDo older patients receive adequate stroke care? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10547,
+            "completion_tokens": 2995
+        },
+        "time_elapsed": 33.16265678405762
+    },
+    {
         "idx": "19468282",
         "realidx": "19468282",
         "question": "Prospective multicenter longitudinal cohort study.\nTo validate the prognostic value of the acute phase sacral sparing measurements with regard to chronic phase-independent ambulation in patients with traumatic spinal cord injury (SCI).\nEuropean Multicenter Study of Human Spinal Cord Injury (EM-SCI).\nIn 432 patients, acute phase (0-15 days) American Spinal Injury Association (ASIA)/International Spinal Cord Society neurological standard scale (AIS) grades, ASIA sacral sparing measurements, which are S4-5 light touch (LT), S4-5 pin prick (PP), anal sensation and voluntary anal contraction; and chronic phase (6 or 12 months) indoor mobility Spinal Cord Independence Measure (SCIM) measurements were analyzed. Calculations of positive and negative predictive values (PPV/NPV) as well as univariate and multivariate logistic regressions were performed in all four sacral sparing criteria. The area under the receiver-operating characteristic curve (AUC) ratios of all regression equations was calculated.\nTo achieve independent ambulation 1-year post injury, a normal S4-5 PP score showed the best PPV (96.5%, P<0.001, 95% confidence interval (95% CI): 87.9-99.6). Best NPV was reported in the S4-5 LT score (91.7%, P<0.001, 95% CI: 81.6-97.2). The use of the combination of only voluntary anal contraction and the S4-5 LT and PP sensory scores (AUC: 0.906, P<0.001, 95% CI: 0.871-0.941) showed significantly better (P<0.001, 95% CI: 0.038-0.128) discriminating results in prognosticating 1-year independent ambulation than with the use of currently used distinction between complete and incomplete SCI (AUC: 0.823, P<0.001, 95% CI: 0.781-0.864).\nIs determination between complete and incomplete traumatic spinal cord injury clinically relevant? Options: (B) no (A) yes (C) maybe",
@@ -494,6 +627,25 @@
         "time_elapsed": 183.07397055625916
     },
     {
+        "idx": "19578820",
+        "realidx": "19578820",
+        "question": "Opioid-dependent patients often have co-occurring chronic illnesses requiring medications that interact with methadone. Methadone maintenance treatment (MMT) is typically provided separately from medical care. Hence, coordination of medical care and substance use treatment is important to preserve patient safety.\nTo identify potential safety risks among MMT patients engaged in medical care by evaluating the frequency that opioid dependence and MMT documentation are missing in medical records and characterizing potential medication-methadone interactions.\nAmong patients from a methadone clinic who received primary care from an affiliated, but separate, medical center, we reviewed electronic medical records for documentation of methadone, opioid dependence, and potential drug-methadone interactions. The proportions of medical records without opioid dependence and methadone documentation were estimated and potential medication-methadone interactions were identified.\nAmong the study subjects (n = 84), opioid dependence documentation was missing from the medical record in 30% (95% CI, 20%-41%) and MMT documentation was missing from either the last primary care note or the last hospital discharge summary in 11% (95% CI, 5%-19%). Sixty-nine percent of the study subjects had at least 1 medication that potentially interacted with methadone; 19% had 3 or more potentially interacting medications.\nAre opioid dependence and methadone maintenance treatment (MMT) documented in the medical record? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9981,
+            "completion_tokens": 3421
+        },
+        "time_elapsed": 40.249072551727295
+    },
+    {
         "idx": "20197761",
         "realidx": "20197761",
         "question": "Guidelines emphasize that irritable bowel syndrome (IBS) is not a diagnosis of exclusion and encourage clinicians to make a positive diagnosis using the Rome criteria alone. Yet many clinicians are concerned about overlooking alternative diagnoses. We measured beliefs about whether IBS is a diagnosis of exclusion, and measured testing proclivity between IBS experts and community providers.\nWe developed a survey to measure decision-making in two standardized patients with Rome III-positive IBS, including IBS with diarrhea (D-IBS) and IBS with constipation (C-IBS). The survey elicited provider knowledge and beliefs about IBS, including testing proclivity and beliefs regarding IBS as a diagnosis of exclusion. We surveyed nurse practitioners, primary care physicians, community gastroenterologists, and IBS experts.\nExperts were less likely than nonexperts to endorse IBS as a diagnosis of exclusion (8 vs. 72%; P<0.0001). In the D-IBS vignette, experts were more likely to make a positive diagnosis of IBS (67 vs. 38%; P<0.001), to perform fewer tests (2.0 vs. 4.1; P<0.01), and to expend less money on testing (US$297 vs. $658; P<0.01). Providers who believed IBS is a diagnosis of exclusion ordered 1.6 more tests and consumed $364 more than others (P<0.0001). Experts only rated celiac sprue screening and complete blood count as appropriate in D-IBS; nonexperts rated most tests as appropriate. Parallel results were found in the C-IBS vignette.\nIs irritable bowel syndrome a diagnosis of exclusion? Options: (C) maybe (A) yes (B) no",
@@ -511,6 +663,25 @@
             "completion_tokens": 2386
         },
         "time_elapsed": 28.419434785842896
+    },
+    {
+        "idx": "20297950",
+        "realidx": "20297950",
+        "question": "To investigate the effect of fenofibrate on sleep apnoea indices.\nProof-of-concept study comprising a placebo run-in period (1 week, 5 weeks if fibrate washout was required) and a 4-week randomized, double-blind treatment period. Thirty-four subjects (mean age 55 years, body mass index 34 kg/m 2 , fasting triglycerides 3.5 mmol/L) with diagnosed sleep apnoea syndrome not treated with continuous positive airways pressure were enrolled and randomized to once daily treatment with fenofibrate (145 mg NanoCrystal(R) tablet) or placebo. Overnight polysomnography, computerized attention/vigilance tests and blood sampling for measurement of lipids, insulin, fasting plasma glucose and fibrinogen were performed at the end of each study period.\nNCT00816829.\nAs this was an exploratory study, a range of sleep variables were evaluated. The apnoea/hypopnoea index (AHI) and percentage of time spent with arterial oxygen saturation (SpO(2))<90% were relevant as they have been evaluated in other clinical trials. Other variables included total apnoeas, hypopnoeas and oxygen desaturations, and non-cortical micro-awakenings related to respiratory events per hour.\nFenofibrate treatment significantly reduced the percentage of time with SpO(2)<90% (from 9.0% to 3.5% vs. 10.0% to 11.5% with placebo, p = 0.007), although there was no significant change in the AHI (reduction vs. control 14% (95%CI -47 to 40%, p = 0.533). Treatment reduced obstructive apnoeas (by 44%, from 18.5 at baseline to 15.0 at end of treatment vs. 29.0 to 30.5 on placebo, p = 0.048), and non-cortical micro-awakenings per hour (from 23.5 to 18.0 vs. 24.0 to 25.0 with placebo, p = 0.004). Other sleep variables were not significantly influenced by fenofibrate.\nExploratory study in patients with mild to moderate sleep apnoea, limited treatment duration; concomitant hypnotic treatment (35%); lack of correction for multiplicity of testing.\nProof of concept study: does fenofibrate have a role in sleep apnoea syndrome? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9233,
+            "completion_tokens": 2945
+        },
+        "time_elapsed": 36.65849781036377
     },
     {
         "idx": "20538207",
@@ -568,6 +739,25 @@
             "completion_tokens": 2498
         },
         "time_elapsed": 29.777340412139893
+    },
+    {
+        "idx": "21164063",
+        "realidx": "21164063",
+        "question": "A possible role for fondaparinux as a bridging agent in the perioperative setting is explored.\nAnticoagulation guidelines provide minimal direction on the perioperative use of fondaparinux. Fondaparinux's extended half-life of 17-21 hours complicates its use as a perioperative bridging therapy. The ideal time for discontinuation before surgery is an issue, particularly in surgeries with a high bleeding risk or in which neuraxial anesthesia is used. Guidance for perioperative bridging with fondaparinux must be derived from pharmacokinetic data, surgical prophylaxis trials, case reports, and anesthesia guidelines. Published trials used fondaparinux sodium 2.5 mg daily for venous thromboembolism prophylaxis in surgical patients, and the majority avoided its use before surgery in patients receiving neuraxial anesthesia. Three case reports cited the use of fondaparinux sodium as perioperative bridge therapy; one used a 2.5-mg dose, and the other two used a full treatment dose of 7.5 mg. Furthermore, professional anesthesia guidelines conflict in their recommendations regarding the timing of drug administration with neuraxial catheter use. For these reasons, it may be optimal to avoid fondaparinux use before surgery. In some instances, the use of low-molecular-weight heparin or inpatient use of i.v. unfractionated heparin is not possible, is contraindicated, or has limited efficacy, such as a patient with history of heparin-induced thrombocytopenia or antithrombin III deficiency. Fondaparinux may have a role in bridge therapy for these patients.\nIs there a role for fondaparinux in perioperative bridging? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 17479,
+            "completion_tokens": 3822
+        },
+        "time_elapsed": 204.1285457611084
     },
     {
         "idx": "21789019",
@@ -646,6 +836,25 @@
         "time_elapsed": 29.036850452423096
     },
     {
+        "idx": "22491528",
+        "realidx": "22491528",
+        "question": "To determine if composite measures based on process indicators are consistent with short-term outcome indicators in surgical colorectal cancer care.\nLongitudinal analysis of consistency between composite measures based on process indicators and outcome indicators for 85 Dutch hospitals.\nThe Dutch Surgical Colorectal Audit database, the Netherlands.\n4732 elective patients with colon carcinoma and 2239 with rectum carcinoma treated in 85 hospitals were included in the analyses.\nAll available process indicators were aggregated into five different composite measures. The association of the different composite measures with risk-adjusted postoperative mortality and morbidity was analysed at the patient and hospital level.\nAt the patient level, only one of the composite measures was negatively associated with morbidity for rectum carcinoma. At the hospital level, a strong negative association was found between composite measures and hospital mortality and morbidity rates for rectum carcinoma (p<0.05), and hospital morbidity rates for colon carcinoma.\nCombining process indicators to evaluate quality of care for surgical patients with colorectal cancer: are scores consistent with short-term outcome? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10454,
+            "completion_tokens": 3121
+        },
+        "time_elapsed": 39.18727898597717
+    },
+    {
         "idx": "22617083",
         "realidx": "22617083",
         "question": "To examine age-related differences in the relationship between personality and coping strategies in an Australian population of psychiatric inpatients.\nConsenting eligible adults (N=238) from 18-100 years of age consecutively admitted to inpatient psychiatry units were assessed using the SCID I and II, the Coping Orientations to Problems Experienced Scale (COPE), the Brief Psychiatric Rating Scale (BPRS), the Global Assessment of Functioning Scale (GAF), the Social and Occupational Functioning Assessment Scale (SOFAS), the 12 Item Short-Form Heath Survey (SF12), the Sarason Social Support Questionnaire, and the NEO Five Factor Inventory (NEO-FFI) (cognitively impaired, and non-English speaking patients were excluded).\nOlder adults reported less symptomatology than younger patients and younger patients described more personality dysfunction than older patients. As assessed by the COPE, older adults reported lower levels of dysfunctional coping strategies than younger adults. Personality traits, social supports, gender, and age predicted coping strategies, while Axis I diagnosis, education, personality disorder, and symptom severity were not significant predictors of coping strategies.\nDoes age moderate the effect of personality disorder on coping style in psychiatric inpatients? Options: (C) maybe (B) no (A) yes",
@@ -722,6 +931,25 @@
         "time_elapsed": 417.33903336524963
     },
     {
+        "idx": "24318956",
+        "realidx": "24318956",
+        "question": "Digoxin is a commonly used medication for heart failure and cardiac arrhythmias that has recently been suggested as a novel chemotherapeutic agent. Preclinical studies of prostate cancer (PCa) have shown anti-tumor activity with digoxin. We explore the relationship between use of digoxin and PCa risk.\nData from a population-based case-control study of incident cases aged 35-74 years at PCa diagnosis in 2002-2005 in King County, Washington were available. Controls were identified by random digit dialing and frequency matched by age. Use of digoxin was determined from in-person questionnaires regarding medical and prescription history. The relationship of digoxin use with PCa risk was evaluated with logistic regression.\nOne thousand one cases of PCa and 942 controls were analyzed. The prevalence of digoxin use in controls was 2.7%, and use was positively correlated with age. In multivariate analysis adjusting for age, race, PSA screening, and family history of PCa, digoxin use was associated with a reduction in the odds ratio of PCa (OR 0.58, 95% CI: 0.30-1.10). Among those with \u22653 PSA tests over the preceding 5 years (546 cases, 380 controls), digoxin use was associated with a stronger reduction of PCa risk (OR 0.44, 95% CI: 0.20-0.98).\nIs digoxin use for cardiovascular disease associated with risk of prostate cancer? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9522,
+            "completion_tokens": 2651
+        },
+        "time_elapsed": 34.7802574634552
+    },
+    {
         "idx": "24336869",
         "realidx": "24336869",
         "question": "The 'law of spatiotemporal concentrations of events' introduced major preventative shifts in policing communities. 'Hotspots' are at the forefront of these developments yet somewhat understudied in emergency medicine. Furthermore, little is known about interagency 'data-crossover', despite some developments through the Cardiff Model. Can police-ED interagency data-sharing be used to reduce community-violence using a hotspots methodology?\n12-month (2012) descriptive study and analysis of spatiotemporal clusters of police and emergency calls for service using hotspots methodology and assessing the degree of incident overlap. 3775 violent crime incidents and 775 assault incidents analysed using spatiotemporal clustering with k-means++ algorithm and Spearman's rho.\nSpatiotemporal location of calls for services to the police and the ambulance service are equally highly concentrated in a small number of geographical areas, primarily within intra-agency hotspots (33% and 53%, respectively) but across agencies' hotspots as well (25% and 15%, respectively). Datasets are statistically correlated with one another at the 0.57 and 0.34 levels, with 50% overlap when adjusted for the number of hotspots. At least one in every two police hotspots does not have an ambulance hotspot overlapping with it, suggesting half of assault spatiotemporal concentrations are unknown to the police. Data further suggest that more severely injured patients, as estimated by transfer to hospital, tend to be injured in the places with the highest number of police-recorded crimes.\nCan routinely collected ambulance data about assaults contribute to reduction in community violence? Options: (B) no (C) maybe (A) yes",
@@ -739,6 +967,25 @@
             "completion_tokens": 4059
         },
         "time_elapsed": 159.99898028373718
+    },
+    {
+        "idx": "24352924",
+        "realidx": "24352924",
+        "question": "The purpose of this study was to investigate the efficacy of ultrasonography to confirm Schanz pin placement in a cadaveric model, and the interobserver repeatability of the ultrasound methodology.\nThis investigation is a repeated measures cadaveric study with multiple examiners.\nCadaveric preparation and observations were done by an orthopaedic traumatologist and resident, and two general surgery traumatologists.\nA total of 16 Schanz pins were equally placed in bilateral femora and tibiae. Four examiners took measurements of pin protrusion beyond the distal cortices using first ultrasonography and then by direct measurement after gross dissection.MAIN OUTCOME MEASURE(S): Distal Schanz pin protrusion length measurements from both ultrasonography and direct measurement post dissection.\nSchanz pin protrusion measurements are underestimated by ultrasonography (p<0.01) by an average of 10 percent over the range of 5 to 18 mm, and they display a proportional bias that increases the under reporting as the magnitude of pin protrusion increases. Ultrasound data demonstrate good linear correlation and closely represent actual protrusion values in the 5 to 12 mm range. Interobserver repeatability analysis demonstrated that all examiners were not statistically different in their measurements despite minimal familiarity with the ultrasound methodology (p>0.8).\nIs portable ultrasonography accurate in the evaluation of Schanz pin placement during extremity fracture fixation in austere environments? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9592,
+            "completion_tokens": 3120
+        },
+        "time_elapsed": 95.34412908554077
     },
     {
         "idx": "24359102",
@@ -912,6 +1159,44 @@
         "time_elapsed": 28.819708108901978
     },
     {
+        "idx": "25371231",
+        "realidx": "25371231",
+        "question": "The aetiology of osteochondritis dissecans is still unclear. The aim of this prospective pilot study was to analyse whether vitamin D insufficiency, or deficiency, might be a contributing etiological factor in the development of an OCD lesion.\nThe serum level of vitamin D3 in 23 consecutive patients (12 male and 11 female) suffering from a stage III, or stages III and IV, OCD lesion (mostly stage III) admitted for surgery was measured.\nThe patients' mean age was 31.3\u00a0years and most of them already exhibited closed epiphyseal plates. In the majority of patients (18/23), a distinct vitamin D3 deficiency was found, two patients were vitamin D3-insufficient and, in three patients, the vitamin D3 level reached the lowest normal value.\nIs vitamin D insufficiency or deficiency related to the development of osteochondritis dissecans? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9220,
+            "completion_tokens": 2919
+        },
+        "time_elapsed": 50.85070323944092
+    },
+    {
+        "idx": "25394614",
+        "realidx": "25394614",
+        "question": "To compare two treatment strategies in preterm infants with or at risk of respiratory distress syndrome: early surfactant administration (within one hour of birth) versus late surfactant administration, in a geographically defined population.\nThe primary outcome was chronic lung disease (CLD) and mortality before/at 36 weeks. Secondary outcomes included: duration of mechanical ventilation and continuous positive airway pressure (CPAP), post-natal steroids for CLD and major neonatal morbidities.\nPremature infants born at 22-32 weeks' gestation between January 2006 and December 2009.\nTen neonatal intensive care units (NICUs) in New South Wales (NSW) and Australian Capital Territory (ACT), Australia.\nRetrospective analysis of prospectively collected data from the regional NICU database in NSW and ACT.\nOf the 2170 infants who received surfactant, 1182 (54.5%) and 988 (45.5%) received early and late surfactant, respectively. The early surfactant group was less mature (27.1\u2009\u00b1\u20092.1 versus 29.4\u2009\u00b1\u20092.1 weeks) and had more CLD and mortality (40.2% versus 20.0%). The multivariable analysis showed early surfactant to be associated with less duration of ventilation, longer duration of CPAP and longer hospital stay but had little or no impact on CLD/mortality.\nDoes timing of initial surfactant treatment make a difference in rates of chronic lung disease or mortality in premature infants? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10614,
+            "completion_tokens": 2931
+        },
+        "time_elapsed": 34.73418140411377
+    },
+    {
         "idx": "25488308",
         "realidx": "25488308",
         "question": "The proper angle of miniscrew insertion is important for cortical anchorage, patient safety, and biomechanical control. The purposes of this study are to report the alveolar process thickness and inter-radicular space in the posterior region of the mandible, to assess the impact of different miniscrew insertion angle protocols, and to identify differences between the genders or types of malocclusion.\nIn this retrospective study, 100 individuals were selected for orthodontic treatment at a radiology clinic. Cone-beam computed tomography data were imported into 3-dimensional software. The predictor variable was the location in the mandible and insertion angle. The demographic variables collected included age, gender, and malocclusion (Angle Classes I and II). The primary outcome variables were bone thickness and inter-radicular space. The inter-radicular spaces were evaluated 5 mm from the cement-enamel junction. The bone thicknesses were taken at 45\u00b0, 60\u00b0, and 90\u00b0 in relation to the alveolar ridge, simulating a miniscrew insertion. These factors were evaluated for sexual dimorphism and malocclusion (Angle Classes I and II). Sexual dimorphism and malocclusion were evaluated with t tests. To compare the inter-radicular space and the thickness of bone between areas, an analysis of variance for repeated measures was used.\nThe sample was composed of 100 patients with a mean age of 17.4 \u00b1 6.74 years. There were 61 female and 39 male patients and 60 Class I and 40 Class II molar relationships. The inter-radicular space ranged from 2.46 to 3.31 mm, and alveolar bone thickness ranged from 8.01 to 13.77 mm. The thickness tended to decrease with the increase in insertion angle from 45\u00b0 to 90\u00b0. No significant differences between the genders or types of malocclusion were found.\nCan bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites? Options: (C) maybe (B) no (A) yes",
@@ -1026,6 +1311,25 @@
         "time_elapsed": 31.073549270629883
     },
     {
+        "idx": "26778755",
+        "realidx": "26778755",
+        "question": "Although dose-volume parameters in image-guided brachytherapy have become a standard, the use of posterior-inferior border of the pubic symphysis (PIBS) points has been recently proposed in the reporting of vaginal doses. The aim was to evaluate their pertinence.\nNineteen patients who received image-guided brachytherapy after concurrent radiochemotherapy were included. Per treatment, CT scans were performed at Days 2 and 3, with reporting of the initial dwell positions and times. Doses delivered to the PIBS points were evaluated on each plan, considering that they were representative of one-third of the treatment. The movements of the applicator according to the PIBS point were analysed.\nMean prescribed doses at PIBS -2, PIBS, PIBS +2 were, respectively, 2.23 \u00b1 1.4, 6.39 \u00b1 6.6, and 31.85 \u00b1 36.06 Gy. Significant differences were observed between the 5 patients with vaginal involvement and the remaining 14 at the level of PIBS +2 and PIBS: +47.60 Gy and +7.46 Gy, respectively (p = 0.023 and 0.03). The variations between delivered and prescribed doses at PIBS points were not significant. However, at International commission on radiation units and measurements rectovaginal point, the delivered dose was decreased by 1.43 \u00b1 2.49 Gy from the planned dose (p = 0.019). The delivered doses at the four points were strongly correlated with the prescribed doses with R(2) ranging from 0.93 to 0.95. The movements of the applicator in regard of the PIBS point assessed with the Digital Imaging and Communications in Medicine coordinates were insignificant.\nVaginal dose assessment in image-guided brachytherapy for cervical cancer: Can we really rely on dose-point evaluation? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 11500,
+            "completion_tokens": 3901
+        },
+        "time_elapsed": 156.03065657615662
+    },
+    {
         "idx": "26852225",
         "realidx": "26852225",
         "question": "Anchoring vignettes are brief texts describing a hypothetical character who illustrates a certain fixed level of a trait under evaluation. This research uses vignettes to elucidate factors associated with sleep disorders in adult Japanese before and after adjustment for reporting heterogeneity in self-reports. This study also evaluates the need for adjusting for reporting heterogeneity in the management of sleep and energy related problems in Japan.\nWe investigated a dataset of 1002 respondents aged 18 years and over from the Japanese World Health Survey, which collected information through face-to-face interview from 2002 to 2003. The ordered probit model and the Compound Hierarchical Ordered Probit (CHOPIT) model, which incorporated anchoring vignettes, were employed to estimate and compare associations of sleep and energy with socio-demographic and life-style factors before and after adjustment for differences in response category cut-points for each individual.\nThe prevalence of self-reported problems with sleep and energy was 53 %. Without correction of cut-point shifts, age, sex, and the number of comorbidities were significantly associated with a greater severity of sleep-related problems. After correction, age, the number of comorbidities, and regular exercise were significantly associated with a greater severity of sleep-related problems; sex was no longer a significant factor. Compared to the ordered probit model, the CHOPIT model provided two changes with a subtle difference in the magnitude of regression coefficients after correction for reporting heterogeneity.\nIs adjustment for reporting heterogeneity necessary in sleep disorders? Options: (B) no (C) maybe (A) yes",
@@ -1062,6 +1366,25 @@
             "completion_tokens": 3123
         },
         "time_elapsed": 39.0606586933136
+    },
+    {
+        "idx": "27044366",
+        "realidx": "27044366",
+        "question": "The technique of induced sputum has allowed to subdivide asthma patients into inflammatory phenotypes according to their level of granulocyte airway infiltration. There are very few studies which looked at detailed sputum and blood cell counts in a large cohort of asthmatics divided into inflammatory phenotypes. The purpose of this study was to analyze sputum cell counts, blood leukocytes and systemic inflammatory markers in these phenotypes, and investigate how those groups compared with healthy subjects.\nWe conducted a retrospective cross-sectional study on 833 asthmatics recruited from the University Asthma Clinic of Liege and compared them with 194 healthy subjects. Asthmatics were classified into inflammatory phenotypes.\nThe total non-squamous cell count per gram of sputum was greater in mixed granulocytic and neutrophilic phenotypes as compared to eosinophilic, paucigranulocytic asthma and healthy subjects (p\u2009<\u20090.005). Sputum eosinophils (in absolute values and percentages) were increased in all asthma phenotypes including paucigranulocytic asthma, compared to healthy subjects (p\u2009<\u20090.005). Eosinophilic asthma showed higher absolute sputum neutrophil and lymphocyte counts than healthy subjects (p\u2009<\u20090.005), while neutrophilic asthmatics had a particularly low number of sputum macrophages and epithelial cells. All asthma phenotypes showed an increased blood leukocyte count compared to healthy subjects (p\u2009<\u20090.005), with paucigranulocytic asthmatics having also increased absolute blood eosinophils compared to healthy subjects (p\u2009<\u20090.005). Neutrophilic asthma had raised CRP and fibrinogen while eosinophilic asthma only showed raised fibrinogen compared to healthy subjects (p\u2009<\u20090.005).\nDetailed analysis of sputum and systemic inflammation in asthma phenotypes: are paucigranulocytic asthmatics really non-inflammatory? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9950,
+            "completion_tokens": 3179
+        },
+        "time_elapsed": 35.64644479751587
     },
     {
         "idx": "27050489",
@@ -1140,6 +1463,25 @@
         "time_elapsed": 34.015246629714966
     },
     {
+        "idx": "28359277",
+        "realidx": "28359277",
+        "question": "Governments are urged to determine methods to control the use of medical resources and curb the rise of healthcare costs. The question is, do health behaviors have an impact on the use of medical resources? This study aims to identify and understand the difference in the number of outpatient visits and health examinations based on various health behaviors and to determine whether patients seek medical care for illness from the same physicians.\nThis study used the dataset derived from the Department of Budget, Accounting and Statistics of Kaohsiung, Taiwan in 2005. Persons older than 15\u00a0years were surveyed using an on-site questionnaire. A total of 2911 persons were enrolled in this study. Independent t-tests, chi-square tests, one-way ANOVA, multiple linear regression and binominal logistic regression were used in the data analysis.\nThe regression model for the frequency of doctor visits, health examinations, and whether the same physician is sought for medical care has demonstrated significant correlations with gender, age and education-level variables. Four health behaviors (i.e., exercise habits, dietary habits, regular blood pressure measurement, drinking habits) exhibited a significant correlation with healthcare utilization (P<0.05).\nDo healthier lifestyles lead to less utilization of healthcare resources? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9746,
+            "completion_tokens": 2791
+        },
+        "time_elapsed": 52.31951832771301
+    },
+    {
         "idx": "7497757",
         "realidx": "7497757",
         "question": "To determine if temperature during cardiopulmonary bypass (CPB) has an effect on perioperative and postoperative thyroid function.\nProspective study comparing thyroid function during and after hypothermic and normothermic CPB.\nCardiac surgical unit at a university-affiliated hospital.\nTwelve patients scheduled to undergo cardiac operations with normothermic (n = 6) or hypothermic (n = 6) CPB.\nBlood was analyzed for serum concentration of total thyroxine (TT4), total triiodothyronine (TT3), free T3 (fT3), reverse T3 (rT3), and thyroid stimulating hormone (TSH) preoperatively, 60 min after CPB was initiated, 30 min after discontinuing CPB, and on postoperative days (POD) 1, 3, and 5.\nPatients who underwent either cold (26 degrees +/- 5 degrees C) or warm (35 degrees +/- 1 degree C) CPB were comparable with regard to age, body weight, duration of CPB, cross-clamp time, use of inotropes, total heparin dose, and length of hospital stay. Incidence of postoperative myocardial infarction, congestive heart failure, and death were similar. In both groups, TT4 and TT3 were reduced below baseline values beginning with CPB and persisting for up to 5 days after CPB (p<0.05), free T3 was reduced for up to 3 days after CPB (p<0.05), mean serum rT3 was elevated on POD 1 and POD 3 (p<0.05), and TSH remained unchanged.\nCardiopulmonary bypass temperature does not affect postoperative euthyroid sick syndrome? Options: (C) maybe (B) no (A) yes",
@@ -1178,6 +1520,25 @@
         "time_elapsed": 36.895984411239624
     },
     {
+        "idx": "9363244",
+        "realidx": "9363244",
+        "question": "To determine the effect of occupational exposure in a nuclear power plant in Griefswald, Germany on male and female fecundity.\nThe frequency of men and women exposed to ionizing radiation through work in a nuclear power plant among 270 infertile couples was retrospectively compared to a control fertile population using a pair-matched analysis. The total cumulative equivalent radiation dose was determined. In addition, the spermiograms of the male partners in both groups were compared and correlated to the degree of exposure.\nNo differences were noted in the frequency of nuclear power plant exposure between sterile and fertile groups. There was a higher rate of anomalous spermiograms in nuclear power plant workers. However, abnormalities were temporary. No correlation was found between the cumulative equivalent radiation dose and abnormal spermiograms.\nDoes occupational nuclear power plant radiation affect conception and pregnancy? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8694,
+            "completion_tokens": 2039
+        },
+        "time_elapsed": 25.976020574569702
+    },
+    {
         "idx": "9483814",
         "realidx": "9483814",
         "question": "Uterus-specific synthetic Prostaglandin analogues (gemeprost, sulproston etc.) have been widely employed for termination of pregnancy in the second trimester. Since paracervical anaesthesia may be useful during this procedure, we investigated in this prospective randomised study its impact on the clinical course of abortion and pain especially in the late first and second stage of labour.\n20 women scheduled for elective abortion (fetal reasons) between the 16th and 23rd week of gestation were to be given 1 mg gemeprost vaginally every 6 hours. They were allocated at random: 10 women received only Pethidin intravenously and Butylscopolamine rectally, another 10 women were additionally treated by paracervical anaesthesia (2 x 10 ml 0.5% Bupivacain solution) at a cervical dilatation of 2-3 cm.\nA median of 3 gemeprost applications were administered in both groups. In the group without paracervical anaesthesia the median induction to abortion interval was 20 hours (range: 8-44 hours), 13 hours (range: 8-36 hours, NS) resulting for the paracervical anaesthesia group. The intervals from the last application of prostaglandin until abortion and from 3 cm cervical dilatation to abortion were slightly, but not significantly shorter in the paracervical anaesthesia group. The requirement of Butylscopolamine was higher in the latter group (p<0.05). The requirement of Pethidin and the intensity of pain (measured by pain scale according to Huskisson) especially in the late first stage of labour were not statistically different between both groups. Side effects of paracervical anaesthesia did not occur.\nDoes para-cervical block offer additional advantages in abortion induction with gemeprost in the 2nd trimester? Options: (B) no (C) maybe (A) yes",
@@ -1195,5 +1556,24 @@
             "completion_tokens": 2455
         },
         "time_elapsed": 31.029247283935547
+    },
+    {
+        "idx": "9582182",
+        "realidx": "9582182",
+        "question": "To investigate the relevance of the Symptom Checklist 90-R Obsessive-Compulsive subscale to cognition in individuals with brain tumor.\nA prospective study of patients assessed with a neuropsychological test battery.\nA university medical center.\nNineteen adults with biopsy-confirmed diagnoses of malignant brain tumors were assessed prior to aggressive chemotherapy.\nIncluded in the assessment were the Mattis Dementia Rating Scale, California Verbal Learning Test, Trail Making Test B, Symptom Checklist 90-R, Mood Assessment Scale, Beck Anxiety Inventory, and Chronic Illness Problem Inventory.\nThe SCL 90-R Obsessive-Compulsive subscale was not related to objective measures of attention, verbal memory, or age. It was related significantly to symptoms of depression (r = .81, P<.005), anxiety (r = .66, P<.005), and subjective complaints of memory problems (r = .75, P<.005). Multivariate analyses indicated that reported symptoms of depression contributed 66% of the variance in predicting SCL 90-R Obsessive-Compulsive Scores, whereas symptoms of anxiety contributed an additional 6% (P<.0001).\nDoes the SCL 90-R obsessive-compulsive dimension identify cognitive impairments? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9438,
+            "completion_tokens": 2741
+        },
+        "time_elapsed": 33.40530443191528
     }
 ]

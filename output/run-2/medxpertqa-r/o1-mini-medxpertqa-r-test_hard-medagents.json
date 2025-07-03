@@ -2134,5 +2134,269 @@
             "completion_tokens": 20875
         },
         "time_elapsed": 107.8516583442688
+    },
+    {
+        "id": 89,
+        "realidx": 89,
+        "question": "When performing a unicondylar knee replacement, a smaller incision without dislocation of the patella offers what advantage over a standard, patella-everting approach?\nAnswer Choices: (A) reduced likelihood of damage to the quadriceps tendon (B) the option to convert to a total knee arthroplasty if needed (C) more anatomic positioning of the components (D) improved long-term prosthesis survival (E) lower incidence of deep vein thrombosis (F) enhanced visualization of the medial compartment (G) decreased risk of patellar maltracking (H) improved rate of recovery (I) reduced operating time (J) reduced risk of postoperative infection?",
+        "options": {
+            "A": "reduced likelihood of damage to the quadriceps tendon",
+            "B": "the option to convert to a total knee arthroplasty if needed",
+            "C": "more anatomic positioning of the components",
+            "D": "improved long-term prosthesis survival",
+            "E": "lower incidence of deep vein thrombosis",
+            "F": "enhanced visualization of the medial compartment",
+            "G": "decreased risk of patellar maltracking",
+            "H": "improved rate of recovery",
+            "I": "reduced operating time",
+            "J": "reduced risk of postoperative infection"
+        },
+        "predicted_answer": "A",
+        "answer_idx": "H",
+        "token_usage": {
+            "prompt_tokens": 26574,
+            "completion_tokens": 20220
+        },
+        "time_elapsed": 99.88574600219727
+    },
+    {
+        "id": 90,
+        "realidx": 90,
+        "question": "A 30-year-old woman, gravida 1, para 1, delivered a healthy baby via uncomplicated spontaneous vaginal birth 2 hours ago at 39 weeks of gestation. Her pregnancy and labor were uneventful, and she declined aneuploidy screening. Her medical history includes mild intermittent asthma, managed with prenatal vitamins and occasional use of a rescue inhaler. Her vital signs are stable: temperature 36.9\u00b0C (98.4\u00b0F), pulse 70/min, respirations 16/min, and blood pressure 114/70 mmHg. On physical examination, the uterine fundus is firm with normal lochia. Admission labs indicate her blood type is A-negative with a negative antibody screen. What is the most appropriate next step in the management of this patient?\nAnswer Choices: (A) Neonatal genotype (B) ABO compatibility testing of the neonate (C) Maternal antibody titer testing (D) Kleihauer-Betke test (E) Paternal genotype (F) Rosette test (G) Observation without intervention (H) Flow cytometry (I) Serial hemoglobin monitoring (J) Anti-D immune globulin administration?",
+        "options": {
+            "A": "Neonatal genotype",
+            "B": "ABO compatibility testing of the neonate",
+            "C": "Maternal antibody titer testing",
+            "D": "Kleihauer-Betke test",
+            "E": "Paternal genotype",
+            "F": "Rosette test",
+            "G": "Observation without intervention",
+            "H": "Flow cytometry",
+            "I": "Serial hemoglobin monitoring",
+            "J": "Anti-D immune globulin administration"
+        },
+        "predicted_answer": "J",
+        "answer_idx": "A",
+        "token_usage": {
+            "prompt_tokens": 23352,
+            "completion_tokens": 16002
+        },
+        "time_elapsed": 84.09548687934875
+    },
+    {
+        "id": 91,
+        "realidx": 91,
+        "question": "A 17-year-old female is evaluated in the emergency department following an attempted bleach ingestion. She presents with agitation and restlessness, expressing feelings of worthlessness and suicidal ideation. Her parents note recent behavioral changes including increased talkativeness and irritability, followed by confusion and withdrawal. Over the past two weeks, she has been sleeping less than four hours nightly. She lost her summer employment due to inappropriate sexual comments. The patient exhibits delusions, believing her actions have been nationally televised and that law enforcement is pursuing her. What is the most appropriate first-line medication for treating her condition?\nAnswer Choices: (A) Carbamazepine (B) Mirtazapine (C) Quetiapine (D) Haloperidol (E) Buspirone (F) Phenobarbital (G) Lithium (H) Risperidone (I) Valproic acid (J) Olanzapine?",
+        "options": {
+            "A": "Carbamazepine",
+            "B": "Mirtazapine",
+            "C": "Quetiapine",
+            "D": "Haloperidol",
+            "E": "Buspirone",
+            "F": "Phenobarbital",
+            "G": "Lithium",
+            "H": "Risperidone",
+            "I": "Valproic acid",
+            "J": "Olanzapine"
+        },
+        "predicted_answer": "H",
+        "answer_idx": "G",
+        "token_usage": {
+            "prompt_tokens": 34420,
+            "completion_tokens": 25306
+        },
+        "time_elapsed": 130.20420241355896
+    },
+    {
+        "id": 92,
+        "realidx": 92,
+        "question": "A 24-year-old pregnant woman at 33 weeks gestation presents to the emergency department with a persistent headache that differs from her usual migraines and is accompanied by double vision. She reports chills and multiple episodes of vomiting. Her vital signs include a temperature of 98.3\u00b0F (36.8\u00b0C), blood pressure of 157/95 mmHg, pulse of 108/min, respirations of 22/min, and oxygen saturation of 99% on room air. On physical examination, she appears uncomfortable. A cranial nerve examination reveals an inability to abduct her left eye, and her gait is mildly ataxic. What is the most appropriate next step in managing this patient?\nAnswer Choices: (A) MRI brain with gadolinium (B) Urgent neurology consultation (C) Serial neurological examinations (D) Immediate magnesium sulfate administration (E) Lumbar puncture (F) Acetaminophen and bed rest (G) CT head without contrast (H) MR venogram of the brain (I) Empiric antibiotic therapy (J) CT angiogram of the head?",
+        "options": {
+            "A": "MRI brain with gadolinium",
+            "B": "Urgent neurology consultation",
+            "C": "Serial neurological examinations",
+            "D": "Immediate magnesium sulfate administration",
+            "E": "Lumbar puncture",
+            "F": "Acetaminophen and bed rest",
+            "G": "CT head without contrast",
+            "H": "MR venogram of the brain",
+            "I": "Empiric antibiotic therapy",
+            "J": "CT angiogram of the head"
+        },
+        "predicted_answer": "D",
+        "answer_idx": "H",
+        "token_usage": {
+            "prompt_tokens": 35384,
+            "completion_tokens": 23051
+        },
+        "time_elapsed": 118.63906049728394
+    },
+    {
+        "id": 93,
+        "realidx": 93,
+        "question": "A 43-year-old woman with obesity is being assessed for stage 3B chronic kidney disease. She has a 26-year history of type 1 diabetes managed with insulin and hypertension treated with hydrochlorothiazide 25 mg daily and lisinopril 40 mg daily. Her blood pressure is currently 140/84 mm Hg.  \n\nLaboratory results show a serum creatinine level of 1.7 mg/dL (reference range, 0.6\u20131.1) and a serum potassium level of 4.9 mEq/L (3.5\u20135.0). Proteinuria is confirmed with an albumin-to-creatinine ratio of 760 mg/g (<30).  \n\nWhich of the following management strategies is the most appropriate for this patient?\nAnswer Choices: (A) Replace hydrochlorothiazide with dapagliflozin (B) Add hydralazine to current therapy (C) Add losartan to current therapy (D) Increase lisinopril dosage beyond 40 mg daily (E) Add metoprolol to current therapy (F) Replace hydrochlorothiazide with canagliflozin (G) Add amlodipine to current therapy (H) Replace lisinopril with spironolactone (I) Replace hydrochlorothiazide with furosemide (J) Initiate sodium bicarbonate therapy?",
+        "options": {
+            "A": "Replace hydrochlorothiazide with dapagliflozin",
+            "B": "Add hydralazine to current therapy",
+            "C": "Add losartan to current therapy",
+            "D": "Increase lisinopril dosage beyond 40 mg daily",
+            "E": "Add metoprolol to current therapy",
+            "F": "Replace hydrochlorothiazide with canagliflozin",
+            "G": "Add amlodipine to current therapy",
+            "H": "Replace lisinopril with spironolactone",
+            "I": "Replace hydrochlorothiazide with furosemide",
+            "J": "Initiate sodium bicarbonate therapy"
+        },
+        "predicted_answer": "A",
+        "answer_idx": "G",
+        "token_usage": {
+            "prompt_tokens": 31081,
+            "completion_tokens": 21094
+        },
+        "time_elapsed": 106.28204989433289
+    },
+    {
+        "id": 94,
+        "realidx": 94,
+        "question": "A 71-year-old male presents to the emergency department with complaints of blood in his stool. He denies experiencing any pain during defecation or at present. He recently returned from a camping trip where he consumed fire-cooked meats and drank water from local streams. His medical history includes obesity, diabetes, constipation, irritable bowel syndrome, ulcerative colitis in remission, and a 70-pack-year smoking history. His family history is notable for breast cancer in his mother and prostate cancer in his father. His vital signs are as follows: temperature 98.9\u00b0F (37.2\u00b0C), blood pressure 160/87 mmHg, pulse 80/min, respirations 14/min, and oxygen saturation 98% on room air. Physical examination reveals an obese man in no acute distress. Abdominal examination shows a non-tender, non-distended abdomen with normal bowel sounds. Abdominal radiograph and barium swallow studies are unremarkable. What is the most appropriate treatment for this patient\u2019s condition?\nAnswer Choices: (A) Oral metronidazole (B) Surgical resection of the small intestine (C) Intravenous corticosteroids (D) Colonoscopy with polypectomy (E) Endoscopic band ligation (F) Ciprofloxacin (G) Cautery of an arteriovenous malformation (H) Oral anticoagulation therapy (I) Mesalamine enema (J) Stool softeners and dietary fiber supplementation?",
+        "options": {
+            "A": "Oral metronidazole",
+            "B": "Surgical resection of the small intestine",
+            "C": "Intravenous corticosteroids",
+            "D": "Colonoscopy with polypectomy",
+            "E": "Endoscopic band ligation",
+            "F": "Ciprofloxacin",
+            "G": "Cautery of an arteriovenous malformation",
+            "H": "Oral anticoagulation therapy",
+            "I": "Mesalamine enema",
+            "J": "Stool softeners and dietary fiber supplementation"
+        },
+        "predicted_answer": "D",
+        "answer_idx": "G",
+        "token_usage": {
+            "prompt_tokens": 28138,
+            "completion_tokens": 17847
+        },
+        "time_elapsed": 92.64080786705017
+    },
+    {
+        "id": 95,
+        "realidx": 95,
+        "question": "Two days after birth, a term male newborn weighing 4300 g (9 lb 8 oz) presents with feeding difficulties and increasing lethargy. His cry has weakened. The mother has a history of intravenous drug use. Vital signs include a temperature of 36.4\u00b0C (97.5\u00b0F), pulse of 170/min, respirations of 62/min, and blood pressure of 70/48 mm Hg. Physical examination reveals midfacial hypoplasia, diaphoresis, tremors in the lower extremities, macroglossia, and posterior auricular cartilage folds. The left lower extremity is larger than the right. An umbilical hernia is noted, and the liver is palpable 4 cm below the right costal margin. Neurologic examination shows hypotonia in all extremities. Which of the following interventions is most appropriate for this patient?\nAnswer Choices: (A) Glucose (B) Diazepam (C) Hydrocortisone (D) Naloxone (E) Insulin (F) Vitamin K (G) Phenobarbital (H) Thyroxine (I) Calcium gluconate (J) Dopamine?",
+        "options": {
+            "A": "Glucose",
+            "B": "Diazepam",
+            "C": "Hydrocortisone",
+            "D": "Naloxone",
+            "E": "Insulin",
+            "F": "Vitamin K",
+            "G": "Phenobarbital",
+            "H": "Thyroxine",
+            "I": "Calcium gluconate",
+            "J": "Dopamine"
+        },
+        "predicted_answer": "A",
+        "answer_idx": "A",
+        "token_usage": {
+            "prompt_tokens": 27524,
+            "completion_tokens": 19947
+        },
+        "time_elapsed": 98.77472925186157
+    },
+    {
+        "id": 96,
+        "realidx": 96,
+        "question": "A 42-year-old man presents with pain and swelling in the right ankle joint persisting for several weeks. He denies any history of trauma to the joint. Despite taking NSAIDs, his symptoms have not improved. His temperature is 37 \u00baC (98.6 \u00baF), pulse is 88/min, and respirations are 18/min. Physical examination reveals tenderness and reduced range of motion in the right ankle. Radiographic imaging demonstrates chondrocalcinosis and joint effusion in the right talotibial joint. Which of the following findings is most likely associated with this condition?\nAnswer Choices: (A) Hyperparathyroidism (B) Hemochromatosis (C) Wilson disease (D) Hyperuricemia (E) Hyperphosphatemia (F) Hypocalcemia (G) Pseudohypoparathyroidism (H) Vitamin D deficiency (I) Hypomagnesemia (J) Hypoparathyroidism?",
+        "options": {
+            "A": "Hyperparathyroidism",
+            "B": "Hemochromatosis",
+            "C": "Wilson disease",
+            "D": "Hyperuricemia",
+            "E": "Hyperphosphatemia",
+            "F": "Hypocalcemia",
+            "G": "Pseudohypoparathyroidism",
+            "H": "Vitamin D deficiency",
+            "I": "Hypomagnesemia",
+            "J": "Hypoparathyroidism"
+        },
+        "predicted_answer": "A",
+        "answer_idx": "I",
+        "token_usage": {
+            "prompt_tokens": 43593,
+            "completion_tokens": 43764
+        },
+        "time_elapsed": 218.9784562587738
+    },
+    {
+        "id": 97,
+        "realidx": 97,
+        "question": "A 24-year-old male is transported to the emergency department following a motor vehicle collision in which he was an unrestrained driver. He is conscious but experiencing severe respiratory distress and right-sided chest pain. His vital signs show: temperature 36.8\u00b0C (98.2\u00b0F), blood pressure 70/50 mm Hg, heart rate 120/min, and respiratory rate 32/min. Initial trauma assessment reveals multiple contusions and lacerations on the right anterior chest wall with a penetrating wound inferior to the right nipple. Physical examination demonstrates absent breath sounds on the right side with hyperresonance to percussion and jugular venous distention. Chest radiography shows right lung collapse with depressed right hemidiaphragm and leftward mediastinal shift. What is the most appropriate immediate intervention?\nAnswer Choices: (A) Tube thoracostomy at the 3rd intercostal space, midaxillary line (B) Tube thoracostomy at the 2nd intercostal space, midclavicular line (C) Tube thoracostomy at the 4th intercostal space, posterior axillary line (D) Needle thoracostomy at the 2nd intercostal space, anterior axillary line (E) Needle thoracostomy at the 3rd intercostal space, anterior axillary line (F) Tube thoracostomy at the 5th intercostal space, anterior axillary line (G) Tube thoracostomy at the 5th intercostal space, midclavicular line (H) Needle thoracostomy at the 4th intercostal space, midaxillary line (I) Needle thoracostomy at the 5th intercostal space, midclavicular line (J) Needle thoracostomy at the 5th intercostal space, midaxillary line?",
+        "options": {
+            "A": "Tube thoracostomy at the 3rd intercostal space, midaxillary line",
+            "B": "Tube thoracostomy at the 2nd intercostal space, midclavicular line",
+            "C": "Tube thoracostomy at the 4th intercostal space, posterior axillary line",
+            "D": "Needle thoracostomy at the 2nd intercostal space, anterior axillary line",
+            "E": "Needle thoracostomy at the 3rd intercostal space, anterior axillary line",
+            "F": "Tube thoracostomy at the 5th intercostal space, anterior axillary line",
+            "G": "Tube thoracostomy at the 5th intercostal space, midclavicular line",
+            "H": "Needle thoracostomy at the 4th intercostal space, midaxillary line",
+            "I": "Needle thoracostomy at the 5th intercostal space, midclavicular line",
+            "J": "Needle thoracostomy at the 5th intercostal space, midaxillary line"
+        },
+        "predicted_answer": "D",
+        "answer_idx": "J",
+        "token_usage": {
+            "prompt_tokens": 65755,
+            "completion_tokens": 46475
+        },
+        "time_elapsed": 236.88526892662048
+    },
+    {
+        "id": 98,
+        "realidx": 98,
+        "question": "A male child aged 6 years is brought in for evaluation of potential precocious puberty. His parents note that in the past year, he has developed body odor, acne, and pubic hair growth. They also report a recent growth spurt requiring new clothes.\n\nPhysical examination reveals Tanner stage 2 pubic hair and early pubertal testicular volume of approximately 5 mL. The remainder of his examination is normal.\n\nHis bone age is determined to be 9 years by radiographic measurement.\n\nA morning 17-hydroxyprogesterone level is 58 ng/dL (normal range: 7\u201369).\n\nWhat is the most likely diagnosis in this case?\nAnswer Choices: (A) Primary hypothyroidism with secondary precocious puberty (B) Benign premature adrenarche (C) Gonadotropin-independent precocious puberty (D) Central precocious puberty related to a central nervous system lesion (E) Familial male-limited precocious puberty (F) Idiopathic central precocious puberty (G) Late-onset congenital adrenal hyperplasia (H) McCune-Albright syndrome (I) Precocious puberty related to a peripheral androgen-secreting tumor (J) Adrenal carcinoma causing androgen excess?",
+        "options": {
+            "A": "Primary hypothyroidism with secondary precocious puberty",
+            "B": "Benign premature adrenarche",
+            "C": "Gonadotropin-independent precocious puberty",
+            "D": "Central precocious puberty related to a central nervous system lesion",
+            "E": "Familial male-limited precocious puberty",
+            "F": "Idiopathic central precocious puberty",
+            "G": "Late-onset congenital adrenal hyperplasia",
+            "H": "McCune-Albright syndrome",
+            "I": "Precocious puberty related to a peripheral androgen-secreting tumor",
+            "J": "Adrenal carcinoma causing androgen excess"
+        },
+        "predicted_answer": "F",
+        "answer_idx": "D",
+        "token_usage": {
+            "prompt_tokens": 31431,
+            "completion_tokens": 20586
+        },
+        "time_elapsed": 102.77943015098572
+    },
+    {
+        "id": 99,
+        "realidx": 99,
+        "question": "A 54-year-old male presents to the emergency department with complaints of shortness of breath and fatigue lasting one day. He reports feeling progressively more tired. His medical history includes long-term intravenous drug use and a prior hospitalization for infective endocarditis two years ago. At that time, echocardiography revealed tricuspid valve vegetations with regurgitation. He has not been consistent with follow-up care. On physical examination, neck vein distention is observed. Which finding is most likely to be seen on his jugular venous pulse tracing?\nAnswer Choices: (A) Obliterated x descent (B) Rapid x and y descents (C) Prominent y descent (D) Flattened y descent (E) Decreased c waves (F) Large a waves (G) Prominent v waves (H) Increased amplitude of x descent (I) Absent a waves (J) Delayed c wave formation?",
+        "options": {
+            "A": "Obliterated x descent",
+            "B": "Rapid x and y descents",
+            "C": "Prominent y descent",
+            "D": "Flattened y descent",
+            "E": "Decreased c waves",
+            "F": "Large a waves",
+            "G": "Prominent v waves",
+            "H": "Increased amplitude of x descent",
+            "I": "Absent a waves",
+            "J": "Delayed c wave formation"
+        },
+        "predicted_answer": "G",
+        "answer_idx": "A",
+        "token_usage": {
+            "prompt_tokens": 23974,
+            "completion_tokens": 17223
+        },
+        "time_elapsed": 85.29741048812866
     }
 ]

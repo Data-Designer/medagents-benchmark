@@ -52,6 +52,32 @@
         "time_elapsed": 40.131332874298096
     },
     {
+        "idx": "Text-101",
+        "realidx": "Text-101",
+        "question": "A 56-year-old male patient presents with severe right leg pain and swelling four days after undergoing a craniotomy with evacuation of a subdural hematoma. He experiences chills and nausea. His medical history includes type 2 diabetes mellitus and chronic kidney disease requiring hemodialysis for the past 2 years. His pre-admission medications included insulin, enalapril, atorvastatin, and sevelamer.\n\nOn examination, his temperature is 38.3\u00b0C (101.0\u00b0F), pulse is 110/min, and blood pressure is 130/80 mm Hg. The right calf appears swollen, warm, and erythematous. Pain is elicited in the right calf upon dorsiflexion of the right foot. Peripheral pulses are palpable bilaterally, and cardiopulmonary examination is unremarkable. Laboratory findings show:\n\n| Hemoglobin | 10.1 g/dL |\n| --- | --- |\n| Leukocyte count | 11,800/mm3 |\n| Platelet count | 230,000/mm3 |\n| Serum |  |\n| Glucose | 87 mg/dL |\n| Creatinine | 1.9 mg/dL |\n\nWhat is the most appropriate next step in managing this patient?\nAnswer Choices: (A) Surgical thrombectomy (B) Inferior vena cava filter (C) Unfractionated heparin therapy (D) Direct oral anticoagulants (DOACs) (E) Aspirin therapy only (F) Prophylactic antibiotics for cellulitis (G) Oral warfarin therapy (H) Compression stockings and observation (I) Thrombolytic therapy with tissue plasminogen activator (tPA) (J) Low molecular weight heparin therapy Options: (B) Inferior vena cava filter (G) Oral warfarin therapy (F) Prophylactic antibiotics for cellulitis (C) Unfractionated heparin therapy (A) Surgical thrombectomy (I) Thrombolytic therapy with tissue plasminogen activator (tPA) (J) Low molecular weight heparin therapy (D) Direct oral anticoagulants (DOACs) (E) Aspirin therapy only (H) Compression stockings and observation",
+        "answer_idx": "B",
+        "answer": "Inferior vena cava filter",
+        "options": {
+            "A": "Surgical thrombectomy",
+            "B": "Inferior vena cava filter",
+            "C": "Unfractionated heparin therapy",
+            "D": "Direct oral anticoagulants (DOACs)",
+            "E": "Aspirin therapy only",
+            "F": "Prophylactic antibiotics for cellulitis",
+            "G": "Oral warfarin therapy",
+            "H": "Compression stockings and observation",
+            "I": "Thrombolytic therapy with tissue plasminogen activator (tPA)",
+            "J": "Low molecular weight heparin therapy"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 15388,
+            "completion_tokens": 3791
+        },
+        "time_elapsed": 41.164745569229126
+    },
+    {
         "idx": "Text-102",
         "realidx": "Text-102",
         "question": "A 59-year-old female presents to clinic with a three-month history of urinary urgency, vaginal itching, and approximately four episodes of urinary incontinence daily, unrelated to coughing or sneezing. She experienced menopause at age 52 and reports pain during intercourse that has led to sexual abstinence with her husband. Her medical history includes a chlamydial infection in her twenties and three urinary tract infections in the past year. She takes no medications. Vital signs are normal. Physical examination reveals pale, atrophic vulvar skin with decreased elasticity and petechiae. The vaginal mucosa shows loss of rugae with areas of friable irritation and minimal clear discharge. Urinalysis is normal, fecal occult blood is negative, and pelvic ultrasound shows a small, retroverted uterus. What is the most appropriate initial management step?\nAnswer Choices: (A) Topical corticosteroids (B) Behavioral bladder training (C) Systemic antibiotics (D) Topical estrogen (E) Pelvic floor physical therapy (F) Oral selective estrogen receptor modulators (G) Vaginal moisturizers (H) Oral estrogen therapy (I) Anticholinergic medications (J) Nitrofurantoin Options: (A) Topical corticosteroids (B) Behavioral bladder training (J) Nitrofurantoin (I) Anticholinergic medications (G) Vaginal moisturizers (C) Systemic antibiotics (D) Topical estrogen (F) Oral selective estrogen receptor modulators (E) Pelvic floor physical therapy (H) Oral estrogen therapy",
@@ -232,6 +258,32 @@
             "completion_tokens": 2731
         },
         "time_elapsed": 37.65340328216553
+    },
+    {
+        "idx": "Text-110",
+        "realidx": "Text-110",
+        "question": "A 17-year-old female presents 12 hours after being sexually assaulted by an unknown man she met at a party. The assault involved unprotected vaginal and anal intercourse.  \n\nShe is not using any form of contraception and has received all recommended childhood vaccinations, including immunity to hepatitis B.  \n\nA urine pregnancy test is negative.  \n\nIn addition to providing counseling, referral to a rape crisis center, pregnancy prophylaxis, and discussing HIV postexposure prophylaxis, which of the following prophylactic regimens is most appropriate for this patient?\nAnswer Choices: (A) Ceftriaxone once; azithromycin and metronidazole for 7 days (B) Azithromycin once; metronidazole and doxycycline for 7 days (C) Ceftriaxone once; azithromycin and fluconazole for 7 days (D) Ceftriaxone and azithromycin once (E) Azithromycin and metronidazole once, with doxycycline for 7 days (F) Ceftriaxone and doxycycline once, with metronidazole for 7 days (G) Ceftriaxone once; metronidazole and doxycycline for 7 days (H) Azithromycin and ceftriaxone once, with metronidazole for 7 days (I) Metronidazole once; doxycycline for 7 days (J) Ceftriaxone once; metronidazole for 7 days without doxycycline Options: (F) Ceftriaxone and doxycycline once, with metronidazole for 7 days (A) Ceftriaxone once; azithromycin and metronidazole for 7 days (G) Ceftriaxone once; metronidazole and doxycycline for 7 days (J) Ceftriaxone once; metronidazole for 7 days without doxycycline (E) Azithromycin and metronidazole once, with doxycycline for 7 days (H) Azithromycin and ceftriaxone once, with metronidazole for 7 days (B) Azithromycin once; metronidazole and doxycycline for 7 days (I) Metronidazole once; doxycycline for 7 days (D) Ceftriaxone and azithromycin once (C) Ceftriaxone once; azithromycin and fluconazole for 7 days",
+        "answer_idx": "G",
+        "answer": "Ceftriaxone once; metronidazole and doxycycline for 7 days",
+        "options": {
+            "A": "Ceftriaxone once; azithromycin and metronidazole for 7 days",
+            "B": "Azithromycin once; metronidazole and doxycycline for 7 days",
+            "C": "Ceftriaxone once; azithromycin and fluconazole for 7 days",
+            "D": "Ceftriaxone and azithromycin once",
+            "E": "Azithromycin and metronidazole once, with doxycycline for 7 days",
+            "F": "Ceftriaxone and doxycycline once, with metronidazole for 7 days",
+            "G": "Ceftriaxone once; metronidazole and doxycycline for 7 days",
+            "H": "Azithromycin and ceftriaxone once, with metronidazole for 7 days",
+            "I": "Metronidazole once; doxycycline for 7 days",
+            "J": "Ceftriaxone once; metronidazole for 7 days without doxycycline"
+        },
+        "predicted_answer": "G",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 15620,
+            "completion_tokens": 4434
+        },
+        "time_elapsed": 50.874576568603516
     },
     {
         "idx": "Text-111",
@@ -598,6 +650,84 @@
         "time_elapsed": 48.060176610946655
     },
     {
+        "idx": "Text-139",
+        "realidx": "Text-139",
+        "question": "A 24-year-old pregnant woman at 33 weeks gestation presents to the emergency department with a persistent headache that differs from her usual migraines and is accompanied by double vision. She reports chills and multiple episodes of vomiting. Her vital signs include a temperature of 98.3\u00b0F (36.8\u00b0C), blood pressure of 157/95 mmHg, pulse of 108/min, respirations of 22/min, and oxygen saturation of 99% on room air. On physical examination, she appears uncomfortable. A cranial nerve examination reveals an inability to abduct her left eye, and her gait is mildly ataxic. What is the most appropriate next step in managing this patient?\nAnswer Choices: (A) MRI brain with gadolinium (B) Urgent neurology consultation (C) Serial neurological examinations (D) Immediate magnesium sulfate administration (E) Lumbar puncture (F) Acetaminophen and bed rest (G) CT head without contrast (H) MR venogram of the brain (I) Empiric antibiotic therapy (J) CT angiogram of the head Options: (E) Lumbar puncture (B) Urgent neurology consultation (A) MRI brain with gadolinium (F) Acetaminophen and bed rest (C) Serial neurological examinations (I) Empiric antibiotic therapy (D) Immediate magnesium sulfate administration (J) CT angiogram of the head (H) MR venogram of the brain (G) CT head without contrast",
+        "answer_idx": "H",
+        "answer": "MR venogram of the brain",
+        "options": {
+            "A": "MRI brain with gadolinium",
+            "B": "Urgent neurology consultation",
+            "C": "Serial neurological examinations",
+            "D": "Immediate magnesium sulfate administration",
+            "E": "Lumbar puncture",
+            "F": "Acetaminophen and bed rest",
+            "G": "CT head without contrast",
+            "H": "MR venogram of the brain",
+            "I": "Empiric antibiotic therapy",
+            "J": "CT angiogram of the head"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 14507,
+            "completion_tokens": 5229
+        },
+        "time_elapsed": 48.73112773895264
+    },
+    {
+        "idx": "Text-140",
+        "realidx": "Text-140",
+        "question": "A 43-year-old woman with obesity is being assessed for stage 3B chronic kidney disease. She has a 26-year history of type 1 diabetes managed with insulin and hypertension treated with hydrochlorothiazide 25 mg daily and lisinopril 40 mg daily. Her blood pressure is currently 140/84 mm Hg.  \n\nLaboratory results show a serum creatinine level of 1.7 mg/dL (reference range, 0.6\u20131.1) and a serum potassium level of 4.9 mEq/L (3.5\u20135.0). Proteinuria is confirmed with an albumin-to-creatinine ratio of 760 mg/g (<30).  \n\nWhich of the following management strategies is the most appropriate for this patient?\nAnswer Choices: (A) Replace hydrochlorothiazide with dapagliflozin (B) Add hydralazine to current therapy (C) Add losartan to current therapy (D) Increase lisinopril dosage beyond 40 mg daily (E) Add metoprolol to current therapy (F) Replace hydrochlorothiazide with canagliflozin (G) Add amlodipine to current therapy (H) Replace lisinopril with spironolactone (I) Replace hydrochlorothiazide with furosemide (J) Initiate sodium bicarbonate therapy Options: (G) Add amlodipine to current therapy (J) Initiate sodium bicarbonate therapy (H) Replace lisinopril with spironolactone (E) Add metoprolol to current therapy (C) Add losartan to current therapy (B) Add hydralazine to current therapy (F) Replace hydrochlorothiazide with canagliflozin (I) Replace hydrochlorothiazide with furosemide (D) Increase lisinopril dosage beyond 40 mg daily (A) Replace hydrochlorothiazide with dapagliflozin",
+        "answer_idx": "G",
+        "answer": "Add amlodipine to current therapy",
+        "options": {
+            "A": "Replace hydrochlorothiazide with dapagliflozin",
+            "B": "Add hydralazine to current therapy",
+            "C": "Add losartan to current therapy",
+            "D": "Increase lisinopril dosage beyond 40 mg daily",
+            "E": "Add metoprolol to current therapy",
+            "F": "Replace hydrochlorothiazide with canagliflozin",
+            "G": "Add amlodipine to current therapy",
+            "H": "Replace lisinopril with spironolactone",
+            "I": "Replace hydrochlorothiazide with furosemide",
+            "J": "Initiate sodium bicarbonate therapy"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 17231,
+            "completion_tokens": 4620
+        },
+        "time_elapsed": 46.93693804740906
+    },
+    {
+        "idx": "Text-142",
+        "realidx": "Text-142",
+        "question": "A 71-year-old male presents to the emergency department with complaints of blood in his stool. He denies experiencing any pain during defecation or at present. He recently returned from a camping trip where he consumed fire-cooked meats and drank water from local streams. His medical history includes obesity, diabetes, constipation, irritable bowel syndrome, ulcerative colitis in remission, and a 70-pack-year smoking history. His family history is notable for breast cancer in his mother and prostate cancer in his father. His vital signs are as follows: temperature 98.9\u00b0F (37.2\u00b0C), blood pressure 160/87 mmHg, pulse 80/min, respirations 14/min, and oxygen saturation 98% on room air. Physical examination reveals an obese man in no acute distress. Abdominal examination shows a non-tender, non-distended abdomen with normal bowel sounds. Abdominal radiograph and barium swallow studies are unremarkable. What is the most appropriate treatment for this patient\u2019s condition?\nAnswer Choices: (A) Oral metronidazole (B) Surgical resection of the small intestine (C) Intravenous corticosteroids (D) Colonoscopy with polypectomy (E) Endoscopic band ligation (F) Ciprofloxacin (G) Cautery of an arteriovenous malformation (H) Oral anticoagulation therapy (I) Mesalamine enema (J) Stool softeners and dietary fiber supplementation Options: (H) Oral anticoagulation therapy (B) Surgical resection of the small intestine (D) Colonoscopy with polypectomy (G) Cautery of an arteriovenous malformation (C) Intravenous corticosteroids (E) Endoscopic band ligation (F) Ciprofloxacin (I) Mesalamine enema (J) Stool softeners and dietary fiber supplementation (A) Oral metronidazole",
+        "answer_idx": "G",
+        "answer": "Cautery of an arteriovenous malformation",
+        "options": {
+            "A": "Oral metronidazole",
+            "B": "Surgical resection of the small intestine",
+            "C": "Intravenous corticosteroids",
+            "D": "Colonoscopy with polypectomy",
+            "E": "Endoscopic band ligation",
+            "F": "Ciprofloxacin",
+            "G": "Cautery of an arteriovenous malformation",
+            "H": "Oral anticoagulation therapy",
+            "I": "Mesalamine enema",
+            "J": "Stool softeners and dietary fiber supplementation"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 15639,
+            "completion_tokens": 4217
+        },
+        "time_elapsed": 43.92557382583618
+    },
+    {
         "idx": "Text-143",
         "realidx": "Text-143",
         "question": "Two days after birth, a term male newborn weighing 4300 g (9 lb 8 oz) presents with feeding difficulties and increasing lethargy. His cry has weakened. The mother has a history of intravenous drug use. Vital signs include a temperature of 36.4\u00b0C (97.5\u00b0F), pulse of 170/min, respirations of 62/min, and blood pressure of 70/48 mm Hg. Physical examination reveals midfacial hypoplasia, diaphoresis, tremors in the lower extremities, macroglossia, and posterior auricular cartilage folds. The left lower extremity is larger than the right. An umbilical hernia is noted, and the liver is palpable 4 cm below the right costal margin. Neurologic examination shows hypotonia in all extremities. Which of the following interventions is most appropriate for this patient?\nAnswer Choices: (A) Glucose (B) Diazepam (C) Hydrocortisone (D) Naloxone (E) Insulin (F) Vitamin K (G) Phenobarbital (H) Thyroxine (I) Calcium gluconate (J) Dopamine Options: (D) Naloxone (F) Vitamin K (A) Glucose (E) Insulin (G) Phenobarbital (C) Hydrocortisone (J) Dopamine (H) Thyroxine (B) Diazepam (I) Calcium gluconate",
@@ -674,6 +804,32 @@
             "completion_tokens": 5136
         },
         "time_elapsed": 51.52157163619995
+    },
+    {
+        "idx": "Text-147",
+        "realidx": "Text-147",
+        "question": "A male child aged 6 years is brought in for evaluation of potential precocious puberty. His parents note that in the past year, he has developed body odor, acne, and pubic hair growth. They also report a recent growth spurt requiring new clothes.\n\nPhysical examination reveals Tanner stage 2 pubic hair and early pubertal testicular volume of approximately 5 mL. The remainder of his examination is normal.\n\nHis bone age is determined to be 9 years by radiographic measurement.\n\nA morning 17-hydroxyprogesterone level is 58 ng/dL (normal range: 7\u201369).\n\nWhat is the most likely diagnosis in this case?\nAnswer Choices: (A) Primary hypothyroidism with secondary precocious puberty (B) Benign premature adrenarche (C) Gonadotropin-independent precocious puberty (D) Central precocious puberty related to a central nervous system lesion (E) Familial male-limited precocious puberty (F) Idiopathic central precocious puberty (G) Late-onset congenital adrenal hyperplasia (H) McCune-Albright syndrome (I) Precocious puberty related to a peripheral androgen-secreting tumor (J) Adrenal carcinoma causing androgen excess Options: (F) Idiopathic central precocious puberty (D) Central precocious puberty related to a central nervous system lesion (B) Benign premature adrenarche (G) Late-onset congenital adrenal hyperplasia (I) Precocious puberty related to a peripheral androgen-secreting tumor (H) McCune-Albright syndrome (C) Gonadotropin-independent precocious puberty (E) Familial male-limited precocious puberty (A) Primary hypothyroidism with secondary precocious puberty (J) Adrenal carcinoma causing androgen excess",
+        "answer_idx": "D",
+        "answer": "Central precocious puberty related to a central nervous system lesion",
+        "options": {
+            "A": "Primary hypothyroidism with secondary precocious puberty",
+            "B": "Benign premature adrenarche",
+            "C": "Gonadotropin-independent precocious puberty",
+            "D": "Central precocious puberty related to a central nervous system lesion",
+            "E": "Familial male-limited precocious puberty",
+            "F": "Idiopathic central precocious puberty",
+            "G": "Late-onset congenital adrenal hyperplasia",
+            "H": "McCune-Albright syndrome",
+            "I": "Precocious puberty related to a peripheral androgen-secreting tumor",
+            "J": "Adrenal carcinoma causing androgen excess"
+        },
+        "predicted_answer": "F",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 14810,
+            "completion_tokens": 3966
+        },
+        "time_elapsed": 44.33294105529785
     },
     {
         "idx": "Text-148",
@@ -988,6 +1144,32 @@
         "time_elapsed": 37.445600509643555
     },
     {
+        "idx": "Text-3",
+        "realidx": "Text-3",
+        "question": "A 34-year-old woman describes intermittent milky discharge from both breasts for the past 6 months. She also states that her menstrual cycle has become irregular during this time, with only two menses since the nipple discharge started. She is sexually active and reports reduced libido. She is hoping to conceive in the future and is concerned about her irregular menses. She does not take any medications and is otherwise healthy. She reports no changes in vision and has only occasional headaches, which she describes as chronic and stress related.\n\n\nOn physical examination, she has bilateral milky discharge with minimal areolar pressure and no discernible breast mass. Bilateral temporal visual-field defects are noted on visual-field examination.\n\n\nLaboratory testing shows a thyroid-stimulating hormone level of 2.4 \u03bcU/mL (reference range, 0.5\u20134.7), a free thyroxine level of 1.4 ng/dL (0.8\u20131.8), and a prolactin level of 389 ng/mL (0\u201320). A urine pregnancy test is negative.\n\n\nA repeat fasting prolactin level remains elevated. Renal function is normal.\n\n\nMRI of the sella demonstrates an 18-mm sellar mass with suprasellar extension and compression of the optic chiasm, most consistent with a pituitary adenoma.\n\n\nWhich one of the following next steps is most appropriate for this patient?\nAnswer Choices: (A) Begin octreotide therapy (B) Begin levothyroxine replacement therapy (C) Refer for neurosurgical evaluation (D) Refer for stereotactic radiotherapy (E) Start radiation therapy (F) Start high-dose glucocorticoid therapy (G) Schedule urgent transsphenoidal surgery (H) Initiate clomiphene citrate for fertility (I) Begin cabergoline 0.25 mg twice weekly (J) Begin bromocriptine 2.5 mg daily Options: (D) Refer for stereotactic radiotherapy (F) Start high-dose glucocorticoid therapy (H) Initiate clomiphene citrate for fertility (C) Refer for neurosurgical evaluation (G) Schedule urgent transsphenoidal surgery (I) Begin cabergoline 0.25 mg twice weekly (A) Begin octreotide therapy (B) Begin levothyroxine replacement therapy (J) Begin bromocriptine 2.5 mg daily (E) Start radiation therapy",
+        "answer_idx": "I",
+        "answer": "Begin cabergoline 0.25 mg twice weekly",
+        "options": {
+            "A": "Begin octreotide therapy",
+            "B": "Begin levothyroxine replacement therapy",
+            "C": "Refer for neurosurgical evaluation",
+            "D": "Refer for stereotactic radiotherapy",
+            "E": "Start radiation therapy",
+            "F": "Start high-dose glucocorticoid therapy",
+            "G": "Schedule urgent transsphenoidal surgery",
+            "H": "Initiate clomiphene citrate for fertility",
+            "I": "Begin cabergoline 0.25 mg twice weekly",
+            "J": "Begin bromocriptine 2.5 mg daily"
+        },
+        "predicted_answer": "I",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 16891,
+            "completion_tokens": 4077
+        },
+        "time_elapsed": 45.64404106140137
+    },
+    {
         "idx": "Text-30",
         "realidx": "Text-30",
         "question": "A 2-month-old male infant is brought in for a routine health maintenance visit. His growth and development are on track, with height and weight at the 50th percentile, consistent with prior growth measurements. However, his head circumference has increased to the 90th percentile from the 50th percentile noted at his newborn visit. The head appears elongated and narrow, with a prominent occiput and broad forehead. There are no facial dysmorphic features, and the rest of the physical exam is unremarkable. What is the most appropriate initial management for this infant?\nAnswer Choices: (A) Increased time in the prone position while awake and monitored (B) Measurement of parental head circumferences to assess for familial macrocephaly (C) Referral to a physical therapist to address positional head shape deformities (D) Cranial ultrasound to assess for hydrocephalus (E) MRI of the brain to evaluate intracranial structures (F) Observation with no further intervention unless symptoms worsen (G) Reevaluation of head circumference in one month (H) Referral to a pediatric endocrinologist for evaluation of growth abnormalities (I) Referral to craniofacial specialists (J) Referral for genetic testing Options: (B) Measurement of parental head circumferences to assess for familial macrocephaly (E) MRI of the brain to evaluate intracranial structures (F) Observation with no further intervention unless symptoms worsen (J) Referral for genetic testing (C) Referral to a physical therapist to address positional head shape deformities (A) Increased time in the prone position while awake and monitored (G) Reevaluation of head circumference in one month (I) Referral to craniofacial specialists (D) Cranial ultrasound to assess for hydrocephalus (H) Referral to a pediatric endocrinologist for evaluation of growth abnormalities",
@@ -1300,6 +1482,32 @@
         "time_elapsed": 200.50978422164917
     },
     {
+        "idx": "Text-46",
+        "realidx": "Text-46",
+        "question": "A 70-year-old man presents to the emergency department with active left-sided epistaxis. He says that the episode started 2 hours ago and, when asked to estimate the amount of bleeding, he produces a hand towel saturated with blood. He has a history of atrial fibrillation, hypertension, hypercholesterolemia, mild chronic obstructive pulmonary disease, and a mitral-valve replacement with a bioprosthetic valve 5 years ago. His medications include metoprolol and apixaban.\n\n\nHe is afebrile with a heart rate of 110 beats per minute, a blood pressure of 90/60 mm Hg, and a respiratory rate of 12 breaths per minute. His oxygen saturation is 98% while he is breathing ambient air. Examination reveals severe ongoing epistaxis from the left nares without a clearly identified source of bleeding; there is also blood visible in the posterior oropharynx.\n\n\nIn addition to fluid resuscitation, which one of the following management strategies should be undertaken next in this case?\nAnswer Choices: (A) Perform an endonasal examination, and apply topical silver nitrate (B) Administer andexanet alfa (C) Consult interventional radiology for embolization of the bleeding vessel (D) Reverse anticoagulation with fresh frozen plasma (E) Place an anterior nasal pack (F) Observe the patient for spontaneous resolution of bleeding (G) Place an anterior and a posterior nasal pack (H) Perform surgical ligation of the sphenopalatine artery (I) Perform nasal endoscopy and cauterize the bleeding vessel (J) Administer tranexamic acid intranasally Options: (C) Consult interventional radiology for embolization of the bleeding vessel (F) Observe the patient for spontaneous resolution of bleeding (B) Administer andexanet alfa (J) Administer tranexamic acid intranasally (D) Reverse anticoagulation with fresh frozen plasma (A) Perform an endonasal examination, and apply topical silver nitrate (E) Place an anterior nasal pack (H) Perform surgical ligation of the sphenopalatine artery (G) Place an anterior and a posterior nasal pack (I) Perform nasal endoscopy and cauterize the bleeding vessel",
+        "answer_idx": "E",
+        "answer": "Place an anterior nasal pack",
+        "options": {
+            "A": "Perform an endonasal examination, and apply topical silver nitrate",
+            "B": "Administer andexanet alfa",
+            "C": "Consult interventional radiology for embolization of the bleeding vessel",
+            "D": "Reverse anticoagulation with fresh frozen plasma",
+            "E": "Place an anterior nasal pack",
+            "F": "Observe the patient for spontaneous resolution of bleeding",
+            "G": "Place an anterior and a posterior nasal pack",
+            "H": "Perform surgical ligation of the sphenopalatine artery",
+            "I": "Perform nasal endoscopy and cauterize the bleeding vessel",
+            "J": "Administer tranexamic acid intranasally"
+        },
+        "predicted_answer": "G",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 17653,
+            "completion_tokens": 5101
+        },
+        "time_elapsed": 44.31398320198059
+    },
+    {
         "idx": "Text-47",
         "realidx": "Text-47",
         "question": "A previously healthy 18-year-old male college student is brought to the emergency department by EMS after his roommate called for help. The patient presents with severe headache and fever that began 6 hours ago.\n\nOn examination, his vital signs show: temperature 39.5\u00b0C, heart rate 120/min, and blood pressure 88/64 mm Hg. Physical findings include a generalized petechial rash on his extremities and trunk, and marked nuchal rigidity. He is oriented to person and place, demonstrates purposeful movement of all extremities, has normal pupillary and corneal reflexes bilaterally, an intact cough reflex, and no focal neurological deficits.\n\nThe patient's Covid-19 vaccinations are current, and SARS-CoV-2 testing is negative. He has received 2 liters of intravenous fluid.\n\nWhat is the correct sequence of steps for initial evaluation and treatment of this patient?\nAnswer Choices: (A) Brain imaging, lumbar puncture, then administration of antibiotics and dexamethasone (B) Blood culture, administration of antibiotics and dexamethasone, then lumbar puncture (C) Blood culture, brain imaging, then administration of antibiotics and dexamethasone (D) Lumbar puncture, administration of antibiotics and dexamethasone, then blood culture (E) Brain imaging, blood culture, then administration of antibiotics and dexamethasone (F) Lumbar puncture, blood culture, then administration of antibiotics and dexamethasone (G) Administration of antibiotics and dexamethasone, blood culture, then lumbar puncture (H) Administration of antibiotics, brain imaging, then lumbar puncture (I) Administration of dexamethasone, blood culture, then lumbar puncture (J) Blood culture, lumbar puncture, then administration of antibiotics and dexamethasone Options: (J) Blood culture, lumbar puncture, then administration of antibiotics and dexamethasone (F) Lumbar puncture, blood culture, then administration of antibiotics and dexamethasone (D) Lumbar puncture, administration of antibiotics and dexamethasone, then blood culture (C) Blood culture, brain imaging, then administration of antibiotics and dexamethasone (H) Administration of antibiotics, brain imaging, then lumbar puncture (B) Blood culture, administration of antibiotics and dexamethasone, then lumbar puncture (A) Brain imaging, lumbar puncture, then administration of antibiotics and dexamethasone (I) Administration of dexamethasone, blood culture, then lumbar puncture (E) Brain imaging, blood culture, then administration of antibiotics and dexamethasone (G) Administration of antibiotics and dexamethasone, blood culture, then lumbar puncture",
@@ -1560,6 +1768,32 @@
         "time_elapsed": 44.34442615509033
     },
     {
+        "idx": "Text-62",
+        "realidx": "Text-62",
+        "question": "A newborn female at 36 weeks gestation presents with bilious emesis at 3 hours of life. The infant was delivered vaginally to a 40-year-old mother with poor prenatal care and a history of tobacco use during pregnancy, though she denies other substance use. Physical examination reveals: temperature 97.9\u00b0F, blood pressure 90/60 mmHg, heart rate 180/min, and respiratory rate 40/min. The abdomen is notably distended with decreased bowel sounds on auscultation. The infant has not passed meconium. An abdominal radiograph reveals three distinct gastric bubbles. What is the most likely underlying pathogenic mechanism for this condition?\nAnswer Choices: (A) Ischemic segmental resorption (B) Failed luminal recanalization (C) Disrupted enteric nervous system formation (D) Abnormal mesenteric vascularization (E) Abnormal epithelial-mesenchymal interaction (F) Failed neural crest migration (G) Impaired intestinal smooth muscle development (H) Defective intestinal rotation (I) Incomplete lateral folding of embryonic disk (J) Defective vacuolization of intestinal lumen Options: (G) Impaired intestinal smooth muscle development (I) Incomplete lateral folding of embryonic disk (H) Defective intestinal rotation (J) Defective vacuolization of intestinal lumen (B) Failed luminal recanalization (D) Abnormal mesenteric vascularization (E) Abnormal epithelial-mesenchymal interaction (A) Ischemic segmental resorption (F) Failed neural crest migration (C) Disrupted enteric nervous system formation",
+        "answer_idx": "A",
+        "answer": "Ischemic segmental resorption",
+        "options": {
+            "A": "Ischemic segmental resorption",
+            "B": "Failed luminal recanalization",
+            "C": "Disrupted enteric nervous system formation",
+            "D": "Abnormal mesenteric vascularization",
+            "E": "Abnormal epithelial-mesenchymal interaction",
+            "F": "Failed neural crest migration",
+            "G": "Impaired intestinal smooth muscle development",
+            "H": "Defective intestinal rotation",
+            "I": "Incomplete lateral folding of embryonic disk",
+            "J": "Defective vacuolization of intestinal lumen"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 14589,
+            "completion_tokens": 3435
+        },
+        "time_elapsed": 41.36141347885132
+    },
+    {
         "idx": "Text-63",
         "realidx": "Text-63",
         "question": "A 5-year-old female child is brought to a medical office with complaints of progressive abdominal pain that has intensified in the last 24 hours. The father reports a history of constipation, with no bowel movement for the past 72 hours and no bloody stools. She has experienced three episodes of vomiting since the previous night and is refusing food. Her medical and surgical history is unremarkable. Physical examination reveals upper abdominal distention with tympany, but no abdominal mass, involuntary guarding, or rebound tenderness is detected. What is the most probable underlying etiology of her clinical presentation?\nAnswer Choices: (A) Hirschsprung disease (B) Intestinal lymphoma (C) Superior mesenteric artery syndrome (D) Chronic intestinal pseudo-obstruction (E) Volvulus (F) Malrotation of the gut (G) Pyloric stenosis (H) Intussusception (I) Meckel diverticulum (J) Duodenal web Options: (E) Volvulus (D) Chronic intestinal pseudo-obstruction (C) Superior mesenteric artery syndrome (A) Hirschsprung disease (F) Malrotation of the gut (J) Duodenal web (I) Meckel diverticulum (B) Intestinal lymphoma (G) Pyloric stenosis (H) Intussusception",
@@ -1740,6 +1974,32 @@
             "completion_tokens": 3139
         },
         "time_elapsed": 46.80394458770752
+    },
+    {
+        "idx": "Text-7",
+        "realidx": "Text-7",
+        "question": "A patient arrives at the emergency department with a fractured humeral shaft, exhibiting wrist drop and inability to extend their fingers and thumb. Among the following motor functions, which would you expect to be the last to return to normal?\nAnswer Choices: (A) Adduction of the thumb (B) Wrist extension in radial deviation (C) Flexion of the index finger DIP joint (D) Supination of the forearm (E) Extension of the middle finger MCP joint (F) Index finger MCP hyperextension (G) Abduction of the thumb (H) Thumb MCP hyperextension (I) Middle finger MCP extension (J) Full extension of the elbow Options: (B) Wrist extension in radial deviation (C) Flexion of the index finger DIP joint (A) Adduction of the thumb (F) Index finger MCP hyperextension (J) Full extension of the elbow (D) Supination of the forearm (I) Middle finger MCP extension (H) Thumb MCP hyperextension (E) Extension of the middle finger MCP joint (G) Abduction of the thumb",
+        "answer_idx": "F",
+        "answer": "Index finger MCP hyperextension",
+        "options": {
+            "A": "Adduction of the thumb",
+            "B": "Wrist extension in radial deviation",
+            "C": "Flexion of the index finger DIP joint",
+            "D": "Supination of the forearm",
+            "E": "Extension of the middle finger MCP joint",
+            "F": "Index finger MCP hyperextension",
+            "G": "Abduction of the thumb",
+            "H": "Thumb MCP hyperextension",
+            "I": "Middle finger MCP extension",
+            "J": "Full extension of the elbow"
+        },
+        "predicted_answer": "H",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 17171,
+            "completion_tokens": 5088
+        },
+        "time_elapsed": 46.943243741989136
     },
     {
         "idx": "Text-70",
@@ -2234,5 +2494,31 @@
             "completion_tokens": 4531
         },
         "time_elapsed": 46.11687159538269
+    },
+    {
+        "idx": "Text-99",
+        "realidx": "Text-99",
+        "question": "A 26-year-old male with an 8-year history of HIV on combination antiretroviral therapy (viral load undetectable, CD4 count 350 cells/mm\u00b3) is evaluated after experiencing his first tonic-clonic seizure lasting 2 minutes. On examination, he is febrile with BP 120/85 mm Hg, confused, and can follow two-step commands. Physical findings include neck stiffness, left-sided facial and limb weakness, conjugate gaze with symmetric reactive pupils, increased tone in left extremities, and a positive Babinski sign on the left. What is the most appropriate initial management step?\nAnswer Choices: (A) Start empiric tuberculosis treatment (B) Initiate broad-spectrum antifungal coverage (C) Administer lorazepam and load with levetiracetam (D) Start high-dose trimethoprim-sulfamethoxazole (E) Order CT of the head (F) Obtain blood cultures, and initiate treatment with vancomycin, ceftriaxone, ampicillin, acyclovir, and dexamethasone (G) Perform lumbar puncture immediately (H) Begin empiric fluconazole therapy (I) Begin high-dose ganciclovir therapy (J) Perform lumbar puncture Options: (I) Begin high-dose ganciclovir therapy (B) Initiate broad-spectrum antifungal coverage (F) Obtain blood cultures, and initiate treatment with vancomycin, ceftriaxone, ampicillin, acyclovir, and dexamethasone (A) Start empiric tuberculosis treatment (C) Administer lorazepam and load with levetiracetam (G) Perform lumbar puncture immediately (J) Perform lumbar puncture (E) Order CT of the head (D) Start high-dose trimethoprim-sulfamethoxazole (H) Begin empiric fluconazole therapy",
+        "answer_idx": "F",
+        "answer": "Obtain blood cultures, and initiate treatment with vancomycin, ceftriaxone, ampicillin, acyclovir, and dexamethasone",
+        "options": {
+            "A": "Start empiric tuberculosis treatment",
+            "B": "Initiate broad-spectrum antifungal coverage",
+            "C": "Administer lorazepam and load with levetiracetam",
+            "D": "Start high-dose trimethoprim-sulfamethoxazole",
+            "E": "Order CT of the head",
+            "F": "Obtain blood cultures, and initiate treatment with vancomycin, ceftriaxone, ampicillin, acyclovir, and dexamethasone",
+            "G": "Perform lumbar puncture immediately",
+            "H": "Begin empiric fluconazole therapy",
+            "I": "Begin high-dose ganciclovir therapy",
+            "J": "Perform lumbar puncture"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 14864,
+            "completion_tokens": 4661
+        },
+        "time_elapsed": 133.88532328605652
     }
 ]

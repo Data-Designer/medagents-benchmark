@@ -1220,6 +1220,26 @@
         "time_elapsed": 65.91957139968872
     },
     {
+        "idx": 1358,
+        "realidx": 1358,
+        "question": "Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia \u2013 an increase in the body's core temperature \u2013 that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors\u2026 In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease\u2026 The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits \u2013 and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week\u2026 The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)\u2026Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40\u00b0C (104\u00b0F), and then changes in core body temperature occur, rising slowly from 37\u00b0C (98.6\u00b0F, or normal) to 38\u00b0C (100.4\u00b0F) and then rapidly increasing to 39\u00b0C (102.2\u00b0F)\u2026  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance\u2026 Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors\u2026 The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nAccording to the article, which of the following is NOT a benefit of sauna use? Options: (C) Improved mental health. (A) Decreased risk of heart attacks. (D) Decreased rate of erectile dysfunction. (B) Increase in stroke volume.",
+        "answer_idx": "D",
+        "answer": "Decreased rate of erectile dysfunction.",
+        "options": {
+            "A": "Decreased risk of heart attacks.",
+            "B": "Increase in stroke volume.",
+            "C": "Improved mental health.",
+            "D": "Decreased rate of erectile dysfunction."
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7812,
+            "completion_tokens": 3719
+        },
+        "time_elapsed": 42.57060480117798
+    },
+    {
         "idx": 1364,
         "realidx": 1364,
         "question": "The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise: Options: (A) frequently rises by 1 - 3 mM. (D) falls to hypoglycaemic levels. (B) remains relatively unchanged. (C) frequently falls by 1 - 3 mM.",
@@ -1298,6 +1318,46 @@
             "completion_tokens": 3218
         },
         "time_elapsed": 38.58740425109863
+    },
+    {
+        "idx": 12247,
+        "realidx": 12247,
+        "question": "A 30-year-old nulliparous female presents to the office with the complaint of mood changes. She says that for the past several months she has been anxious, hyperactive, and unable to sleep 3 to 4\u00a0days prior to the onset of menses. She further reports that on the day her menses begins she becomes acutely depressed, anorectic, irritable, and lethargic. She has no psychiatric history. Physical examination findings are normal. She and her husband have been trying to conceive for over 2\u00a0years. History reveals a tuboplasty approximately 1\u00a0year ago to correct a closed fallopian tube. The most likely diagnosis is Options: (B) bipolar I disorder, mixed (A) adjustment disorder with depressed mood (D) generalized anxiety disorder (C) cyclothymic personality",
+        "answer_idx": "A",
+        "answer": "adjustment disorder with depressed mood",
+        "options": {
+            "A": "adjustment disorder with depressed mood",
+            "B": "bipolar I disorder, mixed",
+            "C": "cyclothymic personality",
+            "D": "generalized anxiety disorder"
+        },
+        "predicted_answer": "0",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5612,
+            "completion_tokens": 5253
+        },
+        "time_elapsed": 46.332741498947144
+    },
+    {
+        "idx": 12260,
+        "realidx": 12260,
+        "question": "A 49-year-old man, who is recovering in the hospital 2 days after uncomplicated left femoral-popliteal bypass grafting for claudication, has now developed increasing pain in his left foot. Until now, the patient's postoperative course had been unremarkable and he has been treated with low-dose morphine for pain control. Medical history is remarkable for type 2 diabetes mellitus controlled with metformin and diet. Vital signs now are temperature 36.8\u00b0C (98.2\u00b0F), pulse 80/min and regular, respirations 20/min, and blood pressure 150/92 mm Hg. The surgical incision appears clean and well approximated without abnormal erythema or swelling. The left lower extremity and foot appear pale. Palpation of the left lower extremity discloses a strong femoral pulse, a weak popliteal pulse, and a cool, pulseless foot. Which of the following is the most appropriate management? Options: (B) Doppler ultrasonography of the left lower extremity (C) Intra-arterial tissue plasminogen activator (tPA) therapy (D) Intraoperative angiography (A) Bedside compartment pressure measurements",
+        "answer_idx": "D",
+        "answer": "Intraoperative angiography",
+        "options": {
+            "A": "Bedside compartment pressure measurements",
+            "B": "Doppler ultrasonography of the left lower extremity",
+            "C": "Intra-arterial tissue plasminogen activator (tPA) therapy",
+            "D": "Intraoperative angiography"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5842,
+            "completion_tokens": 5874
+        },
+        "time_elapsed": 56.136515378952026
     },
     {
         "idx": 12296,

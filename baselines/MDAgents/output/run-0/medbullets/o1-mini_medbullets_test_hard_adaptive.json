@@ -273,6 +273,27 @@
         "time_elapsed": 32.44464302062988
     },
     {
+        "idx": 44,
+        "realidx": 44,
+        "question": "A 57-year-old woman presents to the emergency department for a headache. She was at home when a sudden headache began with greater severity than she had experienced in the past. She presented within 30 minutes of symptom onset. The patient has a medical history of sinusitis, constipation, diabetes, and pelvic inflammatory disease. Her current medications include fexofenadine, oral contraceptive pills, and metformin. She is currently taking amoxicillin for a sinus infection. She smokes 1 pack of cigarettes per day and drinks 2-3 alcoholic beverages daily. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 187/118 mmHg, pulse is 120/min, respirations are 17/min, and oxygen saturation is 98% on room air. On physical exam, the patient is noted to be uncomfortable with the appearance shown in Figure A. Neurological exam reveals a confused woman who is now complaining of \"seeing double.\" Cardiopulmonary exam reveals mild bibasilar crackles and tachycardia. Abdominal exam is within normal limits. Which of the following is the most appropriate initial step in management? Options: (E) Piperacillin-tazobactam (B) CT of the head (D) MRI of the head (C) Dexamethasone (A) Amoxicillin-clavulinic acid",
+        "answer_idx": "E",
+        "answer": "Piperacillin-tazobactam",
+        "options": {
+            "A": "Amoxicillin-clavulinic acid",
+            "B": "CT of the head",
+            "C": "Dexamethasone",
+            "D": "MRI of the head",
+            "E": "Piperacillin-tazobactam"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 38069,
+            "completion_tokens": 20666
+        },
+        "time_elapsed": 131.20011448860168
+    },
+    {
         "idx": 46,
         "realidx": 46,
         "question": "A 5-year-old girl presents to the emergency room due to difficulty walking. She has been complaining of pain in her right leg for the last few days. Her neighbor\u2019s cat bit her last week and her parents attributed the pain to her healing bite. At the time of the bite, they cleaned the wound and irrigated it with sterile saline water from a first aid kit. She has no medical history and has never been hospitalized. Her temperature is 102.2\u00b0F (39\u00b0C), blood pressure is 118/78 mmHg, pulse is 90/min, respirations are 21/min, and pulse oximetry is 99% on room air. The open wound remains present on the thigh with surrounding erythema and edema. MRI is consistent with osteomyelitis. Which of the following is the most appropriate next step in management? Options: (C) Doxycycline (D) Flucanozole (B) Ampicillin and sulbactam (E) Vancomycin (A) Amoxicillin and clavulanate",
@@ -313,6 +334,27 @@
             "completion_tokens": 5183
         },
         "time_elapsed": 39.49734902381897
+    },
+    {
+        "idx": 56,
+        "realidx": 56,
+        "question": "A 69-year-old man presents to the emergency department with shortness of breath. The patient has presented 3 times this month with similar complaints. He states his shortness of breath started when he was walking from his car to a local restaurant. He does not see a primary care physician and is not currently taking any medications. He drinks alcohol socially and does not smoke. His temperature is 99.5\u00b0F (37.5\u00b0C), pulse is 100/min, blood pressure is 130/90 mmHg, respirations are 18/min, and oxygen saturation is 96% on room air. On physical exam, he appears fatigued and the cardiovascular exam reveals an additional heart sound after S2. A pulmonary exam is notable for bilateral crackles and an abdominal exam reveals an obese abdomen without pain in any of the quadrants. Lower extremity pitting edema is noted bilaterally. Which of the sets of lab values shown in Figure A would most likely be seen in this patient? Options: (B) B (C) C (D) D (E) E (A) A",
+        "answer_idx": "C",
+        "answer": "C",
+        "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D",
+            "E": "E"
+        },
+        "predicted_answer": "0",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7133,
+            "completion_tokens": 5737
+        },
+        "time_elapsed": 37.83676791191101
     },
     {
         "idx": 60,
@@ -420,6 +462,69 @@
         "time_elapsed": 42.99625110626221
     },
     {
+        "idx": 79,
+        "realidx": 79,
+        "question": "A 7-year-old adopted boy presents to the emergency department after fainting. He just switched from being home-schooled to public school and joined the basketball team. He has fainted several times during basketball practices. He did not sustain any injuries or have any prodromes prior to these episodes. He is usually unconscious for less than a minute. He is otherwise healthy and has met all developmental milestones. He does not currently take any medications. His temperature is 97.6\u00b0F (36.4\u00b0C), blood pressure is 104/54 mmHg, pulse is 100/min, respirations are 19/min, and oxygen saturation is 98% on room air. Physical exam reveals a well-appearing and playful boy. An ECG is performed as seen in Figure A. An echocardiogram is ordered and pending. Which of the following is the most likely diagnosis? Options: (A) Arrhythmogenic right ventricular dysplasia (D) QT prolongation (B) Brugada syndrome (C) Hypertrophic obstructive cardiomyopathy (E) Wolff Parkinson White syndrome",
+        "answer_idx": "A",
+        "answer": "Arrhythmogenic right ventricular dysplasia",
+        "options": {
+            "A": "Arrhythmogenic right ventricular dysplasia",
+            "B": "Brugada syndrome",
+            "C": "Hypertrophic obstructive cardiomyopathy",
+            "D": "QT prolongation",
+            "E": "Wolff Parkinson White syndrome"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 39700,
+            "completion_tokens": 17727
+        },
+        "time_elapsed": 123.50642848014832
+    },
+    {
+        "idx": 84,
+        "realidx": 84,
+        "question": "A 70-year-old woman is brought to the emergency department by ambulance. She was found on the floor of her apartment after her neighbor called 911. She is confused and is unable to provide any history, but complains of generalized pain. Her temperature is 99.2\u00b0F (37.3\u00b0C), blood pressure is 129/64 mmHg, pulse is 63/min, respirations are 13/min, and oxygen saturation is 99% on room air. Physical exam reveals, a confused, ill-appearing woman. Lungs are clear to auscultation bilaterally. An electrocardiogram is obtained as shown in Figure A. Dipstick urinalysis is notable for 4+ blood and dark colored urine. Which of the following is the most appropriate next step in management? Options: (B) Calcium gluconate (E) Sodium polystyrene sulfonate (D) IV fluid resuscitation (A) Albuterol and IV fluid resuscitation (C) Insulin, glucose, and IV fluid resuscitation",
+        "answer_idx": "B",
+        "answer": "Calcium gluconate",
+        "options": {
+            "A": "Albuterol and IV fluid resuscitation",
+            "B": "Calcium gluconate",
+            "C": "Insulin, glucose, and IV fluid resuscitation",
+            "D": "IV fluid resuscitation",
+            "E": "Sodium polystyrene sulfonate"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9093,
+            "completion_tokens": 6113
+        },
+        "time_elapsed": 42.21615195274353
+    },
+    {
+        "idx": 86,
+        "realidx": 86,
+        "question": "A 72-year-old man presents to his primary care physician for a general checkup. The patient works as a farmer and has no concerns about his health. He has a medical history of hypertension and obesity. His current medications include lisinopril and metoprolol. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 177/108 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air. Physical exam is notable for a murmur after S2 over the left sternal border. The patient demonstrates a stable gait and 5/5 strength in his upper and lower extremities. Which of the following is another possible finding in this patient? Options: (B) Femoral artery murmur (C) Murmur that radiates to the carotids during systole (E) Wedge pressure lower than expected (A) Audible click heard at the cardiac apex (D) Rumbling heard at the cardiac apex",
+        "answer_idx": "B",
+        "answer": "Femoral artery murmur",
+        "options": {
+            "A": "Audible click heard at the cardiac apex",
+            "B": "Femoral artery murmur",
+            "C": "Murmur that radiates to the carotids during systole",
+            "D": "Rumbling heard at the cardiac apex",
+            "E": "Wedge pressure lower than expected"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6989,
+            "completion_tokens": 5198
+        },
+        "time_elapsed": 34.531310081481934
+    },
+    {
         "idx": 89,
         "realidx": 89,
         "question": "A 77-year-old man presents to the emergency department acutely obtunded. The patient lives alone and was found unresponsive by his son. Generally, the patient manages his own finances, medications, and works part-time. He has not been responding to phone calls for the past 3 days. The patient is unable to offer a history. He has a past medical history of hypothyroidism, depression, and diabetes. His temperature is 88.0\u00b0F (31.1\u00b0C), blood pressure is 92/62 mmHg, pulse is 35/min, respirations are 9/min, and oxygen saturation is 92% on room air. The patient is cold to the touch and moves all extremities to painful stimuli. His pupils are reactive and sluggish, and he does not follow commands. There are no signs of trauma or skin infections. The patient is started on IV fluids and hydrocortisone, is externally warmed, and is started on a norepinephrine drip. An ECG is performed as seen in Figure A. Which of the following is the most appropriate next step in management? Options: (C) Thyroid stimulating hormone and free T4 level (A) Free T4 level (D) Thyroid stimulating hormone level (E) Triiodothyronine administration (B) Levothyroxine administration",
@@ -502,6 +607,27 @@
             "completion_tokens": 4777
         },
         "time_elapsed": 35.87834334373474
+    },
+    {
+        "idx": 95,
+        "realidx": 95,
+        "question": "A 2-day-old boy has an episode of vomiting in the hospital nursery. The vomitus was described as \u201cbright green\u201d without any traces of blood. The patient has urinated several times since he was born but has not passed any stool. He was born at 37 weeks of gestation to a 38-year-old G3P3 woman. The pregnancy was uncomplicated and the patient\u2019s mother refused all prenatal testing. The patient\u2019s 2 older siblings are both healthy. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 67/43 mmHg, pulse is 135/min, and respirations are 34/min. On physical exam, the patient has upslanting palpebral fissures, epicanthal folds, and a single transverse palmar crease. His abdomen is non-tender, firm, and distended. Bowel sounds are hypoactive. Digital rectal exam evacuates a small amount of stool and flatulence. A nasogastric tube is placed to decompress the stomach. The patient\u2019s abdominal radiograph can be seen in Figure A. Which of the following is the most likely diagnosis? Options: (B) Hirschsprung disease (E) Pyloric stenosis (C) Intestinal malrotation (D) Meconium ileus (A) Duodenal atresia",
+        "answer_idx": "B",
+        "answer": "Hirschsprung disease",
+        "options": {
+            "A": "Duodenal atresia",
+            "B": "Hirschsprung disease",
+            "C": "Intestinal malrotation",
+            "D": "Meconium ileus",
+            "E": "Pyloric stenosis"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 33968,
+            "completion_tokens": 15220
+        },
+        "time_elapsed": 105.38257002830505
     },
     {
         "idx": 98,
@@ -819,6 +945,48 @@
         "time_elapsed": 43.945918560028076
     },
     {
+        "idx": 159,
+        "realidx": 159,
+        "question": "A 29-year-old woman is recovering on the obstetrics floor after the vaginal delivery of 8-pound twin boys born at 42 weeks gestation. The patient is fatigued but states that she is doing well. Currently, she is complaining that her vagina hurts. The next morning, the patient experiences chills and a light red voluminous discharge from her vagina. She states that she feels pain and cramps in her abdomen. The patient's medical history is notable for diabetes which was managed during her pregnancy with insulin. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 107/68 mmHg, pulse is 97/min, respirations are 16/min, and oxygen saturation is 98% on room air. Laboratory values are obtained and shown below. Hemoglobin: 12 g/dL Hematocrit: 36% Leukocyte count: 9,750/mm^3 with normal differential Platelet count: 197,000/mm^3 Serum: Na+: 139 mEq/L Cl-: 101 mEq/L K+: 4.2 mEq/L HCO3-: 23 mEq/L BUN: 20 mg/dL Glucose: 111 mg/dL Creatinine: 1.1 mg/dL Ca2+: 10.2 mg/dL AST: 12 U/L ALT: 10 U/L Which of the following is the most appropriate next step in treatment for this patient? Options: (C) Supportive therapy only (D) Vancomycin and clindamycin (A) Cefoxitin and doxycycline (E) Vancomycin and gentamicin (B) Clindamycin and gentamicin",
+        "answer_idx": "C",
+        "answer": "Supportive therapy only",
+        "options": {
+            "A": "Cefoxitin and doxycycline",
+            "B": "Clindamycin and gentamicin",
+            "C": "Supportive therapy only",
+            "D": "Vancomycin and clindamycin",
+            "E": "Vancomycin and gentamicin"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9044,
+            "completion_tokens": 5445
+        },
+        "time_elapsed": 35.299482345581055
+    },
+    {
+        "idx": 161,
+        "realidx": 161,
+        "question": "A 33-year-old woman presents to the emergency department with foul-smelling vaginal discharge. She states that it started 1 day ago and has not improved with hygiene products. She is sexually active and uses condoms. She does not complain of any abdominal or pelvic pain but states she has some mild burning when urinating. Her temperature is 97.6\u00b0F (36.4\u00b0C), blood pressure is 111/74 mmHg, pulse is 81/min, respirations are 12/min, and oxygen saturation is 98% on room air. Physical exam is notable for thick, white discharge from the cervix. There is no cervical motion or adnexal tenderness or masses. Some whitish discharge is noted from the urethra. A urine pregnancy test is negative. Which of the following is the most appropriate treatment for this patient? Options: (C) Ceftriaxone and azithromycin (A) Azithromycin (D) Ceftriaxone and doxycycline (B) Ceftriaxone (E) Metronidazole",
+        "answer_idx": "D",
+        "answer": "Ceftriaxone and doxycycline",
+        "options": {
+            "A": "Azithromycin",
+            "B": "Ceftriaxone",
+            "C": "Ceftriaxone and azithromycin",
+            "D": "Ceftriaxone and doxycycline",
+            "E": "Metronidazole"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8460,
+            "completion_tokens": 5630
+        },
+        "time_elapsed": 38.94751572608948
+    },
+    {
         "idx": 171,
         "realidx": 171,
         "question": "A 6-week-old boy is referred to a pediatric hematologist-oncologist for further evaluation following an abnormal newborn hemoglobinopathy screening. The father\u2019s brother died of sickle cell anemia at an early age. Parental studies reveal that both mother and father are carriers of the sickle cell gene. The patient's temperature is 98.6\u00b0F (37.0\u00b0C), blood pressure is 80/45 mmHg, pulse is 130/min, and respirations are 25/min. The physician decides to repeat testing for the patient and his 3-year-old sister. The results are shown in Figure A. The physician begins counseling the family. Which of the following is the most likely complication that the patient may have in the future? Options: (B) Hematuria (A) Diabetes (C) Infection (D) Splenectomy (E) Stroke",
@@ -859,6 +1027,48 @@
             "completion_tokens": 5078
         },
         "time_elapsed": 32.79753661155701
+    },
+    {
+        "idx": 175,
+        "realidx": 175,
+        "question": "A 70-year-old woman is brought to the emergency department by ambulance. She was found on the floor of her apartment after her neighbor called 911. She is confused and is unable to provide any history, but complains of generalized pain. Her temperature is 99.2\u00b0F (37.3\u00b0C), blood pressure is 129/64 mmHg, pulse is 63/min, respirations are 13/min, and oxygen saturation is 99% on room air. Physical exam reveals, a confused, ill-appearing woman. Lungs are clear to auscultation bilaterally. An electrocardiogram is obtained as shown in Figure A. Dipstick urinalysis is notable for 4+ blood and dark colored urine. Which of the following is the most appropriate next step in management? Options: (C) Insulin, glucose, and IV fluid resuscitation (B) Calcium gluconate (A) Albuterol and IV fluid resuscitation (D) IV fluid resuscitation (E) Sodium polystyrene sulfonate",
+        "answer_idx": "B",
+        "answer": "Calcium gluconate",
+        "options": {
+            "A": "Albuterol and IV fluid resuscitation",
+            "B": "Calcium gluconate",
+            "C": "Insulin, glucose, and IV fluid resuscitation",
+            "D": "IV fluid resuscitation",
+            "E": "Sodium polystyrene sulfonate"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9043,
+            "completion_tokens": 4952
+        },
+        "time_elapsed": 32.37291431427002
+    },
+    {
+        "idx": 181,
+        "realidx": 181,
+        "question": "A 25-year-old man presents to his primary care provider for a routine appointment. He feels well and has no complaints. His medical and surgical history is significant for the reconstruction of a torn anterior cruciate ligament in his right knee. His family history is significant for a mother with \u201cthyroid problems\u201d and a father with coronary artery disease. The patient is an information technology specialist at a local company. He is sexually active with men. His temperature is 98.6\u00b0F (37.0\u00b0C), blood pressure is 124/82 mmHg, pulse is 71/min, and respirations are 12/min. On physical exam, the patient is tall and slender with a BMI of 21 kg/m2. A single nodule can be palpated on the patient\u2019s thyroid. He has palpable cervical lymphadenopathy. On cardiac exam, he has a normal S1/S2 with no murmurs, rubs, or gallops, and his lungs are clear bilaterally. His abdomen is soft and non-tender without hepatosplenomegaly. A physical exam of the perioral region can be seen in Figure A. Which of the following additional findings is most likely to be found in this patient? Options: (A) Elevated plasma metanephrines (D) Fasting hypoglycemia (B) Elevated serum calcium level (E) Positive fecal occult blood test (C) Elevated serum prolactin level",
+        "answer_idx": "A",
+        "answer": "Elevated plasma metanephrines",
+        "options": {
+            "A": "Elevated plasma metanephrines",
+            "B": "Elevated serum calcium level",
+            "C": "Elevated serum prolactin level",
+            "D": "Fasting hypoglycemia",
+            "E": "Positive fecal occult blood test"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7512,
+            "completion_tokens": 6307
+        },
+        "time_elapsed": 43.05412840843201
     },
     {
         "idx": 187,
@@ -1008,6 +1218,27 @@
         "time_elapsed": 41.09307909011841
     },
     {
+        "idx": 219,
+        "realidx": 219,
+        "question": "A 27-year-old woman presents to the emergency department with altered mental status. Her boyfriend found her at home next to a suicide note and brought her into the emergency department. According to her boyfriend, the patient has a medical history of bipolar disorder for which she takes lithium, as well as chronic lower back pain for which she sees a pain specialist. Her temperature is 100.5\u00b0F (38.1\u00b0C), blood pressure is 102/78 mmHg, pulse is 127/min, respirations are 19/min, and oxygen saturation is 99% on room air. An ECG is performed as seen in Figure A. Which of the following findings is also likely to be present at some point in this patient\u2019s course? Options: (E) Wheezing (A) Diaphoresis (D) Urinary retention (C) Miosis (B) Jaundice",
+        "answer_idx": "D",
+        "answer": "Urinary retention",
+        "options": {
+            "A": "Diaphoresis",
+            "B": "Jaundice",
+            "C": "Miosis",
+            "D": "Urinary retention",
+            "E": "Wheezing"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7761,
+            "completion_tokens": 6285
+        },
+        "time_elapsed": 37.834447145462036
+    },
+    {
         "idx": 221,
         "realidx": 221,
         "question": "A 10-year-old girl is admitted to the medical floor for a respiratory infection. The patient lives in a foster home and has been admitted many times. Since birth, the patient has had repeated episodes of pain/pressure over her frontal sinuses and a chronic cough that produces mucus. She was recently treated with amoxicillin for an infection. The patient is in the 25th percentile for height and weight which has been constant since birth. Her guardians state that the patient has normal bowel movements and has been gaining weight appropriately. The patient has a history of tricuspid stenosis. She also recently had magnetic resonance imaging (MRI) of her chest which demonstrated dilation of her airways. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 90/58 mmHg, pulse is 120/min, respirations are 18/min, and oxygen saturation is 94% on room air. Physical exam is notable for bruises along the patient's shins which the guardians state are from playing soccer. The rest of the exam is deferred because the patient starts crying. Which of the following findings is associated with this patient's most likely underlying diagnosis? Options: (C) Increased chloride in the patient's sweat (B) Hypocalcemia (A) Diastolic murmur best heard along the right lower sternal border (D) Repeat sinus infections secondary to seasonal allergies (E) Social withdrawal and avoidance of eye contact",
@@ -1071,6 +1302,27 @@
         "time_elapsed": 33.443673610687256
     },
     {
+        "idx": 228,
+        "realidx": 228,
+        "question": "A 31-year-old man presents to the emergency department for fever, malaise, and cough. For the last week, his cough has been progressively worsening, and he has been noticing blood in his sputum. He denies any recent travel or sick contacts and infrequently smokes cigarettes. Approximately 5 weeks ago, he presented with similar symptoms and was found to have a right upper lobe lung infiltrate, a CD4 count of 40/mm^3, and an HIV viral load of 115,000 copies/mL. He was appropriately treated and discharged home. Four weeks after initiation of treatment, his CD4 count was over 400/mm^3 and HIV viral load was negligible. His temperature today is 102\u00b0F (38.9\u00b0C), blood pressure is 130/90 mmHg, pulse is 100/min, and respirations are 20/min. A radiograph of the chest demonstrates new nodules in the left upper lobe and hilar adenopathy. Which of the following is the most appropriate next step in management? Options: (D) Obtain a D-dimer level (E) Start high-dose glucocorticoid treatment and discontinue antiretroviral therapy (C) Discontinue antimicrobial treatment (B) Determine drug sensitivities against the patient\u2019s pulmonary infection (A) Continue current anti-retroviral treatment, antimicrobial, and anti-tuberculoid therapies",
+        "answer_idx": "A",
+        "answer": "Continue current anti-retroviral treatment, antimicrobial, and anti-tuberculoid therapies",
+        "options": {
+            "A": "Continue current anti-retroviral treatment, antimicrobial, and anti-tuberculoid therapies",
+            "B": "Determine drug sensitivities against the patient\u2019s pulmonary infection",
+            "C": "Discontinue antimicrobial treatment",
+            "D": "Obtain a D-dimer level",
+            "E": "Start high-dose glucocorticoid treatment and discontinue antiretroviral therapy"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 9413,
+            "completion_tokens": 4386
+        },
+        "time_elapsed": 33.28411102294922
+    },
+    {
         "idx": 229,
         "realidx": 229,
         "question": "A 55-year-old man presents to the emergency department with chest pain and shortness of breath. He has a medical history of hypertension, diabetes, and obesity. His temperature is 98.6\u00b0F (37.0\u00b0C), blood pressure is 177/118 mmHg, pulse is 127/min, respirations are 11/min, and oxygen saturation is 98% on room air. An ECG is performed and notable for ST elevation in leads II, III, and aVF. The patient is treated appropriately and transferred to the medical floor. On the 2nd day of his hospitalization, the patient has abdominal pain. His serum lipase is 272 U/L and his creatinine is 1.6 mg/dL. A physical exam is notable for the finding in Figure A. He is requesting pain medication for his abdominal pain. Which of the following is the most likely underlying diagnosis? Options: (D) Pancreatitis (B) Heart failure and reinfarction (A) Cholesterol embolism (E) Renal failure (C) Medication side effect",
@@ -1111,6 +1363,27 @@
             "completion_tokens": 6524
         },
         "time_elapsed": 42.76028251647949
+    },
+    {
+        "idx": 236,
+        "realidx": 236,
+        "question": "A 6-month-old boy is brought to the physician by his mother for abnormal movements. Several times a day, he experiences paroxysmal episodes of crying, bending at the waist, and jerking of the arms and legs. These episodes last 1-2 seconds, but occur in clusters every 20-30 seconds for several minutes. His mother's pregnancy, labor, delivery, and his neonatal course have been unremarkable. He is rolling over less frequently than before, has worse head control, and no longer smiles socially. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 92/46 mmHg, pulse is 115/min, and respirations are 34/min. On examination, no dysmorphic features are noted. A 24-hour electroencephalography (EEG) is performed, during which the patient has one of these spells. A chaotic pattern of slowing and multifocal epileptiform charges is seen. Which of the following is the pathophysiology of this patient's condition? Options: (C) Decreased gamma aminobutyric acid (GABA) levels (E) Vitamin B6 deficiency (D) Excess of corticotropin releasing hormone (B) Anti-N-methyl-D-aspartate (NMDA) receptor antibodies (A) Abnormalities in T-type calcium channels",
+        "answer_idx": "D",
+        "answer": "Excess of corticotropin releasing hormone",
+        "options": {
+            "A": "Abnormalities in T-type calcium channels",
+            "B": "Anti-N-methyl-D-aspartate (NMDA) receptor antibodies",
+            "C": "Decreased gamma aminobutyric acid (GABA) levels",
+            "D": "Excess of corticotropin releasing hormone",
+            "E": "Vitamin B6 deficiency"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6882,
+            "completion_tokens": 6003
+        },
+        "time_elapsed": 39.26559519767761
     },
     {
         "idx": 241,
@@ -1155,6 +1428,27 @@
         "time_elapsed": 41.39294719696045
     },
     {
+        "idx": 249,
+        "realidx": 249,
+        "question": "A 23-year-old woman presents to the emergency department with severe abdominal pain. The pain has been dull and progressive, but became suddenly worse while she was exercising. Her medical history is notable for depression, anxiety, and gonococcal urethritis that was appropriately treated. She is sexually active and does not use condoms. She admits to drinking at least 5 standard alcoholic drinks a day. The patient also recently lost a large amount of weight for a fitness show she planned on entering. The patient's current medications include oral contraceptive pills, fluoxetine, alprazolam, ibuprofen, acetaminophen, and folate. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 80/40 mmHg, pulse is 110/minute, and respirations are 15/minute with an oxygen saturation of 96% on room air. On physical exam, you note an athletic young woman with burly shoulders, a thick neck, and acne on her forehead and back. On abdominal exam you note diffuse tenderness with 10/10 pain upon palpation of the right upper quadrant. Intravenous fluids are started and labs are sent. A urinary \u00df-hCG has been ordered. Which of the following is the most likely the diagnosis? Options: (B) Inflammation of the pancreas (A) Ectopic implantation of a blastocyst (E) Vascular ectasia within the liver (C) Obstruction of blood flow through the hepatic vein (D) Obstruction of the common bile duct by radio-opaque stones",
+        "answer_idx": "E",
+        "answer": "Vascular ectasia within the liver",
+        "options": {
+            "A": "Ectopic implantation of a blastocyst",
+            "B": "Inflammation of the pancreas",
+            "C": "Obstruction of blood flow through the hepatic vein",
+            "D": "Obstruction of the common bile duct by radio-opaque stones",
+            "E": "Vascular ectasia within the liver"
+        },
+        "predicted_answer": "D",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 35544,
+            "completion_tokens": 19693
+        },
+        "time_elapsed": 130.10594415664673
+    },
+    {
         "idx": 252,
         "realidx": 252,
         "question": "A 33-year-old man presents to the emergency department after slamming his finger in the car door 5 hours ago. He initially experienced pain which is currently well controlled with acetaminophen. The patient is otherwise healthy and does not take any medications. His temperature is 98.5\u00b0F (36.9\u00b0C), blood pressure is 123/79 mmHg, pulse is 90/min, respirations are 11/min, and oxygen saturation is 97% on room air. Physical exam is notable for the finding in Figure A. A radiograph of the affected digits shows a smooth cortex without disruption of the bone. Which of the following is the most appropriate management for this patient? Options: (B) Fingernail removal (E) Trephination (C) Observation (D) Operative repair (A) Excision and histological examination",
@@ -1195,6 +1489,27 @@
             "completion_tokens": 5008
         },
         "time_elapsed": 37.21984505653381
+    },
+    {
+        "idx": 257,
+        "realidx": 257,
+        "question": "A 26-year-old medical student presents to occupational health after sustaining a needlestick injury. She was drawing blood from an HIV-positive patient when she stuck herself percutaneously while capping the needle. She immediately washed the puncture wound with saline. The medical student has had a negative HIV serology from the beginning of medical school 2 years ago. She is monogamous with one male partner and denies any intravenous drug use. The source patient was recently diagnosed with HIV and has a CD4 count of 550 cells/\u00b5L. His most recent viral load is 1,800,000 copies/mL, and he was started on HAART 3 days ago. Which of the following is the most appropriate next step in management? Options: (A) Immediately initiate triple antiretroviral therapy (C) Repeat HIV serology and initiate triple antiretroviral therapy if negative (E) Repeat HIV serology and initiate triple antiretroviral therapy immediately (D) Repeat HIV serology and initiate triple antiretroviral therapy if positive (B) Perform genotype testing on source patient and initiate antiretroviral therapy tailored to results",
+        "answer_idx": "E",
+        "answer": "Repeat HIV serology and initiate triple antiretroviral therapy immediately",
+        "options": {
+            "A": "Immediately initiate triple antiretroviral therapy",
+            "B": "Perform genotype testing on source patient and initiate antiretroviral therapy tailored to results",
+            "C": "Repeat HIV serology and initiate triple antiretroviral therapy if negative",
+            "D": "Repeat HIV serology and initiate triple antiretroviral therapy if positive",
+            "E": "Repeat HIV serology and initiate triple antiretroviral therapy immediately"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8659,
+            "completion_tokens": 5231
+        },
+        "time_elapsed": 41.971389293670654
     },
     {
         "idx": 264,
@@ -1239,6 +1554,27 @@
         "time_elapsed": 39.41359806060791
     },
     {
+        "idx": 274,
+        "realidx": 274,
+        "question": "A 25-year-old woman presents to her primary care physician with joint and muscle pain. She has a general aching/pain in her joints that lasts all day. The pain is constant and is not relieved by rest or activity. She also has pain in her hands at times and occasionally notices trouble swallowing when she is eating. She has a medical history of anxiety and is not currently taking any medications. Her temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 115/72 mmHg, pulse is 74/min, and respirations are 11/min. On physical exam, the patient is a healthy young woman with a sunburn. Her hands are mildly edematous with the findings in Figure A. Laboratory values are below:\n\nSerum:\nNa+: 145 mEq/L\nK+: 4.4 mEq/L\nCl-: 100 mEq/L\nHCO3-: 24 mEq/L\nBUN: 9 mg/dL\nGlucose: 70 mg/dL\nCreatinine: .7 mg/dL\nCa2+: 10 mg/dL\nMg2+: 1.8 mEq/L\n\nWhich of the following antibodies is most likely to aid in making the diagnosis in this patient? Options: (D) Anti-ribonuleoprotein (E) Anti-Ro (A) Anti-dsDNA (B) Anti-IgG Fc region (C) Anti-nuclear antibody",
+        "answer_idx": "D",
+        "answer": "Anti-ribonuleoprotein",
+        "options": {
+            "A": "Anti-dsDNA",
+            "B": "Anti-IgG Fc region",
+            "C": "Anti-nuclear antibody",
+            "D": "Anti-ribonuleoprotein",
+            "E": "Anti-Ro"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 272086,
+            "completion_tokens": 62981
+        },
+        "time_elapsed": 354.84177923202515
+    },
+    {
         "idx": 275,
         "realidx": 275,
         "question": "A 32-year-old man presents to the emergency department for evaluation of headache. His symptoms started last night and have persisted. He occasionally has migraine headaches, but he has not had a headache like this in the past. He reports associated nausea, vomiting, fevers, and neck pain. He has a medical history of asthma. His temperature is 100.4\u00b0F (38.0\u00b0C), blood pressure is 110/60 mmHg, pulse is 95/min, respirations are 17/min, and oxygen saturation is 98% on room air. On physical exam, he appears uncomfortable. Neurologic exam reveals no focal deficits. There is pain with passive neck flexion. No edema or rashes are noted. Lungs are clear to auscultation bilaterally. Lumbar puncture is performed and CSF results are obtained as shown below. Cerebrospinal fluid (CSF): Cell count: 175/mm^3 RBCs: 0/mm^3 Cl-: 119 mEq/L Glucose: 49 mg/dL Pressure: 150 mmH2O Total protein: 55 mg/dL Based on these results, which of the following is the most appropriate treatment regimen for this patient? Options: (D) Ceftriaxone, vancomycin and steroids (C) Ceftriaxone and vancomycin (A) Acyclovir (B) Amphotericin and 5-flucytosine (E) Supportive care and monitoring",
@@ -1258,6 +1594,48 @@
             "completion_tokens": 6972
         },
         "time_elapsed": 44.08752489089966
+    },
+    {
+        "idx": 278,
+        "realidx": 278,
+        "question": "A 16-year-old girl who recently immigrated to the United States from Bolivia presents to her primary care physician with a chief complaint of inattentiveness in school. The patient's teacher describes her as occasionally \"daydreaming\" for periods of time during where the patient does not respond or participate in school activities. Nothing has helped the patient change her behavior, including parent-teacher conferences or punishment. The patient has no other concerns. The only other concern that the patient's mother has is that, upon awakening, she notices that sometimes the patient's arm will jerk back and forth. The patient states she is not doing this intentionally. The patient has an unknown medical history and is currently not on any medications. She is not sexually active and does not intend to become pregnant in the near future. Her temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 112/74 mmHg, pulse is 63/min, and respirations are 11/min. On physical exam, you note a young, healthy girl whose neurological exam is within normal limits. Which of the following is the most appropriate initial treatment? Options: (A) Carbamazepine (B) Cognitive behavioral therapy (C) Ethosuximide (E) Valproic acid (D) Lamotrigine",
+        "answer_idx": "E",
+        "answer": "Valproic acid",
+        "options": {
+            "A": "Carbamazepine",
+            "B": "Cognitive behavioral therapy",
+            "C": "Ethosuximide",
+            "D": "Lamotrigine",
+            "E": "Valproic acid"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6273,
+            "completion_tokens": 4752
+        },
+        "time_elapsed": 31.796417713165283
+    },
+    {
+        "idx": 279,
+        "realidx": 279,
+        "question": "A 31-year-old man presents to the emergency department for fever, malaise, and cough. For the last week, his cough has been progressively worsening, and he has been noticing blood in his sputum. He denies any recent travel or sick contacts and infrequently smokes cigarettes. Approximately 5 weeks ago, he presented with similar symptoms and was found to have a right upper lobe lung infiltrate, a CD4 count of 40/mm^3, and an HIV viral load of 115,000 copies/mL. He was appropriately treated and discharged home. Four weeks after initiation of treatment, his CD4 count was over 400/mm^3 and HIV viral load was negligible. His temperature today is 102\u00b0F (38.9\u00b0C), blood pressure is 130/90 mmHg, pulse is 100/min, and respirations are 20/min. A radiograph of the chest demonstrates new nodules in the left upper lobe and hilar adenopathy. Which of the following is the most appropriate next step in management? Options: (A) Continue current anti-retroviral treatment, antimicrobial, and anti-tuberculoid therapies (E) Start high-dose glucocorticoid treatment and discontinue antiretroviral therapy (C) Discontinue antimicrobial treatment (D) Obtain a D-dimer level (B) Determine drug sensitivities against the patient\u2019s pulmonary infection",
+        "answer_idx": "A",
+        "answer": "Continue current anti-retroviral treatment, antimicrobial, and anti-tuberculoid therapies",
+        "options": {
+            "A": "Continue current anti-retroviral treatment, antimicrobial, and anti-tuberculoid therapies",
+            "B": "Determine drug sensitivities against the patient\u2019s pulmonary infection",
+            "C": "Discontinue antimicrobial treatment",
+            "D": "Obtain a D-dimer level",
+            "E": "Start high-dose glucocorticoid treatment and discontinue antiretroviral therapy"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 38072,
+            "completion_tokens": 15297
+        },
+        "time_elapsed": 106.50732731819153
     },
     {
         "idx": 280,
@@ -1281,6 +1659,27 @@
         "time_elapsed": 119.56300234794617
     },
     {
+        "idx": 281,
+        "realidx": 281,
+        "question": "A 6-month-old girl is brought to the pediatrician by her father for a scheduled check-up. She was in her usual state of health until 6 weeks ago when she was hospitalized for bacterial pneumonia. She received amoxicillin and had a resolution of her symptoms. Her father reports that she seems \u201cback to normal.\u201d She can roll over by herself and can sit up without support. She often babbles but sometimes does make identifiable sounds like \u201cdada\u201d and \u201cbaba.\u201d They recently started feeding her mushy cereal, which she seems to like but occasionally spits up. She has started teething and sometimes becomes \u201cfussy.\u201d Vital signs are within normal limits. A physical examination is unremarkable. The patient\u2019s father brought a 4-week follow-up chest radiograph taken at the hospital, as shown in Figure A. Which of the structures labeled in Figure A would be most likely to change in response to another infectious illness? Options: (E) E (B) B (C) C (A) A (D) D",
+        "answer_idx": "A",
+        "answer": "A",
+        "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D",
+            "E": "E"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 6870,
+            "completion_tokens": 5408
+        },
+        "time_elapsed": 39.64618420600891
+    },
+    {
         "idx": 284,
         "realidx": 284,
         "question": "A 24-year-old man presents to the emergency department with abdominal pain, nausea, and vomiting. The symptoms began towards the end of running a marathon and persisted after finishing the race. The patient is otherwise healthy and has no other medical problems. His temperature is 98.0\u00b0F (36.7\u00b0C), blood pressure is 105/71 mmHg, pulse is 113/min, respirations are 19/min, and oxygen saturation is 98% on room air. Physical exam reveals a distended and tender abdomen. A radiograph is performed as seen in Figure A. Which of the following is the most likely diagnosis? Options: (C) Ogilvie syndrome (D) Sigmoid volvulus (A) Cecal volvulus (B) Ileus (E) Small bowel obstruction",
@@ -1300,6 +1699,27 @@
             "completion_tokens": 6741
         },
         "time_elapsed": 43.509095430374146
+    },
+    {
+        "idx": 290,
+        "realidx": 290,
+        "question": "A 45-year-old African American woman presents to her primary care physician for not feeling well. She states she has had a cough for the past week. She also has abdominal pain and trouble focusing that has been worsening and has lost 5 pounds recently. Her gastroesophageal reflux disease (GERD) has been poorly controlled recently. The patient is a non-smoker and has a history of GERD for which she takes antacids. Her temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 115/71 mmHg, pulse is 72/min, and respirations are 12/min. A physical exam is within normal limits. Laboratory studies are ordered and are below:\n\nSerum:\nNa+: 139 mEq/L\nK+: 4.1 mEq/L\nCl-: 101 mEq/L\nHCO3-: 24 mEq/L\nUrea nitrogen: 12 mg/dL\nGlucose: 70 mg/dL\nCreatinine: 0.9 mg/dL\nCa2+: 12.5 mg/dL\nAlkaline phosphatase: 150 U/L\nPhosphorus: 2.0 mg/dL\n\nUrine:\nColor: amber\nNitrites: negative\nSodium: 5 mmol/24 hours\nRed blood cells: 0/hpf\n\nWhich of the following is the most likely explanation of this patient's current presentation? Options: (C) Increased parathyroid hormone (A) Antacid overuse (E) Viral illness (B) Increased 1,25-dihydroxyvitamin D (D) Malignancy",
+        "answer_idx": "C",
+        "answer": "Increased parathyroid hormone",
+        "options": {
+            "A": "Antacid overuse",
+            "B": "Increased 1,25-dihydroxyvitamin D",
+            "C": "Increased parathyroid hormone",
+            "D": "Malignancy",
+            "E": "Viral illness"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 168326,
+            "completion_tokens": 72037
+        },
+        "time_elapsed": 386.88465332984924
     },
     {
         "idx": 293,
@@ -1363,6 +1783,27 @@
             "completion_tokens": 6046
         },
         "time_elapsed": 41.47176814079285
+    },
+    {
+        "idx": 298,
+        "realidx": 298,
+        "question": "A 25-year-old man presents to his primary care physician for trouble with focus and concentration. He states that he lives at home with his parents his entire life and recently was able to get a job at a local factory. Ever since the patient started working, he has had trouble focusing on his job. He is unable to stay focused on any task. His boss often observes him \"daydreaming\" with a blank stare off into space. His boss will have to yell at him to startle him back to work. The patient states that he feels fatigued all the time and sometimes will suddenly fall asleep while operating equipment. He has tried going to bed early for the past month but is unable to fall asleep until 2 hours prior to his alarm. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 112/68 mmHg, pulse is 81/min, and respirations are 12/min. A physical exam is within normal limits. The patient fears that if this continues he will lose his job. Which of the following is the most appropriate initial step in management? Options: (A) Bright light therapy and decreased light at night (B) Ethosuximide (C) Modafinil (D) Polysomnography (E) Zolpidem",
+        "answer_idx": "A",
+        "answer": "Bright light therapy and decreased light at night",
+        "options": {
+            "A": "Bright light therapy and decreased light at night",
+            "B": "Ethosuximide",
+            "C": "Modafinil",
+            "D": "Polysomnography",
+            "E": "Zolpidem"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8048,
+            "completion_tokens": 6477
+        },
+        "time_elapsed": 42.84457731246948
     },
     {
         "idx": 301,

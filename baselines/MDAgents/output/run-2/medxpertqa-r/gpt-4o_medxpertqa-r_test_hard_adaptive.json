@@ -1040,6 +1040,32 @@
         "time_elapsed": 13.248535871505737
     },
     {
+        "idx": "Text-26",
+        "realidx": "Text-26",
+        "question": "A 61-year-old woman, gravida 2 para 2, presents with pelvic discomfort and fatigue that have persisted for 6 months. Her medical history includes polycystic ovarian syndrome. She experienced menarche at age 12 and menopause 2 years ago. Both of her children were delivered via Cesarean sections by choice. Her family history includes breast cancer in a cousin at age 56 and colon cancer in her father at age 55. Her vital signs are normal, and her BMI is 35 kg/m\u00b2. Physical examination reveals abdominal bloating with shifting dullness and a left-sided adnexal mass on pelvic examination. The patient undergoes a hysterectomy and bilateral salpingo-oophorectomy, followed by adjuvant chemotherapy. Pathohistological analysis confirms serous cystadenocarcinoma of the ovary. Which of the following represents the most significant risk factor for this patient\u2019s condition?\nAnswer Choices: (A) Age of menopause (B) Nulliparity (C) Hormone replacement therapy (D) History of chronic anovulation (E) The patient\u2019s family history (F) Personal history of endometriosis (G) Age of menarche (H) The patient\u2019s medical history (I) Use of fertility drugs (J) The patient\u2019s BMI Options: (E) The patient\u2019s family history (A) Age of menopause (D) History of chronic anovulation (C) Hormone replacement therapy (B) Nulliparity (H) The patient\u2019s medical history (J) The patient\u2019s BMI (G) Age of menarche (F) Personal history of endometriosis (I) Use of fertility drugs",
+        "answer_idx": "A",
+        "answer": "Age of menopause",
+        "options": {
+            "A": "Age of menopause",
+            "B": "Nulliparity",
+            "C": "Hormone replacement therapy",
+            "D": "History of chronic anovulation",
+            "E": "The patient\u2019s family history",
+            "F": "Personal history of endometriosis",
+            "G": "Age of menarche",
+            "H": "The patient\u2019s medical history",
+            "I": "Use of fertility drugs",
+            "J": "The patient\u2019s BMI"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 16943,
+            "completion_tokens": 1207
+        },
+        "time_elapsed": 18.983691215515137
+    },
+    {
         "idx": "Text-27",
         "realidx": "Text-27",
         "question": "Which condition listed below is linked to bone enlargement?\nAnswer Choices: (A) Lytic Paget disease (B) Osteochondroma (C) Osteoid osteoma (D) Fibrous dysplasia (E) Melorheostosis (F) Type II neurofibromatosis (G) Hyperparathyroidism (H) Giant cell tumor (I) Osteopetrosis (J) Aneurysmal bone cyst Options: (H) Giant cell tumor (J) Aneurysmal bone cyst (F) Type II neurofibromatosis (G) Hyperparathyroidism (D) Fibrous dysplasia (A) Lytic Paget disease (I) Osteopetrosis (B) Osteochondroma (C) Osteoid osteoma (E) Melorheostosis",
@@ -1742,6 +1768,58 @@
         "time_elapsed": 61.12361764907837
     },
     {
+        "idx": "Text-62",
+        "realidx": "Text-62",
+        "question": "A newborn female at 36 weeks gestation presents with bilious emesis at 3 hours of life. The infant was delivered vaginally to a 40-year-old mother with poor prenatal care and a history of tobacco use during pregnancy, though she denies other substance use. Physical examination reveals: temperature 97.9\u00b0F, blood pressure 90/60 mmHg, heart rate 180/min, and respiratory rate 40/min. The abdomen is notably distended with decreased bowel sounds on auscultation. The infant has not passed meconium. An abdominal radiograph reveals three distinct gastric bubbles. What is the most likely underlying pathogenic mechanism for this condition?\nAnswer Choices: (A) Ischemic segmental resorption (B) Failed luminal recanalization (C) Disrupted enteric nervous system formation (D) Abnormal mesenteric vascularization (E) Abnormal epithelial-mesenchymal interaction (F) Failed neural crest migration (G) Impaired intestinal smooth muscle development (H) Defective intestinal rotation (I) Incomplete lateral folding of embryonic disk (J) Defective vacuolization of intestinal lumen Options: (C) Disrupted enteric nervous system formation (I) Incomplete lateral folding of embryonic disk (G) Impaired intestinal smooth muscle development (B) Failed luminal recanalization (D) Abnormal mesenteric vascularization (J) Defective vacuolization of intestinal lumen (E) Abnormal epithelial-mesenchymal interaction (H) Defective intestinal rotation (A) Ischemic segmental resorption (F) Failed neural crest migration",
+        "answer_idx": "A",
+        "answer": "Ischemic segmental resorption",
+        "options": {
+            "A": "Ischemic segmental resorption",
+            "B": "Failed luminal recanalization",
+            "C": "Disrupted enteric nervous system formation",
+            "D": "Abnormal mesenteric vascularization",
+            "E": "Abnormal epithelial-mesenchymal interaction",
+            "F": "Failed neural crest migration",
+            "G": "Impaired intestinal smooth muscle development",
+            "H": "Defective intestinal rotation",
+            "I": "Incomplete lateral folding of embryonic disk",
+            "J": "Defective vacuolization of intestinal lumen"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 104781,
+            "completion_tokens": 2654
+        },
+        "time_elapsed": 72.49960470199585
+    },
+    {
+        "idx": "Text-63",
+        "realidx": "Text-63",
+        "question": "A 5-year-old female child is brought to a medical office with complaints of progressive abdominal pain that has intensified in the last 24 hours. The father reports a history of constipation, with no bowel movement for the past 72 hours and no bloody stools. She has experienced three episodes of vomiting since the previous night and is refusing food. Her medical and surgical history is unremarkable. Physical examination reveals upper abdominal distention with tympany, but no abdominal mass, involuntary guarding, or rebound tenderness is detected. What is the most probable underlying etiology of her clinical presentation?\nAnswer Choices: (A) Hirschsprung disease (B) Intestinal lymphoma (C) Superior mesenteric artery syndrome (D) Chronic intestinal pseudo-obstruction (E) Volvulus (F) Malrotation of the gut (G) Pyloric stenosis (H) Intussusception (I) Meckel diverticulum (J) Duodenal web Options: (E) Volvulus (H) Intussusception (G) Pyloric stenosis (F) Malrotation of the gut (B) Intestinal lymphoma (D) Chronic intestinal pseudo-obstruction (C) Superior mesenteric artery syndrome (J) Duodenal web (A) Hirschsprung disease (I) Meckel diverticulum",
+        "answer_idx": "F",
+        "answer": "Malrotation of the gut",
+        "options": {
+            "A": "Hirschsprung disease",
+            "B": "Intestinal lymphoma",
+            "C": "Superior mesenteric artery syndrome",
+            "D": "Chronic intestinal pseudo-obstruction",
+            "E": "Volvulus",
+            "F": "Malrotation of the gut",
+            "G": "Pyloric stenosis",
+            "H": "Intussusception",
+            "I": "Meckel diverticulum",
+            "J": "Duodenal web"
+        },
+        "predicted_answer": "E",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 495909,
+            "completion_tokens": 6557
+        },
+        "time_elapsed": 142.86847233772278
+    },
+    {
         "idx": "Text-64",
         "realidx": "Text-64",
         "question": "A 4-year-old boy is brought to the clinic for a routine well-child checkup. He began walking at 20 months of age. He is able to drink from a cup but cannot use silverware. He speaks in 2-word phrases and can stack 4 blocks. He can scribble but is unable to draw a circle. His height is above the 99th percentile, and his weight is at the 15th percentile. Vital signs are normal. On examination, he has bilateral inferior lens dislocation, long slender fingers, a high-arched palate, and hyperelastic skin. When he wraps one hand around the opposite wrist, his thumb and fifth finger overlap. What is the most likely cause of these findings?\nAnswer Choices: (A) Fibrillin 1 deficiency (B) Procollagen peptidase deficiency (C) Type I collagen mutation (D) Deficiency of pyridoxine-dependent enzymes (E) Alpha-1,4-glucosidase deficiency (F) Mutation in the FGFR3 gene (G) Type V collagen deficiency (H) Lysyl hydroxylase deficiency (I) Homogentisic acid oxidase deficiency (J) Cystathionine synthase deficiency Options: (G) Type V collagen deficiency (A) Fibrillin 1 deficiency (J) Cystathionine synthase deficiency (C) Type I collagen mutation (I) Homogentisic acid oxidase deficiency (D) Deficiency of pyridoxine-dependent enzymes (B) Procollagen peptidase deficiency (F) Mutation in the FGFR3 gene (E) Alpha-1,4-glucosidase deficiency (H) Lysyl hydroxylase deficiency",
@@ -2312,6 +2390,32 @@
             "completion_tokens": 2175
         },
         "time_elapsed": 51.55942344665527
+    },
+    {
+        "idx": "Text-9",
+        "realidx": "Text-9",
+        "question": "A 26-year-old woman in her first pregnancy presents for a routine prenatal visit at 27 weeks' gestation. Her pregnancy has been uncomplicated except for increasing fatigue and mild leg swelling. Her medical history includes epilepsy managed with lamotrigine, and her sister had preeclampsia during pregnancy. She is up-to-date on immunizations and denies tobacco or alcohol use. Physical examination reveals a temperature of 36.1\u00b0C (97.0\u00b0F), pulse of 88/min, and blood pressure of 128/78 mm Hg. The uterine size is appropriate for gestational age, and she has bilateral 1+ pitting ankle edema. Laboratory results show:\n\n| Hemoglobin | 13.1 g/dL |\n| --- | --- |\n| Mean corpuscular volume | 91 \u03bcm3 |\n| Leukocyte count | 5100/mm3 |\n| Platelet count | 131,000/mm3 |\n\nWhat is the most appropriate next step in management?\nAnswer Choices: (A) Admit the patient for observation and preeclampsia workup (B) Reassure the patient and schedule a follow-up appointment (C) Initiate corticosteroid therapy for fetal lung maturity (D) Order coagulation studies and liver chemistries (E) Order urine dipstick and ambulatory blood pressure monitoring (F) Initiate low-dose aspirin therapy (G) Repeat platelet count and peripheral smear in 2 weeks (H) Perform a biophysical profile to assess fetal status (I) Perform a non-stress test to assess fetal well-being (J) Measure serum protein and albumin levels Options: (F) Initiate low-dose aspirin therapy (E) Order urine dipstick and ambulatory blood pressure monitoring (C) Initiate corticosteroid therapy for fetal lung maturity (H) Perform a biophysical profile to assess fetal status (J) Measure serum protein and albumin levels (B) Reassure the patient and schedule a follow-up appointment (A) Admit the patient for observation and preeclampsia workup (I) Perform a non-stress test to assess fetal well-being (D) Order coagulation studies and liver chemistries (G) Repeat platelet count and peripheral smear in 2 weeks",
+        "answer_idx": "B",
+        "answer": "Reassure the patient and schedule a follow-up appointment",
+        "options": {
+            "A": "Admit the patient for observation and preeclampsia workup",
+            "B": "Reassure the patient and schedule a follow-up appointment",
+            "C": "Initiate corticosteroid therapy for fetal lung maturity",
+            "D": "Order coagulation studies and liver chemistries",
+            "E": "Order urine dipstick and ambulatory blood pressure monitoring",
+            "F": "Initiate low-dose aspirin therapy",
+            "G": "Repeat platelet count and peripheral smear in 2 weeks",
+            "H": "Perform a biophysical profile to assess fetal status",
+            "I": "Perform a non-stress test to assess fetal well-being",
+            "J": "Measure serum protein and albumin levels"
+        },
+        "predicted_answer": "E",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 66722,
+            "completion_tokens": 2228
+        },
+        "time_elapsed": 48.70311188697815
     },
     {
         "idx": "Text-92",

@@ -76,6 +76,25 @@
         "time_elapsed": 29.810270071029663
     },
     {
+        "idx": "11458136",
+        "realidx": "11458136",
+        "question": "By requiring or encouraging enrollees to obtain a usual source of care, managed care programs hope to improve access to care without incurring higher costs.\n(1) To examine the effects of managed care on the likelihood of low-income persons having a usual source of care and a usual physician, and; (2) To examine the association between usual source of care and access.\nCross-sectional survey of households conducted during 1996 and 1997.\nA nationally representative sample of 14,271 low-income persons.\nUsual source of care, usual physician, managed care enrollment, managed care penetration.\nHigh managed care penetration in the community is associated with a lower likelihood of having a usual source of care for uninsured persons (54.8% vs. 62.2% in low penetration areas) as well as a lower likelihood of having a usual physician (60% vs. 72.8%). Managed care has only marginal effects on the likelihood of having a usual source of care for privately insured and Medicaid beneficiaries. Having a usual physician substantially reduces unmet medical needs for the insured but less so for the uninsured.\nDoes managed care enable more low income persons to identify a usual source of care? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8577,
+            "completion_tokens": 3294
+        },
+        "time_elapsed": 25.023005962371826
+    },
+    {
         "idx": "11570976",
         "realidx": "11570976",
         "question": "Sulfasalazine is a widely used anti-inflammatory agent in the treatment of inflammatory bowel disease and several rheumatological disorders. Although as many as 20% of treated patients may experience reversible, dose-dependent side effects, less frequent but potentially severe, systemic reactions have also been reported.\nA severe systemic reaction to sulfasalazine developed in a 21-year old female with rheumatoid arthritis characterized by eosinophilia, granulomatous enteritis and myelotoxicity, cholestatic hepatitis, and seizures. The clinical course and management of this patient are presented as well as a review of the incidence and outcome of severe systemic reactions to sulfasalazine.\nIs it Crohn's disease? Options: (C) maybe (A) yes (B) no",
@@ -169,6 +188,25 @@
             "completion_tokens": 117595
         },
         "time_elapsed": 629.3486683368683
+    },
+    {
+        "idx": "12790890",
+        "realidx": "12790890",
+        "question": "Mesial temporal sclerosis (MTS) is characterized by neuronal loss in the hippocampus. Studies on experimental models and patients with intractable epilepsy suggest that apoptosis may be involved in neuronal death induced by recurrent seizures.\nWe searched evidence for apoptotic cell death in temporal lobes resected from drug-resistant epilepsy patients with MTS by using the terminal deoxynucleotidyl transferase (TdT) and digoxigenin-11-dUTP (TUNEL) method and immunohistochemistry for Bcl-2, Bax, and caspase-cleaved actin fragment, fractin. The temporal lobe specimens were obtained from 15 patients (six women and nine men; mean age, 29 +/- 8 years).\nUnlike that in normal adult brain, we observed Bcl-2 immunoreactivity in some of the remaining neurons dispersed throughout the hippocampus proper as well as in most of the reactive astroglia. Bax immunopositivity was increased in almost all neurons. Fractin immunostaining, an indicator of caspase activity, was detected in approximately 10% of these neurons. Despite increased Bax expression and activation of caspases, we could not find evidence for DNA fragmentation by TUNEL staining. We also could not detect typical apoptotic changes in nuclear morphology by Hoechst-33258 or hematoxylin counterstaining.\nIs the cell death in mesial temporal sclerosis apoptotic? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 204994,
+            "completion_tokens": 65474
+        },
+        "time_elapsed": 358.1111795902252
     },
     {
         "idx": "12970636",
@@ -304,6 +342,25 @@
         "time_elapsed": 31.46385431289673
     },
     {
+        "idx": "16968876",
+        "realidx": "16968876",
+        "question": "The aim of this prognostic factor analysis was to investigate if a patient's self-reported health-related quality of life (HRQOL) provided independent prognostic information for survival in non-small cell lung cancer (NSCLC) patients.\nPretreatment HRQOL was measured in 391 advanced NSCLC patients using the EORTC QLQ-C30 and the EORTC Lung Cancer module (QLQ-LC13). The Cox proportional hazards regression model was used for both univariate and multivariate analyses of survival. In addition, a bootstrap validation technique was used to assess the stability of the outcomes.\nThe final multivariate Cox regression model retained four parameters as independent prognostic factors for survival: male gender with a hazard ratio (HR) = 1.32 (95% CI 1.03-1.69; P = 0.03); performance status (0 to 1 versus 2) with HR = 1.63 (95% CI 1.04-2.54; P = 0.032); patient's self-reported score of pain with HR= 1.11 (95% CI 1.07-1.16; P<0.001) and dysphagia with HR = 1.12 (95% CI 1.04-1.21; P = 0.003). A 10-point shift worse in the scale measuring pain and dysphagia translated into an 11% and 12% increased in the likelihood of death respectively. A risk group categorization was also developed.\nIs a patient's self-reported health-related quality of life a prognostic factor for survival in non-small-cell lung cancer patients? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 858029,
+            "completion_tokens": 145783
+        },
+        "time_elapsed": 782.0643494129181
+    },
+    {
         "idx": "17076091",
         "realidx": "17076091",
         "question": "We sought to determine whether patients with obstructive sleep apnea (OSA) had an objective change in aerobic fitness during cycle ergometry compared to a normal population. The most accurate test of aerobic fitness is measurement of maximum oxygen consumption (VO2max) with cycle ergometry.\nWe performed a retrospective cohort analysis (247 patients with OSA) of VO2max from annual cycle ergometry tests compared to a large control group (normative data from 1.4 million US Air Force tests) in a tertiary care setting.\nOverall, individuals with OSA had increased VO2max when compared to the normalized US Air Force data (p<.001). Patients with an apnea-hypopnea index of greater than 20 demonstrated a decreased VO2max as compared to normalized values (p<.001). No differences in VO2max were observed after either medical or surgical therapy for OSA.\nDoes obstructive sleep apnea affect aerobic fitness? Options: (C) maybe (A) yes (B) no",
@@ -361,6 +418,25 @@
         "time_elapsed": 158.51173782348633
     },
     {
+        "idx": "17565137",
+        "realidx": "17565137",
+        "question": "To evaluate the effect of an antismoking advertisement on young people's perceptions of smoking in movies and their intention to smoke.SUBJECTS/\n3091 cinema patrons aged 12-24 years in three Australian states; 18.6% of the sample (n = 575) were current smokers.DESIGN/\nQuasi-experimental study of patrons, surveyed after having viewed a movie. The control group was surveyed in week 1, and the intervention group in weeks 2 and 3. Before seeing the movie in weeks 2 and 3, a 30 s antismoking advertisement was shown, shot in the style of a movie trailer that warned patrons not to be sucked in by the smoking in the movie they were about to see.\nAttitude of current smokers and non-smokers to smoking in the movies; intention of current smokers and non-smokers to smoke in 12 months.\nAmong non-smokers, 47.8% of the intervention subjects thought that the smoking in the viewed movie was not OK compared with 43.8% of the control subjects (p = 0.04). However, there was no significant difference among smokers in the intervention (16.5%) and control (14.5%) groups (p = 0.4). A higher percentage of smokers in the intervention group indicated that they were likely to be smoking in 12 months time (38.6%) than smokers in the control group (25.6%; p<0.001). For non-smokers, there was no significant difference in smoking intentions between groups, with 1.2% of intervention subjects and 1.6% of controls saying that they would probably be smoking in 12 months time (p = 0.54).\nOut of the smokescreen II: will an advertisement targeting the tobacco industry affect young people's perception of smoking in movies and their intention to smoke? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10822,
+            "completion_tokens": 5168
+        },
+        "time_elapsed": 33.84157371520996
+    },
+    {
         "idx": "17621202",
         "realidx": "17621202",
         "question": "A prospective randomized clinical study.\nTo determine whether shaving the incision site before spinal surgery causes postsurgical infection.\nSpine surgeons usually shave the skin of the incision site immediately before surgery is performed. However, evidence from some surgical series suggests that presurgical shaving may increase the postsurgical infection rate. To our knowledge, no previously published studies have addressed this issue.\nA total of 789 patients scheduled to undergo spinal surgery were randomly allocated into 2 groups: those in whom the site of operation was shaved immediately before surgery (shaved group; 371 patients) and the patients in whom presurgical shaving was not performed (unshaved group; 418 patients). The mean duration of anesthesia and the infection rates in both groups were recorded and compared.\nThe duration of anesthesia did not differ in the 2 groups (P>0.05). A postoperative infection developed in 4 patients in the shaved group and in 1 patient in the nonshaved group (P<0.01).\nDoes shaving the incision site increase the infection rate after spinal surgery? Options: (A) yes (B) no (C) maybe",
@@ -416,6 +492,25 @@
             "completion_tokens": 38137
         },
         "time_elapsed": 219.18343472480774
+    },
+    {
+        "idx": "17940352",
+        "realidx": "17940352",
+        "question": "To evaluate the impact of HER2 immunoreactivity on clinical outcome in locally advanced urothelial carcinoma patients who received surgery alone, or methotrexate, vinblastine, epirubicin, and cisplatin (M-VEC) as adjuvant chemotherapy.\nWe studied 114 formalin-fixed paraffin-embedded specimens obtained from locally advanced urothelial carcinoma patients receiving surgery alone or adjuvant M-VEC. The authors evaluated HER2 immunoreactivity using immunohistochemical staining and explored the influence of pathological parameters and HER2 immunoreactivity on progression-free survival (PFS) and disease-specific overall survival (OS) using univariate and multivariate Cox's analyses.\nUrothelial carcinoma of the bladder had a significantly higher frequency of HER2 immunoreactivity than that of the upper urinary tract (60.7 vs. 20.7%, p<0.0001). Overall, nodal status was a strong and independent prognostic indicator for clinical outcome. The HER2 immunoreactivity was significantly associated with PFS (p = 0.02) and disease-specific OS (p = 0.005) in advanced urothelial carcinoma patients. As for patients with adjuvant M-VEC, HER2 immunoreactivity was a significant prognostic factor for PFS (p = 0.03) and disease-specific OS (p = 0.02) using univariate analysis, but not multivariate analysis, and not for patients receiving watchful waiting.\nDoes HER2 immunoreactivity provide prognostic information in locally advanced urothelial carcinoma patients receiving adjuvant M-VEC chemotherapy? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 47689,
+            "completion_tokens": 14896
+        },
+        "time_elapsed": 108.00865054130554
     },
     {
         "idx": "18235194",
@@ -570,6 +665,63 @@
         "time_elapsed": 175.71429204940796
     },
     {
+        "idx": "18802997",
+        "realidx": "18802997",
+        "question": "Assessing the clinical course of inflammatory bowel disease (IBD) patients consists of periodical clinical evaluations and laboratory tests. We aimed to assess the role of calprotectin tests in predicting clinical relapse in IBD patients.\nNinety-seven patients with ulcerative colitis (UC) and 65 with Crohn's disease (CD) in clinical remission were prospectively included in the study. A 10-g stool sample was collected for calprotectin assay. The cutoff level was set at 130 mg/kg of feces. Patients were followed up for 1 yr after the test or until relapse. The cumulative proportion of relapses was estimated by the Kaplan-Meier analysis. Statistics for equality of survival distribution were tested using the log-rank test.\nThe calprotectin test was positive in 44 UC patients and 26 of them relapsed within a year, while 11 of 53 UC patients with a negative calprotectin test relapsed within the same time frame. Thirty CD patients had a positive calprotectin test and 13 of them relapsed within a year, as did 7 of the 35 with a negative test result. A significant correlation emerged between a positive calprotectin test and the probability of relapse in UC patients (P= 0.000). In CD patients, only cases of colonic CD showed a significant correlation between a positive calprotectin test and the probability of relapse, i.e., 6 colonic CD patients were positive for the calprotectin test and 4 relapsed (P= 0.02).\nCan calprotectin predict relapse risk in inflammatory bowel disease? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 4246574,
+            "completion_tokens": 440225
+        },
+        "time_elapsed": 2369.1864473819733
+    },
+    {
+        "idx": "19103915",
+        "realidx": "19103915",
+        "question": "There is an urgent need to increase opportunistic screening for sexually transmitted infections (STIs) in community settings, particularly for those who are at increased risk including men who have sex with men (MSM). The aim of this qualitative study was to explore whether home sampling kits (HSK) for multiple bacterial STIs are potentially acceptable among MSM and to identify any concerns regarding their use. This study was developed as part of a formative evaluation of HSKs.\nFocus groups and one-to-one semi-structured interviews with MSM were conducted. Focus group participants (n = 20) were shown a variety of self-sampling materials and asked to discuss them. Individual interviewees (n = 24) had experience of the self-sampling techniques as part of a pilot clinical study. All data were digitally recorded and transcribed verbatim. Data were analysed using a framework analysis approach.\nThe concept of a HSK was generally viewed as positive, with many benefits identified relating to increased access to testing, enhanced personal comfort and empowerment. Concerns about the accuracy of the test, delays in receiving the results, the possible lack of support and potential negative impact on 'others' were raised.\nAre home sampling kits for sexually transmitted infections acceptable among men who have sex with men? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10879,
+            "completion_tokens": 4228
+        },
+        "time_elapsed": 30.68632960319519
+    },
+    {
+        "idx": "19108857",
+        "realidx": "19108857",
+        "question": "Tuberculosis continues to be a public health problem in emerging countries with a recent evidence of increased incidence of extrapulmonary localization in developed countries probably linked to HIV. To our knowledge the occurrence of cerebro-mediastinal tuberculosis in an immuno-competent child has not been previously described; moreover the child we describe has a probable Say-Barber-Miller syndrome. We discuss a putative causative link between this syndrome and the occurrence of tuberculosis.\nA seven-year-old girl presented to our department with a history of infantile encephalopathy since birth characterized by a facial dysmorphy (evocative of a bird face), microcephaly, and mental retardation, and with recurrent infections. The child had complained of back pain for several months; the parents reported anorexia, loss of weight. Spinal and cerebral MRI showed a mediastinal mass involving the spine and cerebral lesions evocative of tuberculomas. The tuberculin interdermal reaction was positive. Culture of a vertebral biopsy was positive for Koch bacillus. Anti-tuberculosis treatment improved general and local status. An extensive immunological work-up was normal.\nCerebromediastinal tuberculosis in a child with a probable Say-Barber-Miller syndrome: a causative link? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 222112,
+            "completion_tokens": 64651
+        },
+        "time_elapsed": 359.96668910980225
+    },
+    {
         "idx": "19351635",
         "realidx": "19351635",
         "question": "National guidelines and government directives have adopted policies for urgent assessment of patients with a transient ischaemic attack or minor stroke not admitted to hospital. The risk of recurrent stroke increases substantially with age, as does the potential benefit of secondary prevention. In order to develop effective strategies for older patients, it is important to identify how stroke care is currently provided for this patient group.\nBetween 2004 and 2006, older patients (>75 years) referred to a neurovascular clinic were compared with younger patients (<or =75 years). Sociodemographic details, clinical features, resource use and secondary prevention in a neurovascular clinic were collected.\nOf 379 patients referred to the clinic, 129 (34%) were given a non-stroke diagnosis. Of the remaining 250 patients, 149 (60%) were<or =75 years. Median time from symptom onset to clinic appointment was similar for the two groups (24 (IQR 15-42) vs 24 (IQR 14-43) days; p = 0.58). Older patients were more likely to be in atrial fibrillation (10.1% vs 22.8%, p<0.001) and have lacunar stroke (34.7% vs 22.1%; p = 0.04). CT rates were similar in the two groups (27.8% vs 80.0%, p = 0.75). Scans were performed more quickly in younger patients (p<0.01). MRI scan rates were higher in younger patients (26% vs 4%, p<0.01), as was carotid Doppler imaging (92% vs 77%, p<0.01). There were no differences in prescribed secondary preventive treatments. Older patients experienced less delay for carotid endarterectomy (49 vs 90 days, p<0.01). Younger patients were more likely to be given advice on weight reduction (30.2% vs 12.9%, p<0.01) and diet (46.3% vs 31.7%, p = 0.02) than older patients.\nDo older patients receive adequate stroke care? Options: (B) no (A) yes (C) maybe",
@@ -682,6 +834,44 @@
             "completion_tokens": 35208
         },
         "time_elapsed": 210.09996223449707
+    },
+    {
+        "idx": "20337202",
+        "realidx": "20337202",
+        "question": "To determine the duration of continuing pregnancy after antenatal corticosteroid (AC) administration and to evaluate the potential opportunity for rescue AC.\nRetrospective analysis of women at 24-32 weeks' gestation who received AC at one institution.\nSix hundred ninety-two women received AC. Two hundred forty-seven (35.7%) delivered at>or = 34 weeks' gestation. Three hundred twenty-one (46.4%) delivered within 1 week of AC; 92 of those women (13.3%) delivered within 24 hours. Only 124 (17.9%) remained pregnant 1 week after AC and delivered at<34 weeks. The latter were compared to women delivering>2 week after AC but>or = 34 weeks. More likely to deliver at<34 weeks were those women who received AC for premature preterm rupture of membranes (OR 3.83, 95% CI 2.06-7.17), twins (OR 2.90, 95% CI 1.42-5.95) or before 28 weeks (OR 2.21, 95% CI 1.38-3.52).\nContinuation of pregnancy after antenatal corticosteroid administration: opportunity for rescue? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 556850,
+            "completion_tokens": 136822
+        },
+        "time_elapsed": 721.3317427635193
+    },
+    {
+        "idx": "20538207",
+        "realidx": "20538207",
+        "question": "It is generally considered that kidney grafts should be preserved at 4 degrees C during cold storage. However, actual temperature conditions are not known. We decided to study the temperature levels during preservation with the Biotainer storage can and Vitalpack transport pack.\nTemperature was monitored using the Thermobouton probe during preservation of pig kidneys, in the same conditions used with human grafts. The probe recorded the temperature level every 10 minutes during four days. We compared the results found with the new storage can with results obtained in the same conditions with the storage can formerly used by our team. We also studied the best position of the probe for temperature monitoring and the influence of the amount of ice within the transport pack on the temperature level. We then monitored the temperature during the conservation of actual human kidney grafts harvested at our institution from August 2007 to May 2008.\nThe temperature levels were the same regardless of the position of the probe within the transport pack. The lowest temperature was maintained during 15 hours, and the temperature level stayed below 5 degrees C for 57 hours with the new storage can. The former storage can maintained the lowest temperature level for 80 minutes, and temperature reached 5 degrees C after 10 hours 40 minutes. Temperature levels were similar when 2 or 4 kg of crushed ice were used. We observed similar results when monitoring the conservation of human grafts.\nShould temperature be monitorized during kidney allograft preservation? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 11738,
+            "completion_tokens": 5132
+        },
+        "time_elapsed": 32.903889417648315
     },
     {
         "idx": "20736672",
@@ -836,6 +1026,25 @@
         "time_elapsed": 1506.742594718933
     },
     {
+        "idx": "22491528",
+        "realidx": "22491528",
+        "question": "To determine if composite measures based on process indicators are consistent with short-term outcome indicators in surgical colorectal cancer care.\nLongitudinal analysis of consistency between composite measures based on process indicators and outcome indicators for 85 Dutch hospitals.\nThe Dutch Surgical Colorectal Audit database, the Netherlands.\n4732 elective patients with colon carcinoma and 2239 with rectum carcinoma treated in 85 hospitals were included in the analyses.\nAll available process indicators were aggregated into five different composite measures. The association of the different composite measures with risk-adjusted postoperative mortality and morbidity was analysed at the patient and hospital level.\nAt the patient level, only one of the composite measures was negatively associated with morbidity for rectum carcinoma. At the hospital level, a strong negative association was found between composite measures and hospital mortality and morbidity rates for rectum carcinoma (p<0.05), and hospital morbidity rates for colon carcinoma.\nCombining process indicators to evaluate quality of care for surgical patients with colorectal cancer: are scores consistent with short-term outcome? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 17735,
+            "completion_tokens": 5917
+        },
+        "time_elapsed": 144.10871982574463
+    },
+    {
         "idx": "22617083",
         "realidx": "22617083",
         "question": "To examine age-related differences in the relationship between personality and coping strategies in an Australian population of psychiatric inpatients.\nConsenting eligible adults (N=238) from 18-100 years of age consecutively admitted to inpatient psychiatry units were assessed using the SCID I and II, the Coping Orientations to Problems Experienced Scale (COPE), the Brief Psychiatric Rating Scale (BPRS), the Global Assessment of Functioning Scale (GAF), the Social and Occupational Functioning Assessment Scale (SOFAS), the 12 Item Short-Form Heath Survey (SF12), the Sarason Social Support Questionnaire, and the NEO Five Factor Inventory (NEO-FFI) (cognitively impaired, and non-English speaking patients were excluded).\nOlder adults reported less symptomatology than younger patients and younger patients described more personality dysfunction than older patients. As assessed by the COPE, older adults reported lower levels of dysfunctional coping strategies than younger adults. Personality traits, social supports, gender, and age predicted coping strategies, while Axis I diagnosis, education, personality disorder, and symptom severity were not significant predictors of coping strategies.\nDoes age moderate the effect of personality disorder on coping style in psychiatric inpatients? Options: (B) no (C) maybe (A) yes",
@@ -912,6 +1121,25 @@
         "time_elapsed": 506.0683124065399
     },
     {
+        "idx": "23690198",
+        "realidx": "23690198",
+        "question": "Social and cultural factors combined with little information may prevent the diffusion of epidural analgesia for pain relief during childbirth. The present study was launched contemporarily to the implementation of analgesia for labor in our Department in order to perform a 2 years audit on its use. The goal is to evaluate the epidural acceptance and penetration into hospital practice by women and care givers and safety and efficacy during childbirth.\nThis audit cycle measured epidural analgesia performance against 4 standards: (1) Implementation of epidural analgesia for labor to all patients; (2) Acceptance and good satisfaction level reported by patients and caregivers. (3) Effectiveness of labor analgesia; (4) No maternal or fetal side effects.\nDuring the audit period epidural analgesia increased from 15.5% of all labors in the first trimester of the study to 51% in the last trimester (p<0.005). Satisfaction levels reported by patients and care givers were good. A hierarchical clustering analysis identified two clusters based on VAS (Visual Analogue Scale) time course: in 226 patients (cluster 1) VAS decreased from 8.5\u00b11.4 before to 4.1\u00b11.3 after epidural analgesia; in 1002 patients (cluster 2) VAS decreased from 8.12\u00b11.7 before (NS vs cluster 1), to 0.76\u00b10.79 after (p<0.001 vs before and vs cluster 2 after). No other differences between clusters were observed.\nImplementation of epidural analgesia for labor: is the standard of effective analgesia reachable in all women? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 396435,
+            "completion_tokens": 89071
+        },
+        "time_elapsed": 478.5297546386719
+    },
+    {
         "idx": "24139705",
         "realidx": "24139705",
         "question": "Each patient received a smartphone with an insulin dose advisor (IDA) and with (G3 group) or without (G2 group) the telemonitoring/teleconsultation function. Patients were classified as \"high users\" if the proportion of \"informed\" meals using the IDA exceeded 67% (median) and as \"low users\" if not. Also analyzed was the respective impact of the IDA function and teleconsultations on the final HbA1c levels.\nAmong the high users, the proportion of informed meals remained stable from baseline to the end of the study 6months later (from 78.1\u00b121.5% to 73.8\u00b125.1%; P=0.107), but decreased in the low users (from 36.6\u00b129.4% to 26.7\u00b128.4%; P=0.005). As expected, HbA1c improved in high users from 8.7% [range: 8.3-9.2%] to 8.2% [range: 7.8-8.7%]in patients with (n=26) vs without (n=30) the benefit of telemonitoring/teleconsultation (-0.49\u00b10.60% vs -0.52\u00b10.73%, respectively; P=0.879). However, although HbA1c also improved in low users from 9.0% [8.5-10.1] to 8.5% [7.9-9.6], those receiving support via teleconsultation tended to show greater improvement than the others (-0.93\u00b10.97 vs -0.46\u00b11.05, respectively; P=0.084).\nTelemedicine and type 1 diabetes: is technology per se sufficient to improve glycaemic control? Options: (C) maybe (A) yes (B) no",
@@ -929,6 +1157,25 @@
             "completion_tokens": 128162
         },
         "time_elapsed": 686.3640837669373
+    },
+    {
+        "idx": "24336869",
+        "realidx": "24336869",
+        "question": "The 'law of spatiotemporal concentrations of events' introduced major preventative shifts in policing communities. 'Hotspots' are at the forefront of these developments yet somewhat understudied in emergency medicine. Furthermore, little is known about interagency 'data-crossover', despite some developments through the Cardiff Model. Can police-ED interagency data-sharing be used to reduce community-violence using a hotspots methodology?\n12-month (2012) descriptive study and analysis of spatiotemporal clusters of police and emergency calls for service using hotspots methodology and assessing the degree of incident overlap. 3775 violent crime incidents and 775 assault incidents analysed using spatiotemporal clustering with k-means++ algorithm and Spearman's rho.\nSpatiotemporal location of calls for services to the police and the ambulance service are equally highly concentrated in a small number of geographical areas, primarily within intra-agency hotspots (33% and 53%, respectively) but across agencies' hotspots as well (25% and 15%, respectively). Datasets are statistically correlated with one another at the 0.57 and 0.34 levels, with 50% overlap when adjusted for the number of hotspots. At least one in every two police hotspots does not have an ambulance hotspot overlapping with it, suggesting half of assault spatiotemporal concentrations are unknown to the police. Data further suggest that more severely injured patients, as estimated by transfer to hospital, tend to be injured in the places with the highest number of police-recorded crimes.\nCan routinely collected ambulance data about assaults contribute to reduction in community violence? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "advanced",
+        "token_usage": {
+            "prompt_tokens": 18471,
+            "completion_tokens": 6774
+        },
+        "time_elapsed": 161.16614484786987
     },
     {
         "idx": "24352924",
@@ -1005,6 +1252,44 @@
             "completion_tokens": 4202
         },
         "time_elapsed": 28.877366065979004
+    },
+    {
+        "idx": "24591144",
+        "realidx": "24591144",
+        "question": "To determine if elderly patients with oropharyngeal squamous cell carcinoma (OPSCC) are receiving less treatment and to evaluate the benefit of aggressive therapy in this population.\nRetrospective analysis of a large population database.\nPatients in the Surveillance, Epidemiology, and End Results database with OPSCC diagnosed from 2004 to 2009 were included. The patients were categorized into age groups 45 to 54, 55 to 64, 65 to 74, 75 to 84, and 85 years and older, then further categorized by treatment status. Kaplan-Meier analysis of disease-specific survival (DSS) for late-stage (III and IV) OPSCC was performed for all age and treatment categories, followed by a multivariate cox regression of treatment status, tumor site, race, stage, and sex per age group.\nA total of 14,909 patients with OPSCC were identified. In our demographic data, we observed a significant increase in the number of patients who did not receive treatment (surgery, radiation, or combined therapy) after age 55. Kaplan-Meier analysis showed that age groups 65 to 74 and 75 to 84 had substantial benefits in DSS with surgery, radiation, or combined therapy. Multivariable analysis did not demonstrate any statistically significant difference in the hazard ratios for combined treatment among age groups 45 to 54, 55 to 64, 65 to 74, and 75 to 84.\nAre the elderly with oropharyngeal carcinoma undertreated? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 6052383,
+            "completion_tokens": 547108
+        },
+        "time_elapsed": 2913.9289543628693
+    },
+    {
+        "idx": "24977765",
+        "realidx": "24977765",
+        "question": "Concussions are commonly diagnosed in pediatric patients presenting to the emergency department (ED). The primary objective of this study was to evaluate compliance with ED discharge instructions for concussion management.\nA prospective cohort study was conducted from November 2011 to November 2012 in a pediatric ED at a regional Level 1 trauma center, serving 35,000 pediatric patients per year. Subjects were aged 8 years to 17 years and were discharged from the ED with a diagnosis of concussion. Exclusion criteria included recent (past 3 months) diagnosis of head injury, hospital admission, intracranial injury, skull fracture, suspected nonaccidental trauma, or preexisting neurologic condition. Subjects were administered a baseline survey in the ED and were given standardized discharge instructions for concussion by the treating physician. Telephone follow-up surveys were conducted at 2 weeks and 4 weeks after ED visit.\nA total of 150 patients were enrolled. The majority (67%) of concussions were sports related. Among sports-related concussions, soccer (30%), football (11%), lacrosse (8%), and basketball (8%) injuries were most common. More than one third (39%) reported return to play (RTP) on the day of the injury. Physician follow-up was equivalent for sport and nonsport concussions (2 weeks, 58%; 4 weeks, 64%). Sports-related concussion patients were more likely to follow up with a trainer (2 weeks, 25% vs. 10%, p = 0.06; 4 weeks, 29% vs. 8%, p<0.01). Of the patients who did RTP or normal activities at 2 weeks (44%), more than one third (35%) were symptomatic, and most (58%) did not receive medical clearance. Of the patients who had returned to activities at 4 weeks (64%), less than one quarter (23%) were symptomatic, and most (54%) received medical clearance.\nAre pediatric concussion patients compliant with discharge instructions? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10555,
+            "completion_tokens": 4245
+        },
+        "time_elapsed": 29.279150009155273
     },
     {
         "idx": "24995509",
@@ -1216,6 +1501,25 @@
         "time_elapsed": 26.865326166152954
     },
     {
+        "idx": "26037986",
+        "realidx": "26037986",
+        "question": "Emergency surgery is associated with poorer outcomes and higher mortality with recent studies suggesting the 30-day mortality to be 14-15%. The aim of this study was to analyse the 30-day mortality, age-related 30-day mortality and 1-year mortality following emergency laparotomy. We hope this will encourage prospective data collection, improvement of care and initiate strategies to establish best practice in this area.\nThis was a retrospective study of patients who underwent emergency laparotomy from June 2010 to May 2012. The primary end point of the study was 30-day mortality, age-related 30-day mortality and 1-year all-cause mortality.\n477 laparotomies were performed in 446 patients. 57% were aged<70 and 43% aged>70 years. 30-day mortality was 12, 4% in those aged<70 years and 22% in those>70 years (p<0.001). 1-year mortality was 25, 15% in those aged under 70 years and 38% in those aged>70 years (p<0.001).\n30-Day and 1-year mortality in emergency general surgery laparotomies: an area of concern and need for improvement? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 928845,
+            "completion_tokens": 159137
+        },
+        "time_elapsed": 854.5064823627472
+    },
+    {
         "idx": "26606599",
         "realidx": "26606599",
         "question": "To determine the relationship between injury severity surrogates and other patient factors with the development and severity of heterotopic ossification (HO) following open reduction internal fixation of acetabular fractures treated with a posterior approach.\nRetrospective review.\nAcademic level 1 trauma center.\nTwo hundred forty-one patients who were treated through a posterior approach with a minimum of 6-month radiographic follow-up were identified from an acetabular fracture database.\nNone.\nThe occurrence and severity (Brooker Grade III/IV) of HO 6 months postsurgery.\nLength of stay (LOS) in the intensive care unit (ICU), non-ICU LOS>10 days, and HO prophylaxis with external radiation beam therapy (XRT) were significantly associated with the development of HO in a multivariate model [\n1-2 days, odds ratio (OR) = 4.33, 95% confidence interval (CI): 1.03-18.25; 3-6 days, OR = 4.1, 95% CI, 1.27-13.27;>6 days, OR = 11.7, 95% CI, 3.24-42.22; non-ICU LOS>10 days (vs. 0-6 days): OR = 7.6, 95% CI, 2.6-22.25; XRT HO prophylaxis: OR = 0.29, 95% CI, 0.10-0.85]. Other variables evaluated in multivariate modeling not significantly associated with development and severity of HO included age, gender, mechanism of injury, injury severity score, presence of neurologic injury, Letournel fracture type, occurrence of hip dislocation, interval from injury to surgery, operative time, and estimated blood loss.\nDo Surrogates of Injury Severity Influence the Occurrence of Heterotopic Ossification in Fractures of the Acetabulum? Options: (C) maybe (B) no (A) yes",
@@ -1252,6 +1556,25 @@
             "completion_tokens": 125957
         },
         "time_elapsed": 660.1156690120697
+    },
+    {
+        "idx": "26778755",
+        "realidx": "26778755",
+        "question": "Although dose-volume parameters in image-guided brachytherapy have become a standard, the use of posterior-inferior border of the pubic symphysis (PIBS) points has been recently proposed in the reporting of vaginal doses. The aim was to evaluate their pertinence.\nNineteen patients who received image-guided brachytherapy after concurrent radiochemotherapy were included. Per treatment, CT scans were performed at Days 2 and 3, with reporting of the initial dwell positions and times. Doses delivered to the PIBS points were evaluated on each plan, considering that they were representative of one-third of the treatment. The movements of the applicator according to the PIBS point were analysed.\nMean prescribed doses at PIBS -2, PIBS, PIBS +2 were, respectively, 2.23 \u00b1 1.4, 6.39 \u00b1 6.6, and 31.85 \u00b1 36.06 Gy. Significant differences were observed between the 5 patients with vaginal involvement and the remaining 14 at the level of PIBS +2 and PIBS: +47.60 Gy and +7.46 Gy, respectively (p = 0.023 and 0.03). The variations between delivered and prescribed doses at PIBS points were not significant. However, at International commission on radiation units and measurements rectovaginal point, the delivered dose was decreased by 1.43 \u00b1 2.49 Gy from the planned dose (p = 0.019). The delivered doses at the four points were strongly correlated with the prescribed doses with R(2) ranging from 0.93 to 0.95. The movements of the applicator in regard of the PIBS point assessed with the Digital Imaging and Communications in Medicine coordinates were insignificant.\nVaginal dose assessment in image-guided brachytherapy for cervical cancer: Can we really rely on dose-point evaluation? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10963,
+            "completion_tokens": 3748
+        },
+        "time_elapsed": 29.054119110107422
     },
     {
         "idx": "26852225",
@@ -1406,6 +1729,25 @@
         "time_elapsed": 207.01464128494263
     },
     {
+        "idx": "27643961",
+        "realidx": "27643961",
+        "question": "Comorbid major depression (MD) and alcohol use disorder (AUD), particularly in adolescents, have been shown to be associated with poorer subsequent MD outcomes.\nLongitudinal data were used to model associations between a four-level classification of MD/AUD during the period 15-18 years (neither; MD-only; AUD-only; comorbid MD/AUD) and MD over the period 18-35 years. These associations were then adjusted for confounding by a series of factors measured in childhood.\nThe three disorder groups had rates of adult MD during the period 18-35 years that were significantly (p<.05) higher than that of the group with no disorder. Furthermore, those in the comorbid MD/AUD group had significantly (p<.05) higher rates of adult MD than those in the AUD-only group, and marginally (p<.10) higher rates of adult MD than those in the MD-only group. After adjustment for confounding, the difference in rates of adult MD between the MD-only group and the MD/AUD group were no longer statistically significant. The factors that explained the associations were gender, childhood behavior problems, and exposure to physical and sexual abuse.\nThe data were obtained by self-report, and may have been subject to biases.\nMajor depression and alcohol use disorder in adolescence: Does comorbidity lead to poorer outcomes of depression? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 124621,
+            "completion_tokens": 37679
+        },
+        "time_elapsed": 224.63887763023376
+    },
+    {
         "idx": "28359277",
         "realidx": "28359277",
         "question": "Governments are urged to determine methods to control the use of medical resources and curb the rise of healthcare costs. The question is, do health behaviors have an impact on the use of medical resources? This study aims to identify and understand the difference in the number of outpatient visits and health examinations based on various health behaviors and to determine whether patients seek medical care for illness from the same physicians.\nThis study used the dataset derived from the Department of Budget, Accounting and Statistics of Kaohsiung, Taiwan in 2005. Persons older than 15\u00a0years were surveyed using an on-site questionnaire. A total of 2911 persons were enrolled in this study. Independent t-tests, chi-square tests, one-way ANOVA, multiple linear regression and binominal logistic regression were used in the data analysis.\nThe regression model for the frequency of doctor visits, health examinations, and whether the same physician is sought for medical care has demonstrated significant correlations with gender, age and education-level variables. Four health behaviors (i.e., exercise habits, dietary habits, regular blood pressure measurement, drinking habits) exhibited a significant correlation with healthcare utilization (P<0.05).\nDo healthier lifestyles lead to less utilization of healthcare resources? Options: (B) no (C) maybe (A) yes",
@@ -1423,6 +1765,25 @@
             "completion_tokens": 105926
         },
         "time_elapsed": 561.31809425354
+    },
+    {
+        "idx": "7497757",
+        "realidx": "7497757",
+        "question": "To determine if temperature during cardiopulmonary bypass (CPB) has an effect on perioperative and postoperative thyroid function.\nProspective study comparing thyroid function during and after hypothermic and normothermic CPB.\nCardiac surgical unit at a university-affiliated hospital.\nTwelve patients scheduled to undergo cardiac operations with normothermic (n = 6) or hypothermic (n = 6) CPB.\nBlood was analyzed for serum concentration of total thyroxine (TT4), total triiodothyronine (TT3), free T3 (fT3), reverse T3 (rT3), and thyroid stimulating hormone (TSH) preoperatively, 60 min after CPB was initiated, 30 min after discontinuing CPB, and on postoperative days (POD) 1, 3, and 5.\nPatients who underwent either cold (26 degrees +/- 5 degrees C) or warm (35 degrees +/- 1 degree C) CPB were comparable with regard to age, body weight, duration of CPB, cross-clamp time, use of inotropes, total heparin dose, and length of hospital stay. Incidence of postoperative myocardial infarction, congestive heart failure, and death were similar. In both groups, TT4 and TT3 were reduced below baseline values beginning with CPB and persisting for up to 5 days after CPB (p<0.05), free T3 was reduced for up to 3 days after CPB (p<0.05), mean serum rT3 was elevated on POD 1 and POD 3 (p<0.05), and TSH remained unchanged.\nCardiopulmonary bypass temperature does not affect postoperative euthyroid sick syndrome? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 447490,
+            "completion_tokens": 120382
+        },
+        "time_elapsed": 635.9557688236237
     },
     {
         "idx": "8738894",
@@ -1463,6 +1824,25 @@
         "time_elapsed": 100.3049042224884
     },
     {
+        "idx": "9465206",
+        "realidx": "9465206",
+        "question": "We investigated the actual role of MRI versus arthroscopy in the detection and characterization of occult bone and/or cartilage injuries in patients with previous musculoskeletal trauma of the knee, pain and severe functional impairment. Occult post-traumatic osteochondral injuries of the knee are trauma-related bone and/or cartilage damage missed at plain radiography.\nWe retrospectively selected 70 patients (men:women = 7:3; age range: 35 +/- 7 years) with a history of acute musculoskeletal trauma, negative conventional radiographs, pain and limited joint movements. All patients were submitted to conventional radiography, arthroscopy and MRI, the latter with 0.5 T units and T1-weighted SE. T2-weighted GE and FIR sequences with fat suppression.\nWe identified three types of occult post-traumatic injuries by morpho-topographic and signal intensity patterns: bone bruises (no. 25), subchondral (no. 33) and osteochondral (no. 35) injuries. Arthroscopy depicted 45 osteochondral and 19 chondral injuries. A bone bruise was defined as a typical subcortical area of signal loss, with various shapes, on T1-weighted images and of increased signal intensity on T2-weighted and FIR images. The cortical bone and articular cartilage were normal in all cases, while osteochondral injuries exhibited associated bone and cartilage damage with the same abnormal MR signal intensity. Sprain was the mechanism of injury in 52 cases, bruise in 12 and stress in 6. In 52 sprains (30 in valgus), the injury site was the lateral compartment in 92.3% of cases (100% in valgus), associated with meniscal damage in 73% of cases (90% in valgus) and with ligament injury in 90.4% (100% in valgus). In 12 bruises, the injury site was the lateral compartment in 58.3% of cases, the knee cap in 25% and the medial compartment in 16.7%; meniscal damage was associated in 25% of cases and ligament damage in 8.3%. In 6 stress injuries, the injury site was localized in the medial tibial condyle in 80% of cases, while meniscal and ligament tears were absent.\n\"Occult\" posttraumatic lesions of the knee: can magnetic resonance substitute for diagnostic arthroscopy? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 489173,
+            "completion_tokens": 106143
+        },
+        "time_elapsed": 569.525141954422
+    },
+    {
         "idx": "9483814",
         "realidx": "9483814",
         "question": "Uterus-specific synthetic Prostaglandin analogues (gemeprost, sulproston etc.) have been widely employed for termination of pregnancy in the second trimester. Since paracervical anaesthesia may be useful during this procedure, we investigated in this prospective randomised study its impact on the clinical course of abortion and pain especially in the late first and second stage of labour.\n20 women scheduled for elective abortion (fetal reasons) between the 16th and 23rd week of gestation were to be given 1 mg gemeprost vaginally every 6 hours. They were allocated at random: 10 women received only Pethidin intravenously and Butylscopolamine rectally, another 10 women were additionally treated by paracervical anaesthesia (2 x 10 ml 0.5% Bupivacain solution) at a cervical dilatation of 2-3 cm.\nA median of 3 gemeprost applications were administered in both groups. In the group without paracervical anaesthesia the median induction to abortion interval was 20 hours (range: 8-44 hours), 13 hours (range: 8-36 hours, NS) resulting for the paracervical anaesthesia group. The intervals from the last application of prostaglandin until abortion and from 3 cm cervical dilatation to abortion were slightly, but not significantly shorter in the paracervical anaesthesia group. The requirement of Butylscopolamine was higher in the latter group (p<0.05). The requirement of Pethidin and the intensity of pain (measured by pain scale according to Huskisson) especially in the late first stage of labour were not statistically different between both groups. Side effects of paracervical anaesthesia did not occur.\nDoes para-cervical block offer additional advantages in abortion induction with gemeprost in the 2nd trimester? Options: (B) no (A) yes (C) maybe",
@@ -1480,5 +1860,24 @@
             "completion_tokens": 17413
         },
         "time_elapsed": 120.2341685295105
+    },
+    {
+        "idx": "9582182",
+        "realidx": "9582182",
+        "question": "To investigate the relevance of the Symptom Checklist 90-R Obsessive-Compulsive subscale to cognition in individuals with brain tumor.\nA prospective study of patients assessed with a neuropsychological test battery.\nA university medical center.\nNineteen adults with biopsy-confirmed diagnoses of malignant brain tumors were assessed prior to aggressive chemotherapy.\nIncluded in the assessment were the Mattis Dementia Rating Scale, California Verbal Learning Test, Trail Making Test B, Symptom Checklist 90-R, Mood Assessment Scale, Beck Anxiety Inventory, and Chronic Illness Problem Inventory.\nThe SCL 90-R Obsessive-Compulsive subscale was not related to objective measures of attention, verbal memory, or age. It was related significantly to symptoms of depression (r = .81, P<.005), anxiety (r = .66, P<.005), and subjective complaints of memory problems (r = .75, P<.005). Multivariate analyses indicated that reported symptoms of depression contributed 66% of the variance in predicting SCL 90-R Obsessive-Compulsive Scores, whereas symptoms of anxiety contributed an additional 6% (P<.0001).\nDoes the SCL 90-R obsessive-compulsive dimension identify cognitive impairments? Options: (C) maybe (A) yes (B) no",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 47511,
+            "completion_tokens": 16171
+        },
+        "time_elapsed": 122.21846532821655
     }
 ]

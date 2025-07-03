@@ -266,6 +266,25 @@
         "time_elapsed": 461.7325119972229
     },
     {
+        "idx": "16392897",
+        "realidx": "16392897",
+        "question": "Quantitative real-time PCR has become the predominant molecular technique to monitor BCRABL levels in response to treatment in Ph(+) leukemia patients. However, without some form of standardized methodology between laboratories, the correlation of results is difficult.\nUsing TaqMan-based assays, parallel quantitative real-time PCR analysis was performed on 70 clinical specimens at Vanderbilt University Medical Center and Virginia Commonwealth University. While the same positive control cell line (K562) and quality control gene (BCR) were used, the RNA isolation technique, cDNA synthesis, BCR control cell line, and PCR primer and probe sequences were different.\nThe detection of BCRABL-positive results spanned a dynamic range from 10(0) to 10(5)/100,000 cells. Forty-three samples were negative at both facilities. A Spearman rank correlation analysis was performed for the 22 BCRABL-positive paired results. The correlation coefficient, r(s), was 0.9435 (p<0.00001), suggesting a strong correlation of the results. One discordant result was obtained for consecutive samples from one patient with a low BCRABL copy number as a result of a minimal RNA yield at one laboratory.\nBCRABL transcript detection by quantitative real-time PCR : are correlated results possible from homebrew assays? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 4573932,
+            "completion_tokens": 501999
+        },
+        "time_elapsed": 2610.464371919632
+    },
+    {
         "idx": "16538201",
         "realidx": "16538201",
         "question": "To determine whether the use of hydrophilic guidewires has increased the technical success rate of peripheral percutaneous transluminal angioplasty (PTA).MATERIAL/\nWe performed 125 procedures and analyzed the technical success rates of PTA using the conventional guidewire first and then if needed, the hydrophilic guidewire for iliac and SFA stenoses or occlusions. Angioplasty was performed on 25 stenosed, 25 occluded iliac arteries and 25 stenosed, 50 occluded femoral arteries. The result was defined as technical success when the lesion was crossed by a guidewire and balloon, then it was dilated with restoration of vessel lumen and less than 30% residual stenosis and the rise in ABI values was at least 0.15 after 24 hours.\nThe technical success rate after PTA of stenosed iliac arteries was achieved in 96% (24/25) using conventional wires and 100% using hydrophilic guidewire; in iliac occlusions, the rates were 60% (15/25) and 96%, respectively; in femoral stenosis - 84% (21/25) and 100%; in occlusions in the first group: lesions<10 cm -64% (16/25) and 96%, in the second group: lesions>10 cm -48% (12/25) and 88%. In the iliac group, there was no significant difference in the success of iliac stenosis PTA. However, there were significant changes in the success rates of PTA performed for SFA stenosis and iliac and SFA occlusions.\nDoes use of hydrophilic guidewires significantly improve technical success rates of peripheral PTA? Options: (A) yes (B) no (C) maybe",
@@ -302,6 +321,44 @@
             "completion_tokens": 53456
         },
         "time_elapsed": 301.99564361572266
+    },
+    {
+        "idx": "16962519",
+        "realidx": "16962519",
+        "question": "To estimate changes in uterine myoma volume during pregnancy.\nReview of departmental electronic perinatal database and medical records. Canadian Task Force Classification II-3.\nObstetrical ultrasound unit in an academic tertiary care center.\nOne hundred-seven patients diagnosed with uterine myomas during pregnancy and who had two or more obstetrical ultrasounds in different periods of pregnancy.\nWe analyzed the change in volume of uterine myomas between the first half of pregnancy (up until 19 weeks), third quarter (20-30 weeks), and last quarter (31 weeks to term). The volume of largest uterine myoma was calculated using the formula Volume (mm3)=Pi/6x(length mm)x(width mm)x(height mm).\nThe mean age of the population was 31+/-6 years. Between the first and the second study periods, the percentage of uterine myomas that decreased in size was 55.1% (95% CI: 43-66), with a mean decrease in volume of 35%+/-4%; while the percentage of uterine myomas that enlarged was 44.9% (95% CI: 34-56), with a mean increase in volume of 69%+/-11%. Between the second and the third study periods, 75% (95% CI: 56-87) became smaller, with a mean decrease in volume of 30%+/-3%; while 25% (95% CI: 13-43) enlarged, with a mean increase in volume of 102%+/-62%.\nVolume change of uterine myomas during pregnancy: do myomas really grow? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 551635,
+            "completion_tokens": 139746
+        },
+        "time_elapsed": 749.9902818202972
+    },
+    {
+        "idx": "16968876",
+        "realidx": "16968876",
+        "question": "The aim of this prognostic factor analysis was to investigate if a patient's self-reported health-related quality of life (HRQOL) provided independent prognostic information for survival in non-small cell lung cancer (NSCLC) patients.\nPretreatment HRQOL was measured in 391 advanced NSCLC patients using the EORTC QLQ-C30 and the EORTC Lung Cancer module (QLQ-LC13). The Cox proportional hazards regression model was used for both univariate and multivariate analyses of survival. In addition, a bootstrap validation technique was used to assess the stability of the outcomes.\nThe final multivariate Cox regression model retained four parameters as independent prognostic factors for survival: male gender with a hazard ratio (HR) = 1.32 (95% CI 1.03-1.69; P = 0.03); performance status (0 to 1 versus 2) with HR = 1.63 (95% CI 1.04-2.54; P = 0.032); patient's self-reported score of pain with HR= 1.11 (95% CI 1.07-1.16; P<0.001) and dysphagia with HR = 1.12 (95% CI 1.04-1.21; P = 0.003). A 10-point shift worse in the scale measuring pain and dysphagia translated into an 11% and 12% increased in the likelihood of death respectively. A risk group categorization was also developed.\nIs a patient's self-reported health-related quality of life a prognostic factor for survival in non-small-cell lung cancer patients? Options: (B) no (C) maybe (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 3984066,
+            "completion_tokens": 467593
+        },
+        "time_elapsed": 2490.3722398281097
     },
     {
         "idx": "17076091",
@@ -703,6 +760,25 @@
         "time_elapsed": 579.3395488262177
     },
     {
+        "idx": "19578820",
+        "realidx": "19578820",
+        "question": "Opioid-dependent patients often have co-occurring chronic illnesses requiring medications that interact with methadone. Methadone maintenance treatment (MMT) is typically provided separately from medical care. Hence, coordination of medical care and substance use treatment is important to preserve patient safety.\nTo identify potential safety risks among MMT patients engaged in medical care by evaluating the frequency that opioid dependence and MMT documentation are missing in medical records and characterizing potential medication-methadone interactions.\nAmong patients from a methadone clinic who received primary care from an affiliated, but separate, medical center, we reviewed electronic medical records for documentation of methadone, opioid dependence, and potential drug-methadone interactions. The proportions of medical records without opioid dependence and methadone documentation were estimated and potential medication-methadone interactions were identified.\nAmong the study subjects (n = 84), opioid dependence documentation was missing from the medical record in 30% (95% CI, 20%-41%) and MMT documentation was missing from either the last primary care note or the last hospital discharge summary in 11% (95% CI, 5%-19%). Sixty-nine percent of the study subjects had at least 1 medication that potentially interacted with methadone; 19% had 3 or more potentially interacting medications.\nAre opioid dependence and methadone maintenance treatment (MMT) documented in the medical record? Options: (C) maybe (B) no (A) yes",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10384,
+            "completion_tokens": 3760
+        },
+        "time_elapsed": 27.4531569480896
+    },
+    {
         "idx": "20197761",
         "realidx": "20197761",
         "question": "Guidelines emphasize that irritable bowel syndrome (IBS) is not a diagnosis of exclusion and encourage clinicians to make a positive diagnosis using the Rome criteria alone. Yet many clinicians are concerned about overlooking alternative diagnoses. We measured beliefs about whether IBS is a diagnosis of exclusion, and measured testing proclivity between IBS experts and community providers.\nWe developed a survey to measure decision-making in two standardized patients with Rome III-positive IBS, including IBS with diarrhea (D-IBS) and IBS with constipation (C-IBS). The survey elicited provider knowledge and beliefs about IBS, including testing proclivity and beliefs regarding IBS as a diagnosis of exclusion. We surveyed nurse practitioners, primary care physicians, community gastroenterologists, and IBS experts.\nExperts were less likely than nonexperts to endorse IBS as a diagnosis of exclusion (8 vs. 72%; P<0.0001). In the D-IBS vignette, experts were more likely to make a positive diagnosis of IBS (67 vs. 38%; P<0.001), to perform fewer tests (2.0 vs. 4.1; P<0.01), and to expend less money on testing (US$297 vs. $658; P<0.01). Providers who believed IBS is a diagnosis of exclusion ordered 1.6 more tests and consumed $364 more than others (P<0.0001). Experts only rated celiac sprue screening and complete blood count as appropriate in D-IBS; nonexperts rated most tests as appropriate. Parallel results were found in the C-IBS vignette.\nIs irritable bowel syndrome a diagnosis of exclusion? Options: (A) yes (B) no (C) maybe",
@@ -798,6 +874,25 @@
         "time_elapsed": 1005.2297055721283
     },
     {
+        "idx": "20971618",
+        "realidx": "20971618",
+        "question": "Cutaneous infections such as impetigo contagiosum (IC), molluscum contagiosum (MC) and herpes virus infection (HI) appear to be associated with atopic dermatitis (AD), but there are no reports of concrete epidemiological evidence.\nWe evaluated the association of childhood AD with these infections by conducting a population-based cross-sectional study.\nEnrolled in this study were 1117 children aged 0-6 years old attending nursery schools in Ishigaki City, Okinawa Prefecture, Japan. Physical examination was performed by dermatologists, and a questionnaire was completed on each child's history of allergic diseases including AD, asthma, allergic rhinitis and egg allergy, and that of skin infections including IC, MC and HI, as well as familial history of AD.\nIn 913 children (AD; 132), a history of IC, MC or HI was observed in 45.1%, 19.7%, and 2.5%, respectively. Multiple logistic regression analysis revealed that the odds of having a history of IC were 1.8 times higher in AD children than in non-AD children. Meanwhile, a history of MC was significantly correlated to the male gender, but not to a personal history of AD. As for HI, we found no correlated factors in this study.\nAre lifetime prevalence of impetigo, molluscum and herpes infection really increased in children having atopic dermatitis? Options: (B) no (A) yes (C) maybe",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "C",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 734464,
+            "completion_tokens": 145839
+        },
+        "time_elapsed": 758.931312084198
+    },
+    {
         "idx": "21164063",
         "realidx": "21164063",
         "question": "A possible role for fondaparinux as a bridging agent in the perioperative setting is explored.\nAnticoagulation guidelines provide minimal direction on the perioperative use of fondaparinux. Fondaparinux's extended half-life of 17-21 hours complicates its use as a perioperative bridging therapy. The ideal time for discontinuation before surgery is an issue, particularly in surgeries with a high bleeding risk or in which neuraxial anesthesia is used. Guidance for perioperative bridging with fondaparinux must be derived from pharmacokinetic data, surgical prophylaxis trials, case reports, and anesthesia guidelines. Published trials used fondaparinux sodium 2.5 mg daily for venous thromboembolism prophylaxis in surgical patients, and the majority avoided its use before surgery in patients receiving neuraxial anesthesia. Three case reports cited the use of fondaparinux sodium as perioperative bridge therapy; one used a 2.5-mg dose, and the other two used a full treatment dose of 7.5 mg. Furthermore, professional anesthesia guidelines conflict in their recommendations regarding the timing of drug administration with neuraxial catheter use. For these reasons, it may be optimal to avoid fondaparinux use before surgery. In some instances, the use of low-molecular-weight heparin or inpatient use of i.v. unfractionated heparin is not possible, is contraindicated, or has limited efficacy, such as a patient with history of heparin-induced thrombocytopenia or antithrombin III deficiency. Fondaparinux may have a role in bridge therapy for these patients.\nIs there a role for fondaparinux in perioperative bridging? Options: (A) yes (B) no (C) maybe",
@@ -834,6 +929,25 @@
             "completion_tokens": 42725
         },
         "time_elapsed": 249.70489406585693
+    },
+    {
+        "idx": "21789019",
+        "realidx": "21789019",
+        "question": "The increasingly older population confronts oncologists with an imposing challenge: older cancer patients have specific healthcare needs both independent of and associated with the diagnosis of cancer. The aim of the present study is to examine whether elderly versus younger cancer patients have different needs with respect to attendance, treatment and information.\nThis is an observational and cross-sectional study. Cancer patients aged 35 to 82 years were consecutively interviewed. The group was divided into two subgroups aged \u226465 and \u226566 years old. The Needs Evaluation Questionnaire (NEQ) was used to assess patients' needs and demographic variables were collected. Data analysis was carried out by means of cross-tabulation analyses and the chi-square test.\nThe requests most frequently expressed by the older group concerned financial-insurance information (73.9%), the need to talk to people with the same illness (71.7%), the need to receive more comprehensible information from doctors and nurses (71.7%), and the need for a better dialogue with clinicians (69.6%). Few significant differences between the two age subgroups were found, with the exception of issues such as the need for intimacy and support.\nDo elderly cancer patients have different care needs compared with younger ones? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "B",
+        "answer": "no",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 10897,
+            "completion_tokens": 4285
+        },
+        "time_elapsed": 30.42806625366211
     },
     {
         "idx": "21889895",
@@ -1138,6 +1252,25 @@
             "completion_tokens": 25941
         },
         "time_elapsed": 163.9151964187622
+    },
+    {
+        "idx": "24591144",
+        "realidx": "24591144",
+        "question": "To determine if elderly patients with oropharyngeal squamous cell carcinoma (OPSCC) are receiving less treatment and to evaluate the benefit of aggressive therapy in this population.\nRetrospective analysis of a large population database.\nPatients in the Surveillance, Epidemiology, and End Results database with OPSCC diagnosed from 2004 to 2009 were included. The patients were categorized into age groups 45 to 54, 55 to 64, 65 to 74, 75 to 84, and 85 years and older, then further categorized by treatment status. Kaplan-Meier analysis of disease-specific survival (DSS) for late-stage (III and IV) OPSCC was performed for all age and treatment categories, followed by a multivariate cox regression of treatment status, tumor site, race, stage, and sex per age group.\nA total of 14,909 patients with OPSCC were identified. In our demographic data, we observed a significant increase in the number of patients who did not receive treatment (surgery, radiation, or combined therapy) after age 55. Kaplan-Meier analysis showed that age groups 65 to 74 and 75 to 84 had substantial benefits in DSS with surgery, radiation, or combined therapy. Multivariable analysis did not demonstrate any statistically significant difference in the hazard ratios for combined treatment among age groups 45 to 54, 55 to 64, 65 to 74, and 75 to 84.\nAre the elderly with oropharyngeal carcinoma undertreated? Options: (A) yes (C) maybe (B) no",
+        "answer_idx": "C",
+        "answer": "maybe",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "A",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 1471932,
+            "completion_tokens": 220581
+        },
+        "time_elapsed": 1147.9493951797485
     },
     {
         "idx": "24977765",
@@ -1708,5 +1841,24 @@
             "completion_tokens": 17590
         },
         "time_elapsed": 121.23446679115295
+    },
+    {
+        "idx": "9582182",
+        "realidx": "9582182",
+        "question": "To investigate the relevance of the Symptom Checklist 90-R Obsessive-Compulsive subscale to cognition in individuals with brain tumor.\nA prospective study of patients assessed with a neuropsychological test battery.\nA university medical center.\nNineteen adults with biopsy-confirmed diagnoses of malignant brain tumors were assessed prior to aggressive chemotherapy.\nIncluded in the assessment were the Mattis Dementia Rating Scale, California Verbal Learning Test, Trail Making Test B, Symptom Checklist 90-R, Mood Assessment Scale, Beck Anxiety Inventory, and Chronic Illness Problem Inventory.\nThe SCL 90-R Obsessive-Compulsive subscale was not related to objective measures of attention, verbal memory, or age. It was related significantly to symptoms of depression (r = .81, P<.005), anxiety (r = .66, P<.005), and subjective complaints of memory problems (r = .75, P<.005). Multivariate analyses indicated that reported symptoms of depression contributed 66% of the variance in predicting SCL 90-R Obsessive-Compulsive Scores, whereas symptoms of anxiety contributed an additional 6% (P<.0001).\nDoes the SCL 90-R obsessive-compulsive dimension identify cognitive impairments? Options: (A) yes (B) no (C) maybe",
+        "answer_idx": "A",
+        "answer": "yes",
+        "options": {
+            "A": "yes",
+            "B": "no",
+            "C": "maybe"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 40943,
+            "completion_tokens": 15127
+        },
+        "time_elapsed": 105.0144534111023
     }
 ]

@@ -21,6 +21,27 @@
         "time_elapsed": 52.25066161155701
     },
     {
+        "idx": 5,
+        "realidx": 5,
+        "question": "A 9-year-old girl presents to the emergency department with a fever and a change in her behavior. She presented with similar symptoms 6 weeks ago and was treated for an Escherchia coli infection. She also was treated for a urinary tract infection 10 weeks ago. Her mother says that last night her daughter felt ill, and her condition has been worsening. Her daughter experienced a severe headache and had a stiff neck. This morning she was minimally responsive, vomited several times, and produced a small amount of dark cloudy urine. The patient was born at 39 weeks and met all her developmental milestones. She is currently up to date on her vaccinations and did not have infections during early childhood. Her parents are divorced and her father has noted she does not seem to get sick when he takes care of her. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 60/35 mmHg, pulse is 190/min, respirations are 33/min, and oxygen saturation is 98% on room air. The patient is started on intravenous fluids, vasopressors, and broad-spectrum antibiotics. Which of the following is the most appropriate underlying explanation for this patient's presentation? Options: (D) Meningitis (C) Intentional contamination (E) Urinary tract infection (B) Immunodeficiency (A) Gastroenteritis",
+        "answer_idx": "C",
+        "answer": "Intentional contamination",
+        "options": {
+            "A": "Gastroenteritis",
+            "B": "Immunodeficiency",
+            "C": "Intentional contamination",
+            "D": "Meningitis",
+            "E": "Urinary tract infection"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7359,
+            "completion_tokens": 4976
+        },
+        "time_elapsed": 50.12380528450012
+    },
+    {
         "idx": 8,
         "realidx": 8,
         "question": "A 67-year-old man presents to the emergency department after fainting. He was outside tending to his lawn for several hours in the heat, when he stood up suddenly from pulling weeds and fainted. He denies any preceding symptoms and returned to baseline within 1 minute. The patient is not aware of any medical problems and just started seeing a primary care physician last week. He recently used a friend's prescription for ondansetron for nausea. His temperature is 99.3\u00b0F (37.4\u00b0C), blood pressure is 142/88 mmHg, pulse is 107/min, respirations are 14/min, and oxygen saturation is 99% on room air. Physical exam reveals intact cranial nerves, normal strength and sensation, and a stable gait. His abdomen is soft and nontender. An ECG is performed as seen in Figure A. Which of the following is the most likely diagnosis based on this patient\u2019s ECG? Options: (A) Acute myocardial infarction (E) Pulmonary embolism (C) Intermittent torsades des pointes (B) Hypokalemia (D) Previous myocardial ischemia",
@@ -376,6 +397,27 @@
             "completion_tokens": 3540
         },
         "time_elapsed": 43.897393226623535
+    },
+    {
+        "idx": 62,
+        "realidx": 62,
+        "question": "A 43-year-old man presents to the emergency department acutely with altered mental status. He uses intravenous drugs and is unable to offer a history. He was found unconscious in a park. His temperature is 99.0\u00b0F (37.2\u00b0C), blood pressure is 80/40 mmHg, pulse is 156/min, and respirations are 26/min. Physical exam reveals an obtunded man covered in vomit, with track marks on his arm and several skin abscesses. The patient is given 4 liters of Ringer lactate and intravenous antibiotics. As the fourth liter of fluids is finishing, the patient is noted to have jugular venous distension and an oxygen saturation of 92% on nonrebreather. He is subsequently intubated. An ECG is obtained as seen in Figure A. The patient is started on norepinephrine, and his blood pressure is subsequently found to be 85/44 mmHg. Which of the following is the most appropriate next step in management? Options: (E) Phenylephrine (A) Cardioversion (C) Hydrocortisone (B) Epinephrine (D) Normal saline",
+        "answer_idx": "B",
+        "answer": "Epinephrine",
+        "options": {
+            "A": "Cardioversion",
+            "B": "Epinephrine",
+            "C": "Hydrocortisone",
+            "D": "Normal saline",
+            "E": "Phenylephrine"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7364,
+            "completion_tokens": 4834
+        },
+        "time_elapsed": 43.816184759140015
     },
     {
         "idx": 70,
@@ -798,6 +840,27 @@
         "time_elapsed": 49.72415614128113
     },
     {
+        "idx": 145,
+        "realidx": 145,
+        "question": "A 32-year-old man presents to the emergency department for evaluation of headache. His symptoms started last night and have persisted. He occasionally has migraine headaches, but he has not had a headache like this in the past. He reports associated nausea, vomiting, fevers, and neck pain. He has a medical history of asthma. His temperature is 100.4\u00b0F (38.0\u00b0C), blood pressure is 110/60 mmHg, pulse is 95/min, respirations are 17/min, and oxygen saturation is 98% on room air. On physical exam, he appears uncomfortable. Neurologic exam reveals no focal deficits. There is pain with passive neck flexion. No edema or rashes are noted. Lungs are clear to auscultation bilaterally. Lumbar puncture is performed and CSF results are obtained as shown below. Cerebrospinal fluid (CSF): Cell count: 175/mm^3 RBCs: 0/mm^3 Cl-: 119 mEq/L Glucose: 49 mg/dL Pressure: 150 mmH2O Total protein: 55 mg/dL Based on these results, which of the following is the most appropriate treatment regimen for this patient? Options: (E) Supportive care and monitoring (C) Ceftriaxone and vancomycin (A) Acyclovir (B) Amphotericin and 5-flucytosine (D) Ceftriaxone, vancomycin and steroids",
+        "answer_idx": "E",
+        "answer": "Supportive care and monitoring",
+        "options": {
+            "A": "Acyclovir",
+            "B": "Amphotericin and 5-flucytosine",
+            "C": "Ceftriaxone and vancomycin",
+            "D": "Ceftriaxone, vancomycin and steroids",
+            "E": "Supportive care and monitoring"
+        },
+        "predicted_answer": "E",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7786,
+            "completion_tokens": 4142
+        },
+        "time_elapsed": 40.686275005340576
+    },
+    {
         "idx": 147,
         "realidx": 147,
         "question": "A 71-year-old woman arrives to clinic with sudden vision loss. She was in her usual state of health until waking up this morning unable to see out of her right eye. She denies pain, but reports her right eye \u201cfeels funny.\u201d The patient\u2019s medical history is significant for a previous myocardial infarction, hypertension, and osteoporosis. Her current medications include aspirin, metoprolol, rosuvastatin, lisinopril, and alendronate. Her temperature is 98\u00b0F (36.7\u00b0C), blood pressure is 145/86 mmHg, pulse is 62/min, and respirations are 12/min with an oxygen saturation of 98% on room air. The patient's pupils are symmetric in size and equally reactive to light with accommodation. A fundoscopic exam of the right eye is shown in Figure A. The left optic fundus is unremarkable. Which of the following is the most likely diagnosis? Options: (B) Closed angle glaucoma (E) Retinal vein occlusion (D) Retinal detachment (C) Papilledema (A) Central retinal artery occlusion",
@@ -1216,6 +1279,27 @@
             "completion_tokens": 3600
         },
         "time_elapsed": 38.01898002624512
+    },
+    {
+        "idx": 228,
+        "realidx": 228,
+        "question": "A 31-year-old man presents to the emergency department for fever, malaise, and cough. For the last week, his cough has been progressively worsening, and he has been noticing blood in his sputum. He denies any recent travel or sick contacts and infrequently smokes cigarettes. Approximately 5 weeks ago, he presented with similar symptoms and was found to have a right upper lobe lung infiltrate, a CD4 count of 40/mm^3, and an HIV viral load of 115,000 copies/mL. He was appropriately treated and discharged home. Four weeks after initiation of treatment, his CD4 count was over 400/mm^3 and HIV viral load was negligible. His temperature today is 102\u00b0F (38.9\u00b0C), blood pressure is 130/90 mmHg, pulse is 100/min, and respirations are 20/min. A radiograph of the chest demonstrates new nodules in the left upper lobe and hilar adenopathy. Which of the following is the most appropriate next step in management? Options: (E) Start high-dose glucocorticoid treatment and discontinue antiretroviral therapy (B) Determine drug sensitivities against the patient\u2019s pulmonary infection (C) Discontinue antimicrobial treatment (D) Obtain a D-dimer level (A) Continue current anti-retroviral treatment, antimicrobial, and anti-tuberculoid therapies",
+        "answer_idx": "A",
+        "answer": "Continue current anti-retroviral treatment, antimicrobial, and anti-tuberculoid therapies",
+        "options": {
+            "A": "Continue current anti-retroviral treatment, antimicrobial, and anti-tuberculoid therapies",
+            "B": "Determine drug sensitivities against the patient\u2019s pulmonary infection",
+            "C": "Discontinue antimicrobial treatment",
+            "D": "Obtain a D-dimer level",
+            "E": "Start high-dose glucocorticoid treatment and discontinue antiretroviral therapy"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8670,
+            "completion_tokens": 3345
+        },
+        "time_elapsed": 39.16013288497925
     },
     {
         "idx": 229,

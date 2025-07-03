@@ -210,6 +210,27 @@
         "time_elapsed": 86.04252433776855
     },
     {
+        "idx": 32,
+        "realidx": 32,
+        "question": "A 59-year-old man presents to his primary care physician for abdominal pain and foul-smelling diarrhea that has persisted for the past 2 years. The patient has a medical history of alcoholism and has been admitted to the hospital multiple times for withdrawal, abdominal pain, and traumatic injuries from his drinking. The patient states that his last drink was more than 1 year ago. His temperature is 99.3\u00b0F (37.4\u00b0C), blood pressure is 115/78 mmHg, pulse is 78/min, respirations are 15/min, and oxygen saturation is 99% on room air. Physical exam reveals a non-tender, non-distended abdomen. Laboratory studies are notable for a serum calcium of 7.0 mg/dL. A computed tomography (CT) scan of the abdomen is performed as seen in Figure A. A Sudan Black stain of the patient\u2019s stool is positive. Which of the following is the most appropriate treatment for the underlying cause of this patient\u2019s diarrhea? Options: (E) Rifaximin (C) Oral rehydration (D) Pantoprazole (A) Ciprofloxacin (B) Loperamide",
+        "answer_idx": "D",
+        "answer": "Pantoprazole",
+        "options": {
+            "A": "Ciprofloxacin",
+            "B": "Loperamide",
+            "C": "Oral rehydration",
+            "D": "Pantoprazole",
+            "E": "Rifaximin"
+        },
+        "predicted_answer": "0",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7231,
+            "completion_tokens": 4612
+        },
+        "time_elapsed": 47.04191708564758
+    },
+    {
         "idx": 35,
         "realidx": 35,
         "question": "A 55-year-old male bodybuilder presents to the emergency department with weakness of his right arm. The patient states he has experienced these symptoms for a few weeks; however, today his hand felt so weak he dropped his cup of tea. The patient has a medical history of diabetes. He drinks 2-7 alcoholic drinks per day and has smoked 2 packs of cigarettes per day since he was 25. The patient uses anabolic steroids. He has lost 17 pounds since he last came to the emergency department 1 month ago. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 177/108 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air. Physical exam reveals decreased sensation in the right arm and 2/5 strength in the right arm and 5/5 strength in in the left arm. The patient states that he is experiencing a dull aching and burning pain in his right arm during the exam. Symptoms are not changed with changes in head and neck position. Which of the following is the most likely diagnosis? Options: (E) Subclavian steal syndrome (B) Brachial plexopathy (D) Scalenus anticus syndrome (C) Cerebral infarction (A) Apical lung tumor",
@@ -378,6 +399,27 @@
         "time_elapsed": 31.94418454170227
     },
     {
+        "idx": 62,
+        "realidx": 62,
+        "question": "A 43-year-old man presents to the emergency department acutely with altered mental status. He uses intravenous drugs and is unable to offer a history. He was found unconscious in a park. His temperature is 99.0\u00b0F (37.2\u00b0C), blood pressure is 80/40 mmHg, pulse is 156/min, and respirations are 26/min. Physical exam reveals an obtunded man covered in vomit, with track marks on his arm and several skin abscesses. The patient is given 4 liters of Ringer lactate and intravenous antibiotics. As the fourth liter of fluids is finishing, the patient is noted to have jugular venous distension and an oxygen saturation of 92% on nonrebreather. He is subsequently intubated. An ECG is obtained as seen in Figure A. The patient is started on norepinephrine, and his blood pressure is subsequently found to be 85/44 mmHg. Which of the following is the most appropriate next step in management? Options: (B) Epinephrine (E) Phenylephrine (D) Normal saline (A) Cardioversion (C) Hydrocortisone",
+        "answer_idx": "B",
+        "answer": "Epinephrine",
+        "options": {
+            "A": "Cardioversion",
+            "B": "Epinephrine",
+            "C": "Hydrocortisone",
+            "D": "Normal saline",
+            "E": "Phenylephrine"
+        },
+        "predicted_answer": "C",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7238,
+            "completion_tokens": 4374
+        },
+        "time_elapsed": 41.11584949493408
+    },
+    {
         "idx": 70,
         "realidx": 70,
         "question": "A 21-year-old man presents to the emergency room with right lower quadrant pain that started this afternoon at his wrestling match. He also endorses loss of appetite and subjective fever. He has had vague, mild discomfort in the right upper quadrant since the start of this wrestling season. He endorses a history of unprotected sex with multiple partners and intravenous drug use during a recent vacation to Mexico but has no other significant medical history. He drinks socially and has never smoked. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 119/72 mmHg, pulse is 102/min, and respirations are 12/min. Physical exam demonstrates pain on palpation of the right lower quadrant and mild pain in the right upper quadrant. He has significant acne on his face, chest, and back. A CT of the abdomen confirms appendicitis. The scan also shows a large liver mass measuring 6 cm as seen in Figure A. Aside from addressing his appendicitis, which of the following is the most appropriate next step in management? Options: (E) Perform liver mass resection (C) Obtain follow-up CT of the abdomen in 3 months (A) Administer metronidazole (B) Administer sofosbuvir (D) Perform liver mass biopsy",
@@ -502,6 +544,27 @@
             "completion_tokens": 3998
         },
         "time_elapsed": 156.4402985572815
+    },
+    {
+        "idx": 89,
+        "realidx": 89,
+        "question": "A 77-year-old man presents to the emergency department acutely obtunded. The patient lives alone and was found unresponsive by his son. Generally, the patient manages his own finances, medications, and works part-time. He has not been responding to phone calls for the past 3 days. The patient is unable to offer a history. He has a past medical history of hypothyroidism, depression, and diabetes. His temperature is 88.0\u00b0F (31.1\u00b0C), blood pressure is 92/62 mmHg, pulse is 35/min, respirations are 9/min, and oxygen saturation is 92% on room air. The patient is cold to the touch and moves all extremities to painful stimuli. His pupils are reactive and sluggish, and he does not follow commands. There are no signs of trauma or skin infections. The patient is started on IV fluids and hydrocortisone, is externally warmed, and is started on a norepinephrine drip. An ECG is performed as seen in Figure A. Which of the following is the most appropriate next step in management? Options: (D) Thyroid stimulating hormone level (A) Free T4 level (E) Triiodothyronine administration (B) Levothyroxine administration (C) Thyroid stimulating hormone and free T4 level",
+        "answer_idx": "B",
+        "answer": "Levothyroxine administration",
+        "options": {
+            "A": "Free T4 level",
+            "B": "Levothyroxine administration",
+            "C": "Thyroid stimulating hormone and free T4 level",
+            "D": "Thyroid stimulating hormone level",
+            "E": "Triiodothyronine administration"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7611,
+            "completion_tokens": 3361
+        },
+        "time_elapsed": 33.8042049407959
     },
     {
         "idx": 90,
@@ -630,6 +693,27 @@
         "time_elapsed": 84.63638114929199
     },
     {
+        "idx": 104,
+        "realidx": 104,
+        "question": "A 66-year-old man presents to the emergency department with shortness of breath. He typically has poor exercise tolerance and is only able to walk from his house to his mailbox before becoming dyspneic. He now has shortness of breath even at rest. He had a cold recently but has no new medical problems. His past medical history is notable for a myocardial infarction 7 years ago, COPD, heart failure with a left ventricular ejection fraction of 22%, obesity, diabetes, and peripheral vascular disease. His temperature is 97.7\u00b0F (36.5\u00b0C), blood pressure is 124/82 mmHg, pulse is 140/min, respirations are 32/min, and oxygen saturation is 78% on room air. Physical exam reveals an uncomfortable man with increased work of breathing. He demonstrates bilateral crackles and wheezing on pulmonary exam. The patient is started on BiPAP, and his oxygen saturation improves to 94%. An ECG is performed, as seen in Figure A, and a chest radiograph is performed, as seen in Figure B. Which of the following is the most appropriate next step in management? Options: (D) Intubation (A) Albuterol and prednisone (E) Metoprolol (C) Diltiazem (B) Digoxin",
+        "answer_idx": "B",
+        "answer": "Digoxin",
+        "options": {
+            "A": "Albuterol and prednisone",
+            "B": "Digoxin",
+            "C": "Diltiazem",
+            "D": "Intubation",
+            "E": "Metoprolol"
+        },
+        "predicted_answer": "B",
+        "difficulty": "intermediate",
+        "token_usage": {
+            "prompt_tokens": 33916,
+            "completion_tokens": 13192
+        },
+        "time_elapsed": 233.85125470161438
+    },
+    {
         "idx": 116,
         "realidx": 116,
         "question": "A 59-year-old woman comes to the clinic due to a 3-month history of \u201calways feeling the urge to urinate\u201d as well as vaginal pruritis. She states that she has had involuntary loss of urine about 4 times each day over the past 3 months. It is not associated with coughing or sneezing. Menopause occurred at age 52. She has a history of chlamydial infection in her 20's and has had 3 urinary tract infections over the past year. The patient has not been sexually active with her husband due to pain with intercourse. She has no other significant medical history and does not take any medications. Her temperature is 98.6\u00b0F (37.0\u00b0C), blood pressure is 115/70 mmHg, pulse is 70/min, and respirations are 12/min. On physical examination, the vulvar skin is pale and atrophic with reduced elasticity and multiple areas of petechiae. The vaginal mucosa also has a loss of rugae and several areas of friable irritation. There is minimal clear vaginal discharge. Urinalysis is normal and fecal occult blood test is negative. Pelvic ultrasound reveals a small, retroverted uterus. Which of the following is the most appropriate next step in management? Options: (E) Vaginal moisturizers (A) Metronidazole (B) Nitrofurantoin (C) Topical clobetasol (D) Topical estrogen",
@@ -691,6 +775,27 @@
             "completion_tokens": 4329
         },
         "time_elapsed": 93.75145602226257
+    },
+    {
+        "idx": 126,
+        "realidx": 126,
+        "question": "A 65-year-old man presents to the emergency department with anxiety and intermittent palpitations. He began feeling the palpitations 3 days ago while eating dinner. He denies chest pain, shortness of breath, or loss of consciousness. He has a history of hypertension, major depressive disorder, Raynaud disease, and chronic obstructive pulmonary disease (COPD) on 2 liters of oxygen at home. Current medications include lisinopril, inhaled umeclidinium-vilanterol, and as-needed albuterol. He drinks 4 beers a day and has smoked 1 pack of cigarettes a day for 40 years. His temperature is 98.9\u00b0 F (37.2\u00b0 C), blood pressure is 130/85 mmHg, pulse is 125/min, and respirations are 16/min. Physical exam is notable for an irregular pulse and scattered end-expiratory wheezes. An echocardiogram performed 1 month ago showed a left ventricular ejection fraction of 60-65%. The patient requires 3 liters of oxygen today. An ECG is performed as seen in Figure A. Which of the following is the most appropriate treatment for the patient\u2019s tachycardia? Options: (A) Amiodarone (C) Digoxin (E) Verapamil (B) Clopidogrel (D) Metoprolol",
+        "answer_idx": "E",
+        "answer": "Verapamil",
+        "options": {
+            "A": "Amiodarone",
+            "B": "Clopidogrel",
+            "C": "Digoxin",
+            "D": "Metoprolol",
+            "E": "Verapamil"
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 8509,
+            "completion_tokens": 3559
+        },
+        "time_elapsed": 37.4755961894989
     },
     {
         "idx": 127,
@@ -1300,6 +1405,27 @@
             "completion_tokens": 4261
         },
         "time_elapsed": 57.82072448730469
+    },
+    {
+        "idx": 241,
+        "realidx": 241,
+        "question": "A 24-year-old man with epilepsy refractory to valproic acid, phenytoin, and levetiracetam undergoes magnetic resonance imaging of his brain while monitored by anesthetic care. He wakes up screaming in pain due to an electrocardiogram lead having caused a significant thermal burn circumferentially around his left leg. He is admitted to the medical intensive care unit for continuous electroencephalogram monitoring while on a midazolam infusion for seizure suppression and supportive care for his burn. Overnight, the nurse continued to increase the patient's midazolam infusion rate, but she also noticed that his left toes were cold to the touch with significant edema. His temperature is now 100\u00b0F (37.8\u00b0C), blood pressure is 110/75 mmHg, pulse is 80/min, respirations are 10/min and oxygen saturation is 95% on 2 liters nasal cannula. No dorsalis pedis or posterior tibial pulses are detected on the left lower extremity. A delta pressure of 25 mmHg is obtained in the left leg. What is the most appropriate next step in management? Options: (C) Fasciotomy (A) Amputation (B) Escharotomy (D) Intravenous fluid infusion based on Parkland formula (E) Transfer to burn center",
+        "answer_idx": "B",
+        "answer": "Escharotomy",
+        "options": {
+            "A": "Amputation",
+            "B": "Escharotomy",
+            "C": "Fasciotomy",
+            "D": "Intravenous fluid infusion based on Parkland formula",
+            "E": "Transfer to burn center"
+        },
+        "predicted_answer": "B",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 7686,
+            "completion_tokens": 3567
+        },
+        "time_elapsed": 39.32141351699829
     },
     {
         "idx": 244,

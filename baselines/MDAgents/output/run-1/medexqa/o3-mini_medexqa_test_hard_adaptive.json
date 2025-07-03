@@ -180,6 +180,26 @@
         "time_elapsed": 34.31599020957947
     },
     {
+        "idx": "130_biomedical_engineer",
+        "realidx": "130_biomedical_engineer",
+        "question": "What are the conditions that must be met for biomaterials to satisfy biocompatibility? Options: (B) The biomaterial should not exhibit toxicity within the body (A) The biomaterial should not cause inflammation or allergies in the surrounding tissues (C) The biomaterial should have sufficient mechanical strength to perform its function (D) The biomaterial should not inhibit biological functions",
+        "answer_idx": "C",
+        "answer": "The biomaterial should have sufficient mechanical strength to perform its function",
+        "options": {
+            "A": "The biomaterial should not cause inflammation or allergies in the surrounding tissues",
+            "B": "The biomaterial should not exhibit toxicity within the body",
+            "C": "The biomaterial should have sufficient mechanical strength to perform its function",
+            "D": "The biomaterial should not inhibit biological functions"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 3950,
+            "completion_tokens": 2717
+        },
+        "time_elapsed": 30.403509616851807
+    },
+    {
         "idx": "131_clinical_laboratory_scientist",
         "realidx": "131_clinical_laboratory_scientist",
         "question": "Which of the following statements about IRMA is correct? Options: (A) It is a non-competitive method. (C) Uses 99mTc. (B) The radioactive isotope is labeled on the antigen. (D) There is no need to separate the bound and free forms.",

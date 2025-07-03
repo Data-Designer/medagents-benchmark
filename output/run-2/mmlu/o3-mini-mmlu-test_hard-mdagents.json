@@ -300,6 +300,26 @@
         "time_elapsed": 37.2083477973938
     },
     {
+        "idx": 229,
+        "realidx": 229,
+        "question": "During swallowing the Options: (D) gag reflex is suspended. (A) auditory tube opens. (B) cricopharyngeus muscle contracts. (C) rima glottis opens.",
+        "answer_idx": "A",
+        "answer": "auditory tube opens.",
+        "options": {
+            "A": "auditory tube opens.",
+            "B": "cricopharyngeus muscle contracts.",
+            "C": "rima glottis opens.",
+            "D": "gag reflex is suspended."
+        },
+        "predicted_answer": "D",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5300,
+            "completion_tokens": 3458
+        },
+        "time_elapsed": 40.31643795967102
+    },
+    {
         "idx": 491,
         "realidx": 491,
         "question": "In what situation are closed pouches applied? Options: (D) The patient has a urostomy. (A) The patient has a semi-formed or liquid output. (B) The patient has a colostomy. (C) In the immediate post-operative period.",
@@ -1298,6 +1318,26 @@
             "completion_tokens": 3684
         },
         "time_elapsed": 36.08263659477234
+    },
+    {
+        "idx": 12247,
+        "realidx": 12247,
+        "question": "A 30-year-old nulliparous female presents to the office with the complaint of mood changes. She says that for the past several months she has been anxious, hyperactive, and unable to sleep 3 to 4\u00a0days prior to the onset of menses. She further reports that on the day her menses begins she becomes acutely depressed, anorectic, irritable, and lethargic. She has no psychiatric history. Physical examination findings are normal. She and her husband have been trying to conceive for over 2\u00a0years. History reveals a tuboplasty approximately 1\u00a0year ago to correct a closed fallopian tube. The most likely diagnosis is Options: (A) adjustment disorder with depressed mood (C) cyclothymic personality (B) bipolar I disorder, mixed (D) generalized anxiety disorder",
+        "answer_idx": "A",
+        "answer": "adjustment disorder with depressed mood",
+        "options": {
+            "A": "adjustment disorder with depressed mood",
+            "B": "bipolar I disorder, mixed",
+            "C": "cyclothymic personality",
+            "D": "generalized anxiety disorder"
+        },
+        "predicted_answer": "A",
+        "difficulty": "basic",
+        "token_usage": {
+            "prompt_tokens": 5555,
+            "completion_tokens": 4993
+        },
+        "time_elapsed": 43.50557208061218
     },
     {
         "idx": 12260,
