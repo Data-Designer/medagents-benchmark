@@ -5,7 +5,7 @@
 
 <p align="center">
    📑&nbsp; <a href="https://arxiv.org/abs/2503.07459" target="_blank">Paper</a>
-   | 📊&nbsp; <a href="https://huggingface.co/datasets/super-dainiu/medagents-benchmark" target="_blank">HuggingFace</a>
+   | 📊&nbsp; <a href="https://huggingface.co/datasets/super-dainiu/medagents-benchmark" target="_blank">Dataset on HuggingFace</a>
 </p>
 
 
